@@ -1,0 +1,195 @@
+--- PAGE 1 ---
+ 1 
+ 
+ 
+ 
+ 
+ 
+Evaluation des infrastructures / projet de déconstruction  
+ 
+Objectif s pédagogique s généraux  du cours  
+ 
+A l’issue de ce cours, l’étudiant doit être capable  : 
+ 
+− de connaître les différents types d’infrastructures et les éléments constitutifs  
+− de différenci er les types d’évaluation à réaliser selon que l’intervention porte sur une 
+infrastructure existante ou sur une infrastructure à concevoir, à exécuter et à exploiter  ; 
+− Comprendre les concepts clés.  
+− de conduire l’évaluation d’une infrastructure  
+Déclin aison  des objectifs pédagogiques généraux du cours, en objectifs de type   « savoir  », 
+« savoir -faire  » et / ou  «  savoir être  » 
+Savoir définir une infrastructure  
+Savoir mener  une évaluation  
+Savoir le cycle de vie d’ une infrastructure  
+ 
+Pré requis  : 
+− Connaissance  des infrastructures , des ouvrages d u génie civil  ;  
+− Connaissance de leur mode de fonctionnement,  des outils et méthodes nécessaires à 
+leur conception  et réalisation  ; 
+− Connaissance des sollicitations auxquelles sont soumis les différents types 
+d’infrastruc tures  ; 
+− Connaissance des différents types de dégradations  ; 
+− connaissance du vieillissement et de la fatigue des matériaux (matériaux traités ou 
+non, béton (armé ou précontraint), etc.) . 
+ 
+ 
+Auteur        Date de création  
+Dr KOUASSI Paulin                                                Novembre 2013  
+Docteur et Ingénieur en génie civil                           Révision 0 1 / janvier  2014 Consigne  :  
+Chaque apprenant  devra bien observer les infrastructures  dans son environnement immédiat  
+
+--- PAGE 2 ---
+ 2  
+Table des matières  
+ 
+Chapitre 1  : Définition des principaux termes du module  ................................ ...................  4 
+Introduction  ................................ ................................ ................................ ............................  4 
+1.1 Infrastruc ture ................................ ................................ ................................ ...............  4 
+1.2 Evaluation  ................................ ................................ ................................ ..................  10 
+1.3 Concepts voisins mais différents de l’évaluation  ................................ ......................  15 
+Chapitre 2  : L’évaluation dans la gestion des infrastructures  ................................ ............  18 
+1.1 Exigence de l’entretien des infrastructures pour le maître d’ouvrage  .......................  18 
+1.2 Cycle de vie d'une infrastructure  ................................ ................................ ...............  18 
+1.3 Durée de vie ou durée de référence d’une infrastructure  ................................ ...........  19 
+1.4 Fin de vie des infrastructures (démolition, déconstruction, réhabilitation)  : cas des 
+infrastructures de transport  ................................ ................................ ................................ ... 22 
+1.5 Intérêt des archives dans l’évaluation d’une infrastructure  ................................ ....... 22 
+Chapitre 3  : Conduire une évaluation  ................................ ................................ ...............  23 
+1.1 Pour le commanditaire ou maître d’ouvrage  ................................ .............................  23 
+1.2 Pour le consultant dans le cadre de son évaluation  ................................ ...................  26 
+1.3 Connaissance des procédures techniques  et des étapes d’un projet  .........................  29 
+1.4 Evaluation d’une inf rastructure existante  ................................ ................................ .. 30 
+1.5 Etude de cas  : évaluation des infrastructures routières  ................................ ..............  32 
+1.6 Projet de construction d’une infrastructure  : aspect spécifique de l’évaluation  ........  38 
+Chapitre 4  : Autres méthodes d’évaluation des infrastructures  ................................ ........  42 
+1.1 Méthodes d'évaluation des ouvrages de génie civil  ................................ ...................  42 
+1.2 Tendance dans l’évaluation des Infrastructures  ................................ .........................  42 
+1.3 Contraintes associées à l’évaluation  ................................ ................................ ..........  43 
+1.4 Quelques orientations en matière d’évaluation  ................................ .........................  43 
+1.5 Evaluation basée sur l’amortissement économique  ................................ ...................  43 
+Conclusion  ................................ ................................ ................................ ......................  45 
+ 
+ 
+ 
+ 
+ 
+Mots clés  
+ 
+Infrastructure , évaluation , dégradation, durée de vie, fin de vie, maître d’ouvrage, Expert , Consultant.  
+
+--- PAGE 3 ---
+ 3  
+Introduction  générale du cours/module  
+ 
+L'ingénierie des infrastructure s existant es est aujourd’hui un enjeu majeur  et le sera davantage 
+pour les années à venir du fait d’une forte atte nte des maîtres d'ouvrage confront és à un 
+patrimoine vieillissant (bâtiments, routes, ponts, etc.). Ce thème qui s’inscrit dans le module 
+« méthode de déconstruction  » concerne l 'évaluation des infrastructures.  
+Dans ce contexte, nous mettrons un accent particulier sur l’évaluation des infr astructures 
+existant es.  
+La finalité de l’évaluation  d’une infrastructure sera orientée vers l e renforcement, la 
+réparation,  le remplacement,  l’adaptation, l a réhabilitation ou l a démolition  de chacun des  
+éléments nécessaires à son l'exploitation . 
+Les méth odes comptables d’évaluation qui permettent de déterminer la valeur résiduelle d’une 
+infrastructure  seront présentées compte tenu de leur intérêt dans l’appréciation de la valeur du 
+patrimoine d’une entité publique ou privée.  
+ 
+Ce thème couvre le champ de p lusieurs types d’infrastructures (route, bâtiment, pont, 
+ouvrages en maçonnerie , etc.).  
+
+--- PAGE 4 ---
+ 4  
+Chapitre 1  : Définition  des principaux termes du module  
+ 
+Ce chapitre a pour objet de définir les principaux termes du module. Leur connaissance est 
+essentielle pour l e gestionnaire des infrastructures  et même pour l’atteinte des objectifs de 
+l’évaluation.  
+ 
+Introduction  
+L’évaluation des infrastructures intervient pendant la  phase de son exploitation lors que celle -
+ci a déjà été construite. C’est dire qu’elle intervient a u cours du cycle de vie de 
+l’infrastructure. Pour mener toute action sur un objet , un ouvrage ou une infrastructure, il est 
+essentiel de connaître ce sur quoi porte l’action.  
+Dans ce chapitre, après avoir défini ce qu’est une infrastructure et identifié le s différents types 
+d’infrastructures, nous nous intéresserons à la notion «  d’évaluation  ». Cette dernière étant 
+liée à une ou plusieurs finalités, les différents objectifs d’une évaluation seront mis en 
+exergue.  
+ 
+1.1 Infrastructure  
+1.1.1 Définition  
+Le Dictionnaire  Larousse définit l’infrastructure comme étant l’e nsemble des ouvrages 
+constituant la fondation et l'implantation sur le sol d'une construction ou d'un ensemble  
+d'installations (par exemple routes, voies ferrées, aéroports).   
+Pour certains auteurs, au sens strict , l'infrastructure désigne la partie inférieure, le 
+soubassement d'une voie. Le  terme s'oppose à superstructure. On peut, dans certains cas, 
+distinguer les deux : ainsi  dans une ligne de chemin de fer, l'infrastructure, stricto sensu, est la 
+platefo rme de la voie,  sur laquelle on pourrait aussi bien implanter une voie routière, tandis 
+que la superstructure  est constituée par la voie ferrée proprement dite (rails et traverses).  
+ 
+Une autre définition donnée par le Larousse considère l’infrastructure c omme étant 
+« l’ensemble d'installations, d'équipements nécessaires à une collectivité : L'infrastructure 
+commerciale d'une ville  nouvelle  ». 
+ 
+C’est cette dernière définition que nous retiendrons dans le cadre du présent module.  
+Ainsi, a u sens large,  l'infrastructure de transport , par exemple,  désigne l'ensemble et englobe 
+tous les éléments nécessaires à  l'exploitation normale : caténaires  (câbles électriques) , 
+signalisation, postes d'aiguillage, tour de contrôle dans  les aéroports, etc., ainsi que tous les  
+bâtiments liés à l'usage de ladite infrastructure.  
+ 
+L'infrastructure  peut constitue r la totalité du système de transport ; c'est le cas par exemple 
+des canalisations destinées au transport de liquides de gaz ou de produits pulvérulents, telles  
+que les aqu educs (ponts sur lesquels passe une conduite d’adduction d’eau) et oléoducs  
+(pipeline s). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+--- PAGE 5 ---
+ 5 1.1.2 Identification des infrastructures  
+Pour Belaïd Oustani et al [2009], i l peut paraît difficile de fournir une liste exhaustive des 
+différents types d’infrastruct ures. Leur définition dépend, en partie, des services attendus de la 
+réalisation des infrastructures.  
+Le tableau ci -après présente les principaux biens et services publics ainsi que les 
+infrastructures associées.  
+ 
+Tableau 1: les biens et services publics et les infrastructures associées1 
+BIENS ET SERVICES PUBLICS  INFRASTRUCTURES ASSOCIEES  
+Enseignement  Ecoles, collèges, universités  
+Santé  Hôpitaux, maisons de soins et de retrait  
+Défense  Casernes, entrepôts, ateliers  
+Sécurité  Casernes (policiers, pompiers), matérie l 
+Justice  Tribunaux, prisons  
+Culture  Musés, théâtre  
+Transport   
+Aérien  Aéroports, radars, tours de contrôle  
+Routier  Routes, autoroutes, ponts, tunnels  
+Ferroviaire  Rails, gares  
+Fluviaux  Canaux, écluses  
+Maritimes  ports, phares  
+Urbains  Métros, rues, système d’information, feux  
+Télécommunications  Lignes, satellites, câbles  
+Électricité  Centrales, transformateurs, lignes  
+Eau Barrages, stations de pompage, canalisations, 
+usines de traitement  
+Assainissement  Égouts, ce ntres de traitement  
+Éclairage  Lampadaires  
+Récréation  Parcs, jardins, stades, gymnases, piscines  
+Courrier  Postes, centres de tri  
+Religion  Lieux de culte, cimetière  
+Recherche  Laboratoires, bureaux  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                 
+1 Source  : Perrot et Chatel us (2000,330) cité par Belaïd Oustani et al (2009)  
+

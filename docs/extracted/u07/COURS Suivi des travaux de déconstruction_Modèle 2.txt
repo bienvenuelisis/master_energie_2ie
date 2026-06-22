@@ -1,0 +1,225 @@
+--- PAGE 1 ---
+                                                                                                                                1 
+  
+ 
+M1 – GIS 
+ 
+UE : Projet de Déconstruction  
+ 
+Module : SUIVRE  LES  TRAVAUX   
+                DE  DECONSTRUCTION 
+ 
+ 
+Objectifs pédagogiques généraux du module  
+ 
+Acquérir une approche méthodique dans le  suivi des travaux de déconstruction 
+et plus spécifiquement sur les tâches de  gestion du process de déconstruction, 
+           de gestion des déchets et gestion des nuisances induites. 
+ 
+Pré requis :  
+Etudes des structures 
+Technologie du bâtiment Module 1 et Module 2 de L’UE Projet de Déconstruction 
+ 
+ 
+    
+Auteur :  
+ 
+AMARI   Adangba   Félix Enseignant de Génie civil  
+ 
+18 Novembre 2013 
+ 
+ Consignes :  
+Lecture du cours 
+Partages d’expériences Enquêtes auprès des chantiers Enquêtes auprès d’entreprises ou bureaux d’études spécialisés 
+Recherches documentaires sur le net.  
+
+--- PAGE 2 ---
+                                                                                                                                2 
+  
+Table des matières 
+ 
+ 
+Chapitre 1 :     GENERALITES 
+  
+I.  
+DEFINITIONS  
+4 
+ II. CONTEXTE 6 
+    
+ III. METHODES DE DEMOLITION 7 
+    
+ IV. OBJECTIF  DU  SUIVI  DE  CHANTIER   8 
+  
+   
+Chapitre  2 :    GESTION  DU  PROCESS  DE  DECONSTRUCTION 
+  
+I.  
+PLAN D’INSTALLATION DE CHANTIER  
+9 
+    
+ II. GESTION DES DELAIS 10 
+    
+ III. CONTROLE DE LA  QUALITE DES TRAVAUX 10 
+    
+ IV. DEMARCHE DE PREVENTION 13 
+    
+ V. SUIVI  DES COUTS 18 
+    
+ VI. REUNION DE CHANTIER 18 
+  
+   
+Chapitre  3 :      GESTION   DES   DECHETS 
+  
+I.  
+PREALABLES  
+21 
+    
+ II. COLLECTE A PIED D’ŒUVRE  21 
+    
+ III. TRI ET STOCKAGE 22 
+    
+ IV. ENLEVEMENT ET VALORISATION 23 
+  
+   
+Chapitre  4 :      GESTION   DES   NUISANCES 
+  
+I.  
+PLANNING  DES  NUISANCES  
+27 
+    
+ II. NUISANCES SONORES 27 
+    
+ III. REJETS DE POUSSIERE 28 
+    
+ IV. TRAFIC 28 
+ 
+   
+Mots clés 
+Déconstruction, démolition, déchets, nuisances , valorisation, méthodes, sécurité, révention, 
+pollutions 
+ 
+   
+
+--- PAGE 3 ---
+                                                                                                                                3 
+  
+Introduction générale 
+ 
+  Le présent module « suivre un chantier de travaux de déconstruction  » se situe en troisième étape 
+dans l’unité d’enseignement « Projet de déconstruction ».  
+ Il se propose de continuer l’approfondissement de s acquisitions de compét ences nécessaires à la 
+conduite d’une opération de déconstr uction dans sa phase chantier. 
+ Au-delà des objectifs ordinaires de suivi de chantier poursuiv is pour tout ch antier de géni e civil, la 
+situation de déconstruction place le chantier dans une préoccupation sécuritaire importante. En effet, 
+chaque tâche effectuée doit être adossée à de rigoureuses mesures de  sécurité quand bien même le 
+procédé technique est maîtrisé.  Ce faisant, le chantier de déconstruction va privilégier la prévention à toutes les phases de sa mise en œuvre ainsi que dans la gestion de s déchets et nuisances engendrés. 
+ Le présent module « suivre un chantier de travaux de déconstruction » s’articule  en quatre chapitres :  
+ 
+1. les notions générales 
+ 
+2. la gestion du process de déconstruction 
+ 
+3. la gestion des déchets 
+ 
+4. la gestion des nuisances. 
+  D’abord, le premier chapitre permet de se familiariser avec les termes usuels liés à la déconstruction ainsi que le contexte de travail, les méthodes de démolition et les objectif s du suivi des travaux. 
+ Ensuite, le deuxième chapitre constitue une orient ation sur le mode d’organisation du travail de 
+déconstruction proprement dit.   Enfin, le troisième et le quatrième chapitre trai tent respectivement des bonnes pratiques de prise en 
+compte  des déchets produits et des nuisances  générées par le chan tier de déconstruction. 
+              
+ 
+
+--- PAGE 4 ---
+                                                                                                                                4 
+  
+ 
+Chapitre 1 :                                NOTION S  GENERALES 
+ 
+ 
+ 
+Objectif spécifique :  
+ 
+S’approprier les termes usuels liés à la déconstruc tion, ainsi que le contexte de travail, les méthodes 
+de démolition et les objectifs du suivi des travaux. 
+ 
+Introduction 
+ 
+Les notions générales porten t sur les points suivants : 
+ 
+• définitions ; 
+ 
+• contexte ; 
+ 
+• méthodes de démolition ; 
+ 
+• objectifs du suivi. 
+ 
+  
+I.   DEFINITIONS 
+  1.1.   Déconstruction  
+ 
+En littérature (ou en philosophie), la déconstruction  est une méthode, une analyse par 
+laquelle on décompose un ensemble afin de l'ét udier. On parle alors de déconstruction d'un 
+concept, d'un système social, d'une notion, etc. 
+ 
+Appliqué aux ouvrages du domaine  du génie civil (bâtiments, infrastructures de transport, 
+etc.), le terme « déconstruction  » signifiera donc une démoliti on « intelligente » de ceux-ci, 
+qu’il s’agisse d’une  démolition partielle ou totale.   Le principe consiste à démonter un bâtiment pa r éléments ou par type de matériaux afin de 
+faciliter la valorisation ou l’élimination des déchets produits.  Désormais, on parlera davantage de déco nstruction plutôt qu e de démolition, la 
+déconstruction comprenant essentiellement :   
+• le curage ou dépose des éléments du second-œuvre : 
+ 
+• la démolition proprement dite ; 
+ 
+• le tri sélectif des déchets ; 
+ 
+• l'enlèvement des déchets et leur valorisation.  
+  
+
+--- PAGE 5 ---
+                                                                                                                                5 
+  
+1.2.   Déchets 
+ 
+De façon ordinaire, un déchet  (détritus, ordure, résidu, débr is, épave, épluchure, ordure, 
+raclure, rebut, reliquat, résidu, rognure, scorie, etc.) désigne  la quantité perdue dans l'usage 
+d'un produit , ce qui reste après l'utilisation (restes d'aliments, matériaux rejetés, etc.). 
+Actuellement, ce terme tend à désigner n'impo rte quel objet ou substance ayant subi une 
+altération d'ordre physique, chimique, le destin ant ainsi à l'élimination ou au recyclage. 
+ Un chantier de démolition d’ouvrages du génie civil produit un volume de déchets plus ou 
+moins important selon la taille des ouvrages  et la nature des matériaux constitutifs.  
+ Il existe deux grandes catégories de déchets : 
+ 
+• les déchets dangereux  présentant un risque pour l’ environnement et/ou la santé de 
+l’homme : peintures, vernis, colles, solvants, bois traités au créosote, amiante friable, 
+piles et accumulateurs, ampoules, chiffons , équipements de protection individuelle 
+usagés ; les déchets dangereux (ou toxiques)  sont à éliminer avec précaution et selon 
+la réglementation spécifique à leur nature.  
+• les déchets non dangereux repartis en deux familles :  
+ 
+o les déchets inertes  qui ne se décomposent pas, ne  brûlent pas et ne subissent 
+aucune transformation chimique, physique  ou biologique : sables, gravats, 
+ciment et béton, terre cuite, pierre…  
+o les déchets non inertes  qui ne sont pas toxiques mais qui peuvent subir des 
+transformations, brûler, dégager des gaz… : plâtre, matières plastiques, fils et 
+câbles électriques, sciure  et copeaux de bois, emballages propres, métaux … 
+ 
+1.3.   Nuisances 
+ 
+Est nuisance, tout facteur qui constitue un préj udice, une gêne pour la santé, le bien-être, 
+l'environnement. Un chantier de démolition est source de nuisances diverses, à savoir, le bruit 
+et les ondes de vibration, la poussière, la gêne vi suelle et du cadre de vie, la perturbation du 
+trafic routier et piéton, les projections de matériaux, la dé gradation des infrastructures 
+environnantes. 
+ 
+1.4.   Valorisation des déchets 
+ La valorisation est un terme générique qui recouv re, la valorisation biologique, la valorisation 
+énergétique et la valorisa tion matière des déchets.  
+ La valorisation biologique, appelée aussi valori sation organique, est un mode de traitement  
+des déchets organiques par compostage  ou méthanisation . 
+ La valorisation énergétique consiste à récupé rer le pouvoir calorifique des déchets et à le 
+transformer en électricité et/ou en chaleur. Cette valorisation se fait principalement par 
+l'incinération de déchets ménagers.  La valorisation matière recouvre le réemploi , la réutilisation  et le recyclage  des matériaux 
+extraits des déchets. Les déchets du BTP sont  concernés principalement par ce type de 
+valorisation :  
+
