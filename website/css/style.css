@@ -940,3 +940,132 @@ button:disabled {
     padding: 0.5rem 1rem !important;
   }
 }
+
+/* ============================================
+   v3.0 — UE Cards Grid, QCM Setup
+   ============================================ */
+
+/* UE Cards (All UEs page) */
+.ue-cards-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 1.2rem;
+}
+
+.ue-card {
+  background: var(--bg-card);
+  border-radius: var(--radius-lg);
+  padding: 1.8rem;
+  text-align: center;
+  box-shadow: var(--shadow-sm);
+  border: 2px solid var(--border);
+  cursor: pointer;
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+  position: relative;
+  overflow: hidden;
+}
+
+.ue-card::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 4px;
+  background: var(--ue-color, var(--primary));
+}
+
+.ue-card:hover {
+  transform: translateY(-4px);
+  box-shadow: var(--shadow-lg);
+  border-color: var(--ue-color, var(--primary));
+}
+
+.ue-card-badge {
+  position: absolute;
+  top: 0.8rem;
+  right: 0.8rem;
+  background: var(--ue-color, var(--primary));
+  color: #fff;
+  font-size: 0.7rem;
+  font-weight: 700;
+  padding: 0.2rem 0.6rem;
+  border-radius: 12px;
+}
+
+.ue-card-icon {
+  font-size: 3rem;
+  margin-bottom: 0.6rem;
+}
+
+.ue-card h3 {
+  font-size: 1.3rem;
+  font-weight: 800;
+  margin: 0 0 0.3rem;
+  color: var(--text);
+}
+
+.ue-card-title {
+  font-size: 0.9rem;
+  color: var(--text-secondary);
+  margin-bottom: 0.4rem;
+  line-height: 1.4;
+}
+
+.ue-card-modules {
+  font-size: 0.78rem;
+  color: var(--text-secondary);
+  opacity: 0.7;
+  margin-bottom: 0.8rem;
+}
+
+.ue-card-stats {
+  display: flex;
+  gap: 1rem;
+  justify-content: center;
+  font-size: 0.82rem;
+  font-weight: 600;
+  color: var(--text-secondary);
+}
+
+/* QCM Setup */
+.qcm-setup h4 {
+  margin-bottom: 0;
+}
+
+.size-btn,
+.diff-setup-btn {
+  padding: 0.45rem 0.9rem;
+  border: 2px solid var(--border);
+  border-radius: 20px;
+  background: transparent;
+  cursor: pointer;
+  font-size: 0.82rem;
+  font-weight: 600;
+  transition: all var(--transition);
+  font-family: inherit;
+}
+
+.size-btn:hover,
+.diff-setup-btn:hover {
+  border-color: var(--primary);
+  color: var(--primary);
+}
+
+.size-btn.active,
+.diff-setup-btn.active {
+  background: var(--primary);
+  color: #fff;
+  border-color: var(--primary);
+}
+
+/* UE-only visibility */
+.ue-only {
+  display: block;
+}
+.ue06-only {
+  display: none;
+}
+.ue07-only {
+  display: none;
+}
