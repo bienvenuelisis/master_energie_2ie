@@ -17,7 +17,7 @@ const UES = {
     pages: ['resume','flashcards','qcm','technos','exercices']
   }
 };
-let currentUE = 'ue06';
+let currentUE = 'ue07';
 
 // --- Difficulty ---
 const DIFFICULTIES = [
