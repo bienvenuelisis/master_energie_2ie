@@ -223,3 +223,770 @@ l'incinération de déchets ménagers.  La valorisation matière recouvre le ré
 extraits des déchets. Les déchets du BTP sont  concernés principalement par ce type de 
 valorisation :  
 
+--- PAGE 6 ---
+                                                                                                                                6 
+  
+ 
+ Réemploi  
+le réemploi désigne le nouvel emploi en l’état d’un déchet pour un usage analogue à celui de la première utilisation.   
+• terre végétale, 
+• déblais – Remblais, 
+• éléments de bâti issus de la démolition, 
+• etc.  
+ 
+  Réutilisation  
+la réutilisation désigne l'utilisation d’un déchet à un usage différent de son premier emploi   
+• réutilisation en travaux du BTP : blocs, 
+remblais, déchets de démolition, etc. 
+  
+Recyclage  
+le recyclage est la réintroduction directe 
+du déchet dans le cycle de production 
+dont il est issu en remplacement total ou partiel d'une matière  première neuve.  
+  
+• filières existantes pour de nombreux 
+DIB : métaux, bois, plastiques, verre, 
+papiers-cartons, etc. 
+• recyclage de déchets inertes : 
+prétraitement en concassage-criblage 
+ 
+ 
+Tableau 1  : termes de valorisation matière 
+(extrait des notices techniques du plan départemental des déchets du BTP, 
+Bouche-du-Rhone, France, 2002 ) 
+   
+II.   CONTEXTE 
+ 
+De plus en plus, le secteur du bâ timent, à l’instar des autres secteurs industriels, s’inscrit dans 
+une logique de développement durable dans la conduite des chantiers en général, et plus 
+particulièrement, dans la réalisation de chan tiers de démolition. Or le contenu opératoire du 
+développement durable c’est la  combin aison de trois catégories de normes : 
+ 
+• normes scientifiques ; 
+ 
+• normes économiques ; 
+ 
+• normes socio-éthiques. 
+ 
+ 
+  
+ 
+ 
+ 
+  Schéma 1  : contenu du développement durable 
+ 
+
+--- PAGE 7 ---
+                                                                                                                                7 
+  
+ Ainsi, le chantier de démolition s’organise et se déroule dans le but de satisfaire les enjeux de 
+cette nouvelle approche. Pour ce faire, certains pays ont élaboré un ensemble de dispositions règlementaires très strictes, destiné à réduire les risques et les nuisan ces liés à un chantier de 
+démolition.   Le cahier des clauses techniques particulières ( CCTP ), rédigé pour la démolition, précisera le 
+contexte réglementaire de référence ou les me sures appropriées à mettre en œuvre pour les 
+pays où le cadre réglementaire est inexistant ou insuffisant.   
+ 
+ 
+ 
+ 
+ 
+Schéma 2  : facteurs d’influence 
+(extrait de Démolition des bâtiments, EPFL, 2010 ) 
+    
+III.   METHODES DE DEMOLITION 
+ 
+Un projet de déconstruction ou de démolition peut être suscité par l’une ou l’autre des raisons 
+suivantes :   
+• constructions inadaptées aux exigences ac tuelles de fonctionnali té, de qualité ou 
+d’esthétique et qu’il faut démolir ;  
+ 
+• bâtiments démolis pour la mise en place de nouveaux projets dans des zones où la 
+pression foncière est forte en milieu urbain (exemple des quartiers du Plateau et de Treichville à Abidjan, Côte d’Ivoire) ;  
+ 
+• bâtis endommagés par un cas de sinistre (séisme, incendies, inondations, tsunamis, 
+guerre, etc.) qui doivent êt re déblayé ou démantelés. 
+   
+
+--- PAGE 8 ---
+                                                                                                                                8 
+  
+  
+Chaque chantier de démolition  est ainsi singulier et présente , dans des proportions plus ou 
+moins importantes, des difficultés propres  due s  à sa nature, son emplacement, son accès, 
+etc..., La méthode de démolition retenue tiendr a compte de toutes ces considération. 
+   
+ 
+ 
+Schéma 3  : techniques de démolition 
+(extrait de Démolition des bâtiments, EPFL, Suisse, 2010 ) 
+ 
+ 
+IV.   OBJECTIF  DU  SUIVI  DE  CHANTIER  DE  DECONSTRUCTION 
+ 
+Le suivi de chantier correspond à l’ activité de la gestion du chantier qui consiste à décrire la réalité 
+des circonstances de la production afin de la compar er avec les prévisions et  d’en tirer toutes les 
+conséquences en régulation et en  capitalisation d’expériences.  
+ Et comme on contrôle toujours par rapport à une réfé rence, le suivi ne sera efficace que si l’on 
+dispose de prévisions rigoureusement ét ablies en fonction du type de travaux. 
+ Pour la déconstruction, le facteur risque impose d’ét ablir une prévision très pe rtinente avant la phase 
+chantier axée sur une stratégie de communication enve rs les acteurs du chantier et les riverains et la 
+production de documents utiles au chantier ().  
+ 
+Conclusion   
+ 
+La définition de quelques termes usuels, la présentation sommaire du contexte et de l’objectif du suivi du chantier de déconstruction situent le cadre dans lequel la déconstruction peut se comprendre 
+et s’entreprendre. 
+
+--- PAGE 9 ---
+                                                                                                                                9 
+  
+Chapitre 2 : GESTION  DU  PR OCESS  DE  DECONSTRUCTION 
+ 
+ 
+Objectifs spécifique 
+ 
+Acquérir une méthodologie de suivi du travail de déconstruction.  
+ 
+ 
+Introduction 
+ 
+Le suivi du process de déconstruction comprend: 
+ 
+• l’installation de chantier 
+ 
+• la gestion des délais ; 
+ 
+• le contrôle de la qualité des travaux ; 
+ 
+• la gestion de la prévention ; 
+ 
+• le suivi des coûts ; 
+ 
+• la réunion de chantier. 
+  
+  
+I.    INSTALLATION  DE  CHANTIER 
+ L’organisation de chantier consis te à déterminer et à coordonner la mise en œuvre des moyens 
+nécessaires pour accomplir dans les meilleures c onditions possibles les travaux à exécuter sur 
+un chantier donné.  Cette organisation est rendue concrète par la production d’un document graphique et 
+synthétique, le Plan d’Installation de chantier  (en abrégé, P.I.C .), qui explicite l’occupation 
+dans l’espace et aussi dans le temps de l’in térieur du chantier ainsi que de l’environnement 
+extérieur proche du chantier.  Essentiellement, pour un chantier de démoliti on, il s’agira de la définition et de la 
+matérialisation des zones de sécu rité, de travail, de stockage  des déchets, de circulation 
+intérieure, des accès au chantier, des sorties, du balisage des alentours. 
+ Le PIC établi reste, après installation effec tive du chantier, un moyen de communication et de 
+contrôle des consignes auquel on aura recours à tout moment.        
+
+--- PAGE 10 ---
+                                                                                                                                10 
+  
+II.   GESTION DES DELAIS 
+ 
+Tout comme en construction neuve, le délai cons titue une des clauses essentielles du marché 
+passé entre le maître d’ouvrag e et l’entrepreneur. Le non -respect du délai entraîne 
+l’application des pénalités pr évues contractuellement.  
+ Pour les travaux de démolition, il est souhaitable que la planification  tienne compte des 
+séquences ou phases d’intervention afin de f aciliter le suivi des délais. On pourrait avoir 
+comme phases d’intervention :  
+ 
+Phases Description 
+ 
+Phase 1  
+résiliation et condamnation des différents ré seaux (eau, électricité, gaz, téléphone, ...), 
+ 
+ 
+Phase 2  
+pose de clôture de sécurité autour des bâtim ents afin d'en interdire l'accès au public.   
+ 
+Phase 3  
+curage du bâtiment qui consiste à vider le  bâtiment de tout élément non constructif 
+(pour qu’il ne  reste que les planchers et les murs) et à trier les déchets collectés 
+(cloisons, moquettes, menuiseries, fenêtres, portes, équipements ménagers, etc. ...).  
+ 
+ 
+Phase 4  
+travaux de désinfection ou décontamination  
+ 
+ 
+Phase 5  
+démolition du bâtiment  
+ 
+ 
+Phase 6  
+évacuation des déchets  
+ 
+ 
+Phase 7  
+travaux en infrastructure  
+ 
+ 
+Phase 8  
+remise en état du terrain et  des environs, repliement 
+ 
+ 
+Tableau 2  : opérations de déconstruction (auteur, 2013) 
+ 
+  
+III.   CONTROLE DE LA  QUALITE DES TRAVAUX 
+ 
+ 
+3.1.   Le contrôle de la qualité des travaux 
+ 
+L’habitude en termes de qualité est de se référer aux « règles de l’art ». Le CCTP de 
+démolition décrit les normes et règles applicables en vue d’atteindre la qualité attendue.   D’une façon plus pratique, à l’ai de de moyens de mesures spéci fiques à élaborer, de s’assurer 
+de la conformité de ce qui est prescrit dans les documents du marché, les documents 
+d’exécution, avec l’exécution des travaux. 
+      
+
+--- PAGE 11 ---
+                                                                                                                                11 
+  
+UNITES METHODOLOGIE  DE  CONTROLE  
+TRAVAUX 
+EFFECTUES   
+Phases 
+ 
+1. Analyser les prescriptions contractuelles demandées 
+2. Rechercher les contrôles appropriés 
+3. Rédiger les fiches de suivi et de contrôle 
+ 
+Observations 
+ 
+L’objectif de ces contrôles consiste à vérifier la qualité du travail effectué à chaque phase 
+en fonction des  prescriptions du CCTP de façon à modifier à temps une méthode de 
+travail qui ne donne pas des résultats satisfaisants. 
+ 
+Il sera établi un calendrier de validation de s étapes réalisées au fur et à mesure du 
+déroulement des travaux.  
+ 
+ 
+DEMOLITION MANUELLE   
+Phases 
+ 
+1. Analyser les caractéristiques souhaitées 
+2. Rechercher les contrôles appropriés 
+3. Rédiger les fiches de suivi et de contrôle 
+ 
+Observations 
+ 
+L’objectif de ces contrôles consiste à vérifier l’engagement des équipes, la productivité de 
+la main d’œuvre, l’adaptabilité des outils, l’application des mesures de sécurité individuelles et collectives. 
+ 
+DEMOLITION 
+AVEC ENGINS 
+  
+Phases 
+ 
+1. Analyser les caractéristiques souhaitées 
+2. Rechercher les contrôles appropriés 
+3. Rédiger les fiches d’entretien du matériel 
+ 
+Observations 
+ 
+L’objectif de ces contrôles consiste à garantir la sécurité du personnel sur le chantier vis-à-
+vis de l’emploi des différ entes méthodes de démolition. 
+ 
+Si un matériel pose problème en termes de risques et de nuisances dans l’évolution du 
+chantier, on procèdera à son remplacement. 
+ 
+ 
+Tableau 3  : méthodologie de contrôle (auteur, 2013) 
+ 
+3.2.   Les Fiches de non-conformités ou de remarques 
+ 
+Les Fiches de non-conformités ou de remarques permettent de consigner des remarques, des 
+dysfonctionnements et autres problèmes identifié s sur le chantier, de natures techniques ou 
+organisationnelles ainsi que les mesures correc tives et préventives mises en œuvre pour y 
+remédier.  
+ 
+3.3.   Le Tableau de bord 
+ 
+Le tableau de bord permet de synthétiser l’ ensemble des données et indicateurs issus du 
+système de surveillance et de mesurage : mesu res acoustiques, mesures d’analyse de l’air, 
+traçabilité de la production et de  l’élimination des déchets, acc idents du travail, coûts des 
+mesures environnementales, indice de satisfaction des ri verains, etc. 
+ 
+
+--- PAGE 12 ---
+                                                                                                                                12 
+  
+ 
+TABLEAU  DE BORD  DU  PR OCESS  DE  DECONSTRUCTION 
+ 
+Unités Exigences Indicateurs opérationnels 
+ 
+                              
+ 
+                 
+ 
+Tableau 4  : Tableau de bord de déconstruction – modèle à renseigner  –  (auteur, 2013) 
+
+--- PAGE 13 ---
+                                                                                                                                13 
+  
+IV.   DEMARCHE DE PREVENTION 
+ 
+ Le contrôle mettra un accent particulier sur une démarche de prévention axée sur : 
+ 
+• l’évaluation des risques ; 
+ 
+• le contrôle de l’organisation des postes de travail ; 
+ 
+• la communication. 
+ 
+  
+4.1.   Evaluation des risques  
+ 
+De façon quotidienne, il faudrait évaluer les risques dus à :  
+ 
+• la manipulation d’engins ; 
+ 
+• l’écroulement de bâtiments ; 
+ 
+• la chute des gravats ; 
+ 
+• l’utilisation d’explosifs ; 
+ 
+• la présence de substances contaminantes ; 
+ 
+• la masse des charges à manutentionner ; 
+ 
+• l’effort physique requis pour certaines tâches,  
+ 
+• aux caractéristiques du milieu de travail,  
+ 
+• la fréquence, distances et  durées des manutentions ; 
+ 
+• etc.  
+ 
+ 
+Cela permet par la suite de valider objectivement le plan de travail de chaque phase ou étape  
+l’opération. 
+  
+4.2.   Contrôle de l’organisation des postes de travail 
+ 
+ 
+Il s’agit de veiller à l’application stricte de s mesures de sécurité et d’hygiène contenues 
+dans le PPSPS pour l’aménagement et le f onctionnement des postes de travail.  
+    
+
+--- PAGE 14 ---
+                                                                                                                                14 
+  
+4.3.  Communication 
+ 
+L’opération de déconstruction doit se dér ouler avec une dynamique de communication 
+permanente à travers différents supports, en di rection de deux cibles principaux, à savoir, 
+les acteurs du chantier et les riverains : 
+   
+¾ Informer les acteurs du chantier et les riverains : 
+ 
+• sur les risques encourus lo rsqu’il y a mauvaise manœuvre ; 
+ 
+• sur la limitation de la masse des charges ; 
+ 
+• sur les horaires ou période de la journée selon l’avancement des travaux 
+susceptibles d’être source de ri sques ou de nuisances importants. 
+ 
+  
+¾ Former les acteurs du chantier : sur les gestes et posture s et sur les protections 
+individuelles et  collectives : 
+ 
+• porter un casque de sécurité en  cas de chute de gravats ; 
+ 
+• porter des chaussures de sécurité ; 
+ 
+• porter des gants et une combinaison adaptée ; 
+ 
+• porter des lunettes de sécurité ; 
+ 
+• porter des protections auditives (surtout en cas d’utilisation d’explosifs) ; 
+ 
+• mettre en place des garde-corps, des pa sserelles, des filets, etc. pour le 
+travail en hauteur ;  
+• etc. 
+ 
+               
+
+--- PAGE 15 ---
+                                                                                                                                15 
+  
+ 
+ 
+ 
+ Tableau 5 : Fiche évènements – modèle à renseigner  –  (auteur, 2013) 
+
+--- PAGE 16 ---
+                                                                                                                                16 
+  
+ 
+ 
+Tableau 6  : Fiche préventions – modèle à renseigner  –  (auteur, 2013) 
+ 
+ 
+
+--- PAGE 17 ---
+                                                                                                                                17 
+  
+ 
+TABLEAU  DE BORD  DE LA PREVENTION 
+ 
+Unités Exigences Indicateurs opérationnels 
+ 
+                              
+ 
+               
+ 
+Tableau 7  : Tableau de bord Prévention– modèle à renseigner  –  (auteur, 2013) 
+ 
+ 
+
+--- PAGE 18 ---
+                                                                                                                                18 
+  
+V.   SUIVI  DES  COUTS 
+ 
+Le suivi financier est une opération qui permet de déterminer le coût d’un chantier considéré, 
+donnant ainsi la possibilité d’en an alyser le niveau de rentabilité. 
+ Le suivi des coûts se décompose en plusieur s étapes, à savoir, une estimation financière 
+initiale (déboursé prévisionne l) avant le début des trava ux, et au cours du chantier, 
+l’établissement progres sif du déboursé réel.  
+ Les valeurs réelles seront repo rtées en face des valeurs prév isionnelles dans un tableau 
+comparatif qui permet ainsi de suivre l’évolution des coûts et  de procéder aux ajustements 
+nécessaires. 
+ 
+ 
+ VI.   REUNION DE CHANTIER 
+ 
+De façon générale, la réunion de chantier est toujours un moment très important dans la 
+dynamique d’un chantier.   Pour un chantier de déconstruction-démolition qui  peut comporter une dangerosité plus ou 
+moins importante dans son déroulement, la réunion de chantier constitue de véritables séances 
+de validation des décisions se rapport ant à la bonne marc he des travaux. 
+ Comme d’ordinaire, le compte-rendu de chaque réunion sera clairement rédigé car il constitue 
+une des pièces consultées en cas de contentieux. 
+  
+Conclusion   
+ La gestion du process de décons truction constitue un pilotage du travail technique exigé qui va 
+se dérouler sur le chantier. Il commence par l’or ganisation spatiale avec le plan d’installation 
+de chantier puis passe par la gest ion du délai, le contrôle de la  qualité, le suivi des coûts.  
+ 
+A ces objectifs courants, s’ajoutent la préoccupati on sécuritaire et l’impact environnemental du 
+projet donnant ainsi au chantier de décons truction, sa partic ularité technique.  
+ La qualité de la préparation du chantier a une grande importance sur la gestion du process de 
+déconstruction. 
+ 
+ 
+  
+ 
+  
+ 
+  
+
+--- PAGE 19 ---
+                                                                                                                                19 
+  
+ 
+ 
+ Tableau 8  : Fiche relevé journalier de coûts – modèle à renseigner  –  (auteur, 2013) 
+ 
+
+--- PAGE 20 ---
+                                                                                                                                20 
+  
+ 
+ 
+Tableau 9 : Tableau comparatif de coûts – modèle à renseigner  –    (auteur, 2013) 
+ 
+ 
+
+--- PAGE 21 ---
+                                                                                                                                21 
+  
+Chapitre 3 :    GEST ION  DES  DECHETS 
+ 
+ 
+Objectif 
+Etre capable de gérer les déchets produits en déc onstruction dans un cadre te chnique et règlementaire 
+défini.   
+ 
+Introduction  
+La gestion des déchets produits dans une  opération de déconstruction implique : 
+  
+• la mise en œuvre de moyens de collecte adaptés ; 
+ 
+• la définition de modes de stockage adaptés ; 
+ 
+• la mise en œuvre de moye ns de transport adaptés ; 
+ 
+• la définition d’une stra tégie de valorisation. 
+ 
+ 
+ 
+I.   PREALABLE : Exploiter le Diagnostic des déchets  
+ 
+Le diagnostic des déchets  réalisé en préparation de chan tier est le document de référence 
+pour la gestion des déchets.   Il contient l’estimation de la qua ntité prévisionnelle par type de déchets, les options de tri, de 
+valorisation, de transpor t et de traitement.  
+ La valorisation matière est à privilégie r (réemploi, réutilisation ou recyclage). 
+  
+II.   COLLECTE  A PIED D’ŒUVRE  
+ La gestion des déchets commence par le contrô le continu du système de collecte interne à 
+pied d’œuvre puis de leur ache minement vers les aires de st ockage aménagés : mode de 
+récupération, points de déversement, goulotte d’évacuation, zones de réception, réceptacles 
+(sacs, bâches, bennes, etc.), balisage du parcours, mesures de protection, etc. 
+          
+ 
+Photographie 1  : goulotte l'évacuation de déchets 
+
+
+--- PAGE 22 ---
+                                                                                                                                22 
+  
+III.   TRI  ET  STOCKAGE  
+  
+Le diagnostic des déchets établi à la préparat ion du chantier, a défini les options de tri 
+convenant à la situation du chantier en foncti on du type et de la ta ille du chantier, de 
+l’ouvrage à déconstruire, des possibilités de valorisation inte rnes ou externes. 
+ Le contrôle consistera à vérifier que les op tions retenues sont appliquées ou à défaut, à 
+décider des réajustements nécessaires à la poursuite des tâ ches de tri.  
+ 
+Le tri des déchets sera efficace si les options de tri choisies intè grent le tri préliminaire à la 
+source, dès que le déchet est au bout du bras de l’ouvrier ou au bout du bras de la pelle.  
+Le rappel des instructions aux ouvriers sur cette faç on de faire constitue également un élément 
+important du contrôle effectué à ce niveau.  Ensuite le tri se poursuivra sur les aires de stoc kage aménagés par une séparation plus fine des 
+déchets.  Le contrôle d’ensemble est de visualiser, de consta ter, d’évaluer et d’apporter la solution 
+adaptée à chaque cas de figure au fur et  à mesure de l’évolution du chantier.. 
+   
+ 
+ 
+ 
+ 
+  
+
+--- PAGE 23 ---
+                                                                                                                                23 
+  
+ 
+  
+IV.   ELENVEMENT  ET  VALORISATION 
+ 
+Selon le type de valorisation ou d’élimination pr évu, les déchets bien triés seront soit utilisés 
+sur le chantier ou destinés à être enlevés à dest ination d’un autre chantier,  ou d’une décharge.   
+Les opérations sont consignées dans deux types de  rapports (ou registre de chantier) : le 
+rapport journalier et le rapport hebdomadaire ou mensuelle. 
+ 
+IV.1.  Rapport journalier   
+C’est l’inscription quotidienne de s informations se rapportant à la  gestion des déchets (on peut  
+y adjoindre un reportage phot ographique journalier) : 
+  
+• date des opérations ; 
+ 
+• type de camion employé pour le transport ; 
+  
+• type de matériaux évacués ; 
+  
+• volume ou masse de déchets évacués ; 
+  
+• destination du camion ; 
+ 
+• décharge ; 
+ 
+• etc.  
+ 
+IV.1.  Rapport hebdomadaire ou mensuel  
+Bilan hebdomadaire ou mensuel sur la gestion des déchets à partir  des rapports journaliers,  il 
+permet de suivre les quantités prévisionnel les de production de déchets du chantier et 
+d’évaluer les coûts des opérations sur les déchets. 
+  
+
+--- PAGE 24 ---
+                                                                                                                                24 
+  
+ 
+Tableau 10  : Fiche valorisation des déchets – modèle à renseigner  –  (auteur, 2013) FICHE   VALORISATION  DES  DECHETS 
+ 
+N°  
+Déchets  
+Quantités  
+U. VALORISATION  
+D  
+Observations RE RP RHC REC 
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+RE : réemploi ; RP : réutilisation sur pl ace ; RHC : réutilisation hors chantier ;  
+REC : recyclage ; D : Divers 
+
+
+--- PAGE 25 ---
+                                                                                                                                25 
+  
+ 
+TABLEAU  DE BORD  DES  DECHETS 
+ 
+Unités Exigences Indicateurs opérationnels 
+ 
+                              
+ 
+                 
+ 
+ Tableau 11 : Tableau de bord des déchets – modèle  à renseigner  –  (auteur, 2013) 
+
+--- PAGE 26 ---
+                                                                                                                                26 
+  
+  Tableau 12  : Bordereau de suivi des déchets – modèle  à renseigner  –  (2013) 
+ 
+ 
+Conclusion   
+La gestion des déchets regroupe donc un ensemble  d’opérations qui, à partir du diagnostic des 
+déchets, visent à maîtriser la pr oduction, collecter à la source, à trier, stocker, transporter et 
+valoriser les déchets, dans des conditions respectant le  cadre technique et règlementaire défini. 
+La démarche qualité exige l’utilisation d’ un certain nombre de supports (ou fiches 
+d’enregistrement des opérations) pour avoir un e traçabilité de l’ensemble des opérations. 
+       
+
+--- PAGE 27 ---
+                                                                                                                                27 
+  
+Chapitre 4 :  GESTION  DES  NUISANCES 
+ 
+Objectifs spécifiques liés au chapitre 4 
+ 
+Etre capable de gérer les nuisances engendrées par un chantier de déconstruction dans le respect du 
+cadre technique et rè glementaire défini.  
+ 
+Introduction 
+Le chantier de démolition est sources de divers es nuisances. Le contrôle s’appuiera sur le 
+Planning prévisionnel des nuisances afin de fair e face aux différents types de  nuisances d’un 
+chantier donné, notamme nt, entre autres :  
+• les nuisances sonores ; 
+• les rejets de poussière ; 
+• les perturbations du trafic.  
+ 
+IV.1.   PLANNING  DES  NUISANCES 
+ 
+Ce document permet de dresser un calendrier prévisionnel des nuisances qui seront émises par le chantier. Il permet également d’informer les riverains et les autres acteurs du chantier des 
+nuisances sonores, visuelles ainsi que les perturbations du trafic dans le temps. 
+ 
+IV.2.   NUISANCES SONORES 
+ 
+Le bruit est un problème récurrent pour un ch antier de démolition. Cette nuisance sonore, 
+provient d’une part des moteurs et surtout d’au tre part, des chocs et de la manipulation des 
+gravats.  En ce qui concerne les moteurs, la réduction à la source du bruit des moteurs dépend des 
+progrès et des innovations techniques des cons tructeurs de pelles. Le s entreprises seront 
+invitées aux choix d’engins ayant des équipe ments d’insonorisation des moteurs pour baisser 
+progressivement le niveau sonore.  Pour ce qui est de la manipulation des gravats, il est difficile de  jouer sur la source même du 
+bruit. L’effort sera porté sur la méthodologie  de déconstruction en vue de minimiser les 
+risques de bruit :  
+• découpe et dépose des éléments préfabriqués ; 
+ 
+• déconstruction des bâti ments par croquage ; 
+ 
+• arase des structures en limite  de prestation par sciage ; 
+ 
+• purge des fondations à l’aide d’un br oyeur à béton plutôt qu’un BRH ; 
+ 
+• emploi d’une pelle puissante pour réduire la durée des opérations ; 
+ 
+• démarrage de la démolition par le côté opposé aux riverains si possible ; 
+ 
+• etc. 
+ 
+Le niveau sonore sera contrôlé sur toute la dur ée du chantier. Une mesure sera réalisée avant 
+le démarrage des travaux de déconstruction.   
+
+--- PAGE 28 ---
+                                                                                                                                28 
+  
+IV.3.   REJETS DE POUSSIERE 
+ 
+Les travaux de démolition provoquent d’important s rejets de poussière.  Pour  réduire au 
+maximum ce phénomène, la seule arme efficace est l’eau.  Cet outil, raccordé directement sur le réseau d’ eau de ville,  vaporise sur un rayon important 
+un nuage d’eau qui va venir fixer les poussières dès leur libération, lors que la pelle croque le 
+béton.  L’arrosage sera utilisé non seulement pour la démolition, mais également pour l’humidification des gravats à différents postes : tri et mise en tas avant broyage, chargement 
+pour évacuation.  Ensuite il y a bien entendu des méthodes permettant d’éviter de  soulever trop de poussières 
+comme réduire la hauteur de chute des blocs en les conduisant au sol avec la pince. La 
+position de travail peut permettre également lorsque l’on opère  à l’intérieur du bâtiment de se servir des murs restants comme  écran pour le voisinage.  
+ Le nettoyage régulier des pistes  de circulation des camions permettront aussi de minimiser 
+l’émanation de poussière.  Un débourbeur de roue sera mis en œuvre à la sortie du site af in de nettoyer les camions avant 
+de réemprunter les voies publiques.  Pour les matériaux extrêmement volatiles, des b âches seront mises en place sur les bennes de 
+tri concernées. 
+ 
+ 
+IV.4.   PERTURBATIONS  DU TRAFIC  
+ 
+Le trafic des camions est à la fois une source de bruit, de pollution et de gêne pour les 
+riverains, surtout dans le cas d’un chantier de déconstruction en milieu urbain.   Ainsi, si l’on fait des efforts pour réduire le  nombre de rotations des camions, cela permet 
+d’un seul coup de réduire 3 nuisances importantes.  Ce n’est peut-être pas un gros facteur, mais le résultat obte nu n’est pas négligeable. On 
+pourrait par exemple opter pour des camions à gra nde capacité permettant de transporter plus 
+de gravats à chaque voyage, au lieu d’uti liser  des camions de petite capacité. 
+            
+ 
+
+--- PAGE 29 ---
+                                                                                                                                29 
+  
+  
+TABLEAU  DE BORD  DES  NUISANCES 
+Unités Exigences Indicateurs opérationnels 
+                              
+ 
+          
+ 
+ 
+Conclusion   
+ La gestion des nuisances engendré es par la déconstruction revien t donc à définir et à mettre en 
+œuvre,  divers  moyens de lutte c ontre le bruit, la poussière et les perturbations du trafic, adaptés à la 
+situation particulière d’un  chantier donné,  afin de limiter l’effet celles-ci sur le chantier lui-même et 
+sur l'environnement proche ou lointain. 
+
+--- PAGE 30 ---
+                                                                                                                                30 
+  
+   
+Bibliographie 
+  
+1) Dr. Pierrino LESTUZZI , Démolition des bâtiments , EPFL, 2010. 
+ 
+2) Jean-Claude PHILIP, Fouad BOUYAHBA et Jean-Pierre MUZEAU , Guide pratique de 
+la démolition des bâtiments , Eyrolles, 2006. 
+ 
+3) Plan Départemental de Gestion des Déchet s du Bâtiment et des Travaux Publics , Notices 
+Techniques , Bouches-Du-Rhone (France), 2002 
+ 
+Webographie  
+ 
+1) www.aml.bâtiment.com  ; 
+2) www.déchets-entreprises-alsace.com  ; 
+3) www.e-g-bâtiment  ; 
+4) www.larousse.fr  ; 
+5) www.wikipedia.org  ; 
+ 
+

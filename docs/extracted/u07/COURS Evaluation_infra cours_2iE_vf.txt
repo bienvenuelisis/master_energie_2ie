@@ -193,3 +193,1914 @@ Recherche  Laboratoires, bureaux
                                                  
 1 Source  : Perrot et Chatel us (2000,330) cité par Belaïd Oustani et al (2009)  
 
+--- PAGE 6 ---
+ 6 1.1.3 Classificat ion des infrastructures  
+Eu égard à leur rôle, les infrastructures sont classées en deux grandes catégories. On distingue  
+les infrastructures  économiques et les infrastructures sociales qui peuvent être 
+« dures  (hard ) » ou « souples  (soft)». 
+ 
+Les infr astructures de type économique sont réput ées être  la clef pour la fourniture d’un 
+service immédiat à l’industrie et au secteur économique en  général. Elles sont vues comme un 
+input à la production (eau, électricité, routes,  aéroports, égouts, transport en commun etc.). 
+Leur principale fonction es t de réduire les  coûts de transaction, d’augmenter l a productivité et 
+l’innovation.  
+ 
+Les infrastructures  sociales, par contre, sont considérées comme fournissant des services de 
+base aux  ménages. Elles leurs permettent d’améliorer leur qualité de vie et le ur bien être 
+(hôpitaux,  école etc.). Cette situation a fait que les E tats ont été  pendant longtemps le s 
+principa ux fournisseur s des services d’infrastructure. Néanmoins, durant les deux dernières  
+décennies, on assista à un mouvement mondial vers la dérégle mentation et la  privatisation.  
+ 
+Le tableau ci -après donne des détails sur les infrastructures pouvant être classées dans l’une 
+ou l’autre des deux catégories.  
+ 
+ 
+ 
+Tableau 2 : Classification des infrastructures par type2 
+ DURES  SOUP LES  
+ECONOMIQUES  Routes / Autoroutes  
+Ponts  
+Ports  
+Vois ferrées  
+Aéroports  
+Télécommunications  
+Énergie  Formation  
+Institutions financières  
+Recherche et développement  
+Transfert de technologie  
+Assistance à l’exportation  
+SOCIALES  Hôpitaux  
+Écoles  
+Approvisionnement  en eau  
+Logements  
+Système d’égouts  
+Soins pour les enfants  
+Prisons  
+Maisons pour les personnes 
+âgées  Sécurité sociale  
+Services communautaires  
+Agences environnementales  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                 
+2 Source : Grimsey et Lewis (2004) cité par Belaïd Oustani et al (2009)  
+
+--- PAGE 7 ---
+ 7 1.1.4 Définition des infrastructures  : l’exemple des infrastructures  de 
+transports   
+Tel que défini précédemment, les infrastructures  peuvent être considérées  comme étant des 
+unités fonctionnelles  (OEET , 2011 ). Ainsi, pour remplir leur fonction, les infrastructures de 
+transport sont constituées , pour la  plupart , de deux types d’ouvrages  : 
+ les ouvrages linéaires3 (routiers, fer roviaires, voies navigables)  ; 
+ les ouvrages ponctuels (ponts,  gares, etc.).  
+1.1.4.1  Les ouvrages linéaires  
+Les ouvrages linéaires constituent la partie la plus importante de nombreuses infrastructures 
+de transports. Le tracé défin issant ces infrastructures n'a généralement pas de durée de vie à  
+proprement parler, puisqu'il perdure de manière non limitée dans le temps par le biais des 
+opérations  de maintenance et de réhabilitation. En général, il y a donc lieu de considérer la 
+durée  de référence  de l'unité fonctionnelle . 
+1.1.4.2  Les ouvrages ponctuels (spécificités des ponts, tunnels)  
+Ces objets, de conception spécifique, peuvent être évalués de manière indépendante. L es 
+hypothèses liées à la durée de vie de l'objet considéré notamment,  doivent être compatibles 
+avec une hypothèse de durée de vie globale de l'infrastructure étudiée.  
+Ainsi les ouvrages d'art routiers réalisés à partir des Eurocodes font l'objet d'un 
+dimensionnement  pour une durée de service de 100 ans, supérieure à la durée de vie d'une 
+structure de chaussée  (couche de roulement : 10 ans; couche de forme : 30 ans). Dans le 
+domaine ferroviaire, Réseau  Ferré de France calcule une durée d'amortissement plus 
+importante pour les gares (40 ans) que pour  les tronçons de lignes à grande  vitesse ferroviaires 
+(30 ans).  
+Il convient enfin de signaler la singularité de certains ouvrages ponctuels, tels que les tunnels. 
+Ces ouvrages particuliers présentent une longue durée de vie comme les ponts (en général 
+supérieure à  100 ans). Cependant, i ls diffèrent des autres ouvrages d'art du fait d'un poids 
+potentiellement  important de l'étape de "vie en œuvre ", principalement en raison des 
+équipements inhérents à ces  structures : ventilation, éclairage, gestion technique centralisée, 
+etc. et de la con sommation  électrique de ces derniers. Enfin, on signalera que bien que peu 
+observé dans la pratique, un scénario  théorique de "fin de vie" pourrait consister en une fin 
+d'exploitation avec le démantèlement et le  recyclage des équipements.  
+1.1.4.3  Les infrastructur es routières  
+Ci-dessous figurent les principaux éléments constitutifs d'une infrastructure  routière, certains 
+d'entre eux (*) étant spécifiquement dédiés aux réseaux autoroutiers concédés :  
+− tronçons linéaires (génie civil, équipements, dépendances vertes … ), 
+− ouvrages d'art (ponts, tunnels, soutènements, barrages, aménagements 
+environnementaux :  passages faunes, bassins…),  
+− gares de péage*,  
+− aires de repos et de service,  
+− bâtiments liés aux opérations d'exploitation,  
+− matériels spécifiques associés à l'exploitat ion, 
+− les espaces verts et paysagers dans l'emprise routière.  
+ 
+ 
+                                                 
+3 C’est le cas de chaussée et des rails  
+
+--- PAGE 8 ---
+ 8 Photo 1: Un exemple4 d’infrastructures routières et sportives en image  
+ 
+ 
+1.1.4.4  Les infrastructures ferroviaires  
+Eléments constitutifs :  
+− tronçons linéaires (génie civil, équ ipements ferroviaires, voies ferrées, caténaires,  
+équipements de signalisation, etc.),  
+− ouvrages d'art (ponts, tunnels, soutènements, barrages),  
+− gares et stations,  
+− matériels spécifiques associés à l'exploitation,  
+− bâtiments liés aux opérations d’exploitation  de l’infrastructure.  
+1.1.4.5  Les infrastructures aéroportuaires  
+Eléments constitutifs :  
+− Pistes d'atterrissage et de décollage, taxiways,  
+− Aires de manœuvres , de stationnement et d'accès aux bâtiments aéroportuaires 
+(destinés aux  avions ou véhicules routiers)  
+− Aérog ares et équipements,  
+− Installations et bâtiments techniques d'exploitation et de maintenance,  
+− Tour de contrôle et autres bâtiments abritant les servies de l'aéroport;  
+− Equipements et matériels spécifiques associés à l'exploitation (véhicules techniques, 
+incendie,  passerelles,…),  
+− Infrastructures routières ou ferroviaires d'accès à l'aéroport, dédiés au projet,  
+− Dans le cas de réseaux routiers et ferroviaires existants et prolongés vers une 
+infrastructure  aéroportuaire, le périmètre d'évaluation peut être élargi  à cette section 
+spécifique.  
+                                                 
+4 Boulevard lagunaire et stade Fé lix Houphouët Boigny à Abidjan (Côte d’Ivoire)  
+Infrastructures sportives  
+Infrastructures routières  
+
+--- PAGE 9 ---
+ 9 1.1.4.6  Les infrastructures maritimes  
+Eléments constitutifs :  
+− Mers, océans, canaux maritimes,  
+− Accès nautiques au port,  
+− Digues d’enclôture5, 
+− Bassins de marées, bassins à flots donc écluses,  
+− Quais et équipements de quais,  
+− Suivant la natu re du port :  
+ terre-pleins, hangars, citernes et silos,  
+ gare maritime, zone d’accès et rampes d’embarquement paquebots ou 
+ferry…,  
+ accueil de la plaisance : marina, anneaux, pontons,  
+ accueil de la pêche : hangars frigorifiques, criée…  
+− Capitainerie et autres bâtiments abritant les services des autorités portuaires, postes 
+douanes,  
+− Installations, bâtiments techniques et outillage d'exploitation, d’avitaillement, de 
+maintenance  et de réparation,  
+− Accès terrestres : voies ferrées, gare de triage, routes, voies nav igables, oléoducs et  
+gazoducs.  
+Généralement, le port maritime englobe ou est cerné d’un dense tissu urbain, industriel et  
+logistique : entrepôts, usines…  
+ 
+1.1.4.7  Les infrastructures fluviales  
+Eléments constitutifs :  
+− Biefs (digues, défenses de berges, chemin de se rvice, …),  
+− Ecluses6, échelles d'écluses, ascenseurs7 et pentes d'eau,  pont mobiles,  
+− Barrages de navigation, barrages de prise d'eau,  
+− Barrages réservoir et ouvrages du système alimentaire des canaux  
+− Ouvrages d'art (pont canaux et tunnels canaux),  
+− Bâtiments techniques adjacents aux ouvrages et postes de commande ou de 
+surveillance,  
+− Quais et plates -formes portuaires  
+ 
+Il apparaît que la réalisation d’une infrastructure nécessite la production 
+et/ou la mise en œuvre de matériaux qui influence leur durabilité.  
+La notion d’évaluation est définie dans ce qui suit.  
+                                                 
+5 Enclôture  : le fait d’enclore un terrain, de l’entourer de clôtures  
+6 Ecluse  : ouvrage mobile entre deux plans d’eau de différents niveaux qui permet le passage 
+d’embarcations  
+7 Ascenseur à bateaux  : écluses à sas mobile, élévateurs  
+
+--- PAGE 10 ---
+ 10 1.2 Evaluation  
+1.2.1 Définition  
+Selon le dictionnaire Larousse, l’évaluation, c’est «  l’action d' évaluer , de déterminer la valeur 
+de quelque chose  : Faire l'évaluatio n d'une fortune, d'une distance». Quantité, val eur ainsi 
+établie  : Des évaluations approximatives.  
+Selon wikipédia  « de manière générale, l' évaluation  est la démarche qui vise à mesurer, 
+quantifier (méthodes statistiques) et caractériser une situation, une entité , un résultat ou une 
+performance de natu re complexe et donc a priori difficilement mesurable. Selon l'objet ciblé, 
+la démarche d'évaluation peut faire appel à des méthodes ou outils très variés en fonction de 
+leurs présupposés théoriques - et politiques - de leurs buts, de leurs techniques  ». 
+ 
+Pour d’autres auteurs (Mabit R, 2001), le mot évaluation , comme le mot ingénierie, est, dans 
+la langue française, un mot attrape -tout. On y accroche des objets divers qui peuvent relever 
+de la pratique pédagogique, de la gestion, de l’organisation de micro -ou macro -systèmes, de 
+la construction de dispositifs ou de programme, etc.  
+ 
+On peut ainsi «  évaluer un élève  », « évaluer un risque  »,  évaluer un projet  », etc.  
+Evaluation  est également un mot qui, dans son usage courant, peut absorber indifféremment 
+le contrôle, le diagnostic, l’étude d’impact, le suivi, la prospective…  
+ 
+Evaluer peut être considéré comme un acte de vérification dans la mesure où on examine si 
+les actions menées dans le cadre d’un programme correspondent aux objectifs annoncés. C’est 
+une a ctivité de conseil dans la mesure où l’évaluation vise à éclairer la stratégie et à aider à la 
+décision. Ce peut être aussi une façon de rendre compte de l’action conduite et de la mettre en 
+débat.  
+ 
+On peut s’appuyer aussi sur la définition proposée par St ufflebeam8 suffisamment large pour 
+englober toute pratique  : processus (1) par lequel on définit (2), obtient (3)   et fournit (4)   
+des informations (5)   utiles (6)   permettant de juger les décisions possibles (7) . 
+(1) processus = activité continue  
+(2) on d éfinit = identifier les informations pertinentes  
+(3) on obtient = collecte, analyse, mesure des données  
+(4) on fournit = communiquer ces données  
+(5) des informations = faits à interpréter  
+(6) informations utiles = qui satisfont aux critères de pertinence   
+(7) décisions possibles = actions d'enseignement, d'orientation etc....  
+ 
+L'OCDE/CAD9 définit l'évaluation comme étant :  
+ une appréciation systématique et aussi objective que possible,  
+ d'un projet, d'un programme ou d'une politique en cours ou terminé(e),  
+ de sa conception, de sa mise en œuvre et de ses résultats,  
+ le but est de déterminer la pertinence, l'accomplissement des objectifs, l'efficience en 
+matière de développement, l'efficacité, l'impact et la durabilité.  
+Une évaluation doit fournir des information s crédibles et utiles permettant d'intégrer les 
+leçons de l'expérience dans le processus de prise de décision des bénéficiaires et des bailleurs 
+de fonds . 
+ 
+De l’examen des cultures et pratiques, on peut retenir la définition suivante  : 
+                                                 
+8 STUFFLEBEAM, D.I. (1980) L'évalu ation en éducation et la prise de décision Ottawa, Edition NHP, 
+464p  
+9 OCDE  : Organisation pour la Coopération et le Développement Economiques  ; CAD  : Comité d’aide 
+au développement  
+
+--- PAGE 11 ---
+ 11 L’évaluation consist e, à partir de faits appuyés sur des données fiables, à mettre en évidence 
+tous les effets attribuables à l’objet évalué (infrastructure, projet, programme, politique etc.), à 
+les confronter aux objectifs fixés et aux moyens mis en œuvre, et à en tirer un jugement sur 
+cet objet.  
+ 
+1.2.2 Propriété caractéristique de l’évaluation  
+La propriété caractéristique de l’évaluation est qu’elle s’intéresse avant tout aux effets 
+produits  par l’action menée dans le cadre d’un projet, d’un programme, d’une politique  etc. 
+Elle cherche non seulement à identifier et décrire ces effets mais à en analyser les causes. Elle 
+tente d’expliquer les écarts entre les effets réels constatés et les effets prévus ou espérés  
+(Mabit R., 2001).  
+ 
+Les fonctions d’évaluation ne doivent pas être co nfondues avec celles d’inspection, de 
+contrôle, d’audit ou de conseil.  
+L’analyse et l’appréciation qui en est tirée ne sont pas faites en référence à des normes 
+prédéterminées ni à un référentiel standard. Chaque exerce d’évaluation comprend la 
+constructio n d’un référentiel ad hoc et ouvert.  
+ 
+Dans le cadre de l’évaluation des projets, l’évaluation est considérée comme  : 
+ un outil dynamique d’identification des forces et faibles des opérations en vue de 
+recommandations correctives opérationnelles et stratégiq ues pour les partenaires au projet.  
+ un outil de comptabilité, de comparaison au service de la bonne gouvernance et de la 
+démocratie.  
+1.2.3 Quelques types d’évaluation  
+L’évaluation des infrastructures peut avoir plusieurs objectifs. Ainsi, on distingue entre 
+autres : 
+ évaluation certificative  
+ évaluation comparative  
+ évaluation technique  
+ évaluation économique  
+ évaluation environnementale  
+ évaluation financière  
+ évaluation fiscale de l’infrastructure ( des immeubles)  
+ évaluation immobilière  
+ évaluation de sûreté  
+ évaluation des risques  
+ évaluation socio -économique  
+ etc. 
+1.2.4 Finalité et moment de l’évaluation  
+C’est le but qui dicte la façon dont l’évaluation est conçue et utilisée. Ainsi, envisager 
+l’évaluation du point de vue du but plutôt que de la méthode met l’accent sur le rés ultat final 
+attendu.  
+La demande d'évaluation peut être fondée sur diverses finalités. Dans la réalité la finalité 
+d'une évaluation  est rarement explicite. Ce sont plutôt les objectifs opérationnels qui sont 
+annoncés. Ou même ce n'est qu'en  constatant ensui te quel usage il a été fait de cette 
+évaluation que l'on peut lui affecter un rôle voire une finalité. Il  est possible de faire de cette 
+manière une typologie des évaluations.  
+
+--- PAGE 12 ---
+ 12 1.2.4.1  Finalité  générale  de l’évaluation  
+S'agissant des finalités d'un exercice dont l' aboutissement est un jugement de valeur, il est 
+cependant  nécessaire de s'interroger sur le sens et éven tuellement les valeurs qui sous -tendent 
+la démarche d'évaluation.  
+Cette interrogation appliquée au cas des politiques, projets, programmes et actions re levant de 
+la sphère  publique, conduit à identifier et à retenir trois finalités possibles. Et dans la pratique 
+de l'évaluation, tant  du côté du commanditaire, que du côté de l'évaluateur, il sera souhaitable 
+de n’en  occulter aucune.  Il s'agit de  : 
+ 
+− la fina lité mobilisatrice  
+− la finalité stratégique  
+− la finalité démocratique  
+ 
+1. la finalité mobilisatrice: l'évaluation fournit des informations sur les effets d'un programme 
+ou d'une  politique et donc renseigne sur la mise en œuvre  et son efficacité. Elle fournit  donc 
+aux opérateurs des  renseignements sur leurs pratiques. De ce fait, et pour le moins, 
+l'évaluation mobilise leur attention.  Elle les conduit inévitablement à réagir.  
+Cette capacité mobilisatrice peut avoir plusieurs types d'effets sur la structure qui  met en 
+œuvre  le programme ou qui le pilote  : clarification des objectifs, amélioration de 
+l'organisation du travail,  responsabilisation des acteurs, motivation des opérateurs. Il y là une 
+finalité mobilisatrice qui fait alors  de l'évaluation à la fois un outil pour améliorer la gestion 
+publique et une méthode de management.  
+ 
+2. la finalité stratégique: l'évaluation met en évidence des éléments qui ne sont pas 
+nécessairement  perçus dans l'action quotidienne. Elle met en perspective les orientations et les 
+résultats. Elle interroge  sur la pertinence des objectifs et la cohérence entre ceux -ci et les 
+moyens mobilisés. Elle aide à penser  le moyen  - long terme et le complexe tout en capitalisant 
+l'expérience. Elle évite de réinventer  régulièrement des orientatio ns et des objectifs sans avoir 
+tiré le bilan des actions précédentes.  
+L'évaluation est alors une aide à la prise de décision et un outil de gestion qui permet aux 
+responsables  d'un programme d'adapter, infléchir ou abandonner leur stratégie.  
+ 
+3. la finalit é démocratique: l'évaluation, par les analyses qu'elle produit et par l'appréciation 
+qu'elle  porte sur l'objet évalué, contribue à l'information, et peut répondre à l'exigence de 
+transparence à  l'égard de l'utilisation qui est faite des «biens publics». Da ns toutes les 
+démocraties contemporaines, la demande d'une évaluation ayant cette finalité de  transparence 
+et d'aide au débat sur l'action publique, se fait de plus en plus pressante. La demande vient  des 
+citoyens, des associations, des agents é conomiques,  des élus eux -mêmes.  
+Cette finalité démocratique de l'évaluation peut indisposer les décideurs ou les gestionnaires. 
+Pour les  évaluateurs elle est exigeante. Elle est aussi l'affirmation que les résultats d'une 
+évaluation ont vocation  à être diffusés et à nourrir le débat sur l'objet évalué.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+--- PAGE 13 ---
+ 13 1.2.4.2  Finalités dans le domaine de l’éducation  
+Dans ce domaine, l es finalités de l’évaluation dépendent l’objet ou de la personne évaluée. 
+Ainsi, dans le domaine de l’éducation, c lassiquement, on distingue cinq fonct ions : 
+− Diagnostique  : analyse des situations, des besoins, de s profils et prérequis  des 
+apprenants  
+− Pronostique  : élaboration d'un projet, test initial  
+− Formative -formatrice  : accompagnement de l'apprentissage, remédiation  
+− Sommative -certificative  : bilan, ju gement, décision par tests terminaux, diplômes  
+− D'orientation  : liaison études / emploi, conseil de classe  
+En fonction des termes de référence du projet d’évaluation d’une infrastructure, une 
+évaluation de la qualité de travaux de maintenance et même du per sonnel chargé de l’entretien 
+peut être faite. Dans ces conditions certaines de ces fonctions peuvent s’avérer utiles à 
+connaître.  
+ 
+1.2.4.3  Moment de l’évaluation et finalités  
+Contrairement à l'idée répandue que l 'évaluation est  une pratique innée que chacun  exerce , 
+sans le savoir ou le faire savoir, l'évaluation des infrastructures, de programmes, d'ac tions, de 
+projets, d'organismes ... demande des compétences construites, exige une démarche 
+rigoureuse, suppose une attitude spécifique.  
+Pour les projets et programmes , les évaluations ou évaluations « évènement  » interviennent à 
+des rythmes différents et à des moments précis à savoir  : avant, pendant, juste après ou 
+longtemps après.  
+ 
+On distingue  : 
+− l'évaluation ex ante ; 
+− l'évaluation à mi -parcours  ; 
+− l'évaluation finale  ou terminale  ; 
+− l'évaluation ex post  
+1.2.4.3.1  Evaluation ex ante (à priori)  
+Elle est  faite avant l'adoption définitive et la mise en œuvre  du programme, cette  démarche n'a 
+pas véritablement les caractéristiques d'une évaluation. Il s'agit d'une étude faite par de s 
+personnes autres que les gestionnaires du programme, qui s'assure de sa pertinence par rapport 
+aux orientations et au contexte. Elle explicite les effets prévus (étude d'impact). Elle veille à la 
+cohérence du  dispositif et à la faisabilité des actions. E lle vérifie l'existence d'objectifs 
+opérationnels et d'outils de  suivi du programme (indicateurs, tableau de bord , etc. ). 
+1.2.4.3.2  Evaluation à mi -parcours (intermédiaire)  
+Elle est pratiquée dans le cas de programmes relativement longs,  cette forme d'évaluation 
+permet de prendre en compte un contexte qui a évolué, de réexaminer la  pertinence des 
+orientations et objectifs de départ par rapport à celui -ci, de repérer et analyser les  éventuels 
+écarts entre la mise en œuvre  effective et les intentions initiales ainsi qu e les premiers effets  
+du programme.  
+ 
+
+--- PAGE 14 ---
+ 14 1.2.4.3.3  Evaluation finale ou terminale  
+Elle est généralement réalisée juste après la fin du projet pour en faire le bilan et voir  s'il y a 
+lieu de le reconduire.  Elle permet de répondre à la question de savoir si les objectifs du projet 
+ont été atteints.  
+1.2.4.3.4  Eval uation ex post (à posteriori)  
+Elle s’effectue après la fin du programme, elle rend compte des réalisations  effectuées, des 
+objectifs atteints mais, dans la mesure du possible, de tous les effets observables  imputables 
+au pr ogramme, attendus et imprévus, positifs et négatifs. Elle donne donc une large place au  
+questionnement (enquêtes, entretiens) près des différentes catégories d'acteurs du programme 
+et aux  études sur le «terrain». Elle propose, à partir de cet ensemble de d onnées une analyse 
+de l'impact global  du programme. En fonction de la commande initiale ou du cahier des 
+charges de l'évaluation, le  jugement porté sur le programme sera à la fois global et spécifié de 
+tel ou tel point de vue: de l'utilité,  de la pérennité , de l'efficacité, de l'efficience ...  
+1.2.4.4  Autres finalités  
+D’autres évaluations liées au moment de l’évaluation sont également proposés par certains 
+auteurs. Il s’agit de  : 
+− l’évaluation intérimaire  
+− l’évaluation concomitante  
+− l’évaluation d’impact  
+1.2.4.4.1  Evaluation in térimaire  
+− Les objectifs fixés pour une certaine étape ont -ils été atteints  ? 
+− Les objectifs sont -ils toujours valables  ? 
+− Les objectifs fixés pour la fin du projet seront -ils atteints  ? 
+− Une replanification est -elle nécessaire  ? 
+1.2.4.4.2  Evaluation  concomitante (chemi n faisant)  
+Cette pratique relève pour une part du suivi de l'état  d'avancement du programme et non de 
+l'évaluation. S'y ajoute une analyse du contexte évolutif. Ce  type d'évaluation continue permet 
+dans le cas de programmes discutés ou délicats ainsi que d ans le cas  d'opérations pilotes ou 
+expérimentales, de favoriser la transparence et la participation dans le droit fil  de la finalité 
+mobilisatrice de l'évaluation.  
+1.2.4.4.3  Evaluation d’impact  
+− L’atteinte des objectifs a -t-elle généré les conséquences prévues  ? 
+− Les moyens mis en œuvre étaient -ils efficients (rentabilité économique ou sociale).  
+1.2.4.5  Finalités pour les infrastructures  
+Les finalités d’une évaluation portant sur les infrastructures sont multiples. Il peut s’agir 
+d’une évaluation environnementale, économique, de sûreté, etc.  
+Pour une évaluation sûreté, l’objectif visé peut être la réalisation de travaux  : 
+(1) de réparation , (2) de renforcement, (3) d’adaptation, (4) de démolition, (5) de 
+remplacement de l’infrastructure.  
+Nous reviendrons sur ces finalités dans  le paragraphe consacré à l’évaluation des 
+infrastructures existantes et aux projets d’infrastructures (infrastructures à construire).  
+
+--- PAGE 15 ---
+ 15  
+1.3 Concepts voisins mais différents de l’évaluation  
+Plusieurs notions ou concepts sont souvent confondus avec le mot évalua tion. Il s’agit, entre 
+autres  : 
+− du suivi,  
+− du suivi -évaluation  
+− du contrôle  
+− du diagnostic  
+− de l’audit  
+ 
+Les fonctions premières de l’évaluation sont de comprendre et de porte r un jugement de 
+valeur , alors que celles du contrôle, du suivi, de l’inspection ou d e l’audit sont principalement 
+de vérifier, de surveiller, d’observer, de conseiller.  
+ 
+1.3.1 Différence entre le suivi et l’évaluation  
+Le suivi  est une observation critique et systématique des réalisations d’un projet  ; il se base 
+sur les critères définis lors de  la phase de planification. Le suivi est une fonction de la gestion 
+quotidienne, il doit s’intégrer à la structure de gestion du projet.  
+ 
+Le FIDA10 le définit comme étant la c ollecte et l’analyse régulière d’informations dans le but 
+de faciliter en temps ut ile la prise de décisions, d’assurer la transparence et de servir de base à 
+l’évaluation et à la capitalisation de l’expérience. C’est une fonction permanente qui recourt à 
+la collecte méthodique de données afin de fournir aux responsables et aux acteurs à  la base 
+d’un projet en cours de mise en œuvre des indications sur l’état d’avancement et la 
+progression vers les objectifs retenus.  
+ 
+L’évaluation  est une mesure d’atteinte de l’objectif d’un projet et/ou de ses diverses 
+composantes. Elle comporte une anal yse sur les écarts entre les réal isations et les prévisions, 
+sur l’efficacité des moyens mis en œuvre et sur les effets du projet.  
+ 
+Tableau 3 : Différences entre suivi et évaluation pour un projet  
+Suivi  Evaluation  
+Systématique, p ermanent  Ponctuelle  
+S’oriente à la planification  Peut mettre en cause la planification  
+S’intègre dans la structure de gestion du 
+projet  N’est pas nécessairement faite par le projet 
+(recourt à un consultant, et à des données 
+extérieures au projet, etc.)  
+Met en exergue les écarts et leurs causes  Analyse les causes des écarts et propose les 
+solutions éventuelles  
+Résultats utilisés par tous les intervenants 
+dans le projet  Résultats utilisés par les décideurs  
+ 
+Des confusions entre ces deux termes sont souve nt observées  : 
+ tous les deux utilisent fréquemment les mêmes sources d’informations,  
+ la description des écarts par le suivi comporte souvent un élément d’analyse qui est 
+caractéristique de l’évaluation.  
+                                                 
+10 FIDA ( Fonds International de Développement Agricole)  : Guide pratique de  suivi-évaluation des 
+projets, modules de formation.  Site internet  : www.ifad.org   
+
+--- PAGE 16 ---
+ 16 Il est important de bien faire la distinction entre ces deux fonctions. Il convient de retenir que 
+l’évaluation se fait dans un objectif clairement défini. On essaie de sortir  de la gestion 
+quotidienne  de la réalisation du projet et de mettre les informations dans un contexte plus 
+général.  
+1.3.2 Différence entre  le suivi – évaluation et évaluation  
+Suivi -évaluation  Evaluation  
+Régulier tout au long de la mise en œuvre du 
+projet  Ponctuel, généralement à la fin du projet, 
+parfois aussi à une étape intermédiaire (par 
+ex. à mi -parcours)  
+Généralement effectué en inter ne En principe externalisé (consultant)  
+Centré sur l’analyse de la progression des 
+activités vers l’attente des résultats attendus 
+(voire des effets).  Permet en principe d’aller plus loin que le 
+suivi -évaluation, en apportant des réponses à 
+des question s plus vaste s que la seule atteinte 
+des résultats (ex.  ; sur  la qualité du 
+partenariat et de la gouvernance sur le projet, 
+sur le bien -fondé du projet et de la stratégie 
+d’intervention, etc.)  
+ NB : lorsqu’il n’existe pas de suivi -
+évaluation sur lequel s’app uyer, l’évaluation 
+doit souvent restreindre ses ambitions, car 
+elle doit alors reprendre des éléments qui 
+auraient dû être du ressort du suivi -
+évaluation.  
+Suivi -évaluation et évaluation sont 
+étroitement complémentaires. Ils 
+s’enrichissent mutuellement et d oivent être 
+programmés en cohérence.  
+ 
+Suivi -évaluation (S&E)   se définit comme étant la combinaison du suivi et de l’évaluation qui 
+permet d’obtenir les informations requises et de conduire la réflexion critique nécessaire à la 
+bonne gestion du projet, à la satisfaction des obligations et redevabilité (vers le haut et vers le 
+bas).  
+1.3.3 Différence entre le suivi – évaluation et le contrôle  
+Le suivi – évaluation est souvent confondu avec le «   contrôle  ». Il est vrai qu’ils ont 
+beaucoup d’outils en communs mais,  la différence réside principalement dans l’approche 
+utilisée et dans l’objectif visé.  
+Approche  : 
+− Un suivi efficace nécessite une bonne communication des informations et donc un 
+rapprochement entre les intervenants.  
+− Un contrôle efficace nécessite une dista nce organisationnelle et personnelle entre les 
+intervenants.  
+Objectif  : 
+− l’objectif du suivi – évaluation est d’aider à ce que le projet atteigne ses objectifs  
+− l’objectif du contrôle est de déceler les anomalies éventuelles.  
+ 
+ 
+
+--- PAGE 17 ---
+ 17 1.3.4 Différence entre diagnostic, a udit et évaluation  
+Selon Larousse le mot «  diagnostic  » se définit comme étant  : 
+ L’identification de la nature d'une situation, d'un mal, d'une difficulté, etc., par 
+l'interprétation de signes extérieurs  : Diagnostic d'une panne de moteur.  
+ L’ensemble de me sures, de contrôles faits pour déterminer ou vérifier les 
+caractéristiques techniques d'un système à des fins de maintenance ou d'amélioration. 
+(Exemple  : diagnostic d'un véhicule, diagnostic thermique d'un bâtiment.)  
+Dans un diagnostic, un jugement est po rté sur la situation ou l'état des lieux, renvoyant le 
+plus souvent à des aspects subjectifs ou relationnels.    
+ 
+La finalité d'un diagnostic est non seulement de se baser sur des faits, mais surtout 
+d'émettre des opinions  pour mettre en œuvre  ensuite des a ctions concrètes (exemple : statuer 
+sur la pertinence du référentiel choisi, décider un changement d'organisation, faire un bilan 
+des coûts de non -qualité...  
+ 
+Le FIDA définit l’audit, comme étant  la vérification de la légalité et de la conformité de 
+l’util isation des moyens, menée par des auditeurs indépendants.  
+L’audit a pour objet de déterminer si, et dans quelle mesure, les activités et les procédures 
+organisationnelles sont conformes aux normes et critères prédéfinis. L’audit aide une 
+organisation à at teindre ses objectifs en évaluant et en améliorant, par une approche 
+systématique et méthodique, l’efficacité des processus de gestion des risques, de contrôle et 
+de gouvernement d’entreprise.  
+Dans un audit, l'approche reste factuelle, basée exclusivement  sur des faits et des observations 
+constituant des preuves, même si des recommandations ou des propositions d'amélioration 
+peuvent être suggérées.   
+ 
+La pratique de l'évaluation n'a aucune raison d'être le monopole de quelques rares 
+«grands experts» ou de « grands corps». Il y a simplement comme, dans d'autres 
+domaines, à mobiliser les connaissances et compétences dont on dispose, à s'approprier 
+la culture spécifique de cette fonction, à respecter des standards de qualité, à se doter 
+d'une déontologie solide.  
+Le «métier» d'évaluateur a la particularité de devoir conjuguer la rigueur méthodique 
+et le souci permanent des finalités.  
+
+--- PAGE 18 ---
+ 18  
+Chapitre 2  : L’évaluation dans la gestion des infrastructures  
+ 
+La gestion des infrastructures nécessite la connaissance de leur cy cle de vie. Il convient de 
+souligner que l’évaluation d’une infrastructure existante intervient nécessairement au cours de 
+son cycle de vie. La connaissance de certaines notions par le maître d’ouvrage est  donc 
+essentielle . Il s’agit de la durée de référen ce qui remplace de plus en plus la notion de 
+durée de vie et de la fin de vie.  
+Le gestion naire  des infrastructure s doit dès lors mettre en place un cadre de gestion courante  
+depuis leur mise en service jusqu’au terme de leur  durée de référence . 
+ 
+1.1 Exigence d e l’entretien des infrastructures pour le maître d’ouvrage  
+Entretenir une infrastructure signifie qu’il faut prendre toutes mesures appropriées pour 
+maintenir cette infrastructure dans un état aussi proche que celui qu’elle avait lors de sa mise 
+en service . 
+ 
+On distingue deux types d’entretiens  : 
+ 
+− l’entretien préventif : ensemble des tâches  entreprises pour prévenir les dégradations  ; 
+− l’entretien curatif : ensemble des opérations à  réaliser pour corriger les défauts 
+apparents.  
+ 
+Le maître d’ouvrage doit défi nir une politique d’entretien des infrastructures et mettre en 
+place une organisation bien structurée pour assurer leur suivi dès leur mise en service.  
+L’évaluation d’une infrastructure existante intervient généralement pour un but précis au 
+cours de son c ycle de vie.  
+ 
+1.2 Cycle de vie d'une infrastructure  
+Le cycle de vie d'une infrastructure (routière, ferroviaire, etc.)  peut être défini selon plusieurs 
+étapes.  On distingue, entre autres les étapes essentielles suivantes  : 
+− conception de l'infrastructure  
+− réalisation de l'infrastructure  
+− exploitation (exploitation, surveillance, maintenance, réparation, réhabilitation)   
+− fin de vie (démolition, déconstruction, réhabilitation)  
+Des étapes supplémentaires peuvent être ajouté es à ce cycle de vie comme présenté par les 
+figures ci -après.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+--- PAGE 19 ---
+ 19 Figure 1: Cycle de vie d’une infrastructure en 6 étapes  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 2 : Cycle de vie d’un ouvrage en 5 étapes  (OEET , 2011 )  
+ 
+ 
+1.3 Durée de vie ou durée de référence  d’une infrastructure  
+La durée de référence est la "durée de vie théorique  du produit retenue pour l'unité 
+fonctionnelle"  (norme  NF P 01 -010). Elle correspond à la durée de vie du système considéré,  
+pour un usage et un entretien normal. Elle est donc issue d' un certain nombre d'hypothèses, de  
+constats, de retours d'expériences ou plus simplement de règlements qu'il convient d'identifier.  
+On constate que la durée de référence des infrastructures peut répondre à des critères de  
+performances, d'amortissement écon omique, de durée de concession, voire être fixée de  
+manière conventionnelle.  
+ 
+Afin de respecter l'un des principes généraux de l’analyse de cycle de vie (ACV), il 
+convient de privilégier les approches sciences de la nature (et donc plutôt le 
+vieillissemen t physique d'un objet plutôt que son amortissement économique).  
+ 
+ 
+ 
+       [        DÉCISION       ]         [ OUTILS D’AIDE À LA DÉCISION   ] 
+       [  PLANIFICATION  ]         [               POLITIQUES                      ] 
+       [     CONCEPTION    ]         [   NORMES ET RÉGLEMENTS         ] 
+       [  CONSTRUCTION ]         [             TECHNOLOGIE                  ] 
+       [       ENTRETIEN       ]         [            SENSIBILISATION              ] 
+       [ RÉHABILITATION   ]         [ EXPERTISE, SUIVI, DONNÉES ] Avant la 
+construction  
+Pendant la 
+construction  
+Après la 
+construc tion 
+
+--- PAGE 20 ---
+ 20 Les durées d'amortissement économique, dans la mesure  où elles ne sont pas décorrélées de la 
+durée de vie physique des infrastructures (c'est -à-dire qu'elles  prennent en compte toutes les 
+opérations nécessaires au maintien de la fonction initiale de  l'infrastructure sur la durée de vie 
+typique retenue) peuvent également être utilisées.  
+Lorsque les durées de vie des éléments constitutifs d'une infrastructure sont différentes, il 
+convient de  rapporter les flux de référence d'intrants et d'extrants à la durée de référence 
+retenue. En pratique,  compte tenu de la multiplicité des éléments constitutifs d'une 
+infrastructure associés à des durées de  vie différentes, il convient de ramener l'analyse à  une 
+durée de référence commune.   
+1.3.1 Exemple d'une infrastructure ferroviaire  
+Exemple d'une infrastructure ferroviaire avec une durée d'amortissement de voie ferrée à 
+grande  vitesse (30 ans) différente d'une durée d'amortissement de gare (40 ans).  
+*Hypothèse 1 : la réhabilitation des voies est réalisée après 30 ans et celle de la gare 
+après 40 ans.  
+Dans ce cas de figure, si la durée d'amortissement de l'infrastructure retenue est de 30 
+ans, le flux de  référence considéré de la gare est pris égal à ¾ des flux t otaux de la 
+gare.  
+*Hypothèse 2 : la réhabilitation des voies, réalisée après 30 ans de service entraîne 
+celle de la gare.  
+Dans ce cas, l'ensemble des flux de référence des 2 éléments sont considérés, et 
+rapportés à la durée  d'amortissement retenue de 30 an s. 
+ 
+Ajoutons par ailleurs que la notion de durée de vie n'est pas toujours bien adaptée aux  
+infrastructures. Elle peut convenir à la plupart des éléments constitutifs des infrastructures, 
+même si  certains d'entre eux peuvent, en raison de leur durabilité, échapper à l'échelle 
+humaine communément  admise (ex : assise d'une infrastructure linéaire). L'infrastructure en 
+temps que tracé routier, fluvial ou  ferroviaire, implantation portuaire ou aéroportuaire (dans 
+une moindre mesure peut -être) ne peut à  propreme nt parler pas être examinée sous l'angle "fin 
+de vie". Sa durée de vie excède souvent très  largement la durée de vie de ses éléments 
+constitutifs et donc l'échelle humaine.  
+ 
+Pour surmonter ce  constat et les difficultés liées à la disparité des situations r encontrées, il 
+serait donc préférable de  retenir la notion de "durée de référence", conventionnelle, et 
+commune aux différents types  d'infrastructures.  
+En effet, afin de pouvoir juger objectivement de l’impact comparé de chaque type d’unité 
+fonctionnelle  et que les évaluations environnementales réalisées soient équitables, il est 
+indispensable de fixer une  durée de référence pour l’analyse des impacts environnementaux, 
+communes à tous les types  d’infrastructures de transport.  
+Cette durée commune de référenc e et d'analyse devra être fixée suite à la consultation des 
+différents  gestionnaires. Elle devra permettre d'inclure les opérations d'entretien propres aux 
+différentes  infrastructures afin de refléter la réalité de leur cycle de vie.  
+Elle dépend du type d’ infrastructure. Elle dépend en particulier de la nature des matériaux 
+utilisés pour la construction de l’infrastructure, de leur aptitude à résister aux agressions 
+multiples (climat, sollicitations, vent, etc.).  
+ 
+Le terme «  durée de vie  » désigne tradition nellement «  la pé riode de temps choisie par le 
+maître d’ouvrage , au stade de la conception d’une infrastructure, pour son renouvellement 
+éventuel, c'est -à-dire pour réhabilitation ou sa reconstruction  ». 
+ 
+ 
+ 
+ 
+
+--- PAGE 21 ---
+ 21 Compte tenu des spécificités des infrastructures , il est recommandé de privilégier la notion de  
+"durée de référence" à la notion de "durée de vie.  
+La durée de référence d'une infrastructure, qu'elle reflète une réalité physique, économique  ou 
+qu'elle soit conventionnelle, doit prendre en compte tous les  flux de référence des  opérations 
+associées au maintien de la fonction initiale de l'infrastructure sur la durée de  service projetée.  
+Dans le cadre d'une comparaison, les durées de référence auxquels se réfèrent les résultats  
+doivent être identiques pour l es différentes infrastructures de transport examinées.  
+ 
+1.3.2 Exemple de la mécanique des chaussées  
+En mécanique des chaussées, Il est de plus en plus considéré  inacceptable, du point de vue du 
+service  à l’usager, de laisser la chaussée aller jusqu’à sa ruine. L ’apparition  des dé sordres est, 
+d’autre part, un phénomène alé atoire, du fait de  la dispersion des caractéristiques des 
+matériaux, des é paisseurs  des couches, des conditions hydriques, etc.  
+Ainsi, le guide français de conception des chaussées de  1994 a introduit pour ces raisons la 
+notion de « durée de dime nsionnement initiale », associé e à un « risque de calcul».  
+Deux valeurs s ont proposées pour cette duré e de dimensionnement  initiale, en se basant sur 
+les catégories de voies  : 
+− 30 ans pour les voies du ré seau structurant (autoroutes et routes  express à une 
+chaussée),  
+− 20 ans pour les autres voies . 
+ 
+Figure 3 : Endommagement et vieillissement de l’infrastructure routière 
+(CHIAVASSA M. et al 2013 )  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 22 ---
+ 22 1.4 Fin de vie des infrastructu res (démolition, déconstruction, 
+réhabilitation)  : cas des infrastructures de transport  
+Sur les réseaux structurants, la notion de fin de vie se traduit généralement par une 
+réhabilitation d'ensemble, la notion de démolition étant plutôt réservée à des ouv rages 
+ponctuels, sauf cas particuliers. Cette perspective est donc susceptible de mobiliser 
+d'importantes quantités de matériaux et de produire de très importants impacts indirects.  
+En général, la fin de vie envisagée dans certaines études se limite   à l' enlèvement de 
+différentes quantités de matériaux, avec mise en décharge ou opérations de recyclage ou 
+valorisation.  
+La démolition ou réhabilitation d'éléments constitutifs d'une infrastructure doit être traitée de 
+manière similaire aux opérations de réalis ation de l'infrastructure et donc considérer les 
+mêmes processus de production matériaux, de transports, et de mise en œuvre  (engins, 
+matériels, matériaux spécifiques, déchets, etc.).  
+ 
+ 
+1.5 Intérêt des archives dans l’ évaluation d’ une infrastructure  
+Bien souve nt, la gestion des archives est une activité à laquelle les administrations publiques  
+accordent, pour la plupart, peut d’importance. Cette perte de mémoire du proje t ou de 
+l’infrastructure livrée ‒  en particulier pour les infrastructures à longue durée de vie comme les 
+ponts ‒ peut influencer la qualité de toute évaluation postérieure à sa mise en service. Dans 
+une telle situation, l’évaluateur ou l’expert commis à c ette tâche, quelle que soit son niveau 
+d’expertise, disposera de données partielles pour mener son évaluation. Le coût 
+d’investigation complémentaire au stade de l’évaluation notamment sur les parties cachées de 
+l’ouvrage comme les fondations peut s’avérer  élevé.   
+C’est le lieu de rappeler ici la question de l’évaluation structurelle des infrastructures.  
+ 
+ 
+
+--- PAGE 23 ---
+ 23  
+Chapitre 3 : Conduire une évaluation  
+Certains documents sont nécessaires pour mener une bonne évaluation et produire les 
+livrables attendus dans le ca dre de l’évaluation.  
+ 
+1.1 Pour le c ommanditaire ou maître d’ouvrage  
+1.1.1 Connaître le cycle de l’évaluation  
+Le maître d’ouvrage doit connaître le cycle de l’évaluation ou se faire aider par un maître 
+d’œuvre. Le cycle d’une évaluation est présenté ci -après  : 
+ 
+Figur e 4 : Schéma du cycle d’évaluation  
+ 
+ 
+ 
+Le comité d’évaluation peut être constitué de spécialistes notamment d’ingénieurs, de 
+techniciens ou toutes a utres personnes ayant participé  à la conception, à la réalisation et même 
+à l’entr etien de l’infrastructure.  
+ 
+1.1.2 Choisir un mode de sélection du consultant  
+Ce choix passe généralement par les étapes suivantes  : 
+ 
+− Élaboration d’une demande de proposition (termes de référence)  
+− Sélection du consultant (bureau d’études ou consultant individuel,  etc.) par appel 
+d’offres ouvert ou restreint, par un gré à gré.  
+ 
+1.1.2.1  Élaborer des termes de référence  
+Lorsque l’on doit mener une évaluation sur des infrastructures , la première réaction à avoir est  
+de demander les Termes de Référence (TDR)  de cette étude . 
+L’élaboration des Termes de Référence revient généralement  au commanditaire , au maître 
+d’ouvrage, qui pourrait être l’Etat, une  personne morale ou une personne physique.  
+
+
+--- PAGE 24 ---
+ 24 1.1.2.1.1  Définition des TDR  
+Les TDR sont un document sur une activité dont la réalisation est env isagée, qui précise  la 
+finalité et les fonctions de l’activité, son étendue et ses limites.  L’élaboration  des TDR permet 
+de préciser ce qu’on attend de l’activité. Des TDR clairs, précis et détaillés, connus et 
+acceptés par tous  : 
+− facilitent amplement la r éalisation de l’activité,  
+− réduisent les risques de malentendus et,  
+− favorisent la mission d’évaluation  en participant à l’acceptation des résultats.  
+1.1.2.1.2  Rôles des TDR  
+Les TDR permettent au commanditaire d’une étude ou d’une évaluation  de passer commande 
+à un prestataire (Bureau d’Etudes, Consultant, expert, etc.) afin de lui expliquer ce qu’il veut 
+et pourquoi il le demande.  
+ 
+Elle constitue aussi la base de soumission de la note méthodologique ou de l’offre du 
+Consultant  sollicité qui explique en détail au com manditaire , la méthode et la démarche à 
+suivre pour réaliser le travail confié. Le Consultant ou le Prestataire est choisi en fonction de 
+la qualité de sa méthodologie et sa démarche.  
+ 
+La qualité de la réalisation d’une étude ou d’une évaluation dépend de la qualité des TDR qui 
+constituent, dans la plupart des cas, le seul document dont dispose le prestataire pour élaborer 
+sa méthodologie et sa démarche.  
+1.1.2.1.3  Structure générale des termes de référence  
+Ce module n’étant pas dédié à un  apprentissage de la méthode d’élaboration des TDR d’une 
+évaluation, un aperçu non exhaustif de la structuration des TDR  est donné à titre indicatif .  
+ 
+Les TDR contiennent généralement les rubriques ci -après  : 
+ Contexte et justification  
+ Objectifs  
+ Résultats attendus  
+ Méthodologie  
+ Tâches à exécuter par le Consultant ou le Bureau d’Etudes  
+ Profil du Consultant  / Expertise requise  
+ Durée, lieu, et calendrier de la Prestation  
+ Rapport à soumettre  
+ Annexes  
+ 
+ 
+ 
+ 
+
+--- PAGE 25 ---
+ 25 1.1.2.1.4  Elaboration des termes de références d’une évaluation.  
+La diversité des démarches évalu atives, de leur objet et de leur contexte rend un peu illusoire 
+l’élaboration d’un texte «  généraliste  » adapté à tous les cas de figure.   
+Pour une é valuation externe d’opération de développement , celle -ci est généralement réalisée   
+sous la forme de missio ns de quelques semaines, impliqu ant trois acteurs  : un commanditaire, 
+un évaluateur et un maître d’œuvre de l’opération évaluée.  
+1.1.2.2  Profil de l’évaluateur  
+L'évaluation demande un temps préalable , déterminant pour la suite, de définition précise de 
+l'objet à  évaluer, des critères à utiliser, de choix des questions à poser, des données à 
+rassembler, de sélection des  indicateurs, et des personnes à associer ou à consulter.  
+La bonne réalisation d'un tel référentiel sur mesure et plus généralement la qualité d'une 
+évaluation  nécessite une expertise et une inventivité qui est plus collective qu'individuelle.  
+Des règles de production et des standards de qualité sont à respecter tout au long du 
+processus. L'évaluation  doit en effet être fidèle à la lettre de commande e t au cahier des 
+charges. Elle doit être fiable, transparente,  compréhensible.  
+Mais le «métier» d'évaluateur impose aussi des exigences au plan déontologique, que l'on peut 
+résumer en 4  points  : 
+ tout évaluateur doit être indépendant par rapport au commandit aire, au responsable et aux 
+gestionnaires  du programme et pouvoir exercer pleinement sa liberté de jugement;  
+ tout évaluateur est dans une attitude d'écoute des personnes, sans a priori et en respectant 
+chacune ; 
+ pour être utile et utilisable l'évaluation do it être partagée; les évaluateurs doivent donc 
+dans la  démarche suivie construire ce partage en travaillant en équipe, en privilégiant les 
+approches pluralistes,  en favorisant les échanges internes et externes;  
+ les évaluateurs de programme public formulent  leur jugement en référence à l'intérêt 
+général et en  s'efforçant d'avoir, tout au long du processus, l'intelligence des finalités ...  
+1.1.2.3  Passation de contrats  
+Les évaluations peuvent faire l’objet d’appels d’offre ouverts et sont traités par des bureaux 
+d’étude ou des instituts universitaires. Certaines évaluations importantes peuvent faire l’objet 
+d’appels d’offre très restreints ou de marchés de gré à gré, soit pour des raisons de 
+confidentialité des données, soit parce que l’importance des traitements stat istiques est telle 
+que très peu d’instituts ou bureaux d’étude sont en mesure de les conduire. La puissance 
+publique intervient pour effectuer les recrutements fo urnir des éléments d’évaluation (Claude 
+GRESSIER, 2005).  
+ 
+1.1.3 Pilotage ou suivi de la mission  
+Pour  le suivi de l’exécution de la mission, le Maître d’ouvrage peut mettre en place un comité 
+de pilotage et/ou un comité de gestion. Il s’agit pour lui, à travers la mise en place de ce 
+comité de disposer de compétences plus larges pour la validation du rapp ort du consultant 
+sélectionner pour faire l’évaluation de l’infrastructure concernée par le projet. La mise en 
+place d’un tel comité ou d’une unité de gestion du projet d’évaluation peut être influencée par 
+les bailleurs de fonds qui financent éventuelleme nt cette mission.  
+ 
+ 
+ 
+ 
+
+--- PAGE 26 ---
+ 26 1.2 Pour l e consultant dans le cadre de son évaluation  
+ 
+Tout comme la gestion de projet orientée vers l’impact, la conduite d’une évaluation passe par 
+les étapes suivantes  : 
+ Identification de l’objectif et de champ d’action   (termes de ré férence);  
+ Identification des critères de performance à retenir, des besoins en matière d’information 
+et des indicateurs à utiliser  ; 
+ Planification de la collecte et de l’organisation de l’information  
+ Planification des mécanismes et des activités liés à la réflexion critique  ; 
+ Mise en place des conditions nécessaires à une communication et à des rapports de 
+qualité  ; 
+ Planification des conditions et moyens nécessaires.  
+ 
+Avant d’entamer sa mission, le Consultant ou l’évaluateur doit s’approprier les termes de 
+référence qui lui permettent cerner les attentes du Maître d’Ouvrage.  Sur la base des termes 
+de référence, il devra faire une offre technique et financière dans laquelle sa méthodologie est 
+déclinée. L’ensemble des actions à mener est rappelé ci -après  : 
+ 
+− Proposition technique et financière   
+− Réunion démarrage  (étape de démarrage ) 
+− Rapport de première phase  ou rapport initial  
+− Réunion de débriefing  
+− Rapport final  
+− Résumé  
+ 
+Le rapport d’ évaluation peut être  structuré  en trois phases: une phase de démarrage et 
+d’analyse documentaire durant laquelle les questions sont formulées, une phase de terrain et 
+une phase d’analyse et de préparation du rapport.  
+ 
+1.2.1 Outils et g rilles d’évaluation  
+Une évaluation est  généralement basée sur une combinaison de méthodes qualitatives et  
+quantitatives. Des entretiens avec des personnes ressources ou avec des pairs peuvent  
+constitu er une partie importante de cette approche.  Les outils ci -après aident à faire 
+l’évaluation.  
+1.2.1.1  Outils d’évaluation  
+On donne ci -après quelques outils d’évaluation.  
+− Diagramme des problèmes  
+− Diagramme des objectifs et diagramme des effets  
+− Diagramme de décision  
+− Questionnaire  
+− Indicateurs de contexte  
+
+--- PAGE 27 ---
+ 27 − Entretien individuel  
+− Focus Group  
+− Panel d'experts  
+− Etude de cas  
+− SWOT (Strengths, Weakness, Opportunities, Threats)  
+− Analyse mu lti-critères  
+− Analyse coût -efficacité  
+− Analyse socio -culturelle  
+− Etc. 
+ 
+1.2.1.2  Critères d'évaluation  
+Plusieurs critères peuvent être utilisé s pour faire l’évaluation. On distingue, entre autres, les 
+critères basés sur les éléments suivants  : 
+ 
+ Etat physique et fonctio nnel 
+ Financier  
+ Sécurité incendie  
+ Analyse de matériaux  
+ Performance énergétique  
+1.2.1.3  Grille s d’évaluation  
+C’est un outil d’évaluation   qui permet d’ éviter les oublis majeurs  et permet d’éviter de se 
+perdre dans le labyrinthe des détails . Elle permet une lecture s ystémique de l’évaluation et 
+doit être élaborée en fonction de la finalité de l’évaluation.  
+ 
+1.2.2 Exemple de p hasage de l’ évaluation d’une infrastructure  
+1.2.2.1  Phase initiale  
+La phase initiale a pour but de préparer l'équipe à la mission sur le terrain et de spécifi er 
+l'approche et la méthode d'évaluation. Pendant cette phase, l'équipe se réunira et examinera 
+tous les documents et toutes les données disponibles.  Le produit final de cette phase i nitiale 
+sera le rapport initial.  
+ 
+Le rapport initial précise généralement  les thèmes et les problématiques au cœur de 
+l'évaluation . Ces thèmes et problématiques sont être identifiés sur la base des termes de 
+référence, de la revue documentaire, de l'analyse du Cadre d'évalu ation, de l'arbre de 
+causalité , des données collectées,  des points de vue des acteurs clés du projet  et sur la base des 
+analyses menées lors de la phase initiale.  
+ 
+L'équipe d'évaluation devrait aussi, sur la base des résultats de la phase initiale, proposer une 
+approche et une méthodologie détaillées, compren ant : 1) les méthodes appropriées de 
+collecte de données et d'informations, par exemple la documentation supplémentaire,  les 
+sondages à réaliser,  les entretiens structurés et ouverts, les questionnaires, les séminaires ou 
+ateliers, l'utilisation d'indicate urs, etc., indiquant des limites éventuelles ; 2) les méthodes 
+d'analyse appropriées des informations et des données collectées, indiquant encore une fois 
+les limites et décrivant comment analyser les données par examen croisé, pour valider cette 
+analyse.  
+
+--- PAGE 28 ---
+ 28 L'équipe d'évaluation devrait s’assur er que l’évaluation sera capable de fournir des 
+enseignements et des recommandations d'ordre général sur l’infrastructure.  
+De plus en plus, i l est également important que l'équipe d'évaluation présente un système 
+d'ass urance -qualité pour son évaluation  et pour son travail de synthèse.  
+La phase sur le terrain ne commencera pas tant que le rapport initial n' est pas approuvé  par le 
+maître d’ouvrage ou le comité de gestion du projet d’évaluation .  
+ 
+1.2.2.2  Phase sur le terrain  
+Une fois la phase initiale est réussie et le rapport initial est formellement accepté, l a mission  
+sur le terrain p eut commencer. Le travail sur le terrain sera entrepris sur la base des 
+conclusions du rapport initial. Il concernera principalement la collecte  de données primaires et 
+les entretiens avec les personnes clés , notamment celles qui assurent l’entretien courant et 
+périodique de l’infrastructure . Les études devraient s'appuyer sur des méthodes qualitatives et 
+quantitatives soigneusement appliquées, et  devraient être particulièrement riches en données. 
+S'il apparaît nécessaire, au cours de la phase sur le terrain, de s'écarter de manière 
+significative de la méthodologie ou du calendrier adoptés, cet écart devrait être expliqué au 
+maître d’ouvrage ou au Comité de gestion qui devrait l'accepter.  
+1.2.2.3  Phase de rédaction d u rapport  
+Un projet de rapport présentant les conclusions principales et les enseignements et 
+recommandations les plus importants devrait être soumis à une date précise . Après les 
+commentaires du maître d’ouvrage ou du  Comité de gestion, le  rapport devrait être finalisé .  
+Une note résumant les principales conclusions de la phase sur le terrain devrait être soumise 
+quelques jours  après la mission sur le terrain. Elle devrait pouvoir servir de base  à une réunion 
+du Comité de gestion  et de permettre des discussions et une première validation des 
+conclusions préliminaires, avant la rédaction du projet de rapport de synthèse.  
+1.2.2.3.1  Phase de synthèse  
+Le chef d'équipe d'évaluation devrait entamer la rédactio n du rapport de synthèse 
+parallèle ment à la rédaction de projet de rapport final .  
+1.2.2.3.2  Communication et dissémination  
+ Un atelier est généralement peut être prévu  à la fin de l'évaluation  avec pour  pour but de 
+disséminer les conclusions de l'évaluation et de  discuter des enseignements, des 
+recommandations et de leur mise en œuvre.  
+1.2.2.3.3  Rapport  final  
+Le rapport remis est considéré comme un  projet de rapport. Après commentaires et 
+discussions avec le maître d’ouvrage ou le le Comité de gestion du projet , il est finalisé.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+--- PAGE 29 ---
+ 29 1.3 Connaissance des procédures techniques  et des étapes d’un projet  
+La connaissance des procédures techniques  et des étapes d’un projet est indispensable aussi 
+bien pour le Maître d’Ouvrage que pour le Consultant. C’est que l’évaluation d ’une 
+infrastructure, comme toute autre étude peut comporter plusieurs phases parmi lesquelles on 
+peut distinguer  : 
+− l’évaluation préliminaire,  
+− l’évaluation en avant projet sommaire , 
+− l’évaluation en avant projet détaillé ou le projet d’évaluation.  
+ 
+La différ enciation des phases peut se faire conformément aux différentes phases des projets 
+d’infrastructures routières par exemple.  
+En effet, pour les projets routiers, on distingue, selon le type d’infrastructure routière les 
+phases rappelées ci -après  : 
+ 
+ Autorout es concédées  
+− Etudes d’avant projet sommaire, constitués des études destinés à permettre à 
+l’administration d’approuver le principe du projet envisagé, ses principales 
+caractéristiques, ainsi qu’une estimation prévisionnelle sommaire  ; 
+− Etudes d’avant projet  autoroutier (APA), permettent d’affiner les choix techniques et 
+la description du projet envisagé et d’arrêter le coût avec une bonne fiabilité  ; 
+− Etudes d’exécution (servent à la constitution des pièces techniques des dossiers 
+d’appel d’offres).  
+ 
+ Réseau r outier national non concédé  
+− Etudes préliminaires  
+− Etudes d’avant -projet sommaire  
+− Etudes de projet  ou avant projet détaillé  
+− Etudes d’exécution . 
+1.3.1 Cas des ouvrages d’art non courant  
+Les ouvrages d’art non courant donnent lieu à l’établissement de dossiers spéci fiques dont 
+l’instruction est menée en parallèle à celle des études routières.  
+Les études d’ouvrages d’art non courants se déroulent en deux phases  :  
+− l’étude préliminaire d’ouvrages d’art non courants, qui a pour but d’évaluer le coût, de 
+choisir un parmi  les variantes et, le cas échéant, de fournir les éléments nécessaires à 
+l’enquête publique . 
+− le projet d’ouvrages d’art non courants qui doit permettre de définir avec précision le 
+dimensionnement de l’ouvrage, de fixer toutes les options techniques et arc hitecturales 
+de la solution retenue, ses conditions de dévolution et les variantes admises. Le projet 
+d’ouvrages est établi sur la base de d’études préliminaires préalablement approuvées.  
+ 
+
+--- PAGE 30 ---
+ 30 Les ouvrages d’art non courant11 sont : 
+ les ponts possédant au moins  une travée de plus de 40 m de portée,  
+ les ponts dont la surface totale de l’un des tabliers dépasse 1200 m2,  
+ les murs de plus de 9 m de hauteur,  
+ les tranché es couvertes et semi couvertes de plus de 300 m de longueur,  
+ les tunnels creusés ou immergés,  
+ les ponts mobiles et les ponts canaux,  
+ tous les ouvrages ne dépassant pas les seuils précédents, mais dont la 
+conception présente des difficultés particulières.  
+1.4 Evaluation d’une infrastructure existante  
+1.4.1 Finalités  
+Pour les infrastructures ou ouvrages, les r épara tions, les renforcements , les adaptations  ou 
+même leur démolition  en constituent la finalité.  
+La réparation  consiste à rendre à un ouvrage dégradé son état de service initial.  
+Le renforcement  consiste à améliorer le niveau de service initial d'un ouvrage,  par exemple  
+pour permettre le passage d'un convoi exceptionnel non pris en compte lors de la conception.  
+L'adaptation  d'un ouvrage existant consiste à le modifier pour lui faire remplir un nouveau 
+service pour lequel il n'avait pas été prévu lors de sa co nception, par exemple l'ajout de voies 
+de tramways à côté des voies routières existantes, l'ajout de pistes cyclables ou de trottoirs, 
+l'amélioration de l'accès aux handicapés, etc.  
+On disti ngue, pour ces infrastructures,  l’évaluation d’état et l’évaluatio n structurelle.  
+ 
+Le mot «  infrastructure  » désignant une unité fonctionnelle et donc l’ensemble des 
+installations et équipements nécessaires à l'exploitation normale de l’infrastructure, il est 
+nécessaire d’évaluer chacun de ces éléments. Il s’agit de comp rendre et de porter un 
+jugement de valeur sur chacun des éléments.  
+Il serait difficile d’analyser, de façon exhaustive, tous les éléments constitutifs d’une 
+infrastructure dans le cadre de ce module.  
+1.4.2 Evaluations structurelles / évaluations de l’état  
+Le term e "évaluation structurelle" désigne l'appréciation de la capacité portante et de 
+l'aptitude au service d'un ouvrage qui généralement est basée sur des calculs de structure.  
+Il ne doit pas être confondu avec "l'évaluation de l'état" de l'ouvrage qui résulte  d'une visite 
+d'évaluation de type IQOA par exemple.  
+ 
+L'évaluation structurelle des ouvrages ne concerne pas uniquement les ouvrages 
+pathologiques. Une évaluation structurelle peut également être menée pour apprécier 
+l'aptitude d'un ouvrage en bon état à s upporter le passage d'un convoi exceptionnel et définir 
+les conditions de circulation à imposer lors de son passage.  
+Le thème inclut donc le champ des convois exceptionnels qui sont à l'origine de la majorité 
+des évaluations st ructurelles effectuées . 
+ 
+                                                 
+11 SETRA, Club des concepteurs routiers [1994]  : guide du chef de projet  ; analyse des procédures 
+liées à la conception routière.  
+
+--- PAGE 31 ---
+ 31 L’évaluation de la sécurité se définit comme étant un  examen documenté par un ingénieur 
+de pont ferroviaire de l’ensemble des inspections, des évaluations, des mesures, des rapports, 
+des renseignements et des circonstances relatifs à un pont pour s’assurer qu’ il est sécuritaire  
+pour l’utilisation prévue.  
+ 
+L’inspection visuelle  est une  inspection documentée effectuée par un ingénieur de pont 
+ferroviaire ou un inspecteur de pont ferroviaire sous la direction d’un ingénieur de pont 
+ferroviaire afin de consigner l es changements ou les réparations et de déceler les défaillances 
+qui peuven t s’être produites ou aggravées depuis la dernière inspection. Cela consiste à 
+mesurer les défaillances  particulières, à vérifier l’état général du pont et de ses environs pour 
+en confirmer la sécurité générale.  
+ 
+La caractérisation de l’état et des performances des ouvrages est indispensable à toute 
+politique de gestion efficace du patrimoine bâti. Les  méthodes d’auscultation non 
+destructive  sont aujourd’hui capables de fournir des i nformations essentielles dans de 
+nombreux cas. Cependant, leur diversité, leur complexité apparente et l’absence de critères 
+d’évaluation unanimement acceptés ou de procédures normalisées d emeurent un frein à leur 
+emploi (Breysse D., 2005).  
+ 
+On distingue, entre autres, les méthodes suivantes  : 
+ 
+o Méthodes d'évaluation non destructive par propagation d'ondes mécaniques  
+o Méthodes électromagnétiques d'évaluation non destructive  
+o Méthodes thermiques d'évaluation non destructive  
+o Méthodes électriques et électrochimiq ues d'évaluation non destructive  
+o Méthodes radiographiques d'évaluation non destructive   
+o Méthodes optiques d'évaluation non destructive  
+ 
+Il appartient au maître d’ouvrage d’exprimer ses attentes et de veiller à ce que l’exploitant des 
+infrastructures assure  la sécurité de ses activités et, par conséquent, veille à ce que 
+l’infrastructure conserve son intégrité structurale et ne subit pas de défaillances 
+catastrophiques ou d’événements indésirables qui peuvent se solder par des morts, des 
+blessés, des dégâts à l’environnement, des dégâts matériels ou d’autres pertes. L’autorité 
+propriétaire d’une infrastructure dont elle n’a pas les responsabilités d’inspection et 
+d’entretien devrait fournir des garanties raisonnables que la sécurité n’est d’aucune façon 
+compr omise.  
+ 
+Le corpus technique ré glementaire ou normatif dans plusieurs pays  relatif à l'évaluation 
+structurelle des  ouvrages est quasiment inexistant.  
+Quelques normes sur l’évaluation des ouvrages existants sont présentées ci -après  : 
+ Norme ISO 13822 : 2001 : "Bases du calcul des constructions - Évaluation des  
+constructions existantes" ;  
+ NF EN 1998 -3 (décembre 2005) et son annexe nationale (janvier 2008) : "Eurocode 8 . 
+ 
+ 
+
+--- PAGE 32 ---
+ 32 1.5 Etude de cas  : évaluation des infrastructures routières  
+1.5.1 Convoi exceptionnel routier  
+Un convoi exceptionnel est un transport de marchandises, ou une circulation de véhicules, 
+présentant un caractère exceptionnel en raison de ses dimensions ou de sa masse, lesquelles ne 
+respectent pas les limites réglementaires du  code de la rout e. 
+Pour ces type s de convois, une évaluation des infrastructures routières peut être nécessaire 
+avec pour finalité la détermination de solutions techniques permettant de limiter les 
+dommages subis par les infrastructures.  
+ 
+Photo 2: Convoi exception nel dédié au transport d’un segment de pont  
+ 
+Pour que les autorités administratives autorise nt la circulation du convoi sur un itinéraire 
+défini , celles -ci ont besoin de connaître les conditions particulières  à mettre en œuvre afin de 
+limiter les dommages .   
+ 
+L’évaluation permettra de connaître l’état de désagrégation de matériaux constitutifs de la 
+structure de chaussée , car il conditionne le comportement de la structure et son mode de 
+fonctionnement sous chargement  
+ 
+Pour ces types de convoi, dans le cadr e d’une vérification de comportement  sous chargement, 
+de la structure de chaussée, il ne suffit pas de disposer d’un modèle mathématique pour 
+répondre au problème posé. Il est nécessaire  : 
+− de recourir à des mesures de déflexion pour caler la schématisatio n de la structure,  
+− de réaliser des essais de plaque pour estimer les déformations permanentes et,  
+− d’utiliser des appareils de mesures de déplacements pour suivre expérimentalement le 
+comportement  de la chaussée éventuellement à l’aide d’un inclinomètre.  
+Dans le cadre d’une telle évaluation, il est nécessaire de connaître  : 
+− l’historique de la chaussée (durée de vie projeté au stade de la conception, l’âge de la 
+chaussée, la structure de chaussée, l’environnement de la chaussée, etc.), 
+− le trafic actuel et le trafic escompté,  
+− l’état général de fatigue (déflexions et relevé d’itinéraire) , 
+− etc. 
+
+--- PAGE 33 ---
+ 33  
+Sur la base de ces éléments, l’évaluateur est amené à évaluer les dommages et déterminer la 
+durée de vie résiduelle de la chaussée.  
+ 
+Par définition, la durée de vie ré siduelle d’une chaussée est égale à la durée de vie escomptée 
+diminuée de la durée de service exprimée en nombre d’essieux standard. Elle est donc 
+fonction de l’intensité de la circulation.  
+ 
+Elle est calculée suivant la formule ci -après  : 
+n=N-N’ 
+Où N= dur ée de vie escompté (essieux standard de 13 t)  
+      N’= durée de service (essieux standard de 13 t)  
+ 
+Le cumul des dommages subis par la chaussée est par la suite évalué. Cette évaluation permet 
+de cerner l’état de fatigue de la chaussée et d’’envisager les  travaux de renforcement ou de 
+réhabilitation.  
+ 
+1.5.2 Evaluation de l’état des ponts  
+Les p rincipaux objectifs d’une inspection sont de  : 
+− garantir que l’état d’un pont est sécuritaire,  
+− déterminer les travaux d’entretien, de réparation et de réfection qu’il est n écessaire 
+d’effectuer,  
+− fournir une base pour la planification et le financement des travaux d’entretien et de 
+réfection nécessaires.  
+ 
+Quand des renseigne ments plus détaillés que ceux fournis par une inspection visuelle sont 
+requis pour une structure, un examen plus poussé peut être  effectué.  
+Par exemple, la présence de défauts de matériaux ou de  défectuosités de rendement gra ves 
+dans les éléments individuels d’un pont peut nécessiter un examen plus poussé, lequel, pour 
+les composantes d’ un pont en béton, sera habituel lement une évaluation de l’état du pont.  
+Dans ce genre d’évaluation, on emploie des procédés plus précis que les techniques 
+d’inspection visuelle pour évaluer l’étendue des défauts et de la détérioration d’une structure.  
+ 
+Le diagnostic sommai re peut porter  sur l’examen de l’é tat de cinq éléments critiques d’un 
+pont que sont:  
+− la surface du tablier,  
+− le soffite,  
+− les parois des appuis,  
+− les joints de dilatation et,  
+− les poutres de béton ou d’acier.  
+
+--- PAGE 34 ---
+ 34  
+Photo 3 : Eléments d ’un pont  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1.5.3 Evaluation immobilière  / diagnostic immobilier  
+Tel que défini précédemment, les bâtiments font partie des infrastructures. Dans ce qui suit, 
+nous nous intéresserons au diagnostic immobilier.  
+ 
+Un diagnostic immobilier est un contrôle d'une habitation réalisé par un expert. Il aboutit à un 
+bilan de l'état du bien.  Les études de diagnostic, dans le cas d’une opération de réutilisation ou 
+de réhabilitation, permettent de renseigner le maître de l’ouvrage sur l’é tat de l’ouvrage et sur 
+la faisabilité de l’opération et ont pour objet :  
+ d’établir un état des lieux, le maître d’ œuvre  est chargé, s’il y a lieu, d’effectuer les 
+relevés nécessaires à l’établissement de cet état des lieux  ; 
+ de procéder à une analyse tech nique sur l a résistance des structures en place et sur la 
+conformité des équipements techniques aux normes et  règlements en vigueur.  
+ 
+TTrroottttooiirr   
+FFûûtt  ddee  ppiillee SSooffffiittee PPoouuttrree 
+CChheevvêêttrree AAppppaarreeiill    
+dd’’aappppuuii 
+GGaarrddee--ffoouu 
+CCoouucchhee  dd’’uussuurree 
+JJooiinntt  ddee  ddiillaattaattiioonn   
+TTrroottttooiirr   
+
+--- PAGE 35 ---
+ 35 1.5.3.1  Contenu d’un diagnostic  technique de bâtiment  
+Afin de renseigner correctement la grille, un diagnostic technique préalable  du bâti,  réalisé sur 
+le terrain, est nécessaire pour constater l’état des ouvrages et estimer le  besoin d’intervention.  
+Les bâtiments sont soumis à un processus permanent de dégradation physique sous  l’effet des 
+agressions extérieures d’une part et de l’u sage des occupants d’autre part.  
+ 
+La dégradation progressive des matériaux et équipements est imputable aux :  
+− facteurs cl imatiques (le soleil, la pluie, le vent,  l’air salin en  bord de mer...) ;  
+− facteurs biologiques et chimiques (les mousses, les lierres, les racines des arbres, et  
+autres végétaux) ;  
+− facteurs atmosphériques (la pollution de l’air) ;  
+− facteurs humains : le comportement, bon ou mauvais, des usagers (obstruction des  
+ventilations, sur -occupation, absence d’entretien préventif ou curatif...).  
+Chacun des désordres doit être identifié et faire l’objet d’une préconisation respectant  les 
+caractéristiques architecturales du bâtiment afin d’obtenir une réhabilitation  pérenne et de 
+qualité.  
+Avant tout projet de réhabilitation, une vision d’ensemble est i ndispensable pour avoir  une 
+bonne connaissance du bâtiment et de ses éléments constructifs.  
+Le diagnostic technique nécessite une démarche progressive, allant de la simple  observation 
+visuelle des désordres jusqu’au diagnostic détaillé qui permet d’élabore r le projet de 
+réhabilitation ou d’amélioration  
+ 
+Les étapes à suivre dans tout processus de diagnostic du bâti sont :  
+− le diagnostic général préalable , qui consiste à réaliser lors d’une visite un relevé  des 
+principaux éléments du bâti, une première évaluat ion de l’état du bâtiment et à  repérer 
+les besoins en études spécifiques complémentaires ;  
+− les études approfondies ou spécifiques (sondages, témoins...), qui récoltent toutes  les 
+informations permettant de confirmer les désordres observés dans le bâtiment lors du 
+diagnostic préalable ;  
+− le diagnostic complet, qui consiste à analyser les informations issues du diagnostic  
+préalable et des études spécifiques pour déterminer les besoins en travaux 
+(réhabilitation  ou amélioration).  
+ 
+Le diagnostic doit comprendre : 
+− une présentation générale de l’immeuble ou du logement : situation, 
+environnement,  caractéristiques urbaines et type d’occupation ;  
+− une description du bâti : âge de l’immeuble, évolution historique, composition,  
+nombre de bâtiments, nombre d’étages, de l ogements, surface, ainsi que les modes de  
+construction ;  
+− une description des éléments et de leurs désordres : examen des différents  éléments 
+: type d’équipement, technique de mise en œuvre  (gros œuvre , réseaux...),  matériaux et 
+état de conservation ainsi q u’une description et interprétation des désordres  constatés ;  
+
+--- PAGE 36 ---
+ 36 − les préconisations de travaux répondant aux dysfonctionnements.  Connaître la 
+date de construction de l’immeuble permet de comprendre certains  systèmes 
+constructifs et d’apporter des informations  indispensables à l’analyse des  pathologies.  
+ 
+Les données recueillies lors de l’inspection visuelle de l’édifice, par le diagnostic  du bâtiment 
+et par l’étude des documents techniques, permettent de renseigner  la “grille d’évaluation de la 
+dégradation de l ’habitat” et de caractériser l’état des  différents éléments.  
+ 
+1.5.3.2  Quelques méthodes de diagnostic d’un bâtiment  
+ Méthode MERIP  
+La méthode de  diagnostic sommaire MERIP  constitue un outil important pour la rénovation 
+de l'habitat en  Suisse. Elle permet au travers  d’une visite systématique de connaitre 
+l'importance des dégradations d'un immeuble  et de déterminer le coût estimatif de sa remise 
+en état. Le temps nécessaire à la visite ainsi qu’à l’élaboration du rapport est de l’ordre de 
+deux jours. Avec une précisio n suffisante de l’ordre de 15  %, l'expert peut déterminer les prix 
+estimatifs les plus proches de l a réalité (Wikipédia 2013).  
+ 
+ Méthode EPIQR  
+EPIQR (Energy Performance, Indoor environmental Quality and  Retrofit) est un outil de 
+planification technico -finan cière de la rénovation des bâtiments d'habitation et permet au 
+maître d'ouvrage de se déterminer sur les options à prendre entre divers scénarios 
+d'interventions possibles.  
+Il est réalisé dans le ca dre du programme européen et avec le soutien de l'Office f édéral suisse 
+de l'éducation et de la science  sur la base de la  méthode MERIP  et a permis de mettre au point 
+un logiciel  dont les fonctions sont multiples  : 
+ 
+− Évaluer l'état de dégradation du bâtiment à partir d'un diagnostic complet et rapide qui 
+constitue  le point de départ de toute opération de réhabilitation.  
+− Établir des propositions de travaux qui prennent en compte non seulement la remise en 
+état du bâtiment mais aussi l'amélioration de ses performances énergétiques ainsi que 
+l’amélioration de la quali té intérieure des logements.  
+− Estimer les coûts correspondant à ces travaux.  
+− Estimer l'évolution probable de la dégradation des composants si aucun des travaux 
+n'était réalisé ainsi que l'évolution du coût de la remise en état qui en résulterait.  
+ 
+ Méthode M ER HABITAT  
+La méthode MER habitat  (MER signifiant «  méthode d'évaluation rapide  ») est une méthode 
+de diagnostic immobilier  des dégradations, désordres et manques et d’évaluation des coûts de 
+remise en état des bâtiments d’habitation.  
+Le principe de MER, m éthode d'évaluation rapide, est, après diagnostic des dégradations, de 
+ramener les coûts des prestations de remise en état d'un bâtiment à une ou plusieurs surfaces 
+de référence. Il est donc nécessaire d'établir d'abord des diagnostics conventionnés des 
+dégradations des différentes parties d'ouvrage, puis de calculer par l'intermédiaire de données 
+statistiques ou d'une série de prix, leur remise en état et enfin de les additionner pour produire 
+le coût total.  
+
+--- PAGE 37 ---
+ 37 1.5.3.3  La certification des diagnostiqueurs  
+La certifi cation obtenue par le diagnostiqueur garantit à son client institutionnel ou privé qu’il 
+est détenteur des compétences nécessaires pour réaliser le ou les diagnostics réglementaires, et 
+met fin à l’expression de jugements de valeur souvent subjectifs émana nt d’acteurs isolés de 
+la filière professionnelle du diagnostic.  
+En France, e lle concerne actuellement six diagnostics obligatoires pour la vente d'un bien 
+immobilier  : l'amiante, le plomb, le DPE (diagnostic de performance énergétique), les 
+termites, le g az et l'électricité.  
+Le processus de certification comprend deux étapes  : un examen théorique qui permet 
+l'évaluation des connaissances théoriques requises pour chacun des diagnostics et un examen 
+pratique, qui consiste en une mise en situation virtuelle d u candidat pour évaluer son aptitude 
+à la réalisation du diagnostic.  
+ 
+1.5.3.4  Cas spécifique de la France  
+En France, la loi oblige le vendeur le bailleur d'un bien immobilier à faire effectuer un 
+diagnostic immobilier de son bien avant la vente ou la location de c elui-ci. En fonction de la 
+date de construction ou de l'implantation géographique, le vendeur ou le loueur doit effectuer 
+tout ou partie des diagnostics suivants  : 
+1.5.3.4.1  En cas de vente  
+ Amiante. Il s'agit d'établir l'état de présence ou d'absence de matériaux ou  produits 
+contenant de l'amiante (article L. 1334 -13 du code de la santé publique). En cas de 
+présence d'amiante, le diagnostic est valable 3 ans. Il est conseillé de le refaire suite à 
+des travaux.  
+ Termites ou état parasitaire. Valable 6 mois.  
+ Exposition au plomb  (peintures)  : validité  de 1 an si la présence de plomb a été 
+constatée, et illimitée si aucune trace de plomb n'a été constatée ou que les traces 
+relevées sont inférieures à certains seuils. Il est conseillé de le refaire suite à des 
+travaux.  
+ Diag nostic de performance énergétique  (DPE). La durée de validité est de dix ans ;  ce 
+diagnostic doit être cependant refait si l'habitation a connu des travaux.  
+ Etc. 
+ 
+1.5.3.4.2  En cas de location  
+Le dossier de diagnostics techniques (DDT)  contient au maximum 5 diagnost ics immobiliers 
+obligatoires.  
+ Diagnostic Amiante (liste A  : repérage des flocages, calorifugeages, faux plafond).  
+ État des risques naturels et technologiques (ERNT).  
+ Diagnostic de performance énergétique  (DPE).  
+ Le constat de risque d’exposition au plomb (C REP).  
+ Le mesurage de la superficie habitable sur les baux de location  
+ 
+ 
+
+--- PAGE 38 ---
+ 38 1.6 Projet de construction d’une infrastructure  : aspect spécifique de 
+l’évaluation  
+Lors de la conception, de la construction ou de l’exploitation d’une infrastructure, une 
+évaluation du p rojet d’infrastructure peut être menée pour aider le Maître d’Ouvrage à la prise 
+de décision. Sans rentrer dans le détail de ce processus qui pourra être davantage développé 
+dans le cadre d’un module consacré à la gestion de projet, l e graphique ci -après p résente le 
+cycle de vie générique d’un projet avec un accent sur la phase exploitation et évaluation de 
+performance du projet réalisé.  
+ 
+Figure 5: cycle de vie générique d’un projet  (Wilson O., 2005  (b)). 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 39 ---
+ 39 1.6.1 Finalité s de l’évalua tion  
+Pour une infrastructure à concevoir, à construire et à exploiter, le  moment choisi pour 
+l’évaluation  influence sinon détermine l es finalité s de l’évaluation . Une évaluation peut être 
+réalisée avant, pendant ou après la réalisation du projet . Selon le  moment, ses finalités et 
+son utilisation  seront différentes.  
+ 
+Les évaluations sont faites pour  : 
+− optimiser les ressources allouées à l’exécution d ’un projet  en choisissant de lancer 
+l'évaluation au moment où elle aura la plus grande valeur ajoutée.  
+− répond re aux besoins des principaux utilisateurs de l'évaluation au meilleur moment.  
+− garantir qu'une masse critique de résultats et d'impacts se sont déjà matérialises sur le 
+terrain et se prêtent à une collecte d'information.  
+− éviter d'entrer en conflit avec des  exercices concomitants de bilan ou d'audit.  
+L’évaluation, en d’autres termes, permet au commanditaire de s’informer, de savoir, de 
+décider, de gérer.  
+ 
+Les moments de l'évaluation sont les mêmes que ceux définis précédemment.  
+On distingue  également  : 
+− l'évaluation ex ante ; 
+− l'évaluation à mi -parcours  ; 
+− l'évaluation finale ou terminale  ; 
+− l'évaluation ex post.  
+ 
+D’autres types d’évaluations effectués sont présenté s ci-après.  
+ 
+1.6.2 Evaluation des projets par les institutions de financement  
+Pour les institutions charg ées du suivi -évaluation des projets, la fonction «  évaluation  » se 
+situe en amont pour optimiser le choix des projets et en aval des opérations pour rectifier la 
+trajectoire en fonction des écarts et mesurer l’efficacité des opérations dans la réalisation des 
+objectifs stratégiques définie par la vision de l’entreprise.  
+ 
+La fonction évaluation se subdivise en deux volets  :  
+ l’auto -évaluation entreprise par les chargés de projets et , 
+ l’évaluation indépendante pour les décideurs ou le maître d’ouvrage. L’éval uation 
+indépendante est réalisée par un consultant qui peut être un bureau d’études ou un expert  
+à la demande du maitre d’ouvrage.  
+L’évaluation est intégrée dans le cycle opérationnel des institutions, jo uit d’une indépendance 
+mais n’est pas une fonction isolée dans les institutions. Les outils et cadre de référence 
+(conceptuel, de suivi, et d’évaluation rétrospective) ainsi que les indicateurs de performance 
+retenus pour la soutenir sont dé veloppés de façon participative.  
+La figure ci -après donne le cycle  de projet du groupe de la Banque Africaine de 
+Développement (BAD) en 2013.  
+ 
+ 
+ 
+ 
+ 
+
+--- PAGE 40 ---
+ 40  
+Figure 6: Exemple de cycle de projet des institutions de financement  : casdu 
+groupe de la Banque Africaine de Développement (source http://www.afdb.org/ ). 
+ 
+ 
+ 
+1.6.3 Autres évaluations  
+L'évaluation peut  être menée dès la phase préliminaire du projet et être ensuite  actualisée en 
+fonction de l’avancement des études. Elle fournit des indications sur la nature de  l’évaluation  
+selon l’état d’avancement du projet, définissant pour chacun d’eux une présentation  
+synthétique unifiée  : 
+− au stade premier, lorsque l’idée du projet arrive pour la première fois, l’évaluation 
+comporte  une description de la nature du problème à résoudre, d e la nature (alors mal 
+connue) de la  solution et de la description de ses impacts positifs et négatifs et une 
+indication du rapport  coûts -avantages.  
+− au stade de la planification, les mêmes informations sont fournies, avec une 
+description plus  fine du proje t. 
+− au stade du financement, l’étude de la solution alternative est approfondie et l’analyse 
+coûts  – avantages  est décomposée.  
+Certaines institutions internationales  évalue nt les projets d'investissement pour s'assurer qu'ils  
+sont conformes aux objectifs de  développement des pays emprunteurs. Dans la pratique, elles 
+s'appuie nt sur des économistes qu’elles emploient , soit pour réaliser les  évaluations, soit pour 
+superviser des consultants extérieurs. On notera l'existence d'un contrôle  interne élaboré , de la 
+relecture par les pairs ( GRESSIER, 2005).  
+ 
+L'évaluation en cours de mise en œuvre offre le meilleur compromis entre utilité et 
+fiabilité, particulièrement si elle intervient dans la seconde partie du cycle.  
+Pour que l'évaluation tire les enseignements de l 'expérience des programmes précédents 
+au profit d'une amélioration des programmes suivants, une solution intéressante est 
+d'établir un plan pluriannuel d'évaluation couvrant plusieurs  cycles  de programmation.  
+ 
+ 
+
+--- PAGE 41 ---
+ 41  
+Les c ontraintes et facteurs ci -après favoris ent l'appropriation de l'évaluation.  
+ 
+Tableau 4 : Contraintes et facteurs favorisant l'appropriation de l' évaluation12 
+ELEMENTS FAVORISANT LA 
+VALORISATION DES EVALUATIONS  CONTRAINTES A LA VALORISATION DES 
+EVALUATIONS  
+1. La volont é de changer  
+La volont é de changement est le facteur 
+clef pour la valorisation des évaluations. 
+Une organisation certaine de la qualit é 
+de son action, de ses choix, et ne 
+s'interrogeant pas sur les 
+changements n écessaires aura 
+beaucoup de mal à valoriser un e 
+évaluation.  
+ 1. .Le contexte des  projets  
+Les enjeux dans l'ar ène du d éveloppement sont 
+plus fr équemment le pouvoir et l'argent que la qualit é 
+des actions. Les évaluations sont alors plus faites pour 
+obtenir le renouvellement d'un financement que pour 
+améliorer la qualit é de l'action ; les salari és13 sont 
+plus dans une position de peur par rapport à leur 
+emploi que de recherche du changement 
+social ; les « bénéficiaires » cherchent le maintien 
+des « bénéfices » qu'ils tirent des projets plus que 
+l'améliorat ion des projets.  
+2. L'équipe projet  
+L'existence dune équipe projet 
+« professionnelle  », avec une bonne 
+maîtrise des outils de gestion de projet, 
+des comp étences techniques.  2.. L'équipe projet  
+Un manque de comp étence des commanditaires , les 
+amène à rejete r toute critique externe et toute 
+tendance au changement.  
+3. La concertation entre acteurs  
+Une pratique de concertation entre 
+acteurs, permettant l'implication des 
+acteurs dans le processus 
+d’évaluation, en  particulier dans 
+l'élaboration des termes de r éférence.  
+ 3. Des  enjeux divergents entre acteurs  
+Des enjeux divergents entre acteurs, sans espace de 
+négociation, am ènent à une multiplicit é d'attentes par 
+rapport à l'évaluation. Ceci se retrouve généralement 
+dans l'absence de choix clairs au niveau des te rmes 
+de référence sur l'objet évalué, les acteurs impliqu és 
+et les d écisions à prendre. Ceci contribue largement à 
+rendre difficile la valorisation de I évaluation.  
+4. Management coll égial 
+Un management coll égial de l'institution 
+avec une pratique du débat interne , du 
+partenariat et une capacit é à la critique et 
+l'autocritique.  4. Un management peu participatif, des acteurs 
+peu impliqu és 
+Une institution g érée de mani ère autoritaire, sans 
+collégialité, sans capacit é d'autocritique, des 
+acteurs ou commandita ires sans r éel pouvoir de 
+décision . 
+5. Format de l' évaluation  
+Une évaluation sur une dur ée suffisante, 
+avec des termes de référence élabor és 
+de mani ère participative, des temps 
+d'échange entre évaluateurs et 
+commanditaire  sur les conclusions 
+partielles et  des restitutions finales.  5. Format de l' évaluation  
+Une évaluation courte, un rapport long et peu lisible, 
+une restitution rapide.  
+ 
+6. La programmation de l'apr ès-
+évaluation  
+Un apr ès-évaluation planifi é et budg été, 
+permettant une mise en débat des 
+conclu sions de l' évaluation et un 
+travail sur les décisions à prendre . 6. L'évaluation vue comme point de passage  
+Une évaluation con çue seulement comme un point 
+de passage oblig é pour une nouvelle phase ou pour 
+rendre compte  
+ 
+                                                 
+12 Source  : « suivre et valoriser une évaluation  » Christophe Mestre CIEDEL cité par Rémi BACHELET , adapté par 
+KOUASSI  P. 
+13 C’est le cas pour les salariés chargés de l’entretien . 
+
+--- PAGE 42 ---
+ 42  
+Chapitre 4 : Autres méthodes d’év aluation des infrastructures  
+ 
+1.1 Méthodes d'évaluation des ouvrages de génie civil  
+Les différentes méthodes d'évaluation des ouvrages de génie civil ont été classifiées en 
+fonction des approches ou des méthodologies mises en œuvre . 
+1.1.1 La modélisation  physique  
+Cette approche repose sur les processus mécaniques de dégradation d'une structure, en 
+prenant en compte les équations régissant les phénomènes. Elle implique une connaissance 
+approfondie du système et sa représentation sous forme de modèles physiques et 
+mathématiques, appuyés par simulation numérique.  
+1.1.2 La modél isation fonctionnelle  
+ Cette méthodologie vise à étudier les ouvrages sous l'angle des fonctions qu'ils doivent 
+remplir et pour lesquelles ils sont conçus. Elle détermine les interactions entre les comp osants 
+d'un système et son environnement de façon à établir, de manière formelle, les liens entre les 
+défaillances des fonctions, leurs causes et leurs effets.  
+1.1.3 L'analyse statistique  
+Ce mode d'évaluation nécessite un retour d'expérience riche et parfaitemen t documente. Les 
+méthodes statistiques appliquées aux données du retour d'expérience permettent d'établir des 
+corrélations entre les défaillances et des facteurs explicatifs, pour anticiper ensuite les 
+comport ements . 
+1.1.4 L'expertise  
+Cette dernière approche est  privilégiée, en présence d'un nombre réduit d'ouvrages ou en 
+absence de modèle de comportement, pour évaluer une structure et prévoir des évolutions.  
+ 
+1.2 Tendance dans l’évaluation des Infrastructures  
+De plus en plus, les nouvelles approches pour évaluer le s infrastructures  sont axées sur le 
+risque. Ces approches tiennent compte de l'état actuel des ouvrages, notamment les ponts, 
+ainsi que des conséquences associées à une défaillance éventuelle.  
+Pour les infrastructures publiques  de base, il conviendrait que  les experts instaurent  des 
+pratiques fiables et uniformes dans un pays donné . Dans la plupart des cas,  les infrastructures 
+sont évaluées en effectuant un carottage mécanique, en inspectant visuellement les 
+échantillons et en procédant à divers tests non d estructifs. Cependant, de telles évaluations 
+qualitatives s'avèrent parfois fort subjectives et peuvent ne pas détecter des problèmes urgents 
+nécessitant une attention immédiate, par exemple la défaillance d'un élément porteur 
+d'importance cruciale pour un  pont ou le bris de canalisations principales.  
+Il convient de  trouver des moyens pour rendre l'évaluation d es infrastructures plus fiable.  
+ 
+ 
+ 
+ 
+ 
+ 
+
+--- PAGE 43 ---
+ 43 1.3 Contraintes associées à l’évaluation  
+Il faut souligner que l 'évaluation des infrastructures pose des problèmes techniques et 
+financiers à la plupart des maîtres d’ouvrage . La situation se fait plus urgente dans les secteurs 
+où l'on compte un nombre important d'ouvrages vieillissants. C'est notamment le cas des 
+ponts et chaussées, mais aussi des aqueducs, des égouts  pluviaux, des usines de traitement des 
+eaux usées et des réseaux de transport.  
+C'est pourquoi, il est important que l es méthodes d'évaluation tiennent  compte non seulement 
+de l'état actuel des infrastructures, mais aussi des répercussions associées à une  défaillance 
+éventuelle.  
+1.4 Quelques orientations en matière d’évaluation  
+Il est de plus en plus nécessaire que l’ évalu ation de s infrastructures prenne  en compte la santé 
+et la sécurité publiques ainsi que des préoccupations de nature socioéconomique et 
+environnementale. En effet, l es problèmes de structure liés à un élément porteur défectueux 
+d'un pont pourraient s'avérer plus urgents que les problèmes associés à un autre pont, à une 
+route ou à une canalisation, par exemple . 
+Une défaillance du pont aurait de s conséquences catastrophiques. Il est donc nécessaire 
+d’évaluer les risques associés  à chaque type d’infrastructure pour aider les maîtres d’ouvrage  
+à mieux planifier leur intervention.  
+ 
+Investir davantage au départ en construisant des infrastructures plu s sûres contribuera à 
+réduire le s coûts d’entretien  au cours du cycle de vie.  
+Ainsi , les nouvelles technologies comme le béton à haute performance ou l'acier résistant à la 
+corrosion coûtent plus cher que les matériaux de construction usuels, mais ils s'av èrent plus 
+rentables à long terme.  
+ 
+1.5 Evaluation basée sur l’amortissement économique  
+En matière de gestion, la  notion d’évaluation est définie comme étant « la mesure de la valeur 
+d’un bien » à qui peuvent être associés quatre procédés d’évaluation :  
+ l’éval uation de la valeur marchande, déterminée par la loi de l’offre et de la demande (ce 
+mode d’évaluation est difficilement applicable dans le cas des infrastructures et des 
+services publics en général tant il n’existe pas de marché pour cette catégorie spéci fique 
+de biens);  
+ l’évaluation comptable;  
+ l’évaluation au coût de production;  
+  et l’évaluation subjective ou théorique qui correspond à la somme des revenus nets 
+actualisée d’un bien.  
+ 
+Les méthodologies rencontrées peuvent être classées en deux grandes caté gories :  
+− Les analyses coûts -avantages : ce type d'analyse, en valorisant monétairement les 
+impacts,  permet de mettre en regard l'ensemble des avantages et les coûts d'un projet.  
+− Les analyses multicritères : il s'agit d'une analyse combinant des impacts 
+monétarisables avec  d'autres critères non monétarisés. Ceux -ci ne sont pas hiérarchisés 
+et il n'est pas a priori  possible d'en déduire une note globale du projet.  
+ 
+
+--- PAGE 44 ---
+ 44 Dans ce qui suit, nous ne présenterons que la méthode comptable qui présente un intérêt 
+certai n lorsqu’une démolition ou un remplacement de l’infrastructure peut être envisagée. Il 
+s’agit un aperçu sur cette méthode couramment utilisée pour l’évaluation des actifs.  
+1.5.1 Méthode comptable  
+Les normes comptables  énoncent des principes qui s’imposent dans l e traitement de 
+l’information financière et  dans la tenue de la comptabilité. Ils incluent ceux relatifs à 
+l’évaluation des actifs où sont  domiciliées les infrastructures. Il convient de noter que  
+l’infrastructure est considérée comme une  immobilisation co rporelle, comptabilisée en tant 
+qu’actif ( in Belaïd O . et al, 2009 ). 
+ 
+L’actif corporel  est défini  comme celui « détenu par l’entreprise soit pour être utilisé dans la 
+production ou dans la fourniture des biens ou de services, soit pour être loués à des tie rs, soit 
+à des fins administratives et dont on s’attend à ce qu’il soit utilisé sur plus d’un exercice 
+comptable »    
+La valorisation (évaluation) de  l’infrastructure peut être initiale, lors de l’entrée en actif ou 
+postérieure à cette entrée . 
+1.5.1.1  L’évaluation  lors de l’entrée en actif  
+L’actif d’infrastructure est être évalué à son coût . C’est le principe du coût historique qui 
+correspond à la  valorisation et donc à la comptabilisation du bien au coût d’acquisition ou au 
+coût de  production lorsqu’il est produit  par l’entreprise.   
+Le coût d’acquisition correspond au coût de l’entrée de l’infrastructure. Il comprend le  coût 
+d’achat augmenté des frais qui lui sont directement rattachables : les droits de  douanes et les 
+taxes non remboursables, le coût de préparatio n du site, les frais de  livraison et de 
+manutention, les frais d’installation, les frais de mise en route, les  honoraires des 
+professionnels, tels que les architectes, les ingénieurs, etc., et les coûts  estimés de 
+démantèlement et de transport de l’actif.   
+ 
+1.5.1.2  Évaluation postérieure  
+La réévaluation :  
+Lorsque la réévaluation des actifs après leur acquisition ou production  est autorisée,  le 
+montant retenu pour la réévaluation est la juste valeur ( fair value ). Il est égal au montant du 
+marché estimé par des évalu ateurs professionnels  qualifiés. Toutefois, en l’absence 
+d’indication du marché (due à la nature spécifique de  l’actif ou au fait que celui -ci est 
+rarement vendu), la juste valeur est évaluée au coût de  remplacement de l’actif net 
+d’amortissement ( in Belaï d O. et al, 2009 ). 
+ 
+− La valeur d’usage  évalue l’actif en tenant compte des flux de trésorerie futurs qu’il 
+génère.  
+− La valeur de sortie du bien  correspond tout simplement à la valeur de vente de l’actif.  
+− La valeur résiduelle   représente le montant net qu’une  entité s’attend obtenir d’un 
+actif à la fin de sa durée  de vie utile, soit après amortissement et après déduction des 
+coûts de sortie attendus.  
+ 
+La valeur résiduelle  correspond à l’estimation de la valeur monétaire de l’investissement à la 
+fin de la durée  de calcul diminué de diverses dépenses (mensualités restantes, dépenses dues à 
+la vente…).  
+ 
+ 
+
+--- PAGE 45 ---
+ 45 A l’issue de la durée de calcul, plusieurs cas peuvent se présenter  : 
+− la vente ou la cession du bien  : la valeur résiduelle peut être considérée comme 
+l’estimatio n de la valeur du bien à la vente (foncier compris) diminuée de diverses 
+dépenses (mensualités restantes, dépenses dues à la vente…)  ; 
+− l’activité se poursuit sans vente ni démolition du bien  : on peut estimer la valeur 
+résiduelle comme le cas précédent  ; 
+ 
+Les coûts de déconstructions  sont constitués par les coûts de démolition/déconstruction et par 
+les coûts de traitement de ces déchets (recyclage, mise en décharge, incinération, etc.).  
+ 
+1.5.1.3  Constatation de la dépréciation de l’actif  
+Le principe de base de cett e méthode consiste à estimer la durée de vie utile d’un actif  
+d’infrastructure et, ensuite, à répartir son coût, diminué de sa valeur de récupération ou de  sa 
+valeur résiduelle estimative, sur cette durée de vie utile. En règle générale, la durée de  vie 
+utile d’une immobilisation corporelle correspond à la plus courte des durées physique,  
+technologique, commerciale ou juridique. Différents modes d'amortissement peuvent être  
+utilisés pour répartir, de façon systématique, le montant amortissable d'un actif su r sa durée 
+d’utilité. Ces modes incluent notamment le mode linéaire et le mode dégressif.  
+En plus de l’amortissement, deux cas de figure peuvent conduire à la diminution de la  valeur 
+d’une infrastructure :  
+- La réduction de la valeur du potentiel de servic e : c’est à dire que  : 
+ 
+(1) l’infrastructure ne contribue plus à la capacité de la structure publique de fournir  le 
+service,  
+(2) qu’elle n’est plus utilisée car endommagé, repose sur une  technologie obsolète ou ne 
+respecte pas les normes environnementales ou  
+(3) que le besoin de service qu’elle permet de satisfaire change (pour cause de  construction 
+d’une nouvelle infrastructure par exemple). Dans ce cas, la valeur de  l’infrastructure est 
+ramenée à sa valeur résiduelle, s’il en est ;  
+ 
+- Amoindrissement des avantages économiques futurs : c’est à dire que la valeur  comptable de 
+l’infrastructure est supérieure à la valeur de ses avantages  économiques futurs. Il existe 
+plusieurs façons d’estimer les avantages  économiques futurs dont le calcul de la valeur 
+estimative de la  somme des flux de  trésorerie non actualisés (rentrées de fonds moins sorties 
+de fonds  correspondantes) qui devrait résulter de l’utilisation et, ultimement, de la sortie de  
+cet actif.  
+ 
+Conclusion  
+Il n'existe pas de modèle universel d'évaluation ni de réfé rentiel externe comme il en existe 
+dans les  fonctions de contrôle. Chaque évaluation nécessite que les évaluateurs construisent 
+sur mesure l'appareillage  nécessaire. A partir des finalités, orientations et objectifs du 
+programme, tels qu'ils sont écrits, i ls commenceront  par s'entretenir avec le ou les 
+responsables de ce programme pour se faire expliciter les enjeux. Prenant en  compte le 
+contexte, les évaluateurs construiront le questionnement qui leur paraît pertinent pour 
+approcher les  effets du programme . Mais pour cela, il leur faut examiner quelle est la série 
+cohérente d'indicateurs accessibles,  statistiquement validés, «non manipulables » qui pourrait 
+leur permettre de repérer et de mesurer les réalisations  et les effets du programme.  
+Il est possible de comparer le coût de l’évaluation avec ses effets économiques et démontrer 
+par ce moyen que l’évaluation a été un outil de gestion d’un très bon rapport coût -efficacité.  
+
+--- PAGE 46 ---
+ 46  
+La création de nouveaux outils et technologies d'évaluation par les spécialistes en  
+infrastructure  est à encourager . Il est important pour les maîtres d’ouvrage d’ investir de 
+manière plus stratégique, notamment en recourant à des matériaux de construction qui 
+dureront plus longtemps.  
+Il est important que les décideurs soient proactifs e n ce qui concerne la gestion des grandes 
+infrastructures publiques plutôt qu'à réagir aux événements . Il est souhaitable  qu'ils injectent 
+plus d'argent dans des systèmes durables et réduisent les frais d'entretien élevés dans les 
+années à venir.  » 
+Au bout du compte, il en résultera une plus grande sécurité et une meilleure santé pour la 
+population, mais aussi de moins grands frais à longue échéance et des contribuables plus 
+satisfaits.  Les maîtres d’ouvrage doivent s 'occuper de l’ensemble de leurs actifs.  
+ 
+ 
+ 
+Activités d’apprentissage  liées au cours  
+Activités d’appre ntissage liées au  cours  : 
+− Lecture du c ours.  
+− Traitement des exercices d’application ou TD,  
+− Traitement d’une situation à problème ou étude de cas . 
+ 
+Bibliographie  
+ 
+• Wilson O., 2005  (a). Guide méthod ologique d’élaboration et gestion de projet, 
+Tome  1, Collection Le management de projet , 121 p . Les éditions SMG.  Cachan cedex 
+France.  
+• Wilson O., 2005  (b). La conception et l’évaluation de projet , Tome 2, Collection Le 
+management de projet , 304  p. Les édit ions SMG.  Cachan cedex France.  
+• MINAGRA [1997]  : cours de base en suivi - et évaluation des projets, Ministère de 
+l’Agriculture et des Ressources Animales, Abidjan Côte d’ Ivoire.  
+• Belaïd Oustani et al [2009]  : Rapport sur les méthodes d’évaluation des 
+infrast ructures. Cahier de recherche GIREF 03 -2009 / CHSITQ 01 -2009, CHAIRE, 
+SITQ d’immobilier, École des sciences de la gestion de l’Université du Québec À 
+Montréal, Canada.  
+• LACOMBE J.M., 2009  : Notice descriptive du thème "Ingénierie des ouvrages 
+existants" (év aluations structurelles, renforcements, réparations et adaptations).  
+• GRESSIER Claude [2005]  : Analyse comparative des méthodes d’évaluation des 
+grandes infrastructures de transport, Groupe de travail présidé par Claude GRESSIER, 
+Juillet 2005, Conseil génér al des ponts et chaussée, France.  
+• MABIT René [2001]  : Conférence « Les évaluations de projets internationaux de 
+formation» - Exigence d'évaluations et exigences de l'évaluation - Comité de 
+coordination des inspections du ministère de l'Agriculture et de la  Pêche, France.  
+ 
+ 
+
+--- PAGE 47 ---
+ 47 • OEET [2011]  : Evaluation énergie – environnement des infrastructures de transport  ;  
+Méthodologie version V1, (Version validée par le Conseil de Validation de l’OEET le 
+1er Avril 2011)  ; conseil de validation de l'Observatoire Energie, En vironnement des 
+Transports (OEET)  ; France.   
+• Denys Breysse, Odile Abraham  : 29/09/05  : Méthodologie d'évaluation non 
+destructive de l'état d'altération des ouvrages en béton. Pont édition.  
+• CHIAVASSA Marc et al [2013]  : Les solutions techniques et le rappor t coût / 
+durabilité , COTITA, Limoges, France.  
+• Bachelet Rémi [2012]  : L'évaluation des projets : indicateurs d'impact, Cours, École 
+Centrale de Lille  
+ 
+Webographie  
+http://www.enseignementsup -reche rche.gouv.fr  
+Un projet correspond à la mise en œuvre d’activités spécifiques et temporaires ayant pour but 
+la production de biens livrables uniques permettant l’atteinte de résultats précis.  
+http://francois.muller.free.fr/manuel/rapportertravaux  
+ 
+http://diplomatie.belgium.be/fr/politique/cooperation_au_developpement/evaluation/  
+ 
+http://www.eureval.fr/IMG/File/FT_focus_group.pdf  
+ 
+ 
+ 
+Acronyme ou Glossaire  
+ 
+Un focus group  (ou groupe de discussion ) est une forme de  recherche qualitative  / étude 
+qualitative  qui prend forme au sein d'un groupe spécifique culturel, sociétal ou idéologique, 
+afin de d éterminer la réponse de ce groupe et l'attitude qu'il adopte au regard d'un produit, 
+d'un serv ice, d'un concept ou de notices ( Wikipédia, 20 13). 
+ 
+Outil d’animation, l’entretien de groupe permet de fournir des informations qualitatives au 
+cours d’une discus sion ciblée au sein d’un groupe nominal  
+ 
+Le terme  SWOT  employé dans l'expression  analyse SWOT  ou matrice SWOT  est un  
+acronyme  dérivé de l'anglais pour  Strengths  (forces),  Weaknesses  (faibl esses),   
+Opportunities  (opportunités),  Threats  (menaces) . (Wikipédia, 20 13). 
+ 
+ 
+Prééval uation : Évaluation, conformément à des critères de décision établis, de la faisabilité 
+et d’acceptabilité d’un projet ou d’un programme préalablement à la décision de fi nancement. 
+La pertinence et la durabilité sont habituellement au nombre de ces critères.  
+ 
+Auto -évaluation  : Évaluation conduite par ceux qui gèrent un projet et/ou y participent sur le 
+terrain, en particulier les bénéficiaires.  
+ 
+

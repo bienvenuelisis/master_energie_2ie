@@ -34,6 +34,10 @@
     "/^pip install PyPDF2 -q$/": {
       "approve": true,
       "matchCommandLine": true
+    },
+    "/^python -c \"\nimport PyPDF2, os, glob\nfolder = r'c:\\\\D\\\\Professional\\\\Perso\\\\master_energie\\\\docs\\\\cours\\\\U07 - Infrastructure et Techniques de destruction'\nfiles = glob\\.glob\\(os\\.path\\.join\\(folder, '\\*\\.pdf'\\)\\)\noutdir = r'c:\\\\D\\\\Professional\\\\Perso\\\\master_energie\\\\docs\\\\extracted\\\\u07'\nos\\.makedirs\\(outdir, exist_ok=True\\)\nfor f in files:\n    basename = os\\.path\\.splitext\\(os\\.path\\.basename\\(f\\)\\)\\[0\\]\\[:50\\]\n    outfile = os\\.path\\.join\\(outdir, basename \\+ '\\.txt'\\)\n    reader = PyPDF2\\.PdfReader\\(f\\)\n    with open\\(outfile, 'w', encoding='utf-8'\\) as out:\n        for i, page in enumerate\\(reader\\.pages\\):\n            text = page\\.extract_text\\(\\)\n            if text:\n                out\\.write\\(f'--- PAGE \\{i\\+1\\} ---\\\\n'\\)\n                out\\.write\\(text \\+ '\\\\n\\\\n'\\)\n    print\\(f'OK: \\{basename\\} \\(\\{len\\(reader\\.pages\\)\\} pages\\)'\\)\nprint\\('Done!'\\)\n\"\n$/": {
+      "approve": true,
+      "matchCommandLine": true
     }
   }
 }

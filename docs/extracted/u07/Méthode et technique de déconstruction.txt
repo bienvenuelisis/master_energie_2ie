@@ -83,3 +83,1305 @@ béton détérioré , ACRGTQ, 1990
 3- P. Cormon : Procédés de démolition des ouvrages , Eyrolles, 1985
 4- Voir le site du SNED (Syndicat National des Entreprises de Démolition), 2013
 
+--- PAGE 7 ---
+1
+Méthodes et Techniques de Déconstruction – A. KONINCHAPITRE 1 : GENERALITES
+
+
+--- PAGE 8 ---
+2
+Méthodes et Techniques de Déconstruction – A. KONIN1. QUELQUES DEFINITIONS
+Afin de répondre aux problématiques du développement durable, l’activité de démolition est 
+devenue une spécialité à part entière. De plus, le nombre croissant de centrales nucléaires qui sont 
+en fin de vie, ne permet plus la simple mise à l’arrêt de ces centrales. Des dispositions durables 
+doivent être prises afin de préserver l’environnement et la planète. Ainsi, de nouveaux termes et 
+expressions consacrées sont aujourd’hui utilisés. Certains termes sont définis ci-après.
+1.1. D EMOLITION
+La démolition est la destruction d’œuvres de génie civil telles que des bâtiments, des infrastructures 
+de transports (de biens, d’énergie ou de personnes), etc. La démolition est à l’origine d’un volume 
+important de déchets (500 millions de tonnes par an en France). Ces déchets sont répartis, dans la 
+plupart des pays développés, en plusieurs catégories selon leur nocivité. On distingue :
+1.1.1. Les déchets inertes
+Ce sont les déchets non toxiques et qui ne subissent aucune modification dans le temps (gravats, 
+briques, mortier, ciment, béton, etc.). Ils seront retraités en plate-forme de tri, centre 
+d’enfouissement de type III. Ces déchets sont appelés déchets de classe 3 .
+1.1.2. Les déchets inertes
+Ce sont les déchets réputés non dangereux assimilables aux ordures ménagères (emballages, 
+cartons, PVC, plâtre, végétaux, métaux, etc.). Ils peuvent être enfouis dans un centre 
+d’enfouissement technique de type II, incinérés ou revalorisés (transformation des végétaux en 
+compost ou gaz). Ces déchets sont appelés déchets de classe 2 .
+1.1.3. Les déchets industriels spéciaux
+Ce sont les déchets comportant des matériaux et produits chimiques ou toxiques néfastes à la santé 
+et à l’environnement (hydrocarbures, pesticides, amiante, peintures, etc.). Ils doivent subir un 
+traitement en centre spécialisé et enfouis dans des décharges de classe 1. Ces déchets sont appelés 
+déchets de classe 1 .
+1.2. D EMANTELEMENT (NUCLEAIRE )
+C’est l’ensemble des opérations techniques (assainissement radioactif, démontage de tout ou partie 
+des composants d’une installation nucléaire, évacuation, etc.) permettant d’aboutir à un niveau de 
+déclassement choisi.
+Les trois étapes du démantèlement d'un réacteur sont classées comme suit :
+1.2.1. Niveau 1 (MAD)
+Il correspond à la mise à l'arrêt définitif (MAD). Il s’agit du déchargement du combustible du cœur 
+du réacteur et son entreposage pendant deux ans en piscine de "désactivation" du bâtiment 
+combustible, ce qui comprend :
+ola décharge du combustible nucléaire ;
+ola vidange des circuits.
+
+--- PAGE 9 ---
+3
+Méthodes et Techniques de Déconstruction – A. KONIN1.2.2. Niveau 2
+C’est le démantèlement partiel qui correspond à la destruction de tous les bâtiments en dehors du 
+bâtiment abritant le réacteur, ce qui comprend :
+ola décontamination et destruction de tous les bâtiments en dehors du bâtiment 
+abritant le réacteur nucléaire ;
+ole confinement du bâtiment du réacteur nucléaire.
+1.2.3. Niveau 3
+Ce niveau correspond au démantèlement total . Cela concerne le démantèlement du bâtiment 
+réacteur, ce qui comprend :
+ole démantèlement des échangeurs thermiques ;
+ole démantèlement du bloc réacteur ;
+ola destruction du bâtiment du réacteur nucléaire
+1.3. D ECONSTRUCTION
+La déconstruction (ou démolition sélective) consiste à démonter successivement les matériaux 
+réutilisables d’un ouvrage afin de les récupérer et de les recycler dans une nouvelle construction ou 
+en vue d’un nouvel usage après transformation. 
+Les entreprises de déconstruction se sont adaptées aux nouvelles exigences en matière de respect de 
+la planète. 
+La déconstruction inclut désormais :
+ola partie démolition proprement dite ;
+ola partie tri sélectif ;
+ol’enlèvement des gravats et leur recyclage. La déconstruction inclut désormais :
+Les entreprises de déconstruction sont constamment à la recherche de nouveaux procédés pour 
+répondre à des objectifs liés à :
+ol’environnement ;
+ol’économie ;
+ola sécurité.
+1.4. D ECLASSEMENT
+C’est l’ensemble des opérations administratives et réglementaires destiné soit à classer une 
+installation nucléaire dans une catégorie inférieure, soit à supprimer le classement final.
+Le tableau ci-dessous présente les tâches à exécuter suivant la catégorie de l’installation nucléaire.
+Tableau 1 : Déclassement des installations nucléaire – (source CEA, 2012)
+
+--- PAGE 10 ---
+4
+Méthodes et Techniques de Déconstruction – A. KONIN2. MARCHE DE LA DECONSTRUCTION
+Le marché de la déconstruction est devenu, au fil des années, de plus en plus compliqué et de plus 
+en plus précis. C’est aujourd’hui un véritable marché de technicien. Ce marché représente un 
+secteur porteur en pleine expansion grâce à différents donneurs d’ordres publics (écoles, hôpitaux, 
+etc.) qui ont toujours un volant potentiel d’opérations. Et également le secteur privé grâce aux 
+programmes des industriels.
+En 2011, les activités de déconstruction (démolition, curage, désamiantage) ont représenté un 
+chiffre d’affaires d’environ 1 milliards d’euros en France.
+3. ELEMENTS DE LEGISLATION
+Les travaux de déconstruction sont soumis à un environnement juridique et institutionnel permettant 
+le respect de la législation en vigueur et la protection sanitaire des personnels des entreprises de 
+démolition. On peut citer :
+3.1. L E PERMIS DE DEMOLIR ET LE CCTP DE DEMOLITION
+Il s’agit d’actes ou de documents qu’il faut détenir avant le démarrage de toute opération de 
+démolition. On peut citer entre autres :
+3.1.1. Le permis de démolir
+Il s’agit d’une autorisation administrative qui permet de démolir totalement ou partiellement un 
+ouvrage. Cette autorisation prend en compte différents articles du code de l’urbanisme. Les enjeux 
+du permis de démolir sont :
+respect du patrimoine :
+omonument,
+osite protégé,
+
+
+--- PAGE 11 ---
+5
+Méthodes et Techniques de Déconstruction – A. KONINoquartier d’une ville
+protection des hommes :
+ovétusté des habitations et installations,
+orisque d’éboulement, etc.
+Dans certains cas, le permis de démolir peut être obligatoire ou non (voir tableau 2). La demande de 
+permis de démolir pouvant être faite par :
+le propriétaire de l’ouvrage ou du terrain,
+le meneur de l’expropriation du site pour cause d’utilité publique,
+toute personne ayant reçu l’autorisation des propriétaire2.
+Tableau 2 : Obligation du permis de démolir (France, 2012)
+Permis de démolir obligatoire Pas d’obligation de permis de démolir
+1. zones de protection des monuments 
+historiques
+2. zones de protection de patrimoine urbain
+3. zones de protection de patrimoine 
+paysager
+4. zones de protection de patrimoine 
+architectural
+5. zone délimitée par le plan d’occupation 
+des sols rendu public1. La démolition est imposée par une 
+réglementation administrative
+2. La démolition est imposée par une 
+décision de justice
+3. Cas d’ouvrages vétustes, insalubres, 
+présentant des risques réels pour les 
+personnes
+3.1.2. Le CCTP de démolition
+Le CCTP (Cahier des Clauses Techniques Particulières) de démolition permet aux professionnels de 
+définir précisément les étapes de travaux qu’ils auront à effectuer. Le CCTP permet ainsi de :
+Présenter les directives générales qui éclairciront la réalisation du projet de démolition,
+Décrire les travaux et les prestations prévus,
+Donner à l’entrepreneur la possibilité de comptabiliser les investissements et dépenses futurs
+L’objet de la démolition doit figurer sur le CCTP de démolition ainsi que les précisions techniques 
+suivantes :
+Tableau 3 : CCTP démolition : Directives (France, 2012)
+Objet de la démolition Précisions
+Description complè te de l'opération de 
+démolitionDescription de l'ouvrage à démolir.
+Lieu de l'opération.
+Forme du marché (forfait, au métré, etc.).
+Constat des lieuxÉtat des voiries.
+État des mitoyennetés, etc.
+Contraintes liées au site Environnement.
+
+--- PAGE 12 ---
+6
+Méthodes et Techniques de Déconstruction – A. KONINVoirie.
+Contraintes naturelles, etc.
+Diagnostics et travaux de décontamination 
+prévusAmiante.
+Plomb.
+Termites.
+Autorisations des services administratifs.Mairies.
+Voirie, etc.
+Noms et qualifications des entreprises 
+travaillant sur le projet et études d'exécution.Les entreprises retenues devront avoir les 
+qualifications nécessaires pour être validées.
+Nom et coordonnées du maître d'œuvre.
+Nom et coordonnées du bureau de contrôle technique.
+Points concernant la sécurité du chantier.Nom du responsable du chantier.
+Rappel des obligations prévues par la loi : 
+oPGC (Plan général de coordination),
+oPPSPS (Plan particulier de sécurité et de 
+protection de la santé).
+Gardiennage.
+Informations des riverains.
+Nettoyage et fin de chantier.Décontamination.
+Déblaiement.
+Remise en état du site.
+Durée et prise en charge des prestations de fin de 
+chantier.
+3.2. A UTRES ASPECTS REGLEMENTAIRES
+Les travaux de déconstruction sont soumis également à plusieurs textes réglementaires qui portent 
+sur la gestion des déchets de BTP, la protection des travailleurs et la protection de l’environnement. 
+Tous ces textes sont en accord avec le code de l’environnement et la préservation de la santé 
+humaine. On peut citer entres autres :
+La loi Grenelle 2 en France portant sur la gestion des déchets de BTP issus des opérations de 
+démolition,
+La réglementation concernant la gestion des ouvrages amiantés,
+Les textes réglementaires sur le démantèlement d’installation nucléaires,
+L’objectif de 70% de valorisation matière des déchets jugés non dangereux des BTP au 
+niveau européen,
+Les textes normatifs sur les installations de stockage de déchets inertes
+Etc.
+S’il est vrai que ces textes peuvent varier d’un pays à un autre (ou même ne pas exister), les OMD 
+(Objectifs du Millénaire pour le Développement) incitent les Etats membres à une préservation et 
+une protection de leur environnement basées sur une gestion durable de leur déchets et à une 
+limitation de l’exploitation de ressources naturelles par le recyclage de tout ou partie des déchets 
+inertes.
+
+--- PAGE 13 ---
+7
+Méthodes et Techniques de Déconstruction – A. KONINLes récentes catastrophes naturelles (Haïti, Japon, etc.) et le scandale de l’amiante en Europe ont 
+favorisé l’adoption de textes réglementaires plus contraignants pour les entreprises de démolition. 
+Ces textes pour la plupart imposent à ces dernières la mise en place de démarche HQE (Haute 
+Qualité Environnementale) dans l’exercice de leur profession.
+
+--- PAGE 14 ---
+8
+Méthodes et Techniques de Déconstruction – A. KONINCHAPITRE 2 : TRAVAUX PREALABLES A LA DECONSTRUCTION
+
+
+--- PAGE 15 ---
+9
+Méthodes et Techniques de Déconstruction – A. KONINAvant toute opération de déconstruction d’un ouvrage (bâtiments, installations nucléaires, etc.), des 
+opérations préliminaires sont nécessaires afin de parvenir aux objectifs fixés. Ces travaux 
+préliminaires peuvent être :
+1. DESAMIANTAGE
+1.1. A MIANTE :DEFINITION –QUALITES –DANGERS D ’EXPOSITION
+L’amiante est le terme générique utilisé pour décrire des minéraux à texture fibreuse (silicate 
+hydraté de calcium et de magnésium), offrant des propriétés physiques fort intéressantes couplées à 
+un faible de fabrication et de mise en œuvre. Ces particularités leurs ont valu d’être utilisés, 
+intensivement, dans l’industrie automobile et dans le BTP pendant des dizaines d’années.
+Il est présenté sous deux forme : l’amiante friable et l’amiante non friable.
+L’amiante présente des qualités exceptionnelles qui sont :
+la résistance au feu,
+la faible conductivité thermique, 
+acoustique et électrique,
+la résistance mécanique (à la traction, à 
+la flexion et à l'usure),
+la résistance aux agressions chimiques 
+(acides et bases),
+sa grande élasticité,
+sa possibilité d'être filé et tissé,
+son coût très faible.
+Même si son utilisation a été très populaire voire intensive dès la fin du XIXèmesiècle, il faut savoir 
+que les qualités de l’amiante, et ses dangers par ailleurs, sont connus depuis plus de 2 000 ans. 
+Ainsi, les Grecs, remarquaient déjà ses propriétés extraordinaires et les dommages aux poumons 
+dont pouvaient souffrir les esclaves en contact avec le minerai.
+A partir des années 1900, l’ amiante a été régulièrement employé pour différentes applications. De 
+par sa résistance aux très hautes températures et au feu, il est mélangé à du ciment. Ce mélange sera 
+par la suite utilisé pour rendre isolants et ignifuges les murs des bâtiments. C’est d’ailleurs pour 
+l’amiante-ciment que le minerai sera très utilisé jusqu’à en représenter 90% de l’usage.
+On le trouve également mélangé à du textile pour, par exemple, constituer des vêtements résistants 
+au feu. Pour ces mêmes raisons, on va le retrouver dans les matériaux constituants des plaquettes de 
+freins ou encore dans certaines installations électriques pour ses capacités d’isolation. De fait, il va 
+se retrouver dans un grand nombre de bâtiments publics et équipements construits avant 1997.
+Malheureusement, l’inhalation des particules, parfois invisibles, contenues dans le minerai le 
+rendent particulièrement dangereux et sources de nombreuses pathologies, pouvant aller jusqu’au 
+cancer. Ainsi, en France, depuis le 1erjanvier 1997, la fabrication, la transformation, la vente et 
+l’importation de l’amiante sont interdites.
+
+
+--- PAGE 16 ---
+10
+Méthodes et Techniques de Déconstruction – A. KONIN1.2. D ESAMIANTAGE
+Le désamiantage consiste en une intervention permettant de retirer tous les matériaux contenant de 
+l’amiante. Compte tenu des risques, cette activité est particulièrement réglementée en Europe et ne 
+peut être réalisés que par des professionnels.
+Depuis le 1erjanvier 2002, il est obligatoire de faire un repérage des matériaux amiantés avant toute 
+démolition d’un bâtiment construit avant le 1erjuillet 1997. En effet, la déconstruction engendre des 
+pollutions qu’il est nécessaire de traiter afin de protéger les travailleurs de l’entreprise de démolition 
+et l’environnement de l’ouvrage.
+L’amiante est présent dans de nombreux matériaux en raison de sa grande résistance au feu et de 
+son efficacité isolante. Une liste de matériaux pouvant être contaminés classés selon le degré 
+d’amiante est présentée ci-après.
+Tableau 4 : Matériaux concernés par le désamiantage
+Classement amiante Type d'amiante Exemple de matériau
+IAmiante brut.
+Présentation en vrac.Flocage.
+Isolant.
+Acoustique.
+Thermique.
+Bourre.
+II Amiante en poudre.Enduit.
+Enduit de façade.
+Enduit plâtre.
+Mortier.
+Mortier colle.
+Mortier réfractaire.
+III Amiante liquide.Colle.
+Pâte à joint.
+Peinture.
+IV Amiante en feuille.Faux plafond.
+Panneaux.
+Feutre, etc.
+V Amiante tressé.Matelas.
+Tissus, etc.
+VI Amiante en résine.Plastiques.
+Mousse.
+Nez de marche.
+Revêtements muraux.
+Dalle, etc.
+VII Amiante ciment.Plaques de toiture.
+Canalisations et tuyaux.
+Cloisons, etc.
+
+--- PAGE 17 ---
+11
+Méthodes e tTechniques de Déconstruction –A. KONINVIII Amiante noir.Bitumes.
+Étanchéité de toiture.
+Mastics, etc.
+IX Amiante d'équipement.Chaudière.
+Radiateurs.
+Fours, etc.
+À noter : Le seuil réglementaire entraînant les travaux de désamiantage est de 5 fibres par litres 
+d'air.
+1.3.ETAPES DU DESAMIANTAG E
+Le désamiantage est une opération souvent difficile à mettre en place et peut être comparé à un 
+chantier lourd. Il n’est pas rare qu’un désamiantage exige la démolition de l’édifice ce qui rend cette 
+opération comme une des plus couteuses dans le secteur du BTP. En effet, étant donnée la toxicité 
+et la sensibilité de l’amiante , de nombreuses opérations sont nécessaires avant une opération de 
+désamiantage. Le désamiantage se passe obligatoirement en suivant les étapes suivantes :
+1.3.1. Dépoussiérage
+La totalité des surfaces des locaux où le désamiantage va avoir lieu est dépoussiérée et les éléments 
+qui n’ont pas été en contact avec de l’amiante sont démontés et déplacés afin d’éviter leur 
+exposition à l’amiante durant les opérations de désamiantage.
+1.3.2. Confinement
+La zone à traiter doit être confinée et complètement étanche (l’étanchéité est 
+testée avec l’introduction de la fumée qui ne doit pas pouvoir s’échapper vers 
+l’extérieur). Les ouvriers procédant au désamiantage doivent être équipés d’un 
+système respiratoire à ventilation assistée, des gants et des masques je tables, 
+les bottes et les sur -bottes jetables également. Le confinement du chantier est
+Très important afin d’éviter la prolifération des fibres d’amiante présentes dans l’air pendant 
+l’opération de désamiantage.
+1.3.3. Démantèlement de l’amiante
+Durant cette étape, les éléments ayant été en contact direct avec l’amiante sont 
+arrachés par des techniques évitant la libération des fibres dans l’air notamment 
+en employant la méthode humide , les surfaces amiantées sont aspergées d’eau 
+collant ainsi les pouss ières d’amiante sur ces dernières. Une fois complètement 
+libérées de l’amiante, les surfaces sont brossées, nettoyées et aspirées par le biais 
+d’un aspirateur à filtre absolu.
+1.3.4. Contrôle final
+Le chantier en fin de désamiantage est contrôlé afin de s’assurer de l’élimination définitive de 
+l’amiante notamment par des mesures de taux d’empoussièrement de l’air par les fibres d’amiante. 
+Et ce n’est qu’une fois ces contrôles réussis que le confineme nt du chantier peut être démantelé.
+
+
+--- PAGE 18 ---
+12
+Méthodes et Techniques de Déconstruction – A. KONIN1.3.5. Elimination des déchets contenant de l’amiante
+C’est la dernière étape du processus de désamiantage qui est très importante et obligatoire par la loi 
+sous peine de sanctions pénales en Europe. Les déchets amiantés les plus dangereux doivent être 
+acheminés sur des sites de traitement spécialisés. Afin de prouver la bonne élimination des déchets, 
+le propriétaire doit obtenir un certificat du site de traitement assurant de la bonne élimination des 
+déchets contenant de l’amiante.
+1.4. A PPAREILS DE MESURE DE L ’AMIANTE
+Plusieurs méthodes de mesure des fibres d’amiante exprimant les résultats en fibres par unité de 
+volume ont été utilisées. Elles ont des coûts différents et produisent des résultats qui ne sont pas 
+directement comparables. Leurs avantages et leurs inconvénients doivent être connus.
+le microscope optique permet d’observer les fibres recueillies par pompage et filtration sur 
+une membrane en particulier par l’examen en lumière polarisée ou mieux en contraste de 
+phase (MOCP). Son inconvénient est de ne pas différencier les fibres d’amiante des autres 
+fibres, minérales ou organiques. Son faible coût et la rapidité d’obtention des résultats 
+permettent de l’utiliser pour une surveillance régulière de l’état d’empoussièrement de 
+locaux professionnels. Si des mesures plus spécifiques ont montré que la proportion de 
+fibres d’amiante est stable dans cet environnement, la MOCP permettra de dépister un pic de 
+pollution. Il faut cependant être conscient des limites d’une telle méthode.
+le microscope électronique à transmission est la méthode de référence, elle est plus chère et 
+plus longue à mettre en œuvre que la MOCP mais sa résolution lui permet d’observer les 
+fibres d’amiante les plus fines et elle peut être couplée à des méthodes d’analyse physiques-
+chimiques (cristallographie par diffraction et spectrométrie dispersive en énergie des rayons 
+X) qui préciseront la variété et l’espèce de fibre d’amiante observée. Une norme AFNOR (X 
+43 050) spécifie la nature des fibres comptées qui doivent avoir un diamètre inférieur à 3 
+mm et une longueur égale ou supérieure à 5 mm, le rapport longueur sur largeur étant 
+supérieur à 3. Deux modes de collecte pour l’observation sont utilisables, la méthode directe 
+examine directement les filtres après traitement de ces derniers, la méthode indirecte 
+disperse les fibres recueillies sur le filtre dans un liquide et les redépose sur une autre 
+membrane, ce qui autorise la collecte pendant une période plus longue, la dilution dans le 
+liquide intermédiaire permettant de maintenir une densité de fibres sur les préparations 
+observées compatible avec le comptage.
+le microscope électronique à balayage examine la forme et la surface des fibres. D’usage 
+plus facile que le microscope à transmission où les électrons traversent l’échantillon 
+observé, il ne permet pas de reconnaître directement la nature des fibres observées et des 
+méthodes complémentaires sont indispensables pour effectuer la discrimination avec des 
+fibres organiques ou des fibres constituées d’autres minéraux que l’amiante. Il s’agit 
+d’analyse chimique qui n’assure pas une identification spécifique comme le fait la 
+cristallographie couplée au microscope électronique à transmission.
+les appareils de mesure de l’empoussièrement (Phazir amiante par exemple ) fondés sur 
+l’exploration d’un échantillon par un rayon laser. Ils ont les mêmes limites que la 
+microscopie optique. Ils permettent un contrôle relativement continu et bon marché de 
+l’empoussièrement et sont utiles pour dépister des pics de pollution sur un site utilisant 
+
+--- PAGE 19 ---
+13
+Méthodes et Techniques de Déconstruction – A. KONINindustriellement de l’amiante. Ces appareils ne distinguent pas les différents types de fibres. 
+Ils doivent donc être utilisés en complément des mesures plus spécifiques pour documenter 
+les variations temporelles de l’empoussièrement en fonction du contexte.
+Figure 1 : analyseur d’amiante portable : phazir amiante
+2. DEPLOMBAGE
+2.1. P LOMB : DEFINITION –DANGERS D ’EXPOSITION
+Le plomb est un métal utilisé depuis l'Antiquité. Il est très résistant à la corrosion et a notamment 
+servi à la fabrication de conduites d'eau et comme pigment de peintures (céruse) malgré sa toxicité à 
+long terme. En effet, l'exposition régulière au plomb peut entraîner de nombreux problèmes de santé 
+regroupés sous le terme de saturnisme (une des plus vieilles maladies connues) et pouvant devenir 
+très graves. L'exposition au plomb est donc soumise à une réglementation très stricte, qui protège 
+les travailleurs et leurs familles. Les principaux secteurs d'activité exposant au plomb sont :
+le bâtiment : intervention sur des peintures et des canalisations dans des bâtiments 
+anciens, découpe ou sablage de structures métalliques recouvertes de peinture 
+anticorrosion, travaux de couverture,
+l'industrie : fabrication et recyclage de batteries, métallurgie, recyclage de produits 
+électroniques, fabrication de verres spéciaux et de cristal…
+l'artisanat : fabrication et réfection de vitraux, fonderie d'art, joaillerie, etc. 
+Le plomb peut pénétrer dans l'organisme par le nez (poussières, fumées) ou la bouche (mains sales, 
+aliments souillés). En revanche, il ne passe pas à travers la peau. Il provoque des maladies graves en 
+s'accumulant dans l'organisme, en particulier dans les os, où il peut rester plusieurs dizaines 
+d'années. Il s'élimine très lentement.
+Le plomb a des effets sur le système nerveux (troubles de l'humeur et de la mémoire, détérioration 
+des capacités intellectuelles, atteinte des nerfs moteurs périphériques), le sang (diminution du 
+nombre de globules rouges) et le système digestif (coliques de plomb). Il provoque des hépatites et 
+des anomalies au niveau de la reproduction. Une mère ayant une forte quantité de plomb dans son 
+organisme va en transmettre à son enfant durant la grossesse puis par le biais de l'allaitement, ce qui 
+peut entraîner un retard du développement psychomoteur et mental de l'enfant.
+Le potentiel cancérogène du plomb fait débat : les études de cas ne sont pas suffisamment 
+nombreuses pour prouver le lien entre plomb et départ de cancer. Cependant, le plomb a des effets 
+si divers et complexes au niveau moléculaire qu'il est difficile de l'exclure a priori de tout soupçon.
+
+
+--- PAGE 20 ---
+14
+Méthodes et Techniques de Déconstruction – A. KONIN2.2. D EPLOMBAGE
+Le déplombage consiste en la dépose des peintures et tuyauteries contenant du plomb et leur 
+évacuation en décharges spécialisées dans le respect de la réglementation sanitaire. 
+Si le diagnostic révèle la présence de plomb, les différentes techniques de déplombage ci-dessous 
+peuvent être adoptées.
+2.2.1. Sablage
+Le décapage du plomb est réalisé au moyen de jets de sables sous pressions. Cette technique est 
+particulièrement adaptée au décapage des surfaces métalliques en milieu confinable. Un traitement 
+en bains dans un atelier spécialisé doit être systématiquement envisagé pour les éléments 
+démontables. Cependant, ce procédé engendre une importante émission de poussières plombifères 
+et siliceuses.
+2.2.2. Grattage
+Le plomb est enlevé par grattage, ponçage ou piochage par des outils mécaniques. Un confinement 
+de la zone de travail est nécessaire afin de réduire la contamination de tout l’environnement du 
+chantier. Comme pour le sablage, ce procédé engendre une importante émission de poussières 
+plombifères.
+2.2.3. Décapage chimique
+Cette technique n’est efficace qu’en surface des supports. Dans le cas où l’objectif serait de 
+supprimer le plomb en profondeur (ayant migré dans le plâtre par exemple), il conviendra d’utiliser 
+une autre technique. Un carottage peut confirmer cette présence de plomb en profondeur.
+On utilise des produits dits caustiques, contenant généralement de la potasse ou de la soude, 
+fortement alcalins et étiquetés corrosifs (attention aux brûlures).
+Cette technique impose un grattage préalable des peintures s’écaillant, ce qui engendre une 
+émission de poussières. Le produit sous forme de gel est appliqué à la brosse et recouvert par un 
+film en polyéthylène pour éviter son dessèchement le temps qu’il dissolve les peintures. Ce film 
+limite l’accessibilité au décapant pendant sa phase d’imprégnation et limite la dispersion des 
+déchets sur le sol. Les opérations de nettoyage en sont ainsi facilitées. La pâte (peinture et gel) ainsi 
+formée est enlevée à l’aide d’un grattoir.
+Après la mise à nu du fond, un rinçage est nécessaire, soit par de l’eau, soit par un produit chimique 
+neutralisant correspondant. Les eaux de rinçage nécessitent une collecte avec rejet. Un traitement en 
+bains dans un atelier spécialisé doit être systématiquement envisagé pour les éléments démontables.
+2.2.4. Décapage thermique
+Ce procédé est adapté aux supports non friables (en bois par exemple). L’efficacité de cette 
+méthode dépend du soin apporté aux travaux et au matériau support à traiter. Un traitement en bains 
+dans un atelier spécialisé doit être systématiquement envisagé pour les éléments démontables.
+La technique consiste à souffler de l’air chaud ayant une température inférieure à 450°C. Les 
+peinture chauffées se ramollissent et peuvent donc être enlevées par grattage. Si la température de 
+450°C est dépassée, des fumées toxiques sont émises. Les copeaux de peintures, une fois durcis, 
+génèrent des poussières très fines lorsqu’ils sont brisés.
+
+--- PAGE 21 ---
+15
+Méthodes et Techniques de Déconstruction – A. KONINOn veillera particulièrement à ne pas intervenir près des gaines électriques (risque de les faire 
+fondre), des vitres (risque de chocs thermiques) et de matériaux inflammables.
+2.3. A PPAREILS DE MESURE DU PLOMB
+Plusieurs méthodes de mesure des poussières et fumées de plomb exprimant les résultats en 
+concentration surfacique ou massique peuvent être utilisées. Elles ont des coûts différents et 
+produisent des résultats qui ne sont pas directement comparables. Leurs avantages et leurs 
+inconvénients doivent être connus.
+2.3.1. Méthode de mesure de la concentration surfacique de plomb
+Il s’agit d’une méthode de mesure consistant en l’excitation de l’atome 
+de plomb par les rayons X émis par la source radioactive de l’appareil. 
+La perturbation provoquée dans les couches de l’atome est ensuite 
+analysée par l’appareil. La concentration surfacique des poussières au 
+sol doit être inférieure à 1 mg/cm². La fluorescence X est une méthode 
+d’analyse et de mesure non destructive, fiable, et dont les résultats sont 
+immédiats (le temps de mesure est de quelques secondes).
+2.3.2. Méthode de mesure de la concentration massique de plomb
+L'analyse du plomb acido-soluble est une méthode qui consiste à simuler la solubilisation du plomb 
+dans l'estomac. Elle donne une meilleure évaluation de la toxicité d'une peinture ou d'un enduit que 
+l'analyse du plomb total par fluorescence X. Toutefois, le prélèvement d'un échantillon provoque 
+une dégradation de la surface échantillonnée ; c'est pourquoi il convient de le limiter aux cas 
+exceptionnels. Les résultats sont exprimés en milligrammes par gramme (mg/g).
+L'analyse chimique comprend une phase de dissolution du plomb et une phase de dosage. Des 
+protocoles différents peuvent être utilisés à condition qu'ils donnent des résultats similaires et qu'ils 
+aient été validés. Le dosage du plomb sur les solutions préparées peut être effectué selon différentes 
+techniques détaillées dans les normes suivantes :
+NF T 30-211, NF EN ISO 11-885 (indice de classement NF T 90-136), FDT 90-112.
+3. CURAGE
+3.1. C URAGE : DEFINITION - NECESSITE
+Le curage est le nettoyage des éléments non constructifs d’un ouvrage. 
+Il s’agit d’une démolition partielle qui consiste à enlever le béton 
+détérioré et le béton contaminé. La raison, c’est de conserver une 
+partie de la maçonnerie qui pourrait être utile ultérieurement. Cette 
+action intervient dans de nombreux besoins : élimination des éléments
+polluants, conservation et démantèlement de façade, assainissement d’immeubles anciens, mais 
+surtout la préparation à la démolition.
+
+
+--- PAGE 22 ---
+16
+Méthodes et Techniques de Déconstruction – A. KONIN3.2. M ETHODES DE CURAGE
+Plusieurs méthodes de curage d’ouvrages peuvent être utilisées. Elles ont des coûts différents et 
+dépendent du volume de matériaux à démolir.
+3.2.1. Méthode de percussion
+La démolition partielle à petite envergure fait appel à une méthode appelée percussion . Pour ce 
+faire, on utilise le marteau piqueur, le brise-béton et la brise roche. Les principaux inconvénients 
+d’une telle méthode résident dans le fait qu’elle soit bruyante, lente, et transmet des vibrations 
+importantes. Le tableau ci-dessous indique les avantages et inconvénients de la méthode de 
+percussion.
+Tableau 5 : Avantages – inconvénients des techniques de percussion
+Engins utilisés Avantages Inconvénients
+Marteau piqueur. Peu de vibration, peu de projections.Bruyant,
+long.
+Brise béton. Coût au m² relativement abordable.Bruyant,
+vibrations importantes,
+fissurations possibles.
+Mini brise roche. Taux de production élevé.Bruyant,
+vibration,
+fissures et endommagement des barres 
+d'armatures possibles.
+Quelques schémas d’appareillage de percussion
+Schéma d’un marteau - piqueur Schéma d’un brise - béton Schéma d’un mini brise roche
+3.2.2. Méthode de l’hydro-démolition
+Le jet d’eau ou l’hydro-démolition est utilisé sous haute pression pour venir à bout du béton de 
+surface. Il existe des systèmes à un ou plusieurs jets en fonction de la surface ou de la précision du 
+travail à effectuer.
+Tableau 6 : Avantages – inconvénients des techniques de l’hydro-démolition
+Méthode proposée Avantages Inconvénients
+Le jet d'eau ou hydro-démolitionPeu de vibrations,
+peu de poussière,
+bonne qualité de surface,
+rendement élevéRésidus liquides (problème 
+avec les systèmes de drainage),
+coût élevé.
+
+
+--- PAGE 23 ---
+17
+Méthodes et Techniques de Déconstruction – A. KONINL’hydro-démolition est une technique de démolition sélective.
+Quelques schémas d’appareillage d’hydro-démolition
+Principe d’hydro-démolition à un jet Principe d’hydro-démolition multi-jets
+3.2.3. Méthode de scarification
+La scarification consiste à enlever des couches de béton à l’aide de pointes métalliques disposées en 
+rouleau (rouleau denté). Ces pointes viennent frapper et décrocher la couche abîmée ou contaminée 
+de béton.
+Tableau 7 : Avantages – inconvénients des techniques de scarification
+Méthode proposée Avantages Inconvénients
+Méthode de scarification.Rapidité d'exécution 
+(environ 100 m²/heure),
+coût faible.Impossible à travailler sur 
+surface avec armatures,
+limitée aux surfaces 
+horizontales.
+Certains gros équipements sont munis d’aspirateurs ou de récupérateurs permettant de ramasser les 
+particules.
+Principe d’opération d’une scarifieuse
+
+
+--- PAGE 24 ---
+18
+Méthodes et Techniques de Déconstruction – A. KONINCHAPITRE 3 : TECHNIQUES DE DECONSTRUCTION DES OUVRAGES
+
+
+--- PAGE 25 ---
+19
+Méthodes et Techniques de Déconstruction – A. KONIN1. INTRODUCTION
+La démolition a connu au cours des dix dernières années de nombreuses évolutions. Celles-ci sont 
+liées avant tout à la modification des structures à démolir : les bâtiments en pierre naturelle avec 
+charpentes en bois démolis dans les années 1970 à 1980 sont remplacés par des structures 
+métalliques, bétons armé et précontraint conduisant à envisager des procédés de démolition 
+différents.
+De même, la prise en compte des préoccupations environnementales conduit aujourd’hui à parler de 
+déconstruction au détriment de démolition : le tri des matériaux de démolition est une réalité dictée 
+autant par l’absence ou le coût prohibitif des exutoires que par le souci des entreprises de concourir 
+à une économie des moyens naturels en valorisant les matériaux déconstruits.
+Aujourd’hui dans toute opération de démolition, l’attention est aussi portée sur la sécurité interne et 
+externe au chantier, la limitation des nuisances (bruits, poussières, vibrations) et l’impact sur les 
+activités des avoisinants.
+La déconstruction peut s’entreprendre différemment selon certains critères :
+localisation de l’ouvrage à démolir :
+oest-il à l’intérieur, à l’extérieur ?
+oest-il sur un site protégé ?
+hauteur de l’ouvrage
+forme de l’ouvrage
+matériaux de l’ouvrage : 
+obéton, 
+obéton armé, 
+ostructure métallique
+environnement de l’ouvrage
+ocontraintes au niveau du respect du bruit,
+ocontraintes au niveau de la poussière,
+ocontraintes au niveau de la vibration.
+Une fois ces critères pris en compte, l’entreprise peut choisir entre différentes méthodes.
+2. DECONSTRUCTION MANUELLE
+Technique la plus ancienne, la démolition à la main trouve aujourd’hui encore son domaine 
+d’application. Il existe deux procédés de démolition manuelle.
+2.1. D ERASEMENT OU ECRETAGE
+La méthode de démolition dite de dérasement consiste à abattre en premier les parties les plus 
+hautes d’un bâtiment. C’est la méthode idéale si :
+-on veut diminuer la hauteur d’une construction sans toucher à ses fondations pour une 
+restauration partielle ou pour en diminuer la hauteur,
+-on souhaite démolir un bâtiment entouré d’habitations pour les protéger des gravats et 
+chutes de pierres.
+
+--- PAGE 26 ---
+20
+Méthodes et Techniques de Déconstruction – A. KONINLes ouvriers travaillant à la démolition par la méthode de dérasement installent un échafaudage qui 
+est descendu au fur et à mesure du dérasement, avancent au mètre linéaire de mur à démolir 
+(utilisent la méthode de métré).
+Le dérasement est utilisé lors des prestations suivantes :
+-restaurations d’accotements routiers,
+-démolition d’enceintes et murailles,
+-démolition d’
+-etc.
+Les outils couramment utilisés sont des pics, des masses, des marteaux pneumatiques, des mini 
+BRH (Brise Roche Hydraulique), des pinces (à béton, à fer), des échafaudages.
+2.2. S APEMENT
+La méthode par sapement consiste à attaquer une construction à la façon d’un bûcheron, c’est-à-dire 
+en effectuant une saignée à la base de la construction et se fait en différentes étapes :
+-saignée de la base de l’ouvrage à l’aide d’outils adéquats
+-mise en place de cales et d’étais sous les parties porteuses remplaçant au fur et à mesure les 
+parties détruites.
+Lorsque les fondements ont été suffisamment travaillés, les cales et étais sont détruits afin de 
+provoquer l’effondrement de la construction.
+-Si les cales employées sont faites de bois, il est possible d’y mettre le feu et d’attendre 
+qu’elles se calcinent,
+-Si les cales et les étais sont non-inflammables, on enroule des câbles autour et on tire afin de 
+les déloger, provoquant ainsi l’effondrement.
+
+
+--- PAGE 27 ---
+21
+Méthodes et Techniques de Déconstruction – A. KONINLe sapement est une opération de démolition très dangereuse qui doit être réalisé par des 
+professionnels. La zone de chute du bâtiment devra être sécurisée. De nombreux risques sont à 
+prendre en compte :
+-Effondrement de l’ouvrage lors de la réalisation de la saignée,
+-Rupture des câbles,
+-Déséquilibre et pivotement de l’ouvrage.
+Les outils qui peuvent être utilisés lors de la démolition par sapement sont les masses 
+pneumatiques, les marteaux pneumatiques, les pinces multi-usage de démolition, les cales, les étais 
+et les câbles.
+3. DECONSTRUCTION MECANIQUE
+Depuis une dizaine d’année, les entreprises de démolition ont entrepris un partenariat avec les
+constructeurs de machines de type pelles hydrauliques . Les méthodes de démolition se sont 
+adaptées aux constructions en béton armé, béton précontraint et aux structures métalliques. 
+Des engins de terrassement, modifiées par l’intuition des professionnels de la démolition, les 
+constructeurs de pelles ont progressivement élargi leurs gammes en proposant des machines 
+adaptées. Les outils couramment utilisés sont des mini-engins, des porte-outils inférieurs à 5 tonnes, 
+et d’autres engins porte-outils de taille supérieure. A l'aide du godet d'une pelle, le conducteur de la 
+pelle utilise le godet de son engin pour abattre la construction. Il peut agir par poussée, par traction, 
+par choc.
+La technique de démolition à l'aide du godet d'un chargeur ou de la lame d'un bouteur (par poussée 
+ou par traction) est limitée à la démolition d'ouvrages de faible hauteur, inférieure à 3 mètres. Le 
+godet peut être remplacé par un croc.
+La démolition par chocs au brise-roche hydraulique sur pelle ou sur porteurs est utilisée pour la 
+démolition de maçonnerie très compacte de bétons.
+La démolition à la pince (à béton ou à ferraille) sur pelle hydraulique est de plus en plus utilisée en 
+site urbain. Cette technique permet une réduction du bruit, aux abords des chantiers.
+A certaines hauteurs de bâtiments, les caractéristiques techniques des pelles de démolition ne sont 
+plus suffisantes. Il convient donc de trouver une alternative technique. La plus fréquemment utilisée 
+est l’écrêtage. Ces travaux, consistant à démolir par petits morceaux les étages supérieurs des 
+immeubles, sont réalisés à l’aide de mini-engins hissés sur les toitures. La démolition s’effectue 
+
+
+--- PAGE 28 ---
+22
+Méthodes et Techniques de Déconstruction – A. KONINensuite de la même manière, d’étage en étage jusqu’au niveau désiré, c’est-à-dire jusqu’à ce que la 
+partie haute du bâtiment puisse être atteinte en toute sécurité par une pelle hydraulique en long bras.
+4. DECONSTRUCTION A L’EXPLOSIF
+Lorsque l'édifice à démolir fait plus de 20 m de haut, la démolition à l'explosif devient la méthode la 
+plus adaptée, car :
+la moins dangereuse,
+la plus économique.
+L'entrepreneur qui est chargé de la démolition doit cependant maîtriser certaines connaissances en 
+ce qui concerne les explosifs, notamment :
+les lois physiques liées à la dynamique des chutes,
+la résistance mécanique des matériaux.
+La parfaite réussite de ce procédé de démolition nécessite un savant mélange entre expérience, 
+connaissance des explosifs, rigueur, organisation et gestion de la sécurité. Dans les structures de 
+maçonnerie ou de béton, ce procédé consiste à faire éclater la maçonnerie ou le béton en 
+introduisant dans un trou préalablement foré une charge explosive. Il est nécessaire d'adapter le plan 
+de tir à l'environnement en limitant l'importance des charges tirées en une seule fois. Ce procédé est 
+une affaire de spécialistes qui doivent impérativement appliquer la règlementation en vigueur.
+Dans les structures métalliques, ce procédé consiste à cisailler les ferrailles en appliquant contre 
+celles-ci un explosif spécifique.
+Pour exercer ce métier, les entreprises de démolition doivent être certifiées selon les qualifications 
+professionnelles 1152 ou 1153.
+Le tableau ci-après donne les différentes méthodes de démolition à l’explosif.
+
+
+--- PAGE 29 ---
+23
+Méthodes et Techniques de Déconstruction – A. KONINTableau 8 : Principales techniques de démolition à l’explosif
+Type de démolition 
+par explosifTechniques Caractéristiques
+Le foudroyage lentCette méthode consiste à 
+effondrer le bâtiment sur lui-
+même (implosion).
+La charnièreCette méthode consiste en un 
+basculement de l'édifice au 
+moyen d'une charnière basse, 
+après ouverture à l'explosif d'un 
+coin avant.Inconvénient : lenteur des découpes.
+Le foudroyageLe foudroyage ultrarapide est 
+basé sur la rapidité 
+d'enchaînement des mises à feu.une précision de chute intéressante,
+contrairement à ce qui se passe dans le 
+cas de tirs lents, les protections 
+périphériques des niveaux minés du 
+bâtiment foudroyé n'ont pas le temps de 
+se désorganiser entre chaque tir.
+Le basculement à 
+charnière hauteLe basculement d'une 
+construction est obtenu en 
+dynamitant une partie basse d'un 
+coin.Après ouverture, la partie supérieure, située au-
+dessus des explosions, bascule vers l'avant en 
+s'appuyant sur un talon arrière appelé « 
+charnière ».
+Le foudroyage en 
+tonneauLe foudroyage en tonneau 
+consiste à placer des explosifs 
+qui « pousseront », de l'intérieur 
+et à mi- hauteur, les parois du 
+bâtiment à démolir.Ce foudroyage s'effectue comme une séquence 
+de tir rapide.
+Le semi-
+foudroyage.Le semi- foudroyage est un 
+mélange simultané des méthodes 
+précédentes.-
+Une schématisation des deux principales techniques (foudroyage et basculement) est représentée ci-
+dessous :
+
+
+--- PAGE 30 ---
+24
+Méthodes et Techniques de Déconstruction – A. KONINCertaines contraintes sont liées au minage des éléments à dynamiter :
+le contrôle qualité de la mise en œuvre des explosifs sur les parties minées devra être 
+effectué :
+opar des mineurs confirmés de l'entreprise,
+osous la surveillance d'un ingénieur des mines extérieur à l'entreprise.
+le responsable de qualité se limite au suivi et à la vérification de :
+ola préparation des charges en-dehors des trous,
+ola mise en place des charges dans les trous,
+oles bourrages des trous après mise en place de l'explosif,
+ola qualité de la mise en œuvre des cosses relais du circuit électrique de mise à feu,
+ola résistance électrique des lignes des détonateurs et cela jusqu'à l'exploseur,
+ol'utilisation de l'exploseur.
+En aucun cas, les tiges des détonateurs ainsi que les lignes de tir ne devront toucher des objets 
+métalliques :
+grillage,
+fers à béton,
+conduites, etc.
+La sécurité implique que toutes les précautions soient prises de façon d'éviter les accidents :
+avant l'explosion :
+ostockage,
+omanipulation des explosifs,
+au moment de l'explosion : 
+oprojection de matériaux,
+oéboulements et effondrements,
+oincendie, etc.
+
+
+--- PAGE 31 ---
+25
+Méthodes et Techniques de Déconstruction – A. KONIN5. DECONSTRUCTION PAR EXPANSION
+La démolition par expansion se fait sur le principe de l'écartement ou de la dislocation. Elle est 
+idéale pour une démolition partielle. Cette démolition peut se faire par différents moyens :
+à l'aide d'éclateurs hydrauliques,
+à l'aide de vérins hydrauliques,
+à l'aide d'agents expansifs.
+5.1.M ETHODE ECARTEURS ET VERINS
+Avant de mettre en œuvre cette technique, il faut d'abord faire plusieurs trous de forage dans le 
+bâtiment à démolir :
+ces trous doivent être positionnés avec soins,
+c'est ce choix de positionnement qui déterminera l'efficacité de la démolition par expansion.
+Voici un récapitulatif des différentes méthodes d'expansion par écarteurs ou vérins :
+Type de procédé Explications
+Écarteur ou procédé 
+DARDATrou vertical percé dans le bloc à disloquer : 
+ole piston unique du vérin est mis en place dans ce trou entre deux 
+coquilles métalliques puis alimenté par une pompe hydraulique,
+oil va disloquer une partie de l'ouvrage par une poussée de 2 500 kN 
+en moyenne,
+ol'écarteur mis en place va provoquer des fissures dans le béton, 
+fragilisant ainsi toute la structure jusqu'à effondrement du 
+bâtiment.
+Vérins ou procédé 
+ROC JACKTrou vertical percé dans le bloc à disloquer : 
+oles deux pistons des vérins sont mis en place dans ce trou puis 
+alimentés par une pompe hydraulique,
+oils vont disloquer une partie de l'ouvrage par une poussée de 1750 
+kN en moyenne.
+5.2.L A TECHNIQUE DU MORTIER EXPANSIF
+Il est également possible d'utiliser un mortier expansif à base de chaux vive. Ce mortier expansif est 
+composé de :
+ciment,
+adjuvants,
+charges minérales.
+Il est destiné à la démolition d'ouvrages sur lesquels la démolition à l'explosif est interdite, comme 
+c'est le cas pour les :
+chantiers sensibles : 
+ousine pétrochimique,
+ocentrale électrique, etc.
+
+--- PAGE 32 ---
+26
+Méthodes et Techniques de Déconstruction – A. KONINchantiers complexes : 
+oouvrages d'art,
+otunnels,
+oports, etc.
+Le mortier est coulé dans des trous verticaux préalablement percés dans la structure de l'ouvrage 
+(trous de 30 à 70 mm tous les 20 à 110 cm selon l'ouvrage) :
+la pression apparaît environ 72 heures après application,
+il est possible d'accélérer le processus en insérant une résistance chauffante dans le trou.
+5.3.D EMOLITION PAR EXPANSION :DE NOMBREUX AVANTAGES
+Voici un tableau récapitulatif des avantages et inconvénients des démolitions par expansion :
+Avantages Inconvénients
+Rapidité.
+Maniabilité.
+Pas de poussière.
+Pas de vibration.Nécessite des forages très précis.
+Méthode quasiment impossible sur le béton armé.
+Solution : scier les armatures au chalumeau auparavant.
+
+--- PAGE 33 ---
+27
+Méthodes et Techniques de Déconstruction – A. KONINCHAPITRE 4 : SECURITE ET IMPACT ENVIRONNEMENTAL
+
+--- PAGE 34 ---
+28
+Méthodes et Techniques de Déconstruction – A. KONIN1. INTRODUCTION
+En perpétuelle évolution, le secteur de la démolition, comme beaucoup d’autres branches du BTP, 
+fait de la sécurité et de la gestion environnementale une véritable priorité. Les mesures prises en la 
+matière, ces dernières années, semblent porter leurs fruits. Les accidents du travail sont en forte 
+baisse, la valorisation matière des déchets de démolition est devenue une véritable filière 
+d’approvisionnement en matériaux, les risques d’exposition à l’amiante et au plomb sont en passe 
+de disparaître. 
+Le zéro accident s’ajoute ainsi aux zéro défaut, zéro retard, zéro papier… désormais bien connus. 
+Le législateur a pris des décisions visant à garantir la sécurité des travailleurs et le public vis-à-vis 
+des opérations de démolition.
+Les paragraphes développés ci-après ont pour objectif de présenter les dispositifs réglementaires en 
+matière de sécurité, les principales filières de valorisation des gravats de démolition et la gestion 
+environnementale.
+2. DISPOSITIFS SECURITAIRES
+Le travail de démolition entraîne de gros risques :
+risques dus à la manipulation d'engins,
+risques dus à l'écroulement de bâtiments, 
+omur,
+otoiture, etc.
+risques dus à la chute de gravats,
+risques dus à l'utilisation d'explosif,
+risques dus à la présence d'amiante, de plomb.
+Ces risques sont aussi importants du côté des travailleurs que du public. Les chantiers de démolition 
+doivent être parfaitement sécurisés. Dans le tableau ci-après, quelques moyens de sécurisation sont 
+présentés.
+
+--- PAGE 35 ---
+29
+Méthodes et Techniques de Déconstruction – A. KONINTableau 10 : Moyens habituels de sécurisation des chantiers de démolition
+Sécurité Moyen de mise en œuvre
+Chantier clos pour éviter toute intrusion du 
+public (« accès interdit à toute personne 
+étrangère au chantier).Mise en place de : 
+grillage,
+barrière de sécurité,
+mise en place de clôture et de passages 
+destinés aux piétons,
+liaison talkie-walkie permanente entre le chef 
+de chantier et un vigile.
+Voirie protégée.Mise en place de : 
+oécran de protection vertical,
+ocaoutchouc épais.
+Demande d'arrêté en mairie pour mise en 
+place de panneaux routiers.
+Système d'arrosage de manière à limiter la 
+poussière.
+Contrôles divers.Lignes électriques aériennes : 
+omoins de 50 000 V : 3 m de distance,
+o50 000 V et plus : 5 m et plus.
+réseaux gaz et eau,
+cavité au niveau du sol.
+2.1. M ANIPULATION D 'ENGIN DE CHANTIER :DEMOLITION ET SECURITE
+Les engins de chantier (pelle de démolition, bouteur, pince de démolition, grue...) ne doivent être 
+conduits que par des conducteurs assermentés :
+une autorisation de conduite est obligatoire,
+elle est délivrée par l'employeur.
+Les engins de chantier sont soumis à des vérifications et des examens définis réglementairement :
+ces vérifications sont faites à intervalles réguliers.
+les engins de type bouteur sont contrôlés tous les ans minimum.
+2.2. Choix d'un engin : selon le travail de démolition
+Le choix d'un engin doit être adapté au travail à réaliser. Cette notion d'adaptation est définie par :
+
+--- PAGE 36 ---
+30
+Méthodes et Techniques de Déconstruction – A. KONINune notice d'instructions du constructeur et notamment les contre-indications d'emploi,
+le gabarit, le poids et les capacités de l'engin,
+les conditions de circulation,
+la présence de piétons dans les zones de travail.
+2.3. D EMOLITION ET SECURITE :RISQUES D 'ECROULEMENT DU BATIMENT
+Un écroulement du bâtiment en voie de démolition engendre des conséquences parfois mortelles. Il 
+est donc nécessaire de prendre certaines mesures :
+étayer les murs porteurs au maximum ;
+établir des protections : 
+obarrière garde-fou au bord d'un toit,
+otreillis anti-débris,
+oharnais, etc.
+établir une zone de sécurité à respecter,
+employer des goulottes à gravats.
+2.4. R ISQUES DUS A L 'EMPLOI D 'EXPLOSIF POUR UNE DEMOLITION
+L'emploi d'explosif nécessite des conditions de sécurité drastiques.
+Seuls les professionnels et les personnes habilitées peuvent :
+acquérir des explosifs (décret n°81-972),
+détenir des explosifs,
+transporter des explosifs (décret n° 87-231).
+2.5. D EMOLITION ET SECURITE :EQUIPEMENT DE BASE DU TRAVAILLEUR
+Les ouvriers travaillant dans la démolition doivent respecter plusieurs obligations de sécurité :
+porter un casque de sécurité pour une sécurité renforcée en cas de chute de gravats,
+porter des chaussures de sécurité,
+porter des gants et une combinaison de sécurité : peuvent être spécialement adaptées à la 
+manipulation de matériaux amiantés en cas de nécessité,
+porter des lunettes de sécurité,
+porter des protections auditives, notamment en cas d'utilisation d'explosifs.
+2.6. M ESURES DE PREVENTION DES ACCIDENTS
+En France, la réglementation en matière de prévention des accidents dans le cas d’opérations de 
+démolition d’ouvrage est établie sous le numéro R346 par le comité technique des industries du 
+Bâtiment et des Travaux Publics. Cette réglementation porte sur les points suivants :
+-Mesure de prévention dans le cas de démolition par procédés manuels ou mécaniques
+-Mesure de prévention dans le cas de démolition par foudroyage à l’explosif
+
+--- PAGE 37 ---
+31
+Méthodes et Techniques de Déconstruction – A. KONIN-Mesure de prévention des accidents dus à la présence de matériaux contenant de l’amiante et 
+du plomb
+Quelques extraits de cette réglementation sont donnés en annexe.
+Les opérations de déconstruction des ouvrages tendent à se développer de plus en plus. Des outils 
+adaptés commencent à apparaître sur les chantiers. Certains permettent d’éliminer totalement des 
+risques. L’existence sur le marché d’engins robotisés assure de cette évolution (figures).
+Pelle hydraulique télécommandée à distance pendant une 
+opération d’écrêtageLe robot emplace les efforts humains pénibles 
+réalisés avec un marteau – piqueur ou un burin
+3. FILIERES DE VALORISATION DES DECHETS
+La production annuelle de déchets de chantiers est estimée en France à 40 millions de tonnes. Ces 
+déchets issus principalement d’opérations de démolition et de rénovation ne font plus l’objet d’une 
+mise en décharge depuis le 1erjuillet 2002. La connaissance des quantités et de la qualité des 
+matériaux constitutifs des ouvrages à démolir permet de spécifier les opérations de déconstruction 
+sélective envisageable en vue d’optimiser la gestion des déchets.
+3.1. C ATEGORIE DE GRAVATS
+La démolition entraîne un nombre important de déchets ou gravats, classés en plusieurs catégories, 
+qu'il faut éliminer. L'enlèvement des gravats pour leur recyclage se fait au choix via une benne à 
+gravats, une goulotte à gravats, un sac à gravats ou un aspirateur à gravats. Les gravats issus d'une 
+démolition doivent être classés en 3 catégories distinctes :
+
+
+--- PAGE 38 ---
+32
+Méthodes et Techniques de Déconstruction – A. KONINTableau 11 : catégories de gravats
+Classes Explications
+Les déchets ménagers non 
+inertes et non dangereuxDéchets ménagers et assimilés : environ 28 % des déchets.
+Les déchets inertesDéchets qui ne subissent aucune modification et qui n'ont aucune 
+réaction chimique durant leur stockage : environ 66 % des déchets.
+Les déchets dangereuxDéchets qui présentent des risques ou qui contiennent des produits 
+dangereux : environ 5 % des déchets.
+Tableau 12 : Différents types de gravats issus de la démolition
+Types de gravats Exemples
+Déchets inertesGravats de béton, briques, tuiles.
+Verre.
+Bitume sans goudron.
+Terre, cailloux.
+Boue de dragage.
+Matériaux d'isolation sans amiante : 
+olaine de verre,
+olaine de roche,
+overre expansé.
+Carreaux de plâtre, plaques de plâtre.
+Déchets non inertes et non 
+dangereuxDéchets de peinture et vernis sans solvants organiques.
+Déchets de colles et de mastics sans solvants organiques.
+Bois non traité.
+Matières plastiques : 
+omenuiserie,
+oPVC,
+oemballage non souillé.
+Métaux et alliages : 
+oaluminium,
+oplomb,
+ozinc,
+ofer,
+oacier,
+ocâble, etc.
+Polystyrène expansé.
+Polyuréthane.
+Déchets dangereuxBéton, briques, tuile et céramiques contenant des substances 
+dangereuses.
+Bois contaminés : 
+orevêtus de peinture de plomb,
+otraités à la créosote, etc.
+Mélange de bitume et de goudron.
+Goudron. Déchets d’explosifs
+Terres polluées. Déchets contenant du mercure
+Peintures et vernis contenant des déchets organiques.
+Colles et mastics contenant des déchets organiques.
+Déchets d'équipement électrique et électronique. Etc.
+
+--- PAGE 39 ---
+33
+Méthodes et Techniques de Déconstruction – A. KONIN3.2. T RAITEMENT DES GRAVATS
+La démolition entraîne un nombre important de déchets ou gravats qu'il faut éliminer, trier et 
+d'évacuer, soit à l'aide de sacs à gravats et d'un aspirateur à gravats, soit à l'aide d'une benne équipée 
+d'une goulotte à gravats.
+3.2.1. Benne à gravats
+La benne à gravats vous offre la possibilité de stocker les gravats avant tout traitement. Il existe de 
+nombreux types de bennes dont le choix se fera en fonction :
+du type de gravats,
+de leur quantité,
+de la place que vous avez devant le chantier.
+Les bennes à gravats peuvent prendre différentes formes :
+benne installée sur un châssis de camion,
+benne au sol.
+Attention : Il est conseillé de ne pas mélanger déchets toxiques et gravats pour des raisons 
+écologiques, mais également pour des raisons pratiques de tri .
+Les bennes à gravats sont proposées dans différentes tailles :
+benne de 8 m³,
+benne de 10 m³,
+benne de 12 m³,
+benne de 15 m³,
+benne de 20 m³,
+benne de 30 m³.
+Il est nécessaire de prévoir la manière dont les gravats vont être déplacés :
+certaines bennes sont proposées avec des ouvertures (porte arrière) pour faciliter le 
+chargement ;
+l'utilisation d'une goulotte à gravats peut faciliter le chargement.
+La benne à gravats peut être installée n'importe où tant que vous respectez les consignes de sécurité.
+En termes de réglementation :
+si elle se trouve sur votre terrain, aucune autorisation n'est réclamée,
+si elle dépasse sur la rue ou qu'elle y est directement posée, il sera nécessaire de faire une 
+demande de stationnement : 
+oauprès du service de voirie de votre commune,
+oauprès de la gendarmerie dans certaines communes,
+oauprès de votre copropriété si vous en dépendez.
+Certaines règles doivent être impérativement respectées, au risque de recevoir une amende :
+
+--- PAGE 40 ---
+34
+Méthodes et Techniques de Déconstruction – A. KONINla benne doit être signalée,
+la benne à gravats ne doit pas gêner la circulation piétonne et automobile,
+le passage pour les piétons doit faire au moins 1,40 m de large : si le trottoir sur lequel est 
+stationnée la benne est trop étroit, un itinéraire piéton sera aménagé, à vos frais.
+la benne doit être éclairée la nuit en cas de débordement sur la chaussée,
+dans le cas d'une démolition aidée d'une goulotte, la benne à gravats doit être bâchée et un 
+dispositif d'arrosage mis en place pour limiter la poussière.
+Les bennes doivent être installées sur des madriers de bois dans le cas où elles pourraient détériorer 
+la chaussée.
+3.2.2. Goulotte à gravats
+Le déblaiement d'un chantier de démolition peut se faire à l'aide d'une goulotte à gravats reliée à 
+une benne à gravats. La goulotte à gravats se compose de différentes parties dont :
+la goulotte à chaîne en polypropylène qui ne dépassera pas les 30 m,
+la trémie de chargement qui sert d' « entonnoir ».
+le « ralentisseur » pour freiner la chute des matériaux et qui est obligatoire au-delà de 12 
+mètres,
+les différents supports qui servent à la fixation de la goulotte : 
+ole support de fenêtre,
+ole support d'échafaudage,
+ole support pour dalle.
+La goulotte à gravats ne peut être installée n'importe où. Elle est obligatoirement utilisée avec une 
+benne à gravats ou un camion-benne :
+si elle se trouve sur votre terrain, aucune autorisation n'est demandée,
+si elle donne sur la rue ou la surplombe, il faudra faire une demande d'autorisation 
+d'installation : 
+oauprès du service de voirie de votre commune,
+oauprès de votre copropriété si vous en dépendez.
+Certaines règles doivent être impérativement respectées, sinon il est possible de recevoir une 
+amende :
+la goulotte ne doit pas gêner la circulation piétonne et automobile,
+le trottoir doit être préservé, dans une largeur de 1,40 m, pour les piétons : en cas 
+d'impossibilité du respect de cette consigne, les piétons seront renvoyés sur le trottoir d'en 
+face, avec la mise en place d'une signalisation verticale et horizontale,
+la goulotte doit être montée de façon à garantir une hauteur minimum de 4,50 m lorsqu'elle 
+n'est pas utilisée, permettant notamment aux pompiers de pouvoir manœuvrer en cas de 
+besoin,
+
+--- PAGE 41 ---
+35
+Méthodes et Techniques de Déconstruction – A. KONINla goulotte ne doit pas gêner les commerces voisins,
+la goulotte est montée par une entreprise spécialisée.
+La benne à gravats sur laquelle sera fixée la goulotte doit être bâchée et un dispositif d'arrosage mis 
+en place pour limiter la poussière. Le sac à gravats est très utile sur un petit chantier de démolition, 
+notamment lorsque la benne à gravats n'est pas nécessaire.
+3.2.3. Sac à gravats
+Les sacs à gravats sont indispensables pour convoyer les gravats jusqu'à la déchetterie. Ils sont 
+proposés en différentes matières, à choisir selon la résistance dont vous avez besoin :
+plastique épais,
+toile,
+polypropylène tissé,
+polyéthylène.
+Ces sacs peuvent être réutilisables ou jetables et avoir des anses ou non. Les dimensions varient 
+d'un choix à l'autre. Certains sacs proposent une forme adaptée au transport par brouette.
+Les déchets seront tous acceptés en déchetterie s'ils sont triés par sacs (le bois, les gravats de 
+briques, de parpaings, etc.).
+Attention : les déchets issus des travaux de déflocage et calorifugeage doivent être conditionnés 
+dans des doubles sacs étanches et étiquetés "amiante".
+3.3. E NLEVEMENT DES GRAVATS
+Les gravats et les déchets issus d'un chantier de démolition sont d'abord entreposés dans des bennes 
+à gravats ou des sacs à gravats, puis doivent être acheminés afin d'y être recyclés. Les matériaux 
+issus de la démolition peuvent être :
+traités par enfouissement,
+traités par incinération,
+traités sur place grâce à un concasseur,
+envoyés dans des décharges où seront alors classés selon leur nature : 
+oClasse I : déchets dangereux (amiante, etc.),
+oClasse II : déchets ménagers ou industriels,
+oClasse III : déchets inertes.
+Le concassage des gravats de type III (déchets inertes) permet un recyclage propre en granulats. Il 
+nécessite auparavant :
+un déferraillage des gravats : les armatures métalliques seront elles aussi recyclées,
+une décontamination des gravats si nécessaire.
+Ce concassage peut être fait sur place et limite donc les coûts de transport : une centrale de 
+concassage est dans ce cas installée sur le site.
+
+--- PAGE 42 ---
+36
+Méthodes et Techniques de Déconstruction – A. KONINCette centrale comprend :
+un groupe d'alimentation,
+un dé-ferrailleur,
+un groupe de criblage,
+un groupe de concassage.
+Le concassage sous cette forme présente des avantages, mais aussi certains inconvénients :
+Tableau 13 : quelques avantages et inconvénients du concassage
+Avantages Inconvénient
+Éco gestion.
+Respect de la législation.
+Économique.Bruyant.
+Poussiéreux.
+Coût d'usure du groupe de concassage élevé.
+Une fois les gravats transformés en granulats, ceux-ci sont triés par un cribleur. On obtient alors 
+différentes sortes de granulats qui seront utilisés :
+dans la construction : utilisés dans le béton,
+dans le terrassement et le remblai : 
+oen sous-couche,
+oen couche de finition.
+3.4. O PTION DE VALORISATION DES DECHETS DE DEMOLITION
+Le catalogue européen des déchets a édité une classification des déchets en tenant compte des 
+filières de valorisation. Ce catalogue distingue 15 filières possibles de destination des déchets de 
+démolition (voir tableau ci-dessous).
+Tableau 14 : Option de valorisation des déchets de démolition
+Option Filières Option Filières
+R1 Recyclage industrie du verre R9 Recyclage minéraux en granulats
+R2 Recyclage chutes de plastiques R10 Recyclage minéraux en granulats
+R3 DIB – Broyage et incinération R11 DIB – Enfouissement
+R4 Bois – Fabrication aggloméré R12 Centre de tri
+R5 Bois – Valorisation énergétique R13 Centre de tri
+R6 DIB – Enfouissement R14 Réemploi moquette
+R7 Recyclage métallurgie R15 DIB – Autre filière
+R8 Recyclage métallurgie
+
+--- PAGE 43 ---
+37
+Méthodes et Techniques de Déconstruction – A. KONIN4. GESTION ENVIRONNEMENTALE
+Le déblaiement est le nettoyage fin de chantier. À la fin d'un chantier de démolition, il faut 
+procéder :
+au déblaiement des gravats,
+à la décontamination.
+4.1. D EBLAIEMENT :LA FIN DU CHANTIER DE DEMOLITION
+Le déblaiement de fin de chantier, l'ultime évacuation des gravats et déchets issus de la démolition.
+La démolition entraîne de nombreux déchets :gravats, déchets dangereux... Pour les professionnels 
+de la démolition, il faut nettoyer ce chantier et procéder aux derniers déblaiements en évacuant les 
+gravats et déchets restants. Les premiers travaux à effectuer après une démolition sont :
+l'évacuation et l'enlèvement de déchets,
+leur tri,
+leur recyclage ou décontamination quand c'est nécessaire.
+Lorsqu'il s'agit de gravats, le recyclage peut être réalisé sur place et l'enlèvement et le tri sont 
+simplifiés. Les déchets sont ensuite chargés :
+dans des bennes à gravats,
+dans des sacs à gravats,
+ou dans des sacs spécifiquement conçus pour les déchets dangereux.
+Plusieurs techniques possibles pour charger les bennes :
+à l'aide d'engin de chantier : pelle de démolition,
+manuellement : avec des pelles, brouettes, etc.,
+avec un aspirateur à gravats.
+À noter : Certaines entreprises se sont spécialisées dans la gestion d'une fin de chantier et proposent 
+un « bordereau de suivi des déchets ».
+Important : Les enfouissements sur le site du chantier où les dépôts sauvages sont interdits et 
+punis par la réglementation.
+Il n'est pas possible de transporter des déchets sans une autorisation préalable de la préfecture de 
+votre département :
+une fois délivrée, cette déclaration est valable 5 ans,
+elle peut être réclamée par la gendarmerie lors d'un contrôle routier.
+Depuis le 1erjuillet 2002, une échéance a été mise en place, stipulant que : « seuls les déchets qui 
+n'auront pu être valorisés dans des conditions économiques acceptables pourront être mis en 
+décharge ». À noter : Le tri des déchets revient moins cher que le placement en décharge.
+Depuis 2007, une loi a été votée visant à gérer au mieux la pollution des sites :
+amiante,
+plomb, etc.
+
+--- PAGE 44 ---
+38
+Méthodes et Techniques de Déconstruction – A. KONINUn travail de décontamination est parfois nécessaire lorsque les matériaux issus de la démolition 
+sont contaminés.
+4.2. D ECONTAMINATION
+À la fin d'un chantier de démolition, il faut procéder :
+au déblaiement des gravats,
+à la décontamination si cela est nécessaire.
+Certains sols sont pollués par l'activité qui avait cours avant la démolition : il convient alors de les 
+décontaminer. Une loi a été votée pour régir la décontamination des sols après un chantier de 
+démolition. Il s'agit de la loi 72 intitulée « Loi modifiant la Loi sur la qualité de l'environnement et 
+d'autres dispositions législatives relativement à la protection et à la réhabilitation des terrains ».
+Cette loi a été créée dans le but :
+de protéger, réhabiliter et réutiliser les terrains,
+d'obliger les entreprises : 
+oà définir leur terrain lorsqu'elles ferment,
+oà exercer un suivi de la qualité des eaux souterraines, notamment lorsque des sources 
+de pollution peuvent contaminer une prise d'eau potable à proximité,
+d'avertir les habitants concernés de la contamination d'un terrain : en donnant aux mairies la 
+possibilité de dresser une liste des terrains contaminés situés sur leur territoire,
+de réclamer un expert en cas de demande d'un permis de construire.
+Il convient de réaliser une évaluation du sol selon :
+les risques toxicologiques,
+les risques écotoxicologiques,
+les risques concernant les impacts sur les eaux souterraines.
+Selon la loi 72, « toute personne qui a ou a eu la garde d'un terrain contaminé, à titre de propriétaire, 
+de locataire ou autre, pourra être tenue responsable de la réhabilitation de ce terrain ». Ne seront pas 
+inquiétées les personnes qui :
+n'étaient pas en mesure de connaître la présence de contaminants dans le terrain à cause des 
+circonstances, usages ou du devoir de diligence,
+ont agi, dans la garde de ce terrain, en conformité avec la loi, notamment dans le respect de
+leur devoir de prudence et de diligence,
+ou lorsque la présence de contaminants dans le terrain résulte d'une migration en provenance 
+de l'extérieur et est imputable à un tiers.
+4.3. T ECHNIQUES DE DECONTAMINATION D 'UN SOL
+La décontamination doit être réalisée par des entreprises qualifiées. Les méthodes employées 
+varieront en fonction de la nature de la pollution et du type de sol pollué.
+
+--- PAGE 45 ---
+39
+Méthodes et Techniques de Déconstruction – A. KONINTableau 15 : méthodes utilisées pour décontaminer un site :
+Type de dépollution Explications Avantages et inconvénients
+Dépollution par 
+remplacementDécapage du sol contaminé sur toute 
+l'épaisseur polluée puis remplacement de 
+la terre enlevée par de la terre saine.Coût de l'opération élevée.
+La terre polluée est considérée 
+comme un déchet industriel à 
+partir du moment où elle est 
+déplacée.
+Dépollution physico-
+chimiqueInjection d'un liquide ou d'un gaz sous 
+pression dans le but de dissoudre les 
+polluants.Traitement sur place.
+On doit connaître le polluant.
+Extraction par 
+aspirationTraitement par pompe à vide.
+Vapeurs traitées par oxydation 
+catalytique absorption par du 
+charbon actif.Uniquement sur terrains sableux.
+Extraction par 
+injectionInjection sous pression d'air, d'azote ou 
+de vapeur.Traitement possible uniquement sur 
+terrains perméables à l'air.
+Extraction électriqueImplantation d'électrodes 
+poreuses dans le but : 
+ode générer un courant 
+électrique,
+ode déloger les ions vers 
+les électrodes de charge 
+opposées.
+La récupération des polluants se 
+fait par pompage.Uniquement pour les polluants 
+ionisés : 
+métaux lourds,
+ions organiques.
+Extraction par 
+chauffage ou 
+désorption thermiqueConsiste à chauffer la terre à des 
+températures variant de 80 °C à 450 °C 
+dans le but d'évaporer les polluants.Adaptée à tous les polluants 
+en dehors des métaux lourds.
+Très avantageux : résultat 
+garanti en un temps très court 
+(quelques semaines).
+Lavage du solLe lavage peut être fait : 
+à haute pression,
+à pression normale.Dépollution limitée.
+Dépollution 
+biologiqueMode de dépollution basé sur des filtres 
+biologiques.Inconvénients : risque de 
+prolifération des micro-
+organismes.
+Inopérant sur les pollutions 
+trop importantes.
+Dépollution par les 
+plantesCertaines plantes sont capables de stabiliser dans leurs cellules : 
+oles métaux lourds,
+oles composés organiques polluants.
+Dépollution grâce à des enzymes ; ces plantes sont choisies en fonction 
+de 
+oleur taille,
+ola capacité qu'ont leurs racines à s'enfouir profondément dans le 
+sol pour atteindre les couches polluées
+
+--- PAGE 46 ---
+40
+Méthodes et Techniques de Déconstruction – A. KONINANNEXE
+

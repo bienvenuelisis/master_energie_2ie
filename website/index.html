@@ -3,28 +3,33 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>UE06 – Comptabilité & Planification Énergétique | Révision Interactive</title>
+  <title>Master GIS — Révision Interactive | Énergies Renouvelables</title>
   <link rel="stylesheet" href="css/style.css">
   <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>⚡</text></svg>">
 </head>
 <body>
   <nav class="sidebar" id="sidebar">
     <div class="sidebar-header">
-      <h1>⚡ UE06</h1>
-      <p>Master GIS – Énergies Renouvelables</p>
+      <h1>⚡ Master GIS</h1>
+      <p>Révision Interactive</p>
+    </div>
+    <!-- UE Tabs -->
+    <div class="ue-tabs">
+      <button class="ue-tab active" data-ue="ue06" onclick="switchUE('ue06')">⚡ UE06</button>
+      <button class="ue-tab" data-ue="ue07" onclick="switchUE('ue07')">🏗️ UE07</button>
     </div>
     <ul class="nav-links">
       <li><a href="#" data-page="accueil" class="active">🏠 Accueil</a></li>
       <li><a href="#" data-page="resume">📋 Résumé Express</a></li>
       <li><a href="#" data-page="flashcards">🃏 Flashcards</a></li>
       <li><a href="#" data-page="qcm">📝 QCM Interactif</a></li>
-      <li><a href="#" data-page="formules">🧮 Formules & Conversions</a></li>
-      <li><a href="#" data-page="technos">☀️ Technologies EnR</a></li>
-      <li><a href="#" data-page="juridique">⚖️ Aspects Juridiques</a></li>
+      <li><a href="#" data-page="formules">🧮 Formules</a></li>
+      <li><a href="#" data-page="technos">🔧 Fiches Techniques</a></li>
+      <li class="ue06-only"><a href="#" data-page="juridique">⚖️ Aspects Juridiques</a></li>
       <li><a href="#" data-page="exercices">📐 Exercices Corrigés</a></li>
     </ul>
     <div class="sidebar-footer">
-      <small>© 2026 — v1.0</small>
+      <small>© 2026 — v2.0</small>
     </div>
   </nav>
 
