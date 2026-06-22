@@ -1,0 +1,1096 @@
+--- PAGE 1 ---
+ 
+ 1  
+ 
+FICHE DE PRESENTATION ET DE SCENARISATION DE 
+COURS 
+ 
+ 
+1. Identification du Cours 
+ 
+Titre du Cours (EC)  Aspects juridiques, fiscaux et normatifs des projets d'énergie 
+renouvelables 
+Titre de l’Unité d’Enseignement 
+d’appartenance (UE) *  Instruments juridiques et comptables d'énergie 
+Code du cours*  M1GIS/M16 
+Semestre*  Suivant planning de la Formation 
+Niveau d'enseignement (Public 
+cible) *  Responsable énergie, Responsable technique, Gestionnaire des 
+infrastructures solaires, Responsable des marchés 
+Statut du cours*  Ligne 
+Domaine d’étude*  Diplôme de niveau Bac+5 en génie Electrique, Energétique et Energies 
+Renouvelables 
+ Expérience professionnelle huit (08) ans dans la conception, la mise en 
+œuvre et le montage des projets d’Energies Renouvelables 
+ Bonne connaissance de la règlementation et des normes 
+Auteur (s)  Dafoura Paul MILLOGO , 
+ Directeur de la Normalisation, Labélisation, et des Audits 
+Énergétiques 
+ Agence Nationale des Energies Renouvelables et de l’Efficacité 
+Energétique (ANEREE)/Burkina Faso 
+N° version et date de création  Version : 01 
+ Date de création ou de mise à jour : 26/07/2022 
+
+
+--- PAGE 2 ---
+ 
+ 2 Nombre de séquences prévues 
+(chapitres)  3 
+Nombre de Crédits*  Poids du cours par rapport à l’UE 
+Durée apprenant* 
+ (Heures / semaines)   Une semaine 
+Objectif(s) général(aux)  
+  Identifier et connaitre les instruments internationaux favorables aux 
+énergies renouvelables, qui sont dynamiques par essence 
+ Identifier et connaitre les moyens juridiques et fiscaux utilisés pour la 
+promotion des énergies renouvelables, qui sont dynamiques par 
+essence 
+ Identifier et connaitre les obstacles au développement des énergies 
+renouvelables 
+ Être en mesure d’intégrer les aspects juridiques et fiscaux dans tout 
+projet d’énergie renouvelables 
+ Être capable de tirer parti des instruments internationaux favorables 
+aux énergies renouvelables 
+Prérequis   Avoirs des connaissances en matière d’énergie et ses sources de 
+production d’énergie 
+ Être familier avec les notions de lois, décrets, arrêtés, directives,  
+convention  
+Mots clés Energies Renouvelables, Photovoltaïque (PV), Environnement, 
+Développement Durable, Droit international, crise écologique, énergétique 
+et sociale mondiale, Gaz à Effet de Serre (GES), croissance économique , 
+règlementation  
+Modalités spatiales 
+(En présentiel ; à distance ou mixte)  A distance 
+Modalités temporelles 
+(En synchrone ; en asynchrone ou mixte)    
+Modalités collaboratives 
+(Travail individuel ; en groupe ou mixte)   Travail individuel 
+ 
+  
+
+--- PAGE 3 ---
+ 
+ 3 2. Scénarisation du Cours (EC)  
+Séquence 1 : LES ENERGIES RENOUVELABLES DANS LA 
+PROTECTION DE L’ENVIRONNEMENT ET LE 
+DEVELOPPEMENT DURABLE  
+Durée : Une (01) semaine (par défaut) 
+Objectif(s) spécifique(s)  :  
+ 
+ 
+ Connaitre les instruments internationaux favorables aux énergies renouvelables 
+ Connaitre les moyens juridiques et fiscaux utilisés pour la promotion des énergies renouvelables 
+ Connaitre les obstacles au développement des énergies renouvelables 
+ 
+Consignes pour l’apprenant  
+ 
+ 
+ L’apprenant doit bien lire le présent document ainsi que tous les fichiers annexes 
+ 
+Consignes pour le tuteur  
+ 
+ 
+  
+   
+ 
+ 
+ Matériels pédagogiques du chapitre 1  :  
+ 
+TABLE DES MATIERES DU CHAPITRE 1 
+ 
+Chapitre 1 : les énergies renouvelables dans la protection de l’environnement et le 
+développement durable  
+1.1 Présentation  
+1.2 Le droit international de l’environnement et les énergies renouvelables  
+1.3 Les institutions internationales œuvrant en faveur des énergies renouvelables 
+1.4. Les organismes non étatiques    
+ 
+Chapitre 1 : Les énergies renouvelables dans la protection de l’environnement et le 
+développement durable  
+Le consensus scientifique est clair sur le fait que les changements climatiques ont pour origine l’activité 
+humaine. Les effets de ces phénomènes sur la vie sur Terre sont déjà visibles et le seront davantage 
+
+--- PAGE 4 ---
+ 
+ 4 encore dans un avenir proche. Pour répondre à ce défi, l’ensemble des pays ont adopté, en 2015 à la 
+COP21, l’accord de Paris sur le climat. En plus de cet accord d’autres dispositions au niveau mondial 
+pour freiner ce phénomène de changement climatique avec des effets très néfastes sur la vie de toutes 
+les espèces vivantes ont été adoptées. Cette situation fait émerger un nouveau concept, comme la 
+transition énergétique qui répond parfaitement au développement durable. 
+La transition énergétique  est aujourd’hui aussi bien engagée dans les pays en développement que dans 
+les pays développés. Soutenue par des évolutions technologiques, elle est une opportunité économique, 
+sociale et environnementale pour arriver aux objectifs de développement durable et une nécessité pour 
+atteindre les objectifs fixés par l’Accord de Paris sur le climat. Elle vise l’accès universel à des services 
+énergétiques efficients, résilients et décarbonés.  
+1.1 Présentation  
+Une Energie renouvelable (ER) est une source d’énergie se renouvelant assez rapidement après 
+utilisation et/ou consommation pour être considérée comme inépuisable à l’échelle du temps humain, 
+notamment l’énergie solaire (photovoltaïque et thermique), l’énergie de la biomasse, l’énergie 
+éolienne, l’énergie hydraulique, l’énergie de la géothermie et l’énergie marine (l'énergie 
+marémotrice, l'énergie des vagues et l'énergie thermique des mers) . Et un élément très important ; qui 
+est propre en termes d’émission de gaz à effet de serre .  
+Par Gaz à Effet de Serre, (GES) on entend un gaz présent dans l’atmosphère qui retient une partie de la 
+chaleur reçue par le solaire. L’augmentation de la concentration des gaz à effet de serre dans 
+l’atmosphère se traduit par une hausse de sa température. Ce qui est à l’origine du réchauffement de la 
+planète. L’augmentation de l’effet de serre due à l’activité humaine est constatée et incontestable. Les 
+tensions pour les ressources et les pressions migratoires jusqu’ici inconnues vont accompagner 
+l’aggravation du réchauffement. Il s’ensuit une menace pour la stabilité du monde « bien plus sérieuse 
+que le terrorisme » selon Sir David King . 
+L’avènement en puissance des ER répond aux critères suivants à savoir : 
+ La recherche de l’indépendance énergétique vis-à-vis des nations productrices de pétrole (les crises 
+pétrolières successives ont mis en évidence la dépendance de nombreux pays vis-à-vis des nations 
+productrices de pétrole) ;  
+ La dégradation de l’environnement (réchauffement climatique du au rejet des gaz à effet de serre 
+surtout le CO2 dans l’atmosphère) ; 
+ La politique d’accès à l’électricité pour le plus grand nombre de la population planétaire (seulement 
+1/4 de l’humanité a accès aux services énergétiques et cela est plus criarde en Afrique) ; 
+ La raréfaction et la fin de vie des énergies fossiles (pétrole, le charbon, l’uranium, le gaz naturel).   
+L’énergie verte et renouvelable est la réponse aux changements climatiques et une étape clé pour la 
+neutralité climatique. Sans transformation mondiale du secteur énergétique, il est vain d’espérer 
+
+--- PAGE 5 ---
+ 
+ 5 atteindre l’objectif des 1,5 degré fixé par l’Accord de Paris. 
+Les énergies renouvelables s'opposent aux énergies minières et fossiles, dont les stocks, forcément 
+limités, se sont constitués lors de la formation du système solaire (uranium, thorium), ou, au cours des 
+âges géologiques, à partir d'une fraction infime de la biomasse terrestre qui a pu se fossiliser (charbon, 
+pétrole, gaz naturel). 
+Notons qu’il est mis en place un Groupe Intergouvernemental d’Experts sur l’Evolution du Climat 
+(GIEC) qui a pour fonction de rendre des avis scientifiques, techniques et socio-économiques sur le 
+changement climatique, et en particulier sur les moyens de l’atténuer et de s’y adapter. Les rapports du 
+GIEC sont le résultat d’un consensus d’experts internationaux. 
+1.2 Le droit international de l’environnement et les énergies renouvelables  
+La protection de l’environnement et le droit à l’énergie est surtout propre de source renouvelable sont 
+deux (02) entités fondamentales pour le développement durable. Cela peut être observer sous deux (02) 
+angles. 
+ En premier lieu, le droit international ne doit pas rester inerte face à un domaine de plus en plus 
+évolutif de la coopération internationale à savoir l’environnement et les énergies renouvelables. Il 
+doit éviter de reproduire le même schéma néfaste que lors de la découverte des sources d’énergie 
+fossiles et nucléaire où il s’est laissé supplanter par les impératifs de productivité et de 
+développement économique . 
+ En second lieu, le droit international public doit saisir cette perche que lui tendent les progrès 
+technologiques pour soutenir la promotion des énergies renouvelables et se mobiliser pour 
+l’augmentation de leur part dans le mix énergétique des États et partant, dans le mix énergétique 
+mondial. À l’heure où les filières et les technologies relatives aux énergies renouvelables se 
+développent et se multiplient, il est nécessaire que le droit international public se réinvente pour 
+fournir aux énergies renouvelables un cadre de régulation, de coopération et de développement. 
+Le domaine des énergies renouvelables s'inscrit dans le droit fondamental de l'environnement qui a pour 
+but de protéger toutes les composantes de l'environnement sous tous ses aspects (eau, air, pollutions, 
+déchets, bruits, danger, risque, santé, urbanisme, espace). 
+Les normes ou accords du droit international de l'environnement favorables aux sources d'énergies 
+renouvelables sont d'une grande diversité. Plusieurs critères peuvent permettre de les distinguer et de les 
+analyser à savoir les normes de portée universelle des normes de portée régionale. 
+1.2.1. Objectifs de Développement Durable (ODD) 
+Le 25 septembre 2015, en parallèle de l’Assemblée Générale des Nations Unies, 193 dirigeants de la 
+planète se sont engagés sur dix-sept (17) objectifs mondiaux afin d’atteindre trois (03) supers objectifs 
+d’ici 2030 : 
+
+--- PAGE 6 ---
+ 
+ 6  Mettre fin à l’extrême pauvreté ; 
+ Lutter contre les inégalités et l’injustice ; 
+ Régler le problème du dérèglement climatique. 
+Le développement durable est un ensemble de décisions qui améliore les conditions de vie du présent 
+sans mettre en danger les ressources pour les générations futures. Le développement n’est pas durable 
+si nous utilisons toutes nos ressources aujourd’hui et ne laissons rien pour les générations suivantes.  
+Le développement durable est « un développement qui répond aux besoins du présent sans 
+compromettre la capacité des générations futures à répondre aux leurs », citation de Mme Gro 
+Harlem Brundtland, Premier Ministre norvégien (1987). 
+Le développement durable, c’est grandir ensemble, en encourageant la solidarité et le respect de 
+l’environnement. Les énergies renouvelables occupent une place importante dans les ODD. Et cela 
+ressort en son point ODD7 qui porte sur le « recours aux énergies renouvelables pour garantir l’accès 
+de tous à des services énergétiques fiables, durables et renouvelables à un coût abordable  ». Le droit 
+international sollicite une réforme du secteur de l'énergie pour le conformer au développement durable. 
+1.2.2. Convention Cadre des Nations Unis sur les Changements Climatiques (CNUCC) 
+A été adoptée le 09/05/1992 et est entrée en vigueur le 21/03/1994. Elle rappelle en son préambule que 
+l'utilisation de combustibles fossiles est particulièrement tributaire des émissions de Gaz à Effets de 
+Serre (GES) et que les pays en développement devront accroître leur consommation d'énergie en ne 
+perdant pas de vue qu'il est possible de maîtriser les émissions de GES en appliquant des technologies 
+nouvelles . Elle considère la nécessité de promouvoir l’accès universel à l’énergie durable dans les pays 
+en développement, en particulier en Afrique, en renforçant le déploiement d’énergies renouvelables. 
+L'objectif ultime de la convention est, selon l'article 2, de « stabiliser les concentrations de GES dans 
+l'atmosphère à un niveau qui empêche toute perturbation anthropique dangereuse du système 
+climatique . ». L'art. 4 c prévoit que les parties « encouragent et soutiennent par leur coopération la 
+mise au point, l'application et la diffusion de technologies, pratiques et procédés qui permettent de 
+prévenir les émissions anthropiques des GES dans tous les secteurs pertinents comme celui de 
+l'énergie. » 
+1.2.3. Protocole de Kyoto a la convention-cadre des nations unies sur les changements 
+climatiques 
+Pour compléter les objectifs de la CNUCC il a été adopté en 1997 le protocole de Kyoto. Ce protocole 
+à la CNUCC, vient intensifier et préciser les modalités de lutte contre le réchauffement climatique. Il 
+retient une réduction globale par rapport à 1990 de 5,2% des émissions de six (06) GES pendant la 
+première période d'engagement (2008-2012), ne fixant des objectifs de réduction d'émission qu'aux seuls 
+pays industrialisés. Ce protocole envisage explicitement le développement des Energies Renouvelables 
+comme l'un des moyens permettant d'atteindre les objectifs de réduction d'émission à travers son article 
+
+--- PAGE 7 ---
+ 
+ 7 2 qui stipule : « Chacune des parties visées à l'annexe I, pour s'acquitter de ses engagements chiffrés, 
+applique et/ou élabore des politiques et des mesures en fonction de sa situation nationale, par exemple 
+les suivantes : recherche, promotion, mise en valeur et utilisation accrue de Sources d’Energies 
+Renouvelables, ...  ». Les points ci-dessous sont énumérés dans le protocole : 
+ Recherche, promotion, mise en valeur et utilisation accrue de sources d'énergie renouvelables, de 
+technologies de piégeage du dioxyde de carbone et de technologies écologiquement rationnelles et 
+innovantes.  
+ Limitation et/ou réduction des émissions de méthane grâce à la récupération et à l'utilisation dans le 
+secteur de la gestion des déchets ainsi que dans la production, le transport et la distribution de 
+l'énergie. 
+ Ces programmes devraient concerner notamment les secteurs de l'énergie, des transports et de 
+l'industrie ainsi que l'agriculture, la foresterie et la gestion des déchets. En outre, les technologies 
+d'adaptation et les méthodes visant à améliorer l'aménagement de l'espace permettraient de mieux 
+s'adapter aux changements climatiques. 
+1.2.4. Agence Internationale pour les Energies Renouvelables (IRENA) 
+L’Agence internationale pour les énergies renouvelables (IRENA) constitue à la fois la plateforme 
+principale pour la coopération internationale, mais aussi un centre d’excellence, un référentiel en matière 
+de politiques, de technologies, de ressources et de connaissances financières, ainsi qu'un moteur d'action 
+sur le terrain destiné à promouvoir la transformation du système énergétique mondial. En tant 
+qu'organisation intergouvernementale fondée en 2011, l’IRENA promeut la large adoption et 
+l’utilisation durable de toutes les formes d’énergies renouvelables, notamment la bioénergie, la 
+géothermie, l’hydroélectricité, l’énergie marine, solaire et éolienne, dans un objectif de développement 
+durable, d’accès à l’énergie, de sécurité énergétique, de prospérité et de croissance économique à faible 
+émission de carbone.  
+L’Agence montre que le développement des énergies renouvelables doit être au moins six (06) fois plus 
+rapide si le monde veut atteindre les objectifs définis dans l'Accord de Paris. 
+L'accord historique de 2015 sur le climat vise, au minimum, à limiter la hausse moyenne de la 
+température mondiale à un niveau situé « bien en-dessous de 2 °C  » pour ce siècle par rapport aux 
+niveaux de l'époque préindustrielle. Les énergies renouvelables, associées à une amélioration rapide de 
+l'efficacité énergétique, sont la pierre angulaire d'une solution climatique pérenne. 
+« Les perspectives mondiales pour les énergies renouvelables transformation énergétique 2050  » 
+élaboré par l’IRENA montre que plus de 90 % de cette réduction serait obtenue grâce aux énergies 
+renouvelables et aux mesures d'efficacité énergétique.  
+1.2.5. Convention Cadre sur la lutte contre la Désertification 
+
+--- PAGE 8 ---
+ 
+ 8 Adoptée le 17/06/1994, la Convention Cadre sur la lutte contre la Désertification est entrée en vigueur 
+le 26/12/1996. Cette convention impose aux parties de soutenir les sources d’énergie renouvelable 
+comme mesure destinée à améliorer l'environnement économique aux fins de l'élimination de la 
+pauvreté. Son objectif central est « de lutter contre la désertification et d'atténuer les effets de la 
+sécheresse dans les pays gravement touchés par la sécheresse et/ou la désertification, en particulier en 
+Afrique, grâce à des mesures efficaces à tous les niveaux en vue de contribuer à l'instauration d'un 
+développement durable dans les zones touchées. Concrètement, cette convention impose aux parties de 
+soutenir les Sources d’Energies Renouvelables comme mesure destinée à améliorer l'environnement 
+économique aux fins de l'élimination de la pauvreté. 
+1.2.6. Accord de Paris sur le climat en 2015 
+Le présent Accord vise à renforcer la riposte mondiale à la menace des changements climatiques, dans 
+le contexte du développement durable et de la lutte contre la pauvreté, notamment en : 
+ Contenant l'élévation de la température moyenne de la planète nettement en dessous de 2 °C par 
+rapport aux niveaux préindustriels et en poursuivant l'action menée pour limiter l'élévation de la 
+température à 1,5 °C par rapport aux niveaux préindustriels, étant entendu que cela réduirait 
+sensiblement les risques et les effets des changements climatiques ;  
+ Renforçant les capacités d'adaptation aux effets néfastes des changements climatiques et en 
+promouvant la résilience à ces changements et un développement à faible émission de gaz à effet de 
+serre, d'une manière qui ne menace pas la production alimentaire ;  
+ Rendant les flux financiers compatibles avec un profil d'évolution vers un développement à faible 
+émission de gaz à effet de serre et résilient aux changements climatiques.  
+1.2.7. Déclaration de Stockholm de juin 1972 
+En plus de ces instruments en faveurs des Energies Renouvelables d’autres moins contraignant existent. 
+Parmi ceux-là nous avons la déclaration de Stockholm de juin 1972. 
+Le principe 3 de cette déclaration énonce que « la capacité du globe de produire des ressources 
+renouvelables essentielles doit être préservée et, partout où cela est possible, rétablie ou améliorée.  ». 
+Or il est constant que les Sources d’Energies Renouvelables répondent à ces attentes. Le principe 5 de 
+la déclaration conforte cette attente en disposant que « les ressources non renouvelables du globe 
+doivent être exploitées de telle façon qu'elles ne risquent pas de s'épuiser et que les avantages retirés 
+de leur utilisation soient partagés par toute l'humanité  ». Or le mode actuel de consommation et de 
+production de l'énergie ne répond pas à cette attente. Le principe 8 de la déclaration issue de cette 
+conférence proclame qu’« afin de parvenir à un développement durable et à une meilleure qualité de 
+vie pour tous les peuples, les États devraient réduire et éliminer les modes de production et de 
+consommation non viables,  ...  ». Il s'agit là d'une incitation aux modes de production et de 
+
+--- PAGE 9 ---
+ 
+ 9 consommation viables, notamment les Sources d’Energies Renouvelables (SER). 
+1.3 Les institutions internationales œuvrant en faveur des énergies renouvelables  
+Plusieurs institutions dans le monde œuvrent en faveur des Energies Renouvelables. 
+1.3.1. Les organismes interétatiques 
+Les organismes interétatiques sont diverses et diversifiées.  
+1.3.1.1. Organismes à travers le Fonds pour l'Environnement Mondial (FEM)/ONU 
+Le Fonds pour l'Environnement Mondial (FEM, Global Environment Facility (GEF) en anglais) est une 
+organisation financière indépendante de l'ONU dont la mission consiste à allouer des subventions aux 
+pays en développement pour des projets et des activités consacrés à la protection de l'environnement 
+mondial, notamment ceux liés au changement climatique. Créé en 1991 par la Banque mondiale, le 
+Programme des Nations unies pour le développement (PNUD) et le Programme des Nations unies pour 
+l’environnement (PNUE), il rassemble 183 États membres, dont 32 apportent les fonds nécessaires à sa 
+mission. C'est à travers le volet réchauffement climatique que le FEM traite de l'énergie. Depuis sa 
+création, il a soutenu plus de 4500 projets dans 170 États, certains sont pilotés par des ONG ou des 
+membres de la société civile. Sa gestion est assurée en grande partie par la Banque mondiale (qui a 
+annoncé au sommet de Bonn qu'elle allait augmenter de 20% en moyenne par an ses financements en 
+faveur des ER et de l'efficacité énergétique, sachant qu'elle y consacrait à cette date environ 200 milliards 
+de dollars par an). Le FEM appuie entre autres projets consacrés au développement des énergies 
+renouvelables menés par le programme des Nations unies pour l'environnement (PNUE) et le 
+programme des Nations unies pour le développement (PNUD).   
+1.3.1.1.1. Programme des Nations Unies pour l'Environnement (PNUE) 
+Le PNUE, créé en 1972 par l'ONU, a pour but de coordonner les actions relatives à l'environnement 
+menées dans le cadre des Nation Unies. Il se divise en douze (12) programmes prioritaires, dont l'un est 
+consacré à l'énergie. En l'occurrence, le PNUE apporte une aide essentielle à la prise de décision des 
+acteurs privés et publics. Grâce au soutien du FEM, il gère par exemple un Fonds consultatif pour les 
+investissements dans les énergies renouvelables d'un bon rendement énergétique (Renewable Energy 
+Technology Energy Efficiency Advisory Facility), qui aide les institutions financières à évaluer les 
+investissements étrangers alloués à des projets concernant les ER ou à l'amélioration du rendement 
+énergétique dans les pays en développement. Le PNUE soutient aussi les objectifs du programme solaire 
+mondial. 
+1.3.1.1.2. Programme des Nations unies pour le développement (PNUD) 
+
+--- PAGE 10 ---
+ 
+ 10Le PNUD est une organisation onusienne dont la vocation première est l'aide au développement, mais 
+son activité couvre aussi l'environnement dans le droit fil de la logique, désormais bien établie, du 
+développement durable. Dans le domaine des ER, le PNUD assume des missions de planification, de 
+financement et de coopération technique au profit des pays en développement. Il octroie des subventions 
+à des projets de petite envergure, participe aussi au Fonds des Nations unies pour la science et la 
+technologie au service du développement durable (FNUSTD) qui finance des projets dans le domaine 
+des ER, et à des partenariats internationaux couvrant cette problématique, tels le « partenariat pour 
+l'énergie du village planétaire ». 
+1.3.1.2. Organisation des Nations Unies pour l'éducation, la science et la culture (UNESCO)  
+L’UNESCO intervient dans le cadre de projets de promotion de ces formes d'énergie. L'UNESCO a 
+organisé des conférences sur ce sujet : « Le soleil au service de l'humanité » fut par exemple le thème 
+d'un congrès international en 1973, dans le contexte de la crise pétrolière. On rappellera que c'est aussi 
+l'UNESCO qui a pris l'initiative, dès 1993, de lancer le processus qui a débouché sur le programme 
+solaire mondial. Enfin, l'UNESCO fournit aussi des programmes d'enseignement aux universités, ou 
+encore apporte son soutien à des chaires consacrées aux SER. 
+1.3.1.3. Organisation des Nations unies pour l'alimentation et l'agriculture (FAO)  
+La FAO est en partie à l'origine des grands principes du sommet mondial pour le développement durable 
+de Rio en 1992 et notamment du programme « Action 21 ». A travers les activités qu'elle mène dans les 
+domaines de l'alimentation, de l'agriculture et de la pêche, la FAO promeut notamment toutes les SER 
+adaptées aux besoins des populations rurales (biomasse, systèmes solaires photovoltaïques notamment). 
+La FAO gère aussi la Plateforme internationale de la bioénergie (IBEP). 
+1.3.1.4. Organisation des Nations unies pour le développement industriel (ONUDI)  
+L’ONUDI appuie de nombreuses initiatives s'adressant aux pouvoirs publics, aux institutions et aux 
+entreprises visant au développement de l'énergie solaire, de l'énergie éolienne et de l'énergie provenant 
+de la biomasse. Elle a par exemple créé en Australie un centre pour l'application de l'énergie solaire, 
+chargé d'informer sur la commercialisation de cette énergie. Le sous-programme d'acquisition de 
+technologie de l'ONUDI aide les pays en développement à tirer profit de petites applications de l'énergie 
+hydraulique et de l'énergie solaire et à les mettre au service des habitants de régions rurales. Le 
+programme de technologie de l'ONUDI promeut la commercialisation de l'énergie solaire 
+photovoltaïque, particulièrement dans les régions rurales, où son coût est souvent compétitif. 
+1.3.1.5. Les commissions régionales des Nations Unies 
+
+--- PAGE 11 ---
+ 
+ 11Ces commissions ont aussi des programmes régionaux portant sur les ER. Il en va de même du 
+département des affaires économiques et sociales de l'ONU, qui a mis au point un programme sur les 
+ressources énergétiques renouvelables, axé sur les projets dans les pays en développement et les zones 
+rurales. Nous pouvons citez la : 
+ Commission des Nations Unies pour l'Asie et le Pacifique (CESAP) ; 
+ Commission Economique et Sociale pour l'Asie Occidentale (CESAO) ;  
+ Commission Economique et Sociale pour l'Amérique Latine et les Caraïbes (CEPELC) ; 
+ Commission du Développement Durable des Nations Unies (CDD) :  
+Etablie en 1992 par l'Assemblée Générale de l'ONU : elle a pour mission d'examiner les mesures 
+adoptées pour répondre aux objectifs définis par le sommet mondial pour le développement durable de 
+Johannesburg, et peut être amenée dans ce cadre à s'intéresser au déploiement des SER. La quatorzième 
+session de mai 2006 de cette instance a été consacrée à l'évaluation globale de la mise en œuvre des 
+engagements de Johannesburg dans les domaines de l'énergie, de la pollution atmosphérique, du 
+changement climatique et du développement industriel. 
+1.3.1.6. Agence Internationale pour les Energies Renouvelables (IRENA) 
+Les statuts de l'IRENA ont, aussi, tâché d'indiquer la ferme conviction que les énergies renouvelables 
+offrent de vastes possibilités de traiter les problèmes que sont la sécurité énergétique et la volatilité des 
+prix de l'énergie et d'y remédier progressivement tout en reconnaissant le «... rôle majeur que peuvent 
+jouer les énergies renouvelables en termes de réduction des concentrations de gaz à effet de serre dans 
+l'atmosphère, contribuant ainsi à stabiliser le système climatique et à favoriser la transition durable, sûre 
+et en douceur vers une économie sobre en carbone ». Reconnaissant toute l'utilité des sources d'énergie 
+renouvelable, les parties à ce traité se sont engagées à encourager l'adoption et l'utilisation accrues et 
+généralisées des énergies renouvelables dans la perspective du développement durable sans qu'aucune 
+réserve ne soit émise par rapport aux dispositions des statuts (art. XIX.F). Toujours étant, les statuts de 
+l'IRENA ne sont pas les seuls instruments universels favorables aux SER. « L'IRENA est l'agence de 
+la réconciliation de tous les pays pour faire l'union sacrée dans un combat mondial : la transition 
+vers des énergies propres  », résume sa directrice générale, la française Hélène PELOSSE. 
+1.3.1.7. Agence internationale de l'énergie (AIE) 
+L'Agence internationale de l'énergie (AIE) est une agence autonome de l'OCDE fondé en 1974 suite au 
+premier choc pétrolier. Elle a pour mission d'établir des prévisions afin de coordonner les politiques 
+énergétiques et sécuriser les approvisionnements. Elle ne dispose pas de compétences pour édicter des 
+dispositions juridiques. Ses travaux sont essentiellement centrés sur le pétrole. De plus, les prévisions 
+de l'AIE sont adoptés sans que soient établis de scénarios originaux et incitatifs en faveur de l'énergie 
+durable ce qui explique la part minime des énergies renouvelables dans la plupart de ses études. Depuis 
+
+--- PAGE 12 ---
+ 
+ 12le mois d'avril 1982, le REWP (le Groupe de Travail sur les Technologies d'Energies Renouvelables) 
+sert de principal organe consultatif au sein de l'AIE, en particulier pour toutes les questions ayant trait à 
+la recherche et au développement. Son mandat précis est de disséminer l'information sur les énergies 
+renouvelables à toutes les parties intéressées, de promouvoir la collaboration internationale en matière 
+de recherche et de développement, d'agir en vue de la levée des barrières institutionnelles, politiques et 
+autres obstacles liés au marché, d'identifier et de réduire les préjudices causés à l'environnement. 
+ 
+Dans le cadre de la mise en œuvre du mécanisme pour un développement des Energies Renouvelables 
+ne pourra pas être essentiellement l’apanage des conventions internationales à vocation universelle, 
+notamment la CCNUCC, le Protocole de Kyoto et l’Accord de Paris ou des institutions internationales. 
+Mais aussi, les entités régionales, sous-régionales et même nationales sont appelées à poursuivre à leur 
+niveau les objectifs impulsés par les instruments conventionnels internationaux.  
+1.3.2. Les organismes à vocation régionale 
+ Communauté économique des États de l'Afrique de l'Ouest (CEDEAO) à travers le Centre 
+des Energies Renouvelables et de l’Efficacité Energétique (CEREEC) ou ECREEE en Anglais 
+ Union Economique et Monétaire Ouest Africain (UEMOA) 
+L’Union Economique et Monétaire Ouest Africaine (UEMOA) a développé et mis en œuvre dans tous 
+ses pays membres le Programme de Développement des Energies Renouvelables et l’Efficacité 
+Energétique (PRODERE). 
+ Organisation de coopération et de développement économique (OCDE) 
+Elle a adressé à ses Etats membres des recommandations pour la promotion desdites énergies, et 
+recueille et diffuse régulièrement des informations et effectue des études comparatives. Le 
+développement de sources d'énergies alternatives, la promotion de la coopération internationale en 
+matière de recherche et de développement de nouvelles technologies énergétiques, le traitement des 
+aspects environnementaux de l'approvisionnement et de l'utilisation de l'énergie. 
+ Union européenne (UE)  
+L’UE a pu exploiter le dispositif juridique particulièrement élaboré du traité instituant la Communauté 
+européenne afin de développer un soutien aux ER davantage contraignant et surtout pluridimensionnel 
+à savoir en matière d'environnement. Les dirigeants européens ont adopté un vaste ensemble de mesures 
+destinées à réduire la contribution de l'Union Européenne (UE) au réchauffement climatique et à garantir 
+un approvisionnement énergétique sûr et suffisant. Ces mesures, qui constituent la réforme la plus 
+ambitieuse de la politique énergétique européenne, visent à faire de l'Europe la championne mondiale 
+des énergies renouvelables et des technologies sobres en carbone. 
+ Organisation latino-américaine de l'énergie  
+Cette organisation soutient les projets relatifs à la baisse des émissions de GES et d'optimiser les énergies 
+
+--- PAGE 13 ---
+ 
+ 13à base de SER. 
+ Organisation pour la Sécurité et la Coopération en Europe (OSCE) 
+C’est une organisation internationale ayant pour but de favoriser le dialogue et la négociation entre les 
+États de l'Est et de l'Ouest. Elle regroupe 56 membres situés en Europe, en Asie centrale et en Amérique. 
+ Alliance solaire internationale (ASI) 
+L’Alliance solaire internationale (ASI) est une initiative conjointe de la France et de l’Inde, lancée lors 
+de la COP 21, aux fins d’un effort inédit en faveur de l’énergie solaire pour la lutte contre les 
+changements climatiques.   
+1.3.1.8. Les organismes Etatiques 
+Les structures étatiques suivantes œuvrent également en faveur des Energies Renouvelables : 
+ Agence Nationale des Energies Renouvelables et de l’Efficacité Energétique (ANEREE) /Burkina 
+Faso ; 
+ Agence Nationale pour les Energies Renouvelables (ANER) /Sénégal ; 
+ Unité Chargé de la Politique de Développement des Energies Renouvelables (UC/PDER) /Bénin ; 
+ Agence Nationale d’Energie Solaire (ANERSOL) /Niger ; 
+ Agence Togolaise d’Electrification Rurale et des Energies Renouvelable (AT2ER) /Togo ; 
+ Gesellschaft für Internationale Zusammenarbeit (GIZ) /Allemagne ; 
+ Association Suisse de Normalisation (SNV) ; 
+ Groupe Agence Française de Développement (AFD) 
+L’arrêt complet du financement du gaz pour la production d’électricité annoncé lors de la COP26 à 
+Glasgow. Cet engagement place l’AFD parmi les institutions pionnières sur le climat. En 2021, les 
+engagements financiers du Groupe se sont élevés à 12,1 milliards d’euros. Entre enjeux climat et atteinte 
+de l’ODD7, les interventions du groupe AFD soutiennent l’accélération de la transition énergétique des 
+pays partenaires vers des services énergétiques accessibles à tous, efficients, résilients et décarbonés ; 
+ Etc. 
+1.4. Les organismes non étatiques  
+L'action des multinationales favorise d'une manière ou d'une autre le développement des sources 
+d'énergies renouvelables. Plusieurs organismes non étatiques œuvrent également en faveur des Energies 
+Renouvelables : 
+ Greenpeace International , quant à elle, est une organisation non gouvernementale (ONG) de 
+protection de l'environnement présente dans plus de quarante (40) pays à travers le monde : en 
+Amérique du Sud et du Nord, en Asie, en Europe et dans le Pacifique ; 
+ L'ONG internationale Conseil Mondial des Energies Renouvelables  (WCRE)  a été mise sur 
+pied en juin 2001 à Berlin en tant qu'organe indépendant constituant une « voix globale » en faveur 
+
+--- PAGE 14 ---
+ 
+ 14des énergies renouvelables ;  
+ Banque Mondiale (BM)  
+ Banque Ouest africaine de développement (BOAD )  
+ Banque Africaine de Développement (BAD)  
+ Global Green Growth Institute (GGGI)  
+ Fonds vert pour le climat (GCF)  
+La création du Fonds vert pour le climat, dont le siège est en Corée du Sud, a été décidée à la Conférence 
+des Parties de Copenhague en 2009. Le Fonds est opérationnel depuis 2015. Principal fonds multilatéral 
+dédié au financement de la lutte contre le changement climatique dans les pays en développement, il 
+joue un rôle de catalyseur des actions d’atténuation et d’adaptation à grande échelle à travers trois types 
+de valeur ajoutée : 
+1.   l’augmentation des volumes financiers pour la lutte contre le changement climatique ; 
+2. le déploiement d’outils financiers (dons, prêts concessionnels, garanties, prise de   
+participation, assurance, partage des risques, mécanismes d’incitation à la performance, aide budgétaire, 
+…) via un large réseau d’entités de mise en œuvre et intermédiaires, qui peuvent être internationales, 
+régionales ou nationales ; 
+3. une meilleure couverture des besoins insuffisamment couverts à l’heure actuelle comme 
+l’adaptation des plus vulnérables. 
+Le Fonds vert finance des projets et programmes ayant un potentiel transformationnel maximum vers 
+des économies bas carbone et résilientes, en cohérence avec les besoins des pays. 
+ Global Off-Grid Lighting Association (GOGLA) 
+ Total Energies 
+ Fondation Néerlandaise FRES (Foundation Rural Energy Services) 
+ AFRICA REN 
+ LEGENDRE ENERGIE 
+ GREEN YELLOW  
+ Le producteur européen d'énergies renouvelables THEOLIA 
+Spécialisée dans l'énergie éolienne, Théolia est particulièrement présente en Allemagne, en France, dans 
+le Sud de l'Europe et de façon plus marginale dans les pays émergents (Maroc, Inde, Brésil). 
+ La Fondation Google  
+Elle met également l'accent sur une taxe de carbone et favorise la mise en place de crédits d'impôt sur 
+les énergies renouvelables. Par l'intermédiaire de sa fondation, Google investit des milliards pour la 
+recherche dans les filières renouvelables. 
+ Etc.  
+ 
+ 
+
+--- PAGE 15 ---
+ 
+ 15 
+BIBLIOGRAPHIE  
+ 
+[1] Groupe Agence Française de Développement , Transition énergétique, Bilan d’activité 2021 
+[2] Mariette Ntienjem , ma thèse en une page, Énergies renouvelables et droit international, Analyse 
+du cadre juridique international applicable aux énergies renouvelables, La Revue de l’Énergie n° 655 – 
+mars-avril 2021 
+[3] Emmanuel planet , gaz à effet de serre conséquences, janvier 2009 
+[4] ADEME, Guide méthodologique des émissions de gaz à effet de serre des services de l’eau et de 
+l’assainissement, 2018 
+[5] IRENA, Feuille de route pour 2050, IRENA_Global_Energy_Transformation_2018_summary_FR, 
+Transformation Énergétique mondiale, 2018 
+[6] IRENA, conclusions principales , IRENA_GRO_2020_findings_FR, perspectives mondiales pour 
+les énergies renouvelables transformation énergétique 2050, 2020 
+[7] Renewable_Energy_Transition_Africa_2021_FR , La transition vers les énergies renouvelables 
+en Afrique, Renforcer l'accès, la résilience et la prospérité, septembre 2020 
+[8] Aimexe AMOUSSOU , Université de Limoges, Energies renouvelables et Droit international de 
+l'environnement : enjeux et perspectives, Master 2, Août 2010 
+[9] UNICEF France, Fiche technique ODD , les Objectifs DE Développement Durable (ODD), 
+septembre 2016 
+ 
+TEXTES JURIDIQUES 
+ 
+[1] Convention Cadre sur la lutte contre la Désertification du 17/06/1994, Entrée en Vigueur le   
+26/12/1996 
+[2] Convention-Cadre des Nations Unies Sur les Changements Climatiques (CCNUCC) du 09.05.1992, 
+Entrée en Vigueur le 21.03.1994 
+[3] Déclaration de Rio sur l'Environnement et le développement du 12.08.1992, A/Conf.151/26 (Vol. I) 
+[4] Déclaration de Stockholm de la Conférence des Nations-Unis sur l'environnement du 16.06.1972 
+[5] Déclaration de Stockholm de la Conférence des Nations-Unis sur l'environnement du 16.06.1972 
+[6] Statuts de l'IRENA du 26 janvier 2009, Entrée en Vigueur le 8 juillet 2010 
+[7] Recommandations Politiques pour les ER de la conférence internationale des ER de Bonn, 
+04.06.2004 
+[8] Protocole de Kyoto à la Convention-Cadre des Nations Unies sur les changements Climatiques du 
+11.12.1997, Entrée en Vigueur le 16.02.2005 
+[9] Plan d'action pour les énergies renouvelables, conférence internationale de Bonn, 04.06.2004 
+[10] Déclaration politique de la conférence internationale des ER de Bonn, 4.06.2004 
+[11] L’Accord de Paris sur le climat de 2015 
+
+--- PAGE 16 ---
+ 
+ 16 
+WEBLIOGRAPHIE  
+www.irena.org/publications  
+www.ademe.fr  
+ 
+ 
+ 
+ 
+ 
+Activités 
+ 
+Etc .
+
+--- PAGE 17 ---
+ 
+ 17 Séquence 2 : PROJETS D’ENERGIES RENOUVELABLES : 
+SOLUTION A LA CRISE ECOLOGIQUE, ENERGETIQUE ET 
+SOCIALE MONDIALE  
+Durée : Une (01) semaine (par défaut) 
+Objectif(s) spécifique(s)  :  
+ 
+ 
+  Connaitre et comprendre les aspects juridiques et normatifs 
+ 
+ 
+Consignes pour l’apprenant  
+ 
+ 
+ Une série de questions fermées (QCM, ou QCU, V/F, association etc.) est proposée pour permettre 
+à l’étudiant de tester ses connaissances sur le chapitre 2 du cours. 
+  Il est important pour les apprenants de bien lire le chapitre 2 avant de traiter la série de question. 
+ 
+Consignes pour le tuteur  
+ 
+ 
+  
+   
+ 
+ 
+ 
+ Matériels pédagogiques du chapitre 2  :  
+ 
+TABLE DE MATIERE DU CHAPITRE 2 
+ 
+Chapitre 2 : Projets d’énergies renouvelables : solution à la crise écologique, énergétique et 
+sociale mondiale  
+2.1 Présentation  
+2.2 Le potentiel énergétique ouest africain et le développement des ER : La prise en compte 
+des aspects juridiques et fiscaux dans les projets d’ER  
+2.3 Le droit de tous à l’énergie et les projets d’énergies renouvelables  
+ 
+ 
+Chapitre 2 : Projets d’énergies renouvelables : solution à la crise écologique, énergétique et 
+sociale mondiale  
+Le monde actuel est en crise. Cette crise est à la fois écologique, énergétique et sociale. Il s'agit du 
+
+--- PAGE 18 ---
+ 
+ 18phénomène des changements climatiques et de la pauvreté notamment énergétique qui minent le monde 
+contemporain. La guerre en Ukraine vient aggraver cette crise énergétique et sociale. 
+Ces préoccupations menacent la subsistance de toute forme de vie et ont déjà suscité plusieurs actions 
+au plan international. Les acteurs du Droit international de l'environnement ont déjà envisagé plusieurs 
+mesures parmi lesquelles le recours aux sources d'énergie propre notamment les énergies renouvelables.  
+Les Sources d’Energies Renouvelables (SER) sont peu pollueur, par conséquent, leur exploitation peut 
+constituer un outil de lutte contre le phénomène du réchauffement climatique. Aussi, elles sont 
+favorables au développement durable parce qu'elles sont disponibles en abondance et ont la pérennité 
+comme qualité. Aussi ces sources donnent la possibilité d’être facilement déployer partout dans le 
+monde. Ainsi, les énergies renouvelables permettront d'approvisionner les populations les plus pauvres 
+en énergie y compris ceux qui n'y ont pas accès actuellement sans qu'il ne soit nécessaire d'opérer de 
+coûteux raccordements au réseau. C’est le cas par exemple des kits solaires.  
+Le marché du solaire a connu à l’échelle mondiale une croissance extraordinaire constatée au cours de 
+la dernière décennie. Cette augmentation de capacité constatée est proportionnelle à la baisse drastique 
+des coûts des équipements solaires photovoltaïques dans la dernière décennie. Selon l’Agence 
+Internationale des Energies Renouvelables (IRENA), la capacité cumulée de solaire PV déployé à 
+travers le monde a atteint 578 GW à la fin 2019. En 2019 le coût actualisé du kWh solaire (LCOE) des 
+nouvelles installations de centrales solaires PV était en baisse de 82% (environs 0.068 USD/kWh) par 
+rapport aux coûts de 2010.  
+2.1 Présentation  
+Le réchauffement climatique , également appelé réchauffement planétaire , ou réchauffement 
+global, est un phénomène d'augmentation de la température moyenne des océans et de l'atmosphère, à 
+l'échelle mondiale sur plusieurs années. Dans son acception commune, ce terme est appliqué à une 
+tendance au réchauffement global observé depuis les dernières décennies du XXe siècle. 
+Il ressort des travaux de recherche des scientifiques du monde entier que ce phénomène de 
+réchauffement climatique depuis 1950 est très probablement d'origine humaine (une probabilité 
+supérieure à 90 %) à travers l’utilisation de l’énergie dans les diverses activités. 
+ Le dioxyde de carbone (CO2) : qui est généré par la combustion des combustibles fossiles (charbon, 
+pétrole et ses dérivés, gaz) par certains procédés industriels, la déforestation. Les secteurs émetteurs 
+sont les transports, les bâtiments et la consommation des ménages, la production d’énergie et 
+l’industrie ; 
+ Le méthane (CH4) : émis par l’élevage des bovins, les déjections animales et les cultures agricoles 
+(riz), par la mise en décharges des déchets organiques. Son pouvoir sur l’effet de serre est de 21 fois 
+celui du CO2 ;  
+ L'oxyde nitreux (N2O) : Le protoxyde d’azote ou N20 est le résultat de pratiques agricoles 
+
+--- PAGE 19 ---
+ 
+ 19intensives (engrais, déjections) et peut être émis à l’occasion de procédés industriels, principalement 
+dans les industries chimiques qui fabriquent les engrais. Son pouvoir sur l’effet de serre est de 310 
+fois celui du CO2 ; 
+ L'hexafluorure de soufre (SF6), les hydrofluorocarbures (HFC), les perfluorocarbures (PFC) : sont 
+utilisés dans la réfrigération et l’air conditionné, dans les mousses isolantes et les aérosols, 
+l’industrie des semi-conducteurs et les appareils de transport d’électricité. Leur pouvoir de 
+réchauffement va de 1300 fois à 23 000 fois celui du CO2.  
+Ce sont les gaz qui contribuent à renforcer l'effet de serre et participent au réchauffement climatique. Le 
+principal gaz à effet de serre est dioxyde de carbone (CO2). 
+L'effet de serre  est un phénomène naturel : une partie du rayonnement infrarouge émis par la Terre vers 
+l'atmosphère terrestre reste piégée par les gaz dits « à effet de serre », ce qui augmente ainsi la 
+température de la basse atmosphère (troposphère). Sans cet effet, la température de surface de la Terre 
+serait en moyenne de -18 °C. 
+NB : Si le réchauffement vise tous les pays, si certains pays développés en subissent les effets néfastes, 
+une majorité de pays moins avancé trouveront dans le réchauffement une aggravation, parfois très 
+forte, de leur condition.  
+2.2. Les conséquences négatives majeures pour l'humanité des changements climatiques  
+Les conséquences négatives majeures pour l'humanité des changements climatiques :  
+ Une baisse des rendements agricoles potentiels dans la plupart des zones tropicales et subtropicales 
+ Une diminution des ressources en eau dans la plupart des régions sèches tropicales et subtropicales ; 
+ Une diminution du débit des sources d'eau issues de la fonte des glaces et des neiges, suite à la 
+disparition de ces glaces et de ces neiges ; 
+ Une augmentation des phénomènes météorologiques extrêmes comme les pluies torrentielles, les 
+tempêtes et les sécheresses, ainsi qu'une augmentation de l'impact de ces phénomènes sur 
+l'agriculture ; 
+ Une augmentation des feux de forêt durant des étés plus chauds ; 
+ L'extension des zones infestées par des maladies comme le choléra ou le paludisme ; 
+ Des risques d'inondation accrus, à la fois à cause de l'élévation du niveau de la mer et de 
+modifications du climat ; 
+ Une plus forte consommation d'énergie à des fins de climatisation. 
+2.3. Les avantages liés à la réduction des émissions de GES à travers les ER  
+La réduction des émissions de GES à travers les ER présente d’énormes avantages : 
+ La réduction des GES permettra de résoudre une des plus grandes équations pour l'humanité au 
+XXIème siècle. Elle aura pour avantage de diminuer l'effet de serre additionnel à l'origine des 
+
+--- PAGE 20 ---
+ 
+ 20changements climatiques. Cela permettra à l'homme et à la nature d'échapper aux nombreuses 
+conséquences du réchauffement climatique prévues par les scientifiques. 
+ Ainsi, d'une part, la perte de la biodiversité et la destruction des écosystèmes causées par le 
+phénomène des changements climatiques serait empêchées. Et, les systèmes les plus sensibles aussi 
+tels que les glaciers, les récifs coralliens, les mangroves, les forêts boréales et tropicales, etc. seront 
+épargnés des effets néfastes du réchauffement planétaire. 
+ D'autre part, l'homme serait épargné des famines que pourrait causer le réchauffement climatique à 
+travers la baisse des rendements agricoles potentiels et la diminution des ressources en eau. 
+L'humanité sera épargnée des catastrophes naturelles conséquences des changements climatiques. 
+Par conséquent, on aura également moins de déplacés environnementaux. 
+2.4. Les avantages des Energies Renouvelables (ER)  
+Le développement des ER présente d’énormes avantages pour le monde aux niveaux social, économique 
+et environnemental. 
+ Le développement de filières industrielles et agricoles nouvelles 
+ La croissance économique par la création d'emplois 
+ La réduction de l'exode rural et de l’immigration pour les pays en développement 
+ L'orientation de l'offre agroforestière vers la production d'ER semble en mesure d'offrir de nouveaux 
+débouchés aux différents acteurs du domaine. Il s'agit d'une agriculture multifonctionnelle favorable 
+à la création de nouvelles occasions pour le développement rural durable. Par exemple, la production 
+éolienne sur des terres agricoles peut constituer pour des agriculteurs en difficulté un complément 
+financier (location des terres...) ; 
+ De nombreux avantages au niveau du commerce international liés tant aux importations qu'aux 
+exportations à travers technologies et les matériels permettant la production d’énergie ; 
+ Le développement économique local à travers le désenclenchèrent des zones isolées (parfois 
+pauvres) ne pouvant pas être alimentées par les grands réseaux de transport et de distribution comme 
+les îles, les zones de montagne, les régions ultrapériphériques, les territoires ruraux, les habitations 
+individuelles situées loin des grands réseaux de distribution d'énergie 
+ Répondre à la fragilité économique des pays face aux déséquilibres du marché de l'énergie 
+ L'autonomie énergétique des acteurs privés, l'émancipation des communautés et la génération de 
+revenus pour les propriétaires terriens ; 
+ Faire face à l'insécurité économique causée en particulier par la volatilité des prix des matières 
+premières et en particulier des énergies fossiles sur le marché mondial. 
+On peut conclure que les SER ont un énorme potentiel et constituent la solution à la crise sociale et 
+écologique dans le monde. Et qu'elles offrent de considérables avantages aussi bien aux pays développés 
+qu'aux pays en développement. 
+
+--- PAGE 21 ---
+ 
+ 212.5. Les limites des Energies Renouvelables 
+En dépit des efforts non négligeables fournis de part et d'autre pour la promotion des SER, ces dernières 
+représentent moins de 20% de la production mondiale d'énergie. En dépit de leurs nombreuses 
+qualités, les ER ont aussi des limites et contraintes. 
+ Si l'énergie solaire est disponible partout à la surface du globe, elle n'est disponible que de jour (soit 
+50 % du temps sur une année) ;  
+ La plupart des autres énergies dépendent du milieu et ne sont donc pas disponible partout et tout le 
+temps ; 
+ Le développement de biocarburants peut aggraver la crise alimentaire dans le monde. Dans la 
+mesure où la production de biocarburants doit se faire à partir de végétaux alimentaires comme le 
+maïs, le blé, la noix de palme, la betterave, déjà insuffisants pour l'alimentation dans le monde ; 
+ L'exploitation des ER expose la faune et la flore à certains risques. La construction d'un barrage 
+hydroélectrique a des conséquences lourdes : inondation de vallées entières, modification profonde 
+de l'écosystème local. Aussi, les barrages hydroélectriques font obstacle à la migration des poissons, 
+ce qui représente un problème pour les fleuves.  
+NB : il est important de souligner que dans le passé les véritables obstacles au développement des ER 
+étaient le manque de maturité technologique et le coût d’investissement très élevé. Cependant, ces 
+obstacles sont levés depuis ces dernières années. 
+2.2 Le potentiel énergétique ouest africain et le développement des ER : La prise en compte 
+des aspects juridiques et fiscaux dans les projets d’ER  
+L’énergie est la clé du développement en Afrique. Le potentiel inégalé du continent en énergies 
+renouvelables donne à l’Afrique un avantage indéniable pour la transformation du secteur énergétique.  
+En exploitant le potentiel des énergies renouvelables, les économies jeunes et à la croissance dynamique 
+de l’Afrique peuvent produire de l’énergie tout en respectant les objectifs climatiques internationaux. 
+L’un des thèmes les plus importants en est l’accès à une énergie abordable, fiable et durable pour tous 
+l’ODD 7 de l’Agenda 2030. La communauté internationale, les organisations multilatérales et les 
+partenaires bilatéraux sont prêts à conclure des partenariats avec les pays africains dans l’atteinte de leur 
+objectif d’une croissance durable et à travailler avec eux à l’élaboration et à la mise en œuvre des 
+solutions qui permettront d’atteindre cet objectif. 
+2.2.1 Les opportunités des énergies renouvelables 
+Les énergies renouvelables surtout l’énergie solaire Photovoltaïque (PV) fournissent de plus en plus 
+d’opportunités aux pays africains. La baisse des coûts et la diversification des technologies solaires sont 
+
+--- PAGE 22 ---
+ 
+ 22perçues comme des alternatives pour donner l’accès aux services énergétiques aux populations dont 
+l’existence est marquée par une situation de pauvreté énergétique. 
+ Marché du solaire africain en plein essor  
+Le marché du solaire est en plein essor et la tendance croissante devra se maintenir dans les années à 
+venir. La forte demande offre une opportunité pour mener des actions de sensibilisation, de conseils et 
+d’organisation progressive les acteurs présents dans la filière.  
+ Evolution technologique rapide et de plus en plus adaptés aux besoins  
+Les produits solaires ont connu une évolution technologique aussi bien au niveau des performances que 
+des services énergétiques. Des solutions s’adaptent de plus en plus aux besoins des populations et 
+intègrent les modes et activités. De nombreuses solutions combinant la téléphonie mobile offrent 
+beaucoup plus de facilité à opérer et suivre les systèmes tout en permettant le développement de modèles 
+innovants de payement et de gestion. 
+ Besoin constant d’accès aux services énergétiques des populations  
+L’accès aux services énergétiques est devenu partie intégrante des besoins basiques des populations 
+africaines. Dans les zones urbaines comme rurales, les besoins de recharge de téléphone, de lumière se 
+font de plus en plus pressant. Selon plusieurs études, les besoins énergétiques augmentent naturellement 
+une fois que l’accès est établi. Cette situation offre une opportunité pour la croissance du marché du 
+solaire. 
+2.2.2. Obstacles au développement des ER en Afrique 
+Les enquêtes menées par l’IRENA ont révélé un taux impressionnant de systèmes solaires PV 
+défectueux, des installations solaires PV qui ne sont pas durables ou restent inutilisées notamment en 
+Afrique de l’Ouest. Les anomalies à l’origine de cela peuvent être énumérer comme suite : 
+ Mauvaise qualité des équipements solaires qui rentrent dans le continent africain ;  
+ Manque de techniciens qualifiés pour faire le dimensionnement, la réalisation et la maintenance des 
+systèmes solaire PV ; 
+ Manque d’un système de contrôle de la qualité des équipements. 
+Cela a pour conséquences : 
+ Rupture de la confiance des usagers sur les équipements solaires PV ; 
+ Retard sur le déploiement massif de systèmes solaires PV et le développement du marché solaire en 
+Afrique. 
+C’est dans ce contexte que la plupart des autorités politiques des pays de l’Afrique de l’Ouest se sont 
+résolument engagé à donner une nouvelle orientation à la politique énergétique en optant pour une 
+transition vers la promotion des énergies renouvelables, notamment le solaire photovoltaïques. Il était 
+devenu impératif de mettre en place une politique institutionnelle, juridique et fiscaux qui permettent la 
+promotion de énergies renouvelables surtout le solaire PV. Parmi ces dispositifs nous pouvons citer : 
+
+--- PAGE 23 ---
+ 
+ 23 Le dispositif de contrôle et de promotion de la qualité des équipements solaires PV ; 
+ Exonération des équipements solaires PV ; 
+ La libéralisation du secteur de l’énergie ; 
+ La certification des acteurs du domaine ; 
+ Etc 
+En plus de cela, diverses initiatives ont été prises aussi bien au niveau national qu’au niveau régional. 
+2.2.3. Aspects juridiques et fiscaux dans les projets d’ER 
+A l’instar des autres pays du monde, les pays de l’Afrique de l’Ouest se sont dotés d’un arsenal de textes 
+règlementaires dans le but de booster le développement des Energies Renouvelables. 
+Les États ouest-africains ont donné une nouvelle orientation aux politiques énergétiques à travers une 
+transition vers les énergies renouvelables, particulièrement l’énergie solaire. Au niveau régional, la 
+CEDEAO et l’UEMOA ont élaboré des règles communautaires axées sur la promotion des énergies 
+renouvelables et le marché de l’énergie solaire. Au niveau national, la plupart des États ont procédé à 
+une réorganisation du cadre institutionnel et législatif pour le renforcement des pouvoirs du régulateur 
+énergétique, la suppression de l’acheteur unique d’énergie électrique, l’accès des tiers au réseau de 
+transport électrique et l’adoption de mesures incitatives à l’utilisation de l’énergie solaire. Se développe 
+ainsi un droit solaire en Afrique de l’Ouest qui reflète la volonté politique de promouvoir, d’une part, 
+l’énergie solaire dans le cadre régional, et d’autre part, l’initiative privée par la libéralisation du secteur 
+de l’énergie solaire. Le droit solaire se révèle être un droit de conciliation entre régionalisme, étatisme 
+et libéralisme, axé sur des règles promotrices d’un développement véritable par le biais de l’accès 
+universel aux énergies propres.  
+2.2.3.1. Cas du Burkina Faso 
+Au Burkina Faso, alors que le pays dispose d’un potentiel abondant d’énergie renouvelable, le solaire 
+principalement (5,5 kWh/m2/jour), le secteur de l’énergie se caractérise par : 
+ Une forte dépendance des sources d’énergie d’origine fossile (pétroles et ses produits dérivés) ; 
+ La biomasse traditionnelle constitue plus de 80% de l’énergie consommée. 
+Alors que faut-il faire, non seulement, pour avoir son autonomie énergétique, mais également et surtout 
+accroitre l’offre pour rendre l’énergie disponible et accessible à tous à moindre coût ? 
+Alors c’est en partant de ces préoccupations que les autorités politiques ont pris une résolution ferme de 
+donner une nouvelle orientation à la politique énergétique en optant pour une transition vers la 
+promotion des énergies renouvelables, notamment le solaire photovoltaïque.  
+Dès lors, il devient impératif de mettre en place une politique institutionnelle et juridique qui permet la 
+promotion de l’énergie solaire afin d’augmenter considérablement la part des énergies renouvelables 
+dans le bouquet énergétique.  
+
+--- PAGE 24 ---
+ 
+ 24C’est pour matérialiser cette politique énergétique nationale que l’Assemblée nationale a voté le 17 avril 
+2017, la Loi N°014-2017/AN portant règlementation générale du secteur de l’énergie. 
+La Loi 014 a posé les grands jalons de la politique de promotion de l’énergie solaire à travers ses 
+différentes dispositions notamment : 
+ La mise en place de mesures fiscales et douanières incitatives en faveur de la production de 
+l’importation de matériel et équipement solaire ( Article 57 de la loi et l’arrêté ) ; 
+ Le droit de produire pour sa propre consommation : le concept d’autoproduction ( Article 61 de la 
+loi) ; 
+ La possibilité pour l’auto producteur de vendre son excédent d’énergie produite et non consommé 
+(Article 58 de la loi et le décret N°2019-0902/PRES/PM/ME/MINEFID/MCIA  portant modalités 
+d’accès des auto producteurs d’énergies renouvelables au réseau électrique et conditions de rachat 
+de leur excédent d’énergie) ; 
+ Le droit de produire, de stocker de l’électricité d’origine solaire et de la faire transporter le 
+gestionnaire du réseau de transport, en l’occurrence la SONABEL ( Article 59 de la loi ) ; 
+ Le droit pour le producteur d’énergie solaire de se raccorder au réseau de la SONABEL et de faire 
+transporter sa production d’énergie électrique jusqu’au site d’un client éligible. 
+En plus de la Loi N°014/2017, les textes d’application ci-dessous viennent appuyer la promotion des 
+Energies Renouvelables :  
+ Décret N°2017-1011/PRES/PM/ME  portant fixation des seuils de puissance relatifs aux titres 
+d’exploitation de la production et les limites de rayon de couverture relatifs aux titres d’exploitation 
+de la distribution ; 
+ Décret N°2017-1012/PRES/PM/ME  portant conditions et modalités d’octroi des licences ou 
+autorisations de production d’énergie électriques ; 
+ Décret N°2017-1013/PRES/PM/ME/ME/INEFID/MCIA  portant adoption d’un cahier des charges 
+applicables aux producteurs d’énergie électrique ; 
+ Décret N°2019-0902/PRES/PM/ME/MINEFID/MCIA  portant modalités d’accès des auto 
+producteurs d’énergies renouvelables au réseau électrique et conditions de rachat de leur excédent 
+d’énergie) ; 
+L’auto producteur produit de l’énergie électrique exclusivement pour sa propre consommation. Mais les 
+textes lui permettre de vendre son excédent de production à la SONABEL. Cette faculté ne doit lui 
+conférer la qualité de producteur d’énergie électrique. L’auto producteur, en fonction du seuil de sa 
+production, doit obtenir une autorisation ou doit simplement faire une déclaration de production. 
+ Décret N°2019-0903/PRES/PM/ME/MINEFID/MCIA  portant fixation des seuils de production et 
+condition d'obtention des agrément et production de carburant ou gaz à base de biomasse ; 
+ Décret N°2020-0255/PRES/PM//MEMCIA/MINEFID/MATDC/MUH portant conditions et 
+procédures d'octroi de concession et autorisation de production et de distribution d'énergie 
+électrique ; 
+
+--- PAGE 25 ---
+ 
+ 25 Pour les acteurs du solaire qui ont pour activités principales la commercialisation du matériel et 
+équipements solaires, les textes vous obligent à vous soumettre à un contrôle de qualité mené par 
+l’ANEREE ( Article 65 de la loi ) ; 
+ Le droit de produire, de stocker de l’électricité d’origine solaire et de la faire transporter vers le 
+gestionnaire du réseau de transport, en l’occurrence la SONABEL (Article 59 de la Loi ) ; 
+ Le droit pour le producteur d’énergie solaire de se raccorder au réseau de la SONABEL et de faire 
+transporter sa production d’énergie électrique jusqu’au site d’un client éligible . 
+ Décret N°2020-1053/PRES/PM/ME/MINEFID/MCIA portant condition de l’autoproduction 
+d’énergie au Burkina Faso ;  
+ Arrêté interministériel N°2020-033/ME/MINEFID portant condition d’éligibilité et modalité de 
+jouissance de l’exonération de la TVA sur les importations et les ventes du matériel solaire. 
+Il s’agit d’une disposition réglementaire sur les mesures incitatives en vue de rendre plus accessible le 
+matériel solaire. L’importateur solaire doit se faire une attestation d’éligibilité et de conformité par 
+l’ANEREE. Le but est de facilité le travail des douaniers au niveau de l’entrée du matériel solaire. 
+2.2.2.2. Cas du Sénégal 
+Loi N° 2010-21  portant loi d’orientation sur les énergies renouvelables 
+Cette loi est composée de six (06) chapitres contenant les points suivants : 
+ Il englobe les définitions des énergies renouvelables, les applications liées à ces dernières et leurs 
+objectifs ( Chapitre premier : Dispositions générales ) 
+ La promotion des énergies renouvelables nécessite une diversification des sources d’énergies 
+renouvelables tout en respectant le code de l’environnement de la production à la distribution. Les 
+acquisitions de matériels et d’équipements destinés à la recherche-développement, à la production, 
+à l’exploitation et à l’autoconsommation des énergies renouvelables bénéficient des mesures fiscales 
+incitatives. ( Chapitre II : Promotion des énergies renouvelables ) 
+ La loi régit les conditions de production, d’achat, de vente et de rémunération de l’électricité 
+produite à partir des énergies renouvelables. ( Chapitre III)  
+ Sera puni d’un emprisonnement d’un à trois ans et d’une amende de cinq (05) à vingt (20) millions 
+de francs CFA sans préjudice des autres sanctions légales en vigueur, tout dirigeant de droit ou de 
+fait d’une entreprise qui, sans avoir obtenu au préalable la licence ou toute autre autorisation requise, 
+aura exercé une activité de production et de commercialisation d’énergie renouvelable. ( Chapitre 
+IV : Dispositions pénales ) 
+Loi N° 2010-22  portant loi d’orientation de la filière des biocarburants 
+Cette loi est composée de cinq (05) chapitres contenant les points suivants : 
+ Il traite les définitions, les segments d’application, l’exploitation des sources de biocarburants et les 
+objectifs. Ainsi au sens de la présente loi, on entend par biocarburant un combustible issu de la 
+
+--- PAGE 26 ---
+ 
+ 26biomasse et utilisé pour le transport et pour la production de l’énergie notamment électrique. 
+(Chapitre premier : Dispositions générales ) 
+ Le contrôle du biocarburant est effectué avant leur utilisation et il doit satisfaire aux normes de 
+qualité établies. La recherche-développement doit accompagner la filière des biocarburants à travers 
+les structures et/ou instituts habilités. ( Chapitre II : Information, contrôle et recherche ) 
+ La compétitivité des biocarburants en adoptant des prix compétitifs et en accordant des avantages 
+fiscaux aux entreprises qui produisent pour le marché national. ( Chapitre III : Politique incitative 
+de la filière des biocarburants ) 
+ Culture des plantes et production des biocarburants et Licence et autres obligations. ( Chapitre IV : 
+Production et distribution des biocarburants ) 
+ Sera puni d’un emprisonnement de trois (03) à cinq (05) ans et d’une amende de cinq (05) à dix (10) 
+millions de franc CFA ou de l’une de ces peines seulement tout promoteur, tout dirigeant de droit 
+ou de fait d’une entreprise qui, sans avoir obtenu au préalable la licence ou toute autre autorisation 
+requise, aura exercé une activité industrielle de production, de transformation, de transport, de 
+stockage, de commercialisation et de distribution des biocarburants et des produits dérivés. 
+(Chapitre V : Dispositions pénales ) 
+En plus de ces lois, le Sénégal dispose de décrets et d’arrêtés d’application. 
+ Arrêté́ interministériel fixant la liste des matériels destinés à la production d’énergies renouvelables 
+exonères de la Taxe sur la Valeur Ajoutée (TVA) 
+2.2.2.3. Cas du Maroc  
+Depuis 2009, le Maroc a progressivement formulé et renforcé sa stratégie nationale de l’énergie, dont 
+l’un des axes principaux est la mise en place d’une politique énergétique favorable au développement 
+des énergies renouvelables, notamment le solaire. Cette volonté politique s’est concrétisée par la mise à 
+niveau du cadre législatif, la création d’institutions ayant pour vocation la gestion, la supervision et la 
+promotion des énergies renouvelables et l’instauration de mesures incitatives. Cet écosystème national 
+encourage la production et la commercialisation de l’électricité issue de l’énergie solaire. Cet article 
+analyse l’expérience marocaine de production et de commercialisation de l’énergie solaire à la lumière 
+des textes juridiques qui régissent ce secteur. 
+Une étape importante de la libéralisation du secteur des énergies renouvelables a été franchie en 2010 
+avec la loi 13-09 sur les énergies renouvelables , qui a ouvert le marché des énergies renouvelables à la 
+concurrence, en permettant au secteur privé d’investir dans les énergies renouvelables pour produire de 
+l’électricité sans limitation de puissance, tandis qu’auparavant l’Office national de l’électricité et de 
+l’eau potable (ONEE) monopolisait l’exploitation et la production d’énergie. La loi 58-15 a ouvert 
+l’accès au réseau de distribution de la basse tension , qui se limitait à la moyenne, haute et très haute 
+tension. Cette mesure permettra le développement du secteur industriel des petites et moyennes 
+
+--- PAGE 27 ---
+ 
+ 27installations, notamment pour le photovoltaïque. 
+Le Maroc fait partie des premiers pays du continent africain à parier sur les énergies renouvelables, 
+alliant développement économique et respect de l’environnement. Aujourd’hui, il dispose de l’un des 
+programmes d’énergies renouvelables les plus ambitieux en Afrique.  
+ Dahir n° 1-10-16 du 11 février 2010 portant promulgation de la loi n° 13-09 relative aux énergies 
+renouvelables  
+Cette loi vise à libéraliser ce secteur, a pour but de promouvoir la production d’énergies renouvelables, 
+leur   commercialisation et leur exportation par des entités publiques ou privées.  
+ Décret n° 2-15-772 du 28 octobre 2015 relatif à l'accès au réseau électrique national de moyenne 
+tension  
+Ce décret pris en application de la loi 13-09, a fixé les conditions et modalités d’accès des installations 
+de production d’électricité à partir de sources d’énergies renouvelables au réseau de moyenne tension 
+en vue de faciliter son ouverture progressive et harmonieuse à l’électricité produite à partir de sources 
+d’énergie renouvelables. 
+ En 2016, la loi 37-16 a modifié la loi 57-09, transformant la MASEN en Moroccan Agency for 
+Sustainable Energy (Agence marocaine pour l’énergie durable) 
+ En 2016, la loi 58-15 est venue modifier la loi 13-09 et pallier ses insuffisances, en vue notamment 
+de l’adapter aux évolutions technologiques et d’encourager les initiatives privées 
+ En 2016, la loi 48-15 relative à la régulation du secteur de l’électricité 
+Création d’une nouvelle entité indépendante, l’Autorité nationale de régulation de l’électricité (ANRE). 
+L’ANRE est chargée, entre autres tâches, de fixer les tarifs d’utilisation du réseau électrique national de 
+transport et des réseaux électriques de MT ; de codifier les conditions de raccordement et d’accès au 
+réseau électrique national du transport ; de s’assurer du bon fonctionnement du marché de l’électricité 
+et de réguler l’accès des auto-producteurs ; de contrôler le gestionnaire du réseau de transport et les 
+gestionnaires des réseaux de distribution 
+ La loi 86-12 relative aux contrats de Partenariat Public-Privé (PPP) 
+ De tels contrats permettent de financer des investissements lourds, comme les infrastructures 
+énergétiques, sans engager les finances de l’État dans l’immédiat. Ainsi, la mise en place de panneaux 
+solaires peut faire l’objet d’un contrat de partenariat public-privé 
+ La loi 16-08 relative à l’autoproduction d’électricité permet d’autoriser toute personne, physique 
+ou morale, de droit privé ou public, à produire sa propre électricité à condition que la production 
+n’excède pas 50 MW. En 2015, la loi 54-14 a étendu l’autoproduction aux installations d’une taille 
+supérieure à 300 MW 
+2.3 Le droit de tous à l’énergie et les projets d’énergies renouvelables 
+La déclaration de Johannesburg sur le développement durable considère l'énergie comme un service 
+
+--- PAGE 28 ---
+ 
+ 28aussi essentiel que l'accès à l'eau salubre, la diversité biologique et les soins de santé. Le « droit d'accès 
+aux ressources énergétiques » ou « Le droit de tous les peuples à l'accès à l'énergie  » découle d'une part, 
+du « droit à l'environnement ». 
+Selon Irja Martens « Le droit à l'énergie, c'est un droit à la vie  ». 
+2.3.1. Les fondements du droit à l’énergie 
+La consécration du droit à l'énergie est faite à travers plusieurs instruments de portée, tant obligatoire 
+que non obligatoire. Ainsi, au rang des textes de portée non obligatoire, nous pouvons retenir, la 
+Déclaration de Stockholm de 1972 dont le principe 1 déclare que « L'homme a un droit fondamental à 
+la liberté, à l'égalité et à des conditions de vie satisfaisantes, dans un environnement dont la qualité lui 
+permette de vivre dans la dignité et le bien-être ». En plus, la déclaration universelle des droits de 
+l'homme protège ce droit à l'énergie à travers « le droit à la vie  » (art. 3) et « le droit à la santé  » (art. 
+25) puis le Pacte international sur les droits civils et politiques qui protège « le droit à la sécurité  » (art. 
+9) et le Pacte sur les droits économiques et sociaux qui protège aussi « le droit à la santé  » (art. 12). 
+Bien que non obligatoires, ces textes ont joué un rôle important pour promouvoir le droit à l'énergie. 
+D'autres textes obligatoires sont venus renforcer la protection de ce droit nouveau. En l'occurrence, la 
+Convention sur les droits de l'enfant (20 novembre 1989) qui impose aux États de protéger la santé des 
+enfants. Ce n'est pas évident d'assumer cette obligation sans ressources énergétique.  
+Ce droit à l'énergie peut se déduire du droit au développement défini comme : « un droit humain 
+inaliénable par lequel tous les êtres humains et tous les peuples ont le droit de participer dans un 
+développement économique, social, culturel et politique qui permet la réalisation pleine de tous les 
+droits humains et libertés fondamentales, et à bénéficier de ce développement  » par la Déclaration sur 
+le droit au développement adoptée l'AG de l'ONU le 04 décembre 1986. Et, dont l'article 25, paragraphe 
+1 affirme : « Toute personne a droit à un niveau de vie suffisant pour assurer sa santé, son bien-être et 
+ceux de sa famille, notamment pour l'alimentation, l'habillement, le logement, les soins médicaux, ainsi 
+que pour les services sociaux nécessaires ; elle a droit à la sécurité en cas de chômage, de maladie, 
+d'invalidité, de veuvage, de vieillesse ou dans les autres cas de pertes de ses moyens de subsistance, par 
+suite de circonstances indépendantes de sa volonté  ». 
+Le droit à l'énergie est reconnu par la Charte africaine des droits de l'homme et des peuples de 1981 dans 
+l'article 24 sous l'angle du droit des peuples et par le Protocole additionnel à la Convention américaine 
+relative aux droits de l'homme, traitant des droits économiques, sociaux et culturels, adopté à San 
+Salvador en 1988. 
+Comme le dirait l'autre : « Le droit à l'énergie fait partie des services d'intérêt général où les pouvoirs 
+publics ont généralement un triple rôle : législateur (réglementation), rôle de tutelle et d'opérateur  ». 
+Comment peut-il être mise en œuvre pour l'éradication de la pauvreté énergétique ? 
+
+--- PAGE 29 ---
+ 
+ 292.3.2. Vers la mise en œuvre de ce droit fondamental 
+Tous les peuples de toutes les nations ont un droit égal au développement. Mais malheureusement, le 
+système énergétique mondial actuel ne permet pas de satisfaire tous les besoins énergétiques. Il ressort 
+qu’une partie considérable des besoins énergétiques demeure insatisfaite pendant que les besoins 
+énergétiques de ceux qui ont accès à l'énergie croissent à cause des exigences du développement. 
+Les acteurs du droit international de l'environnement doivent garantir ce droit à l'énergie à tous en luttant 
+contre la pauvreté énergétique dans le monde. Pour cela, il urge que tout le système énergétique mondial 
+soit réformé de sorte à permettre la mise en œuvre de ce droit fondamental. Cette nécessité de l'accès de 
+tous aux ressources énergétiques exige que soient développées des sources d'énergies dont le potentiel 
+soit à la hauteur des besoins actuels et futurs. 
+Les sources d'énergies renouvelables paraissent évidemment indiquées pour assurer des services 
+énergétiques appropriés, propres et abordables aux milliards de personnes démunies de ces services.  
+ 
+ 
+BIBLIOGRAPHIE 
+ 
+[1] Dr. Bruno KORGO, ANEREE-PACAO-BF, Etude d’identification des marchés potentiels et les 
+différents acteurs du solaire dans la sous-région de l’espace UEMOA, Juin 2022  
+[2] Revue Africaine de Droit de l’Environnement (RADE), Énergies renouvelables, transition 
+énergétique et enjeux climatiques en droit africain, N°06-2021 
+[3] Atlas de l’énergie dans l’espace UEMOA, Rapport 2020 
+ 
+TEXTES JURIDIQUES 
+ 
+Burkina Faso 
+ 
+ Loi N°014-2017/AN  portant règlementation générale du secteur de l’énergie 
+ Décret N°2019-0902/PRES/PM/ME/MINEFID/MCIA  portant modalités d’accès des auto 
+producteurs d’énergies renouvelables au réseau électrique et conditions de rachat de leur excédent 
+d’énergie 
+ Décret N°2017-1011/PRES/PM/ME  portant fixation des seuils de puissance relatifs aux titres 
+d’exploitation de la production et les limites de rayon de couverture relatifs aux titres d’exploitation 
+de la distribution 
+ Décret N°2017-1012/PRES/PM/ME  portant conditions et modalités d’octroi des licences ou 
+autorisations de production d’énergie électriques 
+ Décret N°2017-1013/PRES/PM/ME/ME/INEFID/MCIA  portant adoption d’un cahier des charges 
+
+--- PAGE 30 ---
+ 
+ 30applicables aux producteurs d’énergie électrique 
+ Décret N°2019-0902/PRES/PM/ME/MINEFID/MCIA  portant modalités d’accès des auto 
+producteurs d’énergies renouvelables au réseau électrique et conditions de rachat de leur excédent 
+d’énergie) 
+ Décret N°2019-0903/PRES/PM/ME/MINEFID/MCIA  portant fixation des seuils de production et 
+condition d'obtention des agrément et production de carburant ou gaz à base de biomasse 
+ Décret N°2020-0255/PRES/PM//MEMCIA/MINEFID/MATDC/MUH  portant conditions et 
+procédures d'octroi de concession et autorisation de production et de distribution d'énergie électrique 
+ Décret N°2020-1053/PRES/PM/ME/MINEFID/MCIA  portant condition de l’autoproduction 
+d’énergie au Burkina Faso 
+ Arrêté interministériel N°2020-033/ME/MINEFID  portant condition d’éligibilité et modalité de 
+jouissance de l’exonération de la TVA sur les importations et les ventes du matériel solaire 
+ 
+Sénégal 
+ 
+ Loi N° 2010-21  portant loi d’orientation sur les énergies renouvelables 
+ Loi N° 2010-22  portant loi d’orientation de la filière des biocarburants 
+ Arrêté́ interministériel fixant la liste des matériels destinés à la production d’énergies renouvelables 
+exonères de la Taxe sur la Valeur Ajoutée (TVA) 
+ 
+Tests de Connaissances chapitre 2 : 
+ 
+ 
+

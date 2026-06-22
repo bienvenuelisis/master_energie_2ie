@@ -1,0 +1,90 @@
+--- PAGE 1 ---
+ 
+ 1 Exercices de Travaux Dirigés  
+ 
+Corrigé exercice 1  : Comptabilité carbone  
+ 
+Une chaîne de boutiques d’ameublement d’intérieur possède une dizaine de points de vente au 
+Burkina Faso. La consommation en carburant d’un camion de la flotte pour 100 km parcourus 
+est de de 20 litres d’essence. Il ressort que le moteur du camion émet 3,5 kg de CO2 par litre 
+d’essence.  
+Il vous est demandé de comptabiliser les émissions liées aux activités et de calculer les 
+émissions de CO2 pour les 100 km parcouru par le camion.  
+ 
+ 
+ 
+Exercice 2  : Etude de cas Comptabilité Energétique et indicateur  
+ 
+On vous demande de faire la comptabilité énergétique du Togo en remplissant le tableau de 
+comptabilité énergétique ci -dessous à partir des données énergétiques également jointes. Toutes 
+ces données sont de 2018.  
+Les facteurs de conversion utilisés sont :  
+Electricité : 1 GWh = 86 TEP  
+Biomasse (Bois de feu) : 1 tonne = 0,4 TEP  
+Produits Pétroliers : 1 tonne = 0,96 TEP  
+Gaz naturel : 1000 m3 = 0,8 TEP  
+Approvisionnements totaux en énergie primaire (ATEP) :   
+Production : Biomasse = 7 430 500 tonnes ; hydroélectricité = 46 511 628 kWh  
+Importations : produits pétroliers =522 187,5 tonnes ; Gaz naturel = 45 000 000 m3 ; 
+Électricité = 1 076 744, 18 MWh  
+Soutages maritimes internationaux : produits pétroliers = 4 270,83 tonnes  
+Soutages aériens internationaux : produits pétroliers = 68 750 tonnes  
+Variation de stocks : produits pétroliers 1er janvier 2018 = 18 437,5 tonnes et 31 
+décembre 2018 = 36 875 tonnes  
+Transformations du secteur de l’énergie  
+Centrales électriques publiques : produits pétroliers = 39 387 755, 1 tonnes ; Gaz 
+
+--- PAGE 2 ---
+ 
+ 2 naturel = 45 000 000 m3 tonnes ; hydroélectricité = 46 511 628 kWh ; Electricité = 377 906 
+976, 74 kWh  
+Autoproducteurs d’électricité : Produits pétroliers = 625 tonnes ; Biomasse = 16 000 
+tonnes ; Electricité = 2 325 581,39 kWh  
+Production de charbon de bois : 3 342 750 tonnes ;  
+Secteur énergie : Electricité = 15 116 279, 06 kWh  
+Pertes de distribution : Electricité = 196 511 627, 90 kWh  
+Consommation finale totale  
+Secteur industrie  
+Sidérurgie : Produits pétroliers = 4270,83 tonnes  
+Produits minéraux non métalliques : Produits pétroliers = 28 125 tonnes ; Electricité 
+= 209 302 325, 58 kWh  
+Industrie alimentaire et tabacs : Produits pétroliers = 5 104,16 tonnes ; Electricité = 
+102 325 581,39 kWh  
+Textiles et cuir : Electricité = 5 813 953,48 kWh  
+Non spécifié (industrie) : Electricité = 287 209 302,32 kWh  
+Secteur transport :  Routier : Produits pétroliers : 350 104,16 tonnes  
+Autres secteurs  
+Services marchands et publics : Produits pétroliers = 2 395,83 tonnes ; Biomasse = 
+511 000 tonnes ; Electricité = 195 348 837,2 kWh  
+Résidentiel : Produits pétroliers = 36 875 tonnes ; Biomasse = 3 561 000 tonnes ; 
+Electricité = 439 534 883,72 kWh  
+Non spécifié (autres) : Electricité = 1 162 790,69 kWh  
+Utilisations non énergétiques  :  Produits pétroliers = 208,33 tonnes  
+ 
+Travail à faire  
+1. Etablir la comptabilité énergétique du Togo  
+2. La population du Togo est de 7,54 millions habitants et Produit intérieur brut (PIB) 
+(milliards $US de 2010) est de 4,12, calculer :  
+2.1. ATEP/population (tep/habitant).  
+2.2. Intensité énergétique ATEP/PIB (tep/milliers $US).  
+2.3. Consommation d’énergie électrique par habitant (tep/habitant).  
+
+--- PAGE 3 ---
+ 
+ 3 3. Quelle est la part de consommation énergétique industrielle du Togo  ?  
+4. Calculer l’indépendance énergétique de ce pays.  
+ 
+ 
+Corrigé exercice 3 : Indicateur s  
+ 
+Le Burkina Faso a consommé 1 660 417 tonnes de produits pétroliers par an, 7 227,5 kilo 
+tonnes/an de bois de feu, 1266 GWh/an d’électricité dont 81 395 349 kWh/an de solaire 
+photovoltaïque (PV). La population était de 20 millions d’habitants. Quant au prod uit intérieur 
+brut, il était de 15,70 milliards euros. Toutes les données dans le cadre de cet exercice sont de 
+2020 et l’unité retenue pour les besoins de l’exercice est le tep pour les conversions.  
+1. Calculer le taux de consommation finale d’énergie solaire PV  
+2. Calculer la consommation totale de produits pétrolier par PIB  
+3. Calculer la consommation d’énergie finale totale par habitant  
+4. Calculer la consommation finale totale par PIB  
+ 
+

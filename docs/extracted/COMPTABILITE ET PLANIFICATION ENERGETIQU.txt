@@ -1,0 +1,1708 @@
+--- PAGE 1 ---
+ 
+ 1  
+ 
+ 
+FICHE DE PRESENTATION ET DE SCENARISATION DE COURS  
+ 
+ 
+1. Identification du Cours  
+ 
+Titre du Cours (EC)  • Comptabilité et planification énergétique  
+Titre de l’Unité 
+d’Enseignement 
+d’appartenance (UE) * • Enjeux et planification énergétiques  
+Code du cours * • M1GIS/M17  
+Semestre * • Suivant planning de la Formation  
+Niveau d'enseignement  
+(Public cible) *  • Responsable énergie, Responsable technique, Gestionnaire 
+des infrastructures énergétique s, Planificateur  
+Statut du cours * • Ligne 
+Domaine  d’étude * • Diplôme de niveau Bac+5 en génie Electrique, 
+Energétique et Energies Renouvelables  
+• Expérience professionnelle neuf (09) ans dans la 
+conception, la mise en œuvre et le montage des projets  
+énergétique s 
+Auteur (s)  • Dafoura Paul MILLOGO  
+• Ingénieur en génie Electrique, Energétique et Energies 
+Renouvelables  
+• Directeur de la Normalisation, Labélisation et des Audits 
+Énergétiques  
+• Agence Nationale des Energies Renouvelables et de 
+l’Efficacité Energétique (ANEREE)/Burkina Faso  
+N° version et date  de 
+création  • Version  : 01 
+• Date de création ou de mise à jour  : 14/06/2023  
+
+
+--- PAGE 2 ---
+ 
+ 2 Nombre de séquences  
+prévues (chapitres)  • 1  
+Nombre de Crédits * ✓ Poids du cours p ar rapport à l’UE  
+Durée apprenant * 
+ (Heures / semaines)  ✓ 01 semaine  
+Objectif (s) génér al(aux) 
+ ✓ Connaitre les notions fondamentales de comptabilité et de 
+planification énergétique  
+✓ Connaitre les outils de comptabilité et planification 
+énergétique  
+✓ Connaitre les méthodes et modèles de comptabilité et 
+planification énergétique  
+✓ Appliquer les méthodes et modèles de comptabilit é et 
+planification énergétique  
+Prérequis  ✓ Connaissance des différents types d’énergies  
+✓ Les grandeurs physiques liées à l’énergie et leurs unités.  
+✓ Connaissance de base en efficacité énergétique  
+Mots clés  Bilan Energétique , Comptabilité Energétique, Planification 
+Energétique, Efficacité Energétique, Economie d’énergie, 
+Maitrise d’énergie, Ratios ou Indicateurs énergétiques, 
+Indicateurs de Performance Energétique (IPE), Contrat de 
+Performance Energétique (CPE), Entreprise de S ervices 
+Energétiques (ESE), Situation Energétique de Référence 
+(SER), Procédés énergétiques , Tonne Equivalent Pétrole 
+(TEP), Pouvoir Calorifique, Conversion,  
+Approvisionnements, Transformation, Consommation Finale, 
+Rendement Energétique , Energie primaire, Energie secondaire 
+ou finale , Energie utile , lignes et colonnes  
+Modalités spatiales  
+(En présentiel  ; à distance  ou 
+mixte ) • A distance  
+Modalités temporelles  
+(En synchrone ; en 
+asynchrone ou mixte)  •  
+Modalités collaboratives  
+(Travail individuel  ; en 
+groupe ou mixte)  • Travail individuel  
+ 
+
+--- PAGE 3 ---
+ 
+ 3 2. Scénarisation du Cours  (EC)  
+Comptabilité et planification énergétique  
+Durée  : Une (01) semaine  
+Objectif (s) spécifique (s) :  
+ 
+✓ Connaitre les notions fondamentales de comptabilité et de planification énergétique  
+✓ Connaitre et utiliser les outils de comptabilité et planification énergétique  
+✓ Connaitre les méthodes et modèles de comptabilité et planification énergétique  
+✓ Appliquer les méthodes et modèles de comptabilité et planification énergétique  
+✓ Savoir é tablir un bilan énerg étique  
+ 
+Consignes pour l’apprenant  
+ 
+✓ Une série de questions fermées (QCM, ou QCU, association, etc.) est proposée pour 
+permettre à l’étudiant de tester ses connaissances sur le chapitre 1 du cours.  
+✓ Il est important pour les apprenants de bien lire le cours avant de traiter la série de questions.  
+✓ Il est important de faire des recherches sur la thématique abordée . 
+ 
+Consignes pour le tuteur  
+ 
+ 
+ 
+ 
+Matériels pédagogiques  
+ 
+TABLE DES MATIERES  
+ 
+1. Introduction.  
+2. La comptabilité énergétique  
+2.1. Définition de la Comptabilité énergétique  
+2.2. Importance de la Comptabilité énergétique  
+2.3. Définition de certains concepts  
+2.4. Système d’information énergétique (SIE)  
+2.5. Le pouvoir calorifique des combustibles  
+2.6. Les équivalences énergétiques  
+2.7. Loi du bilan com ptable énergétique  
+
+--- PAGE 4 ---
+ 
+ 4 2.8. Tableau de comptabilité énergétique  
+2.9. Définition et calcul des ratios énergétiques.  
+3. Planification énergétique  
+3.1. Définitions et justification de la planification énergétique  
+3.2. Energie, environnement et développement durable  
+3.3. Les instruments de la planification énergétique  
+3.4. Les Outils de la planification  
+3.5. Méthode simple de planification énergétique adaptée aux régions de pays en 
+développement.  
+4. Exemples  de cas : Cas du Burkina Faso et de deux (02) autres pays africains de différentes 
+sous-régions  
+4.1. Comptabilité énergétique  
+5. Conclusion  
+ 
+ 
+1. Introduction  
+Déterminer les quantités d’énergie produites, transformées et consommées, au cours d’une 
+année donnée et pour un pays ou un ensemble régional donné, définit le bilan énergétique.  Mais 
+le bilan énergétique, pour un pays  et une année donnée , ne présente guère d’intérêt en soi, 
+pour ne pas dire aucun. Pour suivre, comprendre  et définir une politique én ergétique, il faut 
+disposer d’une suite de bilans annuels afin d’en saisir l’évolution. De même, pour apprécier les 
+performances de son système  énergétique faut -il pouvoir le comparer à celui d’autres pays de 
+niveau économique comparable.  
+Les énergies qui concourent à l’approvisionnement énergétique d’un pays sont très diverses 
+dans le temps et dans l’espace : charbon, gaz, pétrole, hydraulique, nucléaire, bois, vent, soleil 
+et autres . Le bilan énergétique a pour vocation de les rassembler  à l’intérieur d’u n cadre 
+comptable harmonisé  et structuré , qui pour l’heure va de l’approvisionnement à la 
+consommation finale.  Cependant , pour avoir un bilan de qualité , il est important de faire recours 
+à la principale convention qui est à la base de la construction du bilan énergétique : le recours 
+à une unité commune de mesure  et conversion . 
+Idéalement, le bilan énergétique d oit réunir toutes les énergies mises à la disposition d'un 
+territoire et recenser  toutes les opérations qui concourent à la destruction finale d'une source 
+d’énergie. Généralement le cadre comptable regroupe en colonne  les sources d’énergies 
+(charbon, pétrole, gaz et autr es), et en ligne  les ressources et emplois de ces énergies . 
+
+--- PAGE 5 ---
+ 
+ 5 Cependant,  la présentation de ce cadre comptable varie d’une institution internationale à l’autre 
+: Organisation pour la Coopération et le Développement Economique (OCDE) et Agence 
+Internationale de l’Energie (AIE), Union Européenne -EUROSTAT, Organisation des Nations 
+Unies (ONU).   
+Une comptabilité énergétique doit être suivie d’une planification afin de faire des projections 
+dans l’avenir sur le système énergétique d’une entité et permettre aux décideurs de prendre des 
+décisions en connaissance de causes.  
+2. La comptabilité énergétique  
+2.1. Définition de la comptabilité énergétique  
+Il faut noter que comptabiliser, c’est faire un bilan. Alors comptabilité énergétique = bilan 
+énergétique.  
+Le bilan énergétique tel que définissent les économistes énergéticiens est un cadre comptable 
+permettant d’intégrer tous les flux énergétiques d’un pays exprimés dans une unité commune , 
+la tonne équivalent de pétrole (tep) par exemple . Présenté sous forme de tableau, il permet de 
+suivre l’évolution de l’énergie depuis sa production (énergie primaire) jusqu’à sa 
+consommation (énergie finale).  Le cadre de présentation du bilan peut varier légèrement selon 
+les organismes ou les institutions. Cependant, la plup art des pays africains ont adopté les 
+directives de l’Agence internationale de l’énergie (AIE) dans l’élaboration des bilans.  
+Une comptabilité énergétique , c’est faire un  :  
+✓ Recensement  : Recenser, à l’intérieur d’un cadre comptable précis, les flux énergétiques 
+(un ensemble de produit s, exemple biomasse ou pétroliers) au cours d’une période donnée 
+(souvent l’année), dont l’ensemble de l’économie d’un pays a besoin  ; 
+✓ Système comptable  : Présente r, sous forme de tableau, les diverses sources d’énergie et les 
+différentes utilisations  ; 
+✓ Instrument statistique  : Permet tre d’appréhender la manière dont s’opère 
+l’approvisionnement en énergie d’un pays et la consommation d’énergie du même pays.  
+2.2. Importance de la comptabilité énergétique  
+Une comptabilité énergétique est très important e à plusieurs niveaux  :  
+✓ Traçabilité  : Suivre la traçabilité de l’énergie depuis sa production  jusqu’à son utilisation  
+finale . 
+
+--- PAGE 6 ---
+ 
+ 6 ✓ Assemblement de données  : Vérifier l’exhaustivité des données et assembler les 
+principales statistiques de chaque produit afin de dégager aisément les données essentielles.  
+D’avoir une photographie claire de la situation énergétique du pays pour une année donnée.  
+Connaitre la part de la con sommation finale par produit énergétique et de la consommation 
+finale totale d’énergies dans chaque secteur d’activité économique et social. Connaitre le 
+poids relatif des différentes sources d’énergie dans le mix total et l’intensité énergétique . 
+Connaitr e la dépendance du pays ou entité à l’égard des importations d’énergie et autres  
+indicateurs socioéconomique.  
+✓ Analyse  : Permettre aux utilisateurs d’observer les efficacités de la conversion et leur part 
+relative dans l’économie.  
+✓ Réponse à des questions  :  D’où provient l’énergie consommée et dans quelles proportions 
+? Quelle partie de cette énergie subit des transformations ? de quelles natures ? Quelles sont 
+les productions résultantes ? Quelles sont les quantités perdues ou autoconsommées ?  
+2.3. Définition de certains concepts  
+Energie  : c’est la capacité à faire, à réaliser des choses. Sans elle rien ne peut être fait. Même 
+notre propre corps a besoin de l’énergie des aliments transformée en énergie des muscles pour 
+faire, pour bouger, pour penser , pour s’échauffer , etc. Le Joule (J) est l’unité de l’énergie du 
+Système International (SI) et donc la plus utilisée en physique . D’autres unités sont utilisées 
+comme le Watt heure (Wh), Tonne équivalent pétrole (Tep), calorie, etc. avec leurs multiples 
+comme kilo(k) = 103, Méga (M) = 106, Giga (G) = 109, Téra (T) = 1012. 
+Energie renouvelable  : flux d’énergie issus de phénomènes naturels réguliers ou constants (le 
+Soleil, l’eau, le vent, la chaleur terrestre) . Il s’agit de s ource s d'énergie  (Energie Solaire, 
+Bioénergie, Energie Eolienne, Hydroélectricité, Energie Géothermique, Energie marine ) se 
+renouvelant assez rapidement pour être considérée comme inépuisable à l'échelle de temps 
+humaine . Elle est p ropre en termes d’émission de gaz à effet de serre . 
+Energie conventionnelle  : c’est une énergie qui se trouve dans la nature de manière limitée. 
+On peut distinguer deux (02) types d’énergies conventionnelles à savoir les combustibles 
+fossiles ( charbon, pétrole et gaz ) et les combustibles  nucléaires . Ces é nergies sont à l’origine 
+en grande partie du changement climatique dans le monde à cause de leurs importants rejets de 
+gaz à effet de serre.  
+Énergie primaire  : énergie dans la forme sous laquelle elle se trouve en nature avant toute  
+
+--- PAGE 7 ---
+ 
+ 7 conversion à une forme secondaire d’énergie . Nous avons p ar exemple  le pétrole brut ou  le gaz 
+naturel au puits, charbon ou uranium à la bouche de la mine . 
+Énergie secondaire  : énergie dérivée de la conversion d’énergie primaire. Nous avons p ar 
+exemple  les produits pétroliers apr ès raffinerie, le gaz manufacturé  et l’électricité . 
+Énergie finale  : énergie utilisée par les consommateurs finaux dans leurs équipements . Nous 
+avons par e xemples  l’essence à la pompe  et électricité au foyer . 
+Énergie utile  : énergie utilisée effectivement par le consommateur pour obtenir un service 
+énergétique. Elle r eprésente l’énergie à la sortie d’un équipement de conversion (chaudière, 
+four, chauffe -eau, etc.).  
+Services énergétiques  : besoins satisfaits du consommateur (nou rriture, illumination, 
+température intérieure confortable, réfrigération, transport, télécommunications) à la suite de 
+l’utilisation de l’énergie utile et d’autres biens et services (savoir -faire et travail) . 
+Vecteur énergétique  (ou vecteur d'énergie)  : support ou une méthode permettant de transporter 
+de l'énergie d'un endroit à un autre. Il ne produit pas d'énergie, mais la rend disponible sous une 
+forme utilisable par le consommateur, comme la chaleur, le travail mécanique, l'électricité, le 
+gaz, le carbu rant, etc.  
+Énergie commerciale  : terme utilisé le plus souvent pour les énergies conventionnelles ; au  
+sens strict, correspond à l’énergie faisant l’objet d’une transaction marchande.  
+Énergie non commerciale  ou traditionnelle  : terme souvent employé pour les énergies 
+traditionnelles ou non conventionnelles  ; au sens strict, correspond à l’énergie autoconsommée 
+ou allouée sous un mode communautaire  (bois et déchets de bois, charbon de bois ). 
+Autoproducteur d'électricité  : désig ne les entreprises qui produisent de l’électricité, en totalité 
+ou en partie pour leur consommation propre, en tant qu’activité qui contribue à leur activité 
+principale.  
+Producteur indépendant  : à la différence de l’autoproducteur, il produit de l’électric ité qu’il 
+vend à la société de distribution ou aux entreprises.  
+2.4. Système d’information énergétique (SIE)  
+Pour qu’un bilan énergétique joue pleinement son rôle, il doit faire partie intégrante d’un 
+
+--- PAGE 8 ---
+ 
+ 8 système d’information énergétique (SIE) fiable.  
+Système  d’information énergétique (SIE)  : Ensemble intégré des méthodes, moyens et 
+techniques permettant d’assurer la collecte, l’enregistrement, le traitement et la valorisation des 
+informations facilitant une prise de décision en vue d’une planification efficac e du secteur de 
+l’énergie. Les données énergétiques sont collectées annuellement auprès des différents acteurs 
+notamment : les acteurs du secteur pétrolier, les industries, les acteurs du secteur marchand et 
+public, les sociétés d’électricité, les sociétés  de communication…  
+La question qu’on est en droit de se poser c’est  ; Comment améliorer la fiabilité des 
+informations du système ?  
+Pour améliorer la fiabilité des informations, il est impératif d’avoir  : 
+✓ Un vaste réseau de contacts et de collecte d’inform ations sur les sous -filières spécifiques 
+(hydrocarbures, biomasse -énergie, électricité, etc.)  ; 
+✓ Une méthode de travail, d’analyse et de validation des données et informations 
+énergétiques.  
+Une méthode de collecte peut être  la suivant e :  
+✓ Des points focaux sont identifiés auprès des fournisseurs de données  ;  
+✓ Envoie de courrier avec une fiche de collecte de données ;  
+✓ Suivie auprès des fournisseurs des données ;  
+✓ Les fiches de collecte de données sont retournées bien remplis  ; 
+✓ Les données sont compilées, tra ité à la Direction en charge de la planification du Ministère 
+en charge de l’énergie  ; 
+✓ Le bilan est ainsi élaboré et un rapport est rédigé et validé lors d’un atelier national 
+regroupant les fournisseurs de données et les décideurs assortie de proposition d’axes de 
+politiques et d’aide à la prise de décisions.  
+Le schéma ci -dessous permet d’illustrer l’élaboration du bilan énergétique.  
+ 
+Figure 1  : Elaboration du bilan énergétique  
+
+
+--- PAGE 9 ---
+ 
+ 9 Les données collectées sont :  
+✓ Producteurs -Importateurs  : les productions brutes, les importations, les exportations, les 
+soutes -maritimes et aériens, les auto consommations et les variations de stock  ; 
+✓ Producteurs -Distributeurs  : les productions brutes, la quantité de combustible utilisé, la 
+quantité de combu stibles à des fin non énergétique, la quantité de combustible affecté au 
+transport et la quantité d’énergies vendue aux consommateurs  ; 
+✓ Consommateurs et Auto producteurs  : les productions propres, la quantité de 
+combustible utilisé pour la production, la q uantité de combustibles à des fin non énergétique 
+et la quantité d’énergie électrique consommé.  
+Les fournisseurs de données énergétiques fiables sont les  : 
+✓ Points focaux  ; 
+✓ Producteurs/autoproducteurs  ; 
+✓ Importateurs /Exportateurs  ; 
+✓ Distributeurs  ; 
+✓ Ministères /Institutions /Agences  ; 
+✓ Douanes  ; 
+✓ Instituts de statistiques.  
+NB : Il est important de disposer d’une bonne base de données et d’une équipe de collecte, 
+de traitement, de validation, de bilan énergétique et d’indicateurs.  
+En résumer on peut dire que le bilan énergétique présente la situation énergétique du pays à une  
+période donnée. Pour jouer efficacement son rôle d’outil d’aide à la prise de décision, il doit 
+s’inscrire dans un vaste programme de production régulière des statistiques énergétiques, le 
+Système d’information énergétique (SIE). Grâce à une analyse approfondie du bilan 
+énergétique complétée du croisement entre données énergétiques, données socioéconomiques, 
+voire données environnementales, le SIE permet de dégager des indicateurs pertinents pour 
+comprendre les évolutions du secteur énergétique d’un pays et ainsi orienter les décideurs dans 
+la prise de décision.  
+2.5. Le pouvoir calorifique des combustibles  
+Le pouvoir calorifique (chaleur de combustion)  indique, pour un combustible, la quantité de 
+chaleur que dégage la combustion complète d’une unité de masse ou de volume de ce 
+combustible. Autrement dit, il permet de convertir les unités physiques (masse ou volume) en 
+
+--- PAGE 10 ---
+ 
+ 10 unités d’énergie  (par exemple tep, J oule, Watt heure, etc.) et est le seul moyen de convertir . 
+L’unité habituelle  du pouvoir calorifique est le  Giga Joule/tonne ( GJ/t). 
+Le pouvoir calorifique supérieur (PCS)  ou brut donne le dégagement maximal théorique de 
+chaleur lors de la combustion, y compris celle qui est contenue, mais souvent non récupérable, 
+dans la vapeur d’eau produite lors de la combustion. En d’autres termes  une partie de cette 
+chaleur reste empri sonnée dans la chaleur latente de vaporisation de l’eau présente dans le 
+combustible.  
+Le pouvoir calorifique inférieur (PCI)  ou net indique la teneur en énergie utilisable du 
+combustible, excluant la chaleur de vaporisation de la vapeur d’eau contenue dans  les fumées,  
+alors considérée comme une perte.  
+La différence entre PCI et PCS  est la chaleur latente de vaporisation de l'eau produite lors de 
+la combustion. Le rapport entre PCI et PCS  est variable selon les combustibles, entre 90% et 
+95%. Plus le combustible contient d’humidité, plus la différence entre PCS et PCI est grande.  
+Suivant la convention de l’ Agence Internationale de l’Energie ( AIE), le PCI est utilisé dans les  
+bilans énergétiques . Les PCI varient selon les pays et varient dans le temps  (en fonction des 
+produits énergétiques) . Les p ouvoirs calorifiques de certains produits énergétiques  sont donnés  
+dans le s tableau x ci-dessous . 
+Tableau 1  : Pouvoirs calorifiques de certains produits pétroliers  
+ 
+Source : Agence internationale de l’énergie  
+Les différence s d’ordre de grandeur  entre le PCI et PCS sont comme suites : 
+✓ Produits pétroliers : 5  à 8 % 
+✓ Combustibles solides : 5%  
+Produit pét rolier  Densité kg/ m3 PCS (GJ/t)  PCI (GJ/t)  Différence de 
+valeur (% ) 
+Éthane  366,3  51,90  47,51  8,47 
+Propane  507,6  50,32  46,33  7,92 
+Butane  572,7  49,51  45,72  7,65 
+GPL  522,2  50,08  46,15  7,48 
+Essence aviation  716,8  47,40  45,03  5 
+Essence moteur  740,7  47,10  44,75  4,98 
+Pétrole lampant  802,6  46,23  43,92  4,99 
+Gazole/carburant diesel  843,9  45,66  43,38  4,99 
+Fuel-oil à faible teneur en 
+soufre  925,1  44,40  42,18  5 
+Fuel-oil à haute teneur en 
+soufre  963,4  43,76  41,57  5 
+ 
+
+--- PAGE 11 ---
+ 
+ 11 ✓ Le gaz naturel  : 10%  
+NB : l’humidité, ainsi que la teneur en cendres du bois, influe sur son pouvoir calorifique.  
+Tableau  2 : Pouvoirs calorifiques par type de houille type de houille  
+ 
+1. Pour le produit tel qu’il est utilisé. 2. Pour le produit sec exempt de matières minérales   
+Source : Agence internationale de l’énergie  
+Des statistiques énergétiques au bilan énergétique, il  faut nécessairement passer par le processus 
+suivant  : 
+ 
+Figure 2 : Processus d’élaboration d’un bilan énergétique  
+Les pouvoirs calorifiques représentent la clé de la qualité des données. Et pour avoir un bon 
+bilan énergétique il est important de collecter de bonnes données  (statistiques par produit)  
+pour les grandeurs physiques  et les pouvoirs calorifiques  fiables .   
+2.6. Les équivalences énergétiques  
+Le traitement des statistiques énergétiques fait appel à des unités de masse , de volume  et 
+d’énergie . Les unités courantes peuvent varier selon les formes d’énergie. Par exemple, 
+l’électricité est généralement associée au kilowattheure (kWh), le pétrole peut être exprimé en 
+litres  (l), barils (bl ou bbl ) ou mètres cubes  (m3), etc. De plus, les unités courantes varient parfois 
+selon les pays. Par exemple, l’énergie peut être exprimée en joules (J), en kilocalories (kcal), 
+voire en unités thermiques britann iques (Btu) dans les systèmes britannique et américain. Le 
+bilan énergétique permet de fournir les informations énergétiques dans des unités énergétiques 
+comparables pour toutes les formes d’énergie. L’AIE et le bureau des statistiques européennes 
+(Eurosta t) ont choisi la tonne équivalent pétrole (tep), qui équivaut à 41,868 GJ.  
+Les quantités d’énergie produites, transformé es et consommées sont exprimées en tonnes 
+équivalents pétrole  (tep) . En d’autres termes, étant donné que les différentes énergies ne sont 
+
+
+--- PAGE 12 ---
+ 
+ 12 pas exprimées dans les mêmes unités physiques, il est important de les amener dans une seule 
+unité permettant de faire une sommation. Quant aux conversions, les tableaux suivants donnent 
+les coefficients utilisés dans le  cadre de la comptabilité énergétique .  
+Tableau  3 : Conversion des unités de masse les plus fréquentes  
+ 
+Source : Agence internationale de l’énergie  
+Tableau  4 : Conversion des unités de volume  
+ 
+Source : Agence internationale de l’énergie  
+Tableau 5 : Équivalents de conversion en unités d’énergie  
+ 
+Source : Agence internationale de l’énergie  
+
+
+--- PAGE 13 ---
+ 
+ 13 Tableau 6 : Coefficients de conversions  des unités des produits en tep  
+ 
+Source : Agence internationale de l’énergie  
+2.7. Loi du bilan comptable énergétique  
+Le bilan énergétique est constitué d'une matrice, appelée matrice énergétique, dans laquelle 
+toutes les formes d'énergie, leurs conversions, leurs pertes et leurs utilisations dans une période 
+donnée sont enregistrées dans une même unité de mesure. Un bila n énergétique peut être 
+présenté sous diverses formes, chacune avec ses propres conventions et ses propres objectifs. 
+Un bilan énergétique est caractérisé par ses lignes  et ses colonnes . Un bilan énergétique est une 
+matrice montrant les relations entre les  produits énergétiques ou sources d’énergie (représentés 
+en colonnes) et les flux d’énergie ou les utilisations (représentés en lignes).  
+1. Les lignes du bilan ou flux  
+Les lignes du bilan indiquent les origines et les utilisations de l’énergie. Elles constituent aussi 
+les opérations et les agrégats.  
+✓ Les opérations décrivent la succession des différentes étapes depuis la production jusqu’à 
+l’utilisation  ; 
+✓ Les agrégats établissent des synthèses, en particulier dans les trois (3) blocs principaux que 
+sont le bloc des approvisionnements en énergie primaire (disponibilités), le bloc des 
+transformations en énergie secondaire et le bloc des emplois ou consommation finale 
+Produits  Unités  Valeur en tep  
+Electricité  GWh  86 
+Pétrole brut  t 1 
+Charbon minéral  t 0,62 
+GPL  t 1,13 
+Essence  t 1,07 
+Carburéacteur  t 1,065  
+Pétrole lampant  t 1,045  
+Diesel & Gasoil  t 1,035  
+Fuel Oil  t 0,96 
+Naphta  t 1,075  
+Autres produits pétroliers  t 0,96 
+Gaz naturel  1000  m3 0,8 
+Bois de feu  t 0,4 
+Charbon de bois  t 0,7 
+Déchets végétaux  t 0,3 
+Alcool m3 0,51 
+Jus de canne  t 0,057  
+ 
+
+--- PAGE 14 ---
+ 
+ 14 (usages).  
+2. Les colonnes du bilan ou produits  
+Des colonnes  constituent l’ensemble des énergies intervenant dans le bilan (quantités en sources 
+d'énergie ou vecteurs énergétiques ou différentes formes d’énergies utilisé es). 
+2.8. Établissement des bilans énergétiques  
+Un bilan énergétique fait donc l’analyse de l’énergie produite et achetée  (approvisionnement) , 
+de l’énergie transformée et de l’énergie consommée. Le bilan est composé des 
+approvisionnements en énergie primaire (disponibilités), le bloc des transformations en énergie 
+secondaire et le bloc des emplois ou consommation finale (usages) . 
+Approvisionnements totaux en énergie primaire  (ATES) ou Total Primary Energy Supply 
+(TPES) en anglais  : 
+✓ Production  (affectée du signe +)  : production d’énergie primaire après élimination des 
+impuretés (ex soufre dans le gaz naturel)  
+✓ Importation  (signe +) /Exportation  (signe -) : quantités ayant franchi les limites 
+territoriales du pays, que le dédouanement ait été effectué ou non  
+✓ Soutes maritimes  (signe -) : quantités fournies aux navires de haute mer, y compris les 
+navires de guerre, quel que soit leur pavillon (consommation des navires assurant le 
+transport par cabotage ou navigation intérieure et des navires de pêche n'est pas comprise) .  
+✓ Soutes aériennes  (signe -) : quantités fournies aux avions pour les vols internationaux 
+(consommation des avions assurant le transport intérieur n'est pas comprise)  
+✓ Variation de stocks  (signe ) : différence enregistrée entre le 1er jour et le dernier jour de 
+l’année  (Variation de stock (+) si S tock Initial > Stock Final et (-) sinon)  
+✓ Transferts  : les transferts comprennent les transferts, les inter -produits, les produits 
+transférés et les produits recyclés.  Les inter -produits transfère les résultats du reclassement 
+des produits soit parce que leur spécification a changé,  soit parce qu'ils sont mélangés dans 
+un autre produit, par ex. le kérosène peut être reclassé en tant que gasoil après s'être mélangé 
+avec ce dernier afin de satisfaire à sa spécification diesel d'hiver.  Le produit transféré est 
+destiné aux produits pétro liers importés en vue d'une transformation ultérieure dans les 
+raffineries. Par exemple, le mazout importé pour être valorisé dans une raffinerie est 
+transféré dans la catégorie des matières premières. Les produits recyclés sont des produits 
+finis qui pass ent une seconde fois dans le réseau de commercialisation, après avoir été livrés 
+
+--- PAGE 15 ---
+ 
+ 15 aux consommateurs finaux  (par exemple des lubrifiants usés qui sont traités).  
+Transformation et secteur énergie  
+La transformation représente l’ensemble des processus de transformation d’un produit 
+énergétique en un autre produit énergétique. Prenons l’exemple de la production d’électricité à 
+partir du gaz naturel dans une centrale électrique. Sur la ligne centrale  électrique, la quantité de 
+gaz naturel utilisée sera affectée d’un signe moins ( -) indiquant son entrée en transformation. 
+L’électricité produite sera affectée d’un signe plus (+) indiquant sa sortie de transformation . 
+✓ Centrales électriques publiques /Auto producteurs d’électricité  : quantités de 
+combustibles primaires et secondaires utilisés pour la production d’électricité  
+✓ Autres transformations  : cokerie/fabriques d'agglomérés/fabriques de briquettes /usines à 
+gaz/raffineries de pétrole /industrie pétrochimique /production de charbon de bois /non 
+spécifié (transformation)  
+✓ Consommation propre  (signe -) : quantité de combustibles utilisée par les industries 
+productrices d’énergie  
+✓ Pertes de distribution et de transport  (signe -) : pertes dans la distribution du gaz, dans 
+les transports de l’électricité et du charbon  
+Consommation Finale Totale (CFT ) ou Total Final Consumption (TFC) en Anglais  
+Elle concerne les consommations finales totales de tous les secteurs de l’énergie. Ce bloc est le 
+plus difficile à réaliser. Les données de tous les secteurs de l’énergie d’un pays sont difficiles à 
+collecter. Ce sont toutes les consommations des secteurs industriel, agricole, résidentiel, du 
+transport, de la chimie qui consomme certains produits énergétiqu es, etc. Dans ce décompte on 
+comptabilise les usages à des fins énergétiques et non énergétiques. Le secteur  des transports 
+couvre tous les transports, même ceux qui pourraient relever de l’agriculture, de l’industrie, des 
+commerces et services, ou des mén ages c’est -à-dire tous les transports de personnes et de 
+marchandises pour compte propre ou compte d’autrui.  
+La consommation finale correspond à la somme des consommations des secteurs d’utilisation 
+finale  : 
+✓ Secteur industrie  : sidérurgie, industrie, chimique et pétrochimique, produits minéraux 
+non métalliques, produits alimentaires, boissons et tabacs, construction, textiles et cuir, non 
+spécifiés  ; 
+
+--- PAGE 16 ---
+ 
+ 16 ✓ Secteur transports  : aérien, routier, ferroviaire, navigation intérieure, non spécifiés  ; 
+✓ Autres secteurs  : agriculture, commerce et services publics, résidentiel, non spécifiés  ; 
+✓ Utilisations non énergétiques  : couvrent les combustibles qui sont utilisés comme matières 
+premières dans les différents secteurs et qui ne sont pas consommés comme combustible ou 
+transformés en un autre combustible. L'utilisation non énergétique est indiquée séparément 
+dans la consommation finale. La consommation des produits pétroliers comme les 
+paraffines, les lubrifiants, le bitume et les autres pr oduits divers sont comptabilisées ici.  
+2.9. Tableau de comptabilité énergétique  
+Une vue d’ensemble  du tableau de la comptabilité énergétique se présente comme ci -dessous.  
+Tableau 7 : Vue d’ensemble de la c omptabilité énergétique  
+ 
+ 
+
+
+--- PAGE 17 ---
+ 
+ 17  
+ 
+Approvisionnement  Intérieur  (AI) ou Approvisionnement domestique  
+    = 
+     Production  
+             + Importations  
+             – Exportations   
+             – Soutages maritimes et aériens  
+              Variations de stocks  
+Approvisionnement nationale = AI + transferts  
+Avec Variation de stock = stock en début d’exercice considéré – stock en fin d’exercice.  
+Milliers de tonnes équivalent pétrole (ktep) CharbonPétrole 
+brutProduits 
+pétrolier
+sGaz naturel HydroGéothermie
+, solaire, 
+etc.Biomasse 
+énergie, 
+biocarburant 
+et déchetsElectricité Total
+Production
+Importations
+Exportations
+Soutes aériens internationaux
+soutes maritimes internationaux
+Variations de stocks
+APPROVISIONNEMENT TOTAL EN 
+ENERGIE PRIMAIRE
+Transferts
+Ecarts statistiques
+TRANSFORMATION
+Centrales électriques
+Centrales de cogénération
+Usines à gaz
+Rafineries de pétrole
+Transformation de charbon
+Autres transformations
+Usages propres
+Pertes de distribution
+CONSOMMATION FINALE TOTALE
+SECTEUR INDUSTRIE
+Sidérurgie
+Chimie et pétrochimie
+Produits alimentaires, boissons et tabac
+Métaux non ferreux
+Minéraux non métaliques
+Matériel de transport
+Industries extractives
+Machines
+Construction
+Textiles et cuir
+Non spécifie
+TRANSPORT
+Aviation civile internationale
+Transport aériens nationaux
+Transports routier
+Transport ferrovière
+Non spécifie
+AUTRES SEUTEURS
+Agriculture
+Commerce et services publics
+Secteur résidentiel
+Non spécifie
+USAGE NON ENERGETIQUE
+Industries/Transformation/Energie
+Transport
+Autres secteursEcart statistique = Demande d’énergie – Offre d’énergieApprovisionnement nationale = AI + transfertsConsommation finaleCONSOMMATION 
+FINALE (CFT)Consommation totale d'énergies du secteurs 
+industrie                                                                   
++ Consommation totale d'énergies du 
+secteurs transport                                                  
++ Consommation totale d'énergies des 
+autres secteurs (résidentiel, commercial, etc)                                                                         
++ Consommations d'énergies à des fins non 
+énergétiquesApprovisionnementAPPROVISIONNEMENT 
+TOTAL EN ENERGIE 
+PRIMAIRE (ATEP)Production                                                                                                                                                   
++ Importations                                                                                            
+- Exportations                                                                                          
+-Soutes maritimes et aériens                                                    
+± Variations de stocksTransformationTRANSFORMATION 
+SECTEUR ENERGIE ET 
+PERTES (DISTRIBUTION 
+ET TRANSPORTS)Transformations                                                                     
++ Consomations propres d'énergies du 
+secteus de production d'énergie                                                             
++ Pertes de distribution et de transports
+
+--- PAGE 18 ---
+ 
+ 18 Ecart statistique = Demande d’énergie – Offre d’énergie  
+Ecart statistique = Consommation finale + Total transformation + Consommation secteur 
+énergie + Perte de distribution – (Approvisionnement intérieur +Transfert)  
+ÉCARTS STATISTIQUES = CFT + TSEP – (AI + TRANSFERTS)  
+La dernière colonne du bilan "Total"  est égale au total de toutes les colonnes.  
+En résumer  le bilan permet de : 
+✓ Offrir une vue d’ensemble du secteur énergétique d’un pays  ; 
+✓ Calculer et surveiller les poids relatifs des différentes sources d’énergie dans le mix total  ; 
+✓ Calculer et surveiller la part de la consommation finale par produit énergétique et de la 
+consommation fi nale totale d’énergies dans chaque secteur d’activité économique et social  ; 
+✓ Calculer et surveiller l’approvisionnement et consommation totale des produits 
+énergétiques ainsi que leurs modes pour l’espace géographique considéré (p. ex le territoire 
+nationa l pour ce qui concerne le bilan énergétique national)  ; 
+✓ Calculer et surveiller l’intensité énergétique, dépendance à l’égard des importations 
+d’énergie et autres indicateurs socioéconomiques  ; 
+✓ Analyse r la situation énergétique d’un pays  ; 
+✓ Suivre l’énergie depuis sa production (énergie primaire) jusqu’à son utilisation finale 
+(énergie finale) pour une année donnée  ; 
+✓ Estim er les émissions des gaz à effet de serre issus du secteur énergétique  proposer des 
+solutions en vue de leur réduction  ; 
+✓ Maîtrise r de ges tion de l’énergie  ; 
+✓ Aider à la prise de décision  ; 
+✓ Jouer un rôle à travers un Système d’Information Energétique.  
+Le diagramme de Sankey  
+Le diagramme de Sankey  représent e la ressource primaire mobilis ée pour satisfaire la 
+consommation finale. Le diagramme fait ressortir la production et les importations  ; les 
+exportations, transformations et les pertes d’énergies  ; et les consommations finales d’énergies . 
+Le diagramme illustre aussi les flux des différentes formes d’énergie transformées en électricité 
+comme rcialisée.  
+
+--- PAGE 19 ---
+ 
+ 19  
+Figure  3 : Flux énergétique de l’UEMOA en 2018 (ktep)  
+2.10. Définition et calcul des ratios énergétiques  
+A partir de la matrice de comptabilité énergétique , il est difficile voire impossible de faire les 
+analyses. On a recours aux ratios énergétiques. Les ratios permettent de faire des comparaisons 
+entre régions ou pays, et entre valeurs standard s et valeurs locales. De nombreux indicateurs se 
+dégagent automatiquement du bilan, d’autres indicateurs sont calculés en croisant les données 
+énergétiques avec les données démographiques et socioéconomiques. De plus, le recours à une 
+série chronologique d’indicateurs énergétiques offre la possibilité de montrer comment agir sur 
+les différents leviers orientant le développement du secteur. Nous donn ons ci -dessous quelques -
+uns des ratios les plus utilisés pour caractériser la structure d’un système énergétique national 
+ou régional.  
+✓ Taux de couverture  
+Le taux de couverture géographique est le rapport entre la population vivant dans les localités 
+électrifiées et la population totale de la zone . 
+Taux de couverture = Population de la localité électrifiée /Population de la zone  
+✓ Taux de desserte  
+Le taux de desserte est le rapport entre la population ayant effectivement accès au service 
+(desservie) et la  population des localités électrifiées . Le taux de pénétration est l’équivalent du 
+
+
+--- PAGE 20 ---
+ 
+ 20 taux de desserte . 
+Taux de desserte = Population desservie (connectée) /Population des localités électrifiées  
+✓ Taux d'électrification  
+C’est le rapport du nombre de ménages disposant de l’électricité au nombre total de ménage 
+d’une région, localité ou pays. En d’autres termes, c’ est le rapport entre la population desservie 
+et la population totale de la zone . On définit aussi des taux d’él ectrification national ou urbains 
+(TEU) ou ruraux (TER). Ceux -ci sont calculés en ne prenant en compte que les populations 
+concernées.  Le taux d’accès à l’électricité est assimilé au taux d’électrification.   
+Taux d'électrification = Population desservie (c onnectée) /Population de la zone  
+Autrement dit :  
+Taux d'électrification = Taux de desserte x Taux de couverture   
+✓ Taux d’autosuffisance (d’indépendance) énergétique  
+C’est le rapport entre la production d’énergie primaire nationale et l’approvisionnement en 
+énergie primaire calculées sur une année. En termes plus simples, c’est le rapport entre les 
+énergies primaires produites dans le pays et toutes les énergies primai res totales utilisées dans 
+le pays. Le taux d’autosuffisance énergétique mesure la capacité du pays à subvenir à ses 
+besoins énergétiques sans recours à l’extérieur.  Autrement dit, sa résilience face à une 
+éventuelle crise énergétique venant de l’extérieur . 
+Taux d’autosuffisance énergétique = production nationale / ATEP  
+NB : ce taux peut être calculé pour chaque type de source ou vecteur énergétique comme le 
+pétrole, le charbon , l’électricité , etc.  
+✓ Consommation unitaire  (Consommation totale d’énergie ou d’électricité par habitant)  
+Consommation énergétique d’une unité de consommateur donné, considérée sur une année  ou 
+une journée  (exemple  : consommation par tête d’habitant, ou par ménage) . Nous pouvons 
+avoir  ; ATEP par habitant  (tep/habitant), consommation d’énergie électrique par habitant  
+(MWh/habitant), consommation moyenne journalière de bois de feu d ’un ménage urbain (kg / 
+ménage), consommation moyenne journalière de bois de feu d ’un ménage rural (kg / ménage) , 
+consommation totale de produits pétroliers par habitant  (tep/h abitant), etc. 
+
+--- PAGE 21 ---
+ 
+ 21 ✓ Intensité énergétique  (IE) 
+C’est le rapport entre la consommation énergétique finale totale et le produit intérieur brut 
+(PIB). Elle montre la capacité de l’économie à générer de la richesse en utilisant plus ou moins 
+d’énergie. I E est la quantité d’énergie requise pour produire une unité de produit intérieur brut 
+ou richesse (PIB)  ou l’efficacité de l’énergie à générer des revenus.  Nous pouvons avoir  ; ATEP  
+(tep)  par PIB ( tep/1000 $US), consommation totale de produits pétrolier s par PIB  (tep/1000 
+$US) et consommation d’énergie électrique  par PIB (kWh/$US) . Une faible valeur de 
+l’intensité énergétique indique un faible poids de l’énergie dans l’économie alors qu’une valeur 
+élevée indique un poids élevé de l’énergie dans l’économie et par conséquent la criticité de 
+l’efficacité énergétique. L’intensité énergétique est certainement l’indicateur le plus pertinent 
+pour mesurer la performance des agents économiques dans ce domaine. L ’intensité énergétique 
+est la mesure de la quantité d’énergie consommée pour donner une unité de production 
+économique.  
+Intensité énergétique (IE) = ATEP ou consommation énergétique/ PIB  (TEP/1000 $US)  
+✓ Part de  type d’énergie par énergie totale  
+Cet indicateur apprécie la part de chaque forme d’énergie dans la consommation finale d’un 
+pays. Nous pouvons par exemple évaluer la p art des ER dans la production d’énergie électrique . 
+C’est le rapport entre la production d’énergie électrique renouvelable et la production d’énergie 
+électrique sur une année. Cet indicateur a tout son sens dans le système énergétique actuel à 
+cause de l’avènement des énergies renouvelables.   
+✓ Consommation finale d’énergie par secteur d’activité  
+Cet indicateur fournit la structure  de la consommation finale par secteur d’activité (résidentiel, 
+industriel, transport, services publics et marchands). Il permet de repérer les secteurs les plus 
+énergivores d’un espace géographique (pays, région, continent, monde).  
+Nous allons faire un récapitulatif des indicateurs dans le tableau ci -dessous.  
+
+--- PAGE 22 ---
+ 
+ 22  
+Source  : IFDD  
+Nous avons des indicateurs énergétiques liés à la dimension environnementale à savoir  : 
+✓ Émissions de Gas à effet serre (GES) liées à la production d’énergie par habitant  ; 
+✓ Émissions de GES liées à la production d’énergie par unité de PIB  ; 
+✓ Émissions de GES liées à la consommation d’énergie par habitant  ; 
+✓ Émissions de GES liées à la consommation d’énergie par unité de PIB  ; 
+✓ Taux de déforestation attribué à l’utilisation de l’énergie  ; 
+✓ Émissions de polluants atmosphériques provenant des systèmes  ; 
+✓ Etc. 
+Certains indicateurs favorisant l’écodéveloppement sont évalués sous le nom de Traitement de 
+l’Information pour des Politiques Energétiques (TIPEE) . Il s’agit d’ une méthodologie et d’une 
+série d’indicateurs développés par HELIO International  (Fondée en 1987, HELIO International 
+est une association de droit français)  et testés en Afrique avec l’appui de l’ Institut Français pour 
+le Développement Durable ( IFDD ) en vue de permettre aux décideu rs d’évaluer comment les 
+politiques énergétiques nationales contribuent à l’écodéveloppement dans des conditions 
+climatiques changeantes. Les bilans énergétiques fournissent un certain nombre de statistiques 
+sur les systèmes nationaux. Le TIPEE s’appuie su r ces statistiques et propose d’autres 
+indicateurs, absents des bilans énergétiques traditionnels, pour fournir une évaluation 
+INDICATEURS ENERGETIQUES  CALCUL  UNITE  
+Intensité énergétique  Consommation finale totale / PIB  TEP/1000 $US  
+Consommation totale d' énergie par 
+habitant  Consommation totale d' énergie / 
+Population  TEP/HBT  
+Production totale d' électricité par habitant  Production totale d' électricité / 
+Population  kWh/HBT  
+Consommation totale d' électricité par 
+habitant  Consommation totale d' électricité / 
+Population  kWh/HBT  
+Consommation totale  de produits 
+pétroliers par habitant  Consommation totale de produits 
+pétroliers / Population  TEP/HBT  
+Consommation totale de biomasse par 
+habitant  Consommation totale de biomasse / 
+Population  TEP/HBT  
+Consommation totale d' électricité par unité 
+de PIB  Consom mation totale d' électricité / 
+PIB kWh/$US  
+Approvisionnement total d' énergie par 
+unité de PIB  Approvisionnement total d'énergie / 
+PIB TEP/1000 $US  
+de PIB  
+Consommation totale de produits 
+pétrolier s par unité de PIB  Consommation totale de produits 
+pétrolier s / PIB TEP/HBT  
+Part des énergies renouvelables dans 
+l’énergie  et l’électricité  Production énergies r enouvelables  / 
+Production total d ’énergie  et 
+l’électricité  % 
+Taux d’autosuffisance (d’indépendance) 
+énergétique  Production nationale  / ATEP  % 
+Taux d'électrification (d’accès à 
+l’électricité)  Nombre de ménages disposant de 
+l’électricité  / Nombre total de 
+ménage s % 
+ 
+
+--- PAGE 23 ---
+ 
+ 23 multidisciplinaire des politiques énergétiques. Il s’agit de 24 indicateurs TIPEE qui couvrent 
+les caractéristiques économiques, sociales, technologiques, civiques et environnementales  
+(émissions de CO2 du secteur énergétique par habitant) , Vulnérabilité climatique, Résilience  
+(proportion de l’investissement domestique allant aux énergies renouvelables et à l’efficacité 
+énergétique) , Gouvernance.   
+Tableau 8 : Quelques  indicateurs des pays de l’UEMOA  
+ 
+Source  : SIE UEMOA  
+3. Planification énergétique  
+3.1. Définitions et justification de la planification énergétique  
+La planification énergétique est le procédé par lequel on développe une politique à long terme 
+pour aider dans le choix des investissements en énergie au niveau local, national ou régional. 
+ Bénin  
+(2021)  Burkina  
+Faso 
+(2020)  Côte 
+d’Ivoire  
+(2020 ) Guinée 
+Bissau  
+(2020)  Mali  
+(2020)  Niger  
+(2020)  Sénégal  
+(2020)  Togo  
+(2020)  
+Production d' énergie 
+(ktep)  2 946.46  3 947.27  10 027.62  399.34  5 632.54  3 023.37  1 801.52  2 940.33  
+Importation d' énergie 
+(ktep)  2 170.43  1 687.13  3 936.03  99.31  2 058.29  280.17  3 050.53  759.38  
+Approvisionnement 
+total en énergie 
+primaire (ktep) :  5 055.33  5 636.67  10 964.47  498.65  7 637.99  2 963.98  4 444.95  3 651.66  
+ATEP/Habitant (ktep)  0.40 0.27 0.43 0.29 0.37 0.13 0.27 0.47 
+Taux d’autosuffisance 
+énergétique  (%) 58.28  70.03  91.46  80.08  73.74  102.00  40.53  80.52  
+Consommation 
+d'énergie électrique 
+(MWh) :  1 519 
+367.44  2 573 
+722.57  8 368 
+142.49  242 121  7 226 
+067.04  1 412 
+819.26  6 098 
+969.61  1 356 
+960.00  
+Consommation 
+d'énergie 
+électrique/Habitant 
+(MWh)  120.64  123.32  329.78  141.18  350.06  60.91  365.09  176.09  
+Taux d’autosuffisance 
+électrique  (%) :  61.96  58.84  111.66  100.00  97.98  36.42  94.17  43.87  
+Intensité énergétique 
+du secteur service  0.05 0.09 0 0 0.02 0.03 0.01 0 
+Intensité  énergétique 
+du secteur industrie  0.11 0.17 0 0 00 0.08 0.15 0 
+Part des EnR dans la 
+production 
+d'électricité  (%) 1.49 12.44  30.56  6.87 20.36  3.84 12.14  14.68  
+Taux d'électrification 
+national en %  37.71  25.79  85.47  37.12  52.14  15.73  80.78  58.10  
+Pourcentage de 
+ménages utilisant 
+l'électricité pour la 
+cuisson (%)  0.30 NP NP 0.30 NP NP NP NP 
+Pourcentage de 
+ménages utilisant le 
+GPL pour la cuisson 
+(%) 5.00 NP 41.03  37.00  NP 3.70  NP NP 
+Consommation 
+moyenne journalière 
+de bois de feu d'un 
+ménage urbain (kg  / 
+ménage) :  3.36 2.37 4.60 11.70  4.40 5.88 0.90 2.60 
+Consommation 
+moyenne journalière 
+de bois de feu d'un 
+ménage rural (kg / 
+ménage) :  6.02 8.59 7.70 12.30  5.97 4.82 5.11 5.10 
+ 
+
+--- PAGE 24 ---
+ 
+ 24 Elle vise à satisfaire la demande par une offre planifiée dans le temps et dans l’espace, de nos 
+jours en prenant en compte les contraintes de durabilité des systèmes énergétiques retenus.   La 
+planification énergétique permet aux pouvoirs publics de prendre en temps voulu et en 
+connaissance de cause des décisions pour la  gestion de l’offre et de la demande énergétiques.  
+Une planification peut s’adresser à un pays, une région, une ville, une entreprise et tout autre 
+système énergétique pour assurer une sécurité énergétique, réduire les impacts 
+environnementaux, améliorer les rapports sociaux, etc.  L’approvisionnement en énergie des 
+utilisateurs finaux passe par un processus intégré qui comprend différentes étapes : l’analyse de 
+la demande énergétique, la production, la conversion, la transformation et la distribution. 
+Chac une d’elles doit être exécutée avec soin et comparée avec les ressources et les capacités 
+nationales.  La planification énergétique permet : 
+✓ L’élaboration de plans énergétiques à long terme (évaluation du mix énergétique, évaluation 
+des alternatives de dema nde et d'approvisionnement, compétitivité des différentes 
+technologies)  ; 
+✓ L’évaluation du coût total de fonctionnement et de développement du système  ;  
+✓ La réduction d es impacts environnementaux d'un système énergétique  ; 
+✓ L’évaluation des i mplications financières des plans énergétiques  ; 
+✓ Le développement des marchés régionaux / nationaux  ; 
+✓ Etc. 
+La planification énergétique est destinée au : 
+✓ Institutions internationales  ; 
+✓ Ministères  et Agence en charge de l’énergie  ; 
+✓ Organismes de réglementation  ; 
+✓ Industries du secteur de l’énergie  ; 
+✓ Communauté s universitaire s et de recherche  ; 
+✓ Sociétés de conseil  ; 
+✓ Organisations non gouvernementales.  
+ 
+3.2. De la comptabilité à la planification  
+La planification énergétique passe nécessairement par une comptabilité énergétique de qualité. 
+Il s’agit de  : 
+✓ Analyser la situation énergétique d’un pays et son évolution  ;  
+
+--- PAGE 25 ---
+ 
+ 25 ✓ Suivre des objectifs de la politique énergétique  ; 
+✓ Proposer divers scénarios d’interaction des systèmes à partir de modèles judicieusement 
+choisis (aide à la prise de décision)  ; 
+La figure ci -dessous nous montre le processus.  
+ 
+Figure 4 : De la comptabilité à la planification  
+Une bonne planification énergétique nécessite :  
+✓ Une bonne législation ou une bonne politique énergétique  ;  
+✓ Un renforcement des capacités ou la maîtrise des technologies  ;  
+✓ Une bonne gestion de l’existant (avant de penser au futur)  ;  
+✓ Une bonne analyse économique basée sur la rentabilité économique à court ou long terme 
+des investissements.  
+3.3. Energie, environnement et développement durable  
+Depuis la révolution industrielle, les activités humaines engendrent des problèmes 
+environnementaux multiples en relation avec les menaces de pollutions (causé la plupart par 
+l’utilisation de l’énergie) qui augmentent. Cette situation exige des solutions et place d'emblée 
+les questions de la protection de l'environnement parmi les priorités les plus urgentes de la 
+période actuelle.  
+L'environnement  est l'ensemble des éléments physiques, chimiques, biologiques et des 
+facteurs socio -économiques, moraux et intellectuels susceptibles d'avoir un effet direct ou 
+indirect, immédiat ou à terme sur le développement du milieu, des êtres vivants et des activités 
+humaines.  
+Le développement durable  est un processus de chang ement dans lequel l’exploitation des 
+ressources, les investissements, le développement technologique et institutionnel visent à 
+
+
+--- PAGE 26 ---
+ 
+ 26 répondre aux besoins du présent sans compromettre la capacité des générations futures à 
+répondre aux leurs.  
+Le schéma ci -dessous  résume le développement durable.  
+ 
+Figure 5 : Développement durable  
+Le développement durable comprend l’aspect économique , l’aspect social  et l’aspect  
+écologique . Sa finalité est de trouver un équilibre cohérent entre les enjeux économiques, 
+sociaux et environnementaux  selon le schéma bien connu de l’équilibre des trois (03) piliers 
+du développement durable ci -dessus : l’économique, le social et l’environnemental . 
+L’énergie  c’est la capacité à faire. Sans elle rien ne peut être fait. La réalisation de to ute chose 
+repose sur l’utilisation de l’énergie.  
+C’est pourquoi les Objectifs d e Développement Durable (ODD) ont reconnu un rôle transversal 
+à l’énergie dans la lutte contre la pauvreté, les changements climatiques  et le développement 
+durable. Ainsi, les liens entre l’énergie , l’environnement  et le développement durable  sont 
+considérés comme une évidence. Et parmi les 17 ODD pour transformer (sauver) le monde, 
+l’ODD7 est dédié à l’énergie.  
+Les ODD  nous donnent la marche à suivre pour parvenir à un avenir meilleur et plus durable 
+pour tous. Ils répondent aux défis mondiaux auxquels nous sommes confrontés, notamment 
+ceux liés à la pauvreté, aux inégalités, au climat, à la dégradation de l’environneme nt, à la 
+prospérité, à la paix et à la justice. Les objectifs sont interconnectés et, pour ne laisser personne 
+de côté, il est important d’atteindre chacun d’entre eux, et chacune de leurs cibles, d’ici à 2030.  
+Au niveau mondial, l’investissement annuel da ns les infrastructures énergétiques durables 
+devra être triplé, passant d’environ 400 milliards  de dollars aujourd’hui à 1 250 milliards  d’ici 
+à 2030. Les régions présentant les déficits énergétiques les plus élevés  sont l’Afrique 
+
+
+--- PAGE 27 ---
+ 
+ 27 subsaharienne et l’Asie du Sud.  
+ODD7  (Objectif 7 ) : Energie propre et d'un coût abordable  : L’énergie durable est une 
+opportunité  pour transformer les vies, les économies et la planète.  
+Les faits et le chiffres qui soutien nent cet objectif sont les suiva nts :  
+✓ 13% de la population mondiale n’a pas accès à l’électricité moderne  ; 
+✓ 3 milliards de personnes dépendent du bois, du charbon ou des déchets animaux pour la 
+cuisson et le chauffage  ; 
+✓ L’énergie est le principal facteur contribuant au changement climatique, ce qui représente 
+environ 60 % des émissions mondiales de gaz à effet de serre  ; 
+✓ La pollution de l’air intérieur due à l’utilisation de combustibles a provoqué 4,3 millions de 
+décès e n 2012, les femmes et les filles représentant 60% de ces décès  ; 
+✓ La part des énergies renouvelables dans la consommation finale d’énergie a atteint 17,5% 
+en 2015.  
+Les cibles recherchées à l’horizon 203 0 sont les suivants  : 
+✓ 7.1 D’ici à 2030, garantir l’accès de tous à des services énergétiques fiables et modernes, à 
+un coût abordable  ; 
+✓ 7.2 D’ici à 2030, accroître nettement la part de l’énergie renouvelable dans le bouquet 
+énergétique mondial  ; 
+✓ 7.3 D’ici à 2030, multiplier par deux (02) le taux mondial d’amélioration de l’efficacité 
+énergétique  ; 
+✓ 7.a D’ici à 2030, renforcer la coopération internationale en vue de faciliter l’accès à la 
+recherche et aux technologies relatives à l’énergie propre, notamment l’énergie 
+renouvelable, l’efficacité énergétique e t les nouvelles technologies relatives aux 
+combustibles fossiles propres, et promouvoir l’investissement dans l’infrastructure 
+énergétique et les technologies relatives à l’énergie propre  ; 
+✓ 7.b D’ici à 2030, développer les infrastructures et améliorer les technologies afin 
+d’approvisionner en services énergétiques modernes et durables tous les habitants des pays 
+en développement, en particulier des pays les moins avancés, des petits États insulaires en 
+développement et des pays en développement sans littora l, dans le respect des programmes 
+d’aide qui les concernent.  
+
+--- PAGE 28 ---
+ 
+ 28 Les gaz à effet de serre (GES) sont des gaz naturels présents dans l’atmosphère terrestre. Ils 
+sont d'origine naturelle (vapeur d’eau) ou anthropique (c’est -à-dire liés aux activités humaines). 
+La particularité des GES est leur capacité à emprisonner les rayons du soleil. Ils absorbent ainsi 
+le rayonnement infrarouge émis par la surface de la Terre et le réémettent dans l’atmosphère. 
+Ce phénomène d'effet de serre naturel permet la stabilisation de  la température à la surface de 
+la Terre à un niveau convenable pour la prospérité de la vie sur la planète. C’est l’accroissement 
+constant et exponentiel de la concentration des GES depuis le 19e siècle qui pose problème. Il 
+est l’un des facteurs les plus  remarquables à l’origine du réchauffement climatique.  
+Ce constat a amené les pays à conclure des accords pour limiter les émissions de gaz à effet de 
+serre dits « additionnels » dans l’atmosphère. Le premier d’entre eux, le protocole de Kyoto, a 
+été signé en 1997 par 37 pays industrialisés. Il engageait ainsi les plus gros émetteurs de GES 
+dans un objectif de réduction de 5 % des émissions de GES par rapport aux niveaux de 1990 à 
+échéance 2008 - 2012. Ce protocole a été ratifié par un total de 168 pay s en 2010.  
+Le PRG exprime donc le pouvoir de réchauffement d’un gaz à effet de serre, en tenant compte 
+de la durée pendant laquelle il reste actif dans l’atmosphère. Le dioxyde de carbone étant 
+considéré comme le gaz de référence, son PRG est fixé arbitrai rement à 1. Le PRG est 
+actuellement calculé pour 100 ans, durée de vie du CO2 dans l'atmosphère. Ainsi, les PRG des 
+autres GES sont mesurés relativement au CO2, sur une période de 100 ans. Six (06) gaz à effet 
+de serre sont suivis dans le cadre du protocol e de Kyoto à savoir le dioxyde de carbone (CO2), 
+le méthane (CH4), le protoxyde d'azote (N2O), l’hexafluorure de soufre (SF6), les 
+hydrofluorocarbures (HFC), les perfluorocarbures (PFC).  
+Il existe différentes abréviations pour désigner l’équivalent CO2 : e qCO2, éq. CO2, CO2e ou 
+CO2eq. Mais, par ailleurs, on entend aussi souvent parler de l’ équivalent carbone . Il ne s’agit 
+pas tout à fait du CO2e, qui lui, prend en compte dans son calcul la quantité globale de gaz 
+carbonique. Alors que l’équivalent carbone  ne mesure que le poids de carbone (l’élément 
+chimique C) contenu dans le CO2 émis.  
+Un kilogramme de CO2 contient 0,2727 kg de carbone seul. L’équivalent carbone du CO2 vaut 
+donc : PRG (CO2) x 0,2727, soit 0,2727.  
+Pour les autres gaz, l’équivalent carbone va ut : équivalent carbone = PRG relatif x 0,2727  
+Le tableau récapitulatif suivant indique pour chacun des six (06) GES suivis dans le cadre du 
+protocole de Kyoto, leur durée de vie, leur PRG sur une échelle de 100 ans, leur équivalent 
+
+--- PAGE 29 ---
+ 
+ 29 carbone et l’origine des émissions (source : 4e rapport du GIEC de 2007 - valeurs de référence 
+actuelles).  
+Tableau 9 : Récapitulatif des six (06) GES  suivis dans le cadre du protocole de Kyoto  
+ 
+Pour illustrer ce tableau, une tonne de méthane (CH4) a un pouvoir de réchauffement global 25 
+fois plus élevé qu’une tonne de CO2, sur une période de 100 ans. Ainsi, chaque tonne de 
+méthane est comptabilisée comme 25 tonnes d’équivalent CO2 dans les bilans des émissions 
+de GES.  
+Créé par le Groupe d’expert intergouvernemental  sur l’évolution du climat ( GIEC ), l’équivalent 
+dioxyde de carbone (équivalent CO2) est l’unité de mesure utilisée pour comparer les émissions 
+des gaz à effet de serre sur la base de leur « potentiel de réchauffement global » (PRG). Il est 
+important que ch aque personne, organisation  et Etat puisse faire son Bilan Carbone au quotidien 
+sur l’environnement à travers toutes les activités.  
+Le Bilan Carbone  est un standard d’excellence en matière de comptabilité des Gaz à Effet de 
+Serre (GES). Il a pour objectif  de réaliser une photographie exhaustive de l’ensemble des 
+émissions de GES d’une organisation, d’un évènement ou d’un projet. Il s’agit d’un outil de 
+management environnemental, remplissant un rôle de guide et de support des organisations 
+dans le cadre de  leurs démarches de transition climat -énergie.  
+La comptabilité carbone  est un outil structurant dans cette lutte  contre les effets de changements 
+climatiques. I l s’agit d’identifier les sources d’émissions de GES afin de pouvoir les réduire. 
+Les organisat ions ont un rôle à jouer afin de limiter le réchauffement climatique et s’adapter au 
+monde de demain. Cette lutte s’insère dans la Responsabilité Sociétale des Organisations  
+
+
+--- PAGE 30 ---
+ 
+ 30 (RSO), enjeu de société qui voit s’engager des acteurs de plus en plus nombreux.   
+Chaque personne, organisation  et Etat  doit établir une cartographie des flux  d’énergie et de 
+matière provoqués par l eurs activité s. La cartographie est nécessaire à la prise de décision quant 
+aux périmètres à prendre en compte. Les éléments à cartographier  sont les flux d’énergie, de 
+matières premières, de déchets, de produits, selon le modèle ci -dessous.  
+ 
+Figure 6 : Cartographie des flux d’énergie et de matière  
+Le bilan carbone doit prendre en compte toutes les émissions directes et indirects de chaque 
+organisation.  
+ 
+Figure 7 : Les émissions directes et indirects de chaque organisation  
+La Norme ISO 14064 -1 : Spécifications  et lignes directrices au niveau des organismes, pour la 
+quantification et la déclaration des émissions et des suppressions des gaz à  effet de serre , mais 
+surtout la directive d’application ISO  14069 : 2013 apportent les informations précises afin de 
+bien définir le périmètre du bilan GES. En particulier, les postes d’émissions sont répartis en 
+ 
+Schéma des postes d'émission, formant le périmètre opérationnel d’une organisation, tout au long de la vie de son produit  
+ 
+Un Bilan Carbone ® doit prendre en compte toutes l es émissions directes et indirectes  
+
+
+--- PAGE 31 ---
+ 
+ 31 trois (0 3) catégories spécifiques .   
+Selon le périmètre d’activité de l’entreprise, on détermine le scope  de son impact carbone à  
+travers trois (0 3) dimensions :  
+✓ Scope 1 pour les émissions directes de GES de l’entreprise  
+Le scope 1 regroupe en réalité les catégories d’activités qui sont source de production de gaz à 
+effet de serre. Dans ce périmètre, on retrouve globalement toutes les voies par lesquelles 
+l’entreprise émet directement du carbone. Ce sont entre autres les combustibles consommés  ou 
+encore le s méthodes de transports utilisés  dans la chaîne de production du service.  
+✓ Scope 2 pour les émissions indirectes de GES  
+Ce scope regroupe les émissions de GES qui interviennent à la fin de la production du service, 
+et donc dans la phase de consommation. Ce la concerne l’impact des consommateurs qui se 
+déplacent par exemple pour venir consommer le produit ; la gestion du cycle de vie ou plutôt 
+de fin de vie des produits.  
+✓ Scope 3 pour les autres émissions indirectes de GES  
+Ici, on retrouve plutôt les émissions  de gaz qui ont lieu avant et après la production ou la 
+consommation du produit. Cela concerne l’impact des employés engagés dans la chaîne de 
+production, pour se rendre à leur lieu de travail, transporter le matériel, l’impact de la chaîne 
+logistique, etc . 
+Cela nous amène à aborder la notion d’empreinte écologique , appelée également  empreinte  
+environnementale  qui est une mesure de  la pression qu’exerce l’Homme sur la planète. 
+Mesurée en hectares globaux (hag ) ou en  nombre de planètes, elle permet d’estimer la surface 
+terrestre nécessaire à chaque individu pour subvenir à ses besoins. Depuis une dizaine d’années, 
+la date du  jour du dépassement  mondial se dégrade. Cette date correspond au  jour à partir 
+duquel l es Hommes auront déjà consommé les ressources que la planète peut produire en une 
+année.  
+Quant à l’empreinte carbone , calculée en CO2 équivalent, prend en compte l'ensemble des gaz 
+à effet de serre et sert à évaluer  l’impact des activités humaines sur l’e nvironnement.  
+Ces deux (02) indicateurs ( empreinte écologique  et empreinte carbone ) permettent ainsi de 
+
+--- PAGE 32 ---
+ 
+ 32 deux (02) façons différentes de  sensibiliser les Hommes sur leur impact carbone  et de les 
+pousser à  agir en faveur de la  transition énergétique  en rédu isant leurs émissions de gaz à effet 
+de serre.  
+En résumer, l' empreinte écologique  mesure la superficie productive nécessaire à la 
+consommation d'un individu ou d'une population. L' empreinte carbone , quant à elle, mesure le 
+taux de  carbone  émis.  
+Réduire l ’empreinte carbone se cachent deux (02) problématiques clés à savoir  la contrainte 
+énergétique  et le réchauffement climatique  qui sont les freins au développement durable.  
+3.4. Les instruments de la planification énergétique  
+Ils correspondent aux moyens dont disposent les pouvoir publics ou privés pour agir, en 
+légiférant, sur les leviers de la consommation énergétique. Un exemple connu de tous comme 
+instrument de la planification est le prix de l’énergie. Si l’énergie était gratuite tout le monde 
+en cons ommerait au rythme de l’américain ou même plus. C’est parce que l’énergie est chère 
+qu’elle est si peu utilisée dans le monde comme moyen de booster les activités de 
+développement. Les instruments dont nous parlons ici correspondent au cadre législatif et 
+règlementaire dans chaque pays ou autre système énergétique. Un autre instrument de la 
+planification est la norme des produits. Une norme est un document, établi par consensus et 
+approuvé par un organisme reconnu, qui fournit, pour des usages communs et ré pétés, des 
+règles, des lignes directrices ou des caractéristiques établies pour s'assurer qu'un matériau, un 
+produit, une méthode ou un service se réalise comme il était prévu. Les normes peuvent traiter 
+des aspects techniques de pratiquement n'importe que l produit, service ou processus.  
+Les normes de produits  définissent un niveau de performance minimum pour une catégorie 
+particulière de produits, interdisant généralement la vente de produits dont l’efficacité est en 
+dessous d’un seuil minimum. Un exemple est la norme minimale de performance énergétique, 
+comme le rendement des moteurs supérieur à 90 %. En augmentant les niveaux minimums de 
+performance, les normes assurent l’adoption de technologies plus efficaces, tandis que les 
+fabricants sont incités à tr ouver les solutions les plus appropriées pour répondre aux besoins. 
+Dans le secteur de l’énergie on arrive ainsi à une réduction de la consommation globale.  
+Les codes de qualité énergétique  sont un ensemble de réglementations de construction ou de 
+normes q ui traitent de la performance énergétique de l’ensemble des bâtiments ou des systèmes 
+
+--- PAGE 33 ---
+ 
+ 33 de construction. Ils peuvent fixer des exigences minimales dans les domaines de l'énergie, de 
+l'utilisation des matériaux, des effets environnementaux, de la santé, ainsi  que du niveau de 
+confort minimum, et peuvent s'appliquer à des bâtiments nouveaux ou existants, résidentiels ou 
+tertiaires, commerciaux ou publics. Les codes thermiques du bâtiment basés sur la performance 
+générale du bâtiment sont rédigés pour l'ensemble  du bâtiment, par exemple pour la 
+consommation d'énergie annuelle (exprimé en kWh/an/m2). Entre le code et la norme il n’y a 
+qu’une différence de niveau de complexité.  Nous avons la Directive n° 05/2020/CM/UEMOA  
+fixant des mesures d'efficacité énergétique dans la construction de bâtiments dans les Etats 
+membres de l’UEMOA.   
+La réglementation des marchés  ou des approvisionnements est l'achat organisée par des 
+organismes publics suite à des réglementations préétablies qui peuvent inclure, entre autres, des  
+dispositions en matière de durabilité. La réglementation des approvisionnements peut s'attaquer 
+à la performance énergétique, la réduction des impacts environnementaux, à un rapport coût -
+efficacité.  Nous avons par exemple l’interdiction d’entrée de certain s équipements énergétiques 
+(lampes à incandescentes, voitures de plus de 10 ans, etc.) dans certains pays.  Dans certains 
+pays de l’Afrique de l’ouest, les équipements solaires sont exonérés pour promouvoir les 
+énergies renouvelables.  
+La certification oblig atoire  (généralement dans le bâtiment) est également un instrument de 
+planification. La certification et l’étiquetage obligatoire des bâtiments ou d’autres systèmes 
+énergétiques, est un moyen utilisé pour indiquer aux utilisateurs les niveaux de performanc e du 
+bâtiment ou du système énergétique considéré. La certification obligatoire a une fonction 
+informative par la publication des performances des systèmes. L’évaluation des performances 
+dans la certification des bâtiments peut être effectuée soit sur la b ase d’un seul élément tel que 
+l’eau, l’énergie, ou les émissions de GES par exemple.  Nous avons la Directive n° 
+04/2020/CM/UEMOA  portant étiquetage énergétique des lampes électriques et des appareils 
+électroménagers neufs dans les Etats membres de l'UEMOA . Cette  Directive s’applique aux 
+appareils électriques neufs ci -après :  
+- Equipements de froid domestique (réfrigérateurs, congélateurs et appareils combinés)  ;  
+- Climatiseurs  ; 
+- Lampes électriques.  
+Les programmes d’audits énergétiques  sont utilisés pour réduire la consommation d’énergie 
+des systèmes en mettant en lumière les postes de surconsommation. Ils mesurent la performance 
+
+--- PAGE 34 ---
+ 
+ 34 des bâtiments , des transports, dans le transport, etc.  en tenant compte de la consommation 
+d'énergie et/ou d ’autres caractéristiques et en identifiant les possibilités d’amélioration. Dans 
+certains pays les pouvoirs publics proposent un programme d’audits gratuits ou accompagnés 
+de mesures incitations sachant que les retombées in fine sont également nationales.  
+Face aux enjeux énergétiques la plupart des pays adoptent des dispositifs réglementaires qui 
+oblige nt les utilisateurs de systèmes à respecter des seuils de consommation , du nombre 
+d’employés ou du chiffre d’affaires  dans tous les secteurs d’activités comm e le tertiaire, 
+l’industrie, le transport . Les obligations d’efficacité énergétique entrainent l’obligation pour les 
+acteurs du marché de faire des investissements dans des projets  d'économie d'énergie.  Notons 
+que le résidentiel n’est pas en reste.  Nous av ons au Burkina Faso le Décret N° 2017 -
+1015/PRES/PM/ME/MINEFID/MCIA du 26 octobre 2017  portant fixation des seuils de 
+consommation énergétique, la périodicité de l’audit énergétique, les modalités d’exercice de 
+l’audit énergétique et d’agrément technique des auditeurs . 
+Les charges d’intérêt public  sont des frais excédentaires ajoutés aux pr ix de l’énergie décidé 
+par l’état pour créer des fonds pour l’amélioration des performances , l’utilisation des énergies 
+renouvelables  ou l’électrification rurale . Ils ressemblent donc à une forme spécifique d’impôt 
+sur l'énergie dont les revenus sont génér alement investis dans la mise en place des actions pour 
+améliorer l'efficacité énergétique ou d’autres aspects comme la durabilité (environnementale) 
+des projets par exemple.  Au Burkina Faso, ce fond (2 FCFA sur chaque kWh consommée) est 
+géré par l’Agence Burkinabé de l’Electrification Rurale ex Fond de Développement de 
+l’Electrification (FDE)  
+Les prêts subventionnés  favorisent des mesures spécifiques à partir de taux d’intérêt réduits et 
+meilleurs aux conditions générales de prêt. Ils sont généralement mis  en place pour attirer les 
+investisseurs. Dans la plupart des cas ils sont construits autour de partenariats public -privé 
+(PPP) où le gouvernement propose une incitation fiscale aux banques qui en échange offrent un 
+taux d’intérêt préférentiel pour des inv estissements préférentiels.  Au Burkina Faso, la plupart 
+des centrales solaires photovoltaïques (PV) sont construites dans le cadre des PPP.  
+La facturation nette d’énergie renouvelable  est un instrument politique qui promeut la 
+production d’énergie renouvel able en gratifiant les excédents d’énergie qui alimentent le  
+réseau. En raison de la nature aléatoire des sources d’énergie renouvelable, les participants aux 
+programmes sont aussi approvisionnés par le réseau. L’écart entre les énergies consommées et 
+fournies est compté par des outils de facturation nette. Les consommateurs paient le prix au 
+
+--- PAGE 35 ---
+ 
+ 35 détail pour utiliser de l’énergie, et le fournisseur d'électricité achète la production excédentaire 
+à son coût évité.  Ce concept est bien utilisé par l’Allemagne. Cer tains pays comme le Burkina 
+sont dans processus.  
+Les accords volontaires ou négociés  entre acteurs sont aussi un moyen de planification. Les 
+signataires sont généralement des entreprises qui produisent, fournissent ou consomment des 
+ressources ou génèrent des effets externes négatifs. Les accords volontaires ou négociés sont 
+des contrats adaptés au cas de situations entre les autorités publiques et les acteurs privés, 
+lorsque le choix de participer à un programme est donné à ces derniers et qu’ils sont tenus de 
+s’y conformer en contrepartie d’avantages convenus. La conformité a généralemen t pour but 
+de respecter un niveau prédéfini de progrès dans la durabilité sur une période donnée, ou de 
+mettre en place des ensembles de mesures spécifiques. C’est l’exemple des crédits carbones.  
+On a également des situations où certaines grandes industrie s acceptent se déconnecter du 
+réseau pour utiliser leur propre production pour diminuer les délestages dans certains pays.  
+Les programmes de leadership public  sont mis en œuvre à travers des pratiques publiques qui  
+vont au -delà des exigences minimales. Les programmes de leadership public démontrent la 
+faisabilité, et un haut niveau de performance et conduisent par exemple à des changements de 
+comportement. Ils donnent l’exemple à suivre par une bonne pratique donnée en exemple à tous 
+les acteurs. Les int erventions comportementales, telles que les programmes de sensibilisation, 
+d'éducation et les campagnes d'information, tendent à viser un changement volontaire de 
+comportement par des changements dans les perceptions, les préférences et les aptitudes 
+indiv iduelles et organisationnelles. Ces programmes transmettent des messages généraux à la 
+majorité de la population ou à des groupes cibles spécifiques, et ne fournissent pas 
+d'informations sur mesure.   
+Le support aux entreprises de service énergétique ou « e ntreprises écoénergétiques »  est un 
+autre moyen de planification énergétique.  Ce concept est très développé dans certains pays 
+comme le Canada, Emirats Arabes Unis , etc. A côté de ce concept s’est développé les Super 
+entreprises écoénergétiques  qui lèvent toutes les barrières aux projets d’efficacité énergétique 
+que les entreprises écoénergétiques  simples n’arrivent pas résoudre.  
+De façon générale tous impôts et détaxes pratiqués en vue de favoriser une filière ou décourager 
+une autre est un instrument de planification énergétique. En règle générale, jouer sur les prix de 
+l’énergie ou de la technologie est un instrument de planification énergétique.  
+
+--- PAGE 36 ---
+ 
+ 36 3.5. Les Outils de la planification  
+Le modèle (Outils de la planification) est une image simplifiée de la ré alité, c'est -à-dire une 
+représentation conceptuelle du monde réel utilisant un ensemble d'éléments et leurs connexions.  
+Il existe une panoplie d'outils propres couvrant l'ensemble du processus de planification 
+énergétique  disponibles gratuitement  pour les  pays en développement . Il est important de 
+choisir chaque outil en fonction de la problématique  à traiter . Ces différents outils permettent  de 
+:   
+✓ Mener des analyses nationales de la demande et de l'offre d'électricité appuyées par un 
+modèle ;  
+✓ Élaborer des scénarios de stratégies d'expansion pour la production d'électricité  ; 
+✓ Analyser les besoins pour atteindre l'objectif d'accès universel à l'électricité d'ici  un certain 
+nombre d’années  à travers une rédu ction  des disparités dans la disponibilité des se rvices 
+énergétiques modernes entre et au sein des pays et explorer des options pour améliorer 
+l'accès limité à l'électricité d ’un pays ou d’une  région . 
+Parmi les outils on peut citer  : 
+1. Model for Analysis of Energy Demand (MAED ) 
+L'outil MAED  est un modèle pour l’analyse de la demande d’énergie utilisé pour analyser les 
+futurs scénarios de demande d'énergie et d'électricité pour diverses hypothèses socio -
+économiques et taux d'électrification. Plus spécifiquement, il s’agit d’un/une  : 
+✓ Analyse de  la demande d'énergie finale et utile  ; 
+✓ Développement de scénarios  pour diverses hypothèses socio -économiques et taux 
+d'électrification ; 
+✓ Planification à m oyen et à long terme  ; 
+✓ Connecter l'économie, la démographie, les services, les biens et les technologies à la 
+demande d'énergie . 
+2. Model for Energy Supply Strategy Alternatives and their General Environmental 
+Impact ( MESSAGE ) 
+L'outil MESSAGE  a été utilisé pour simuler et optimiser le fonctionnement des réseaux 
+électriques nationaux et régionaux (sélection des options les plus compétitives pour fournir de 
+l'électricité à moindre coût). Une analyse de scénario peut être  utilisée pour démontrer les 
+
+--- PAGE 37 ---
+ 
+ 37 avantages de la coopération par rapport aux actions individuelles.  Il s’agit de  : 
+✓ Optimis er et simul er des chaînes d'approvisionnement énergétique  ;  
+✓ Faire une a nalyse technico -économique et environnementale  ;  
+✓ Prendre en compte t outes les formes d'énergie et les flux de matières . 
+3. Long range Energy Alternatives Planning System (LEAP)  
+Long Range Energy Alternatives Planning System (LEAP ) est un outil développ é par 
+Stockholm Environnent Institute (SEI)  depuis plus de 25 ans . LEAP prend en compte les 
+particularités des pays en développement comme l’utilisation du bois comme source d’énerg ie 
+ou des lampes tempête comme source d’éclairage, le faible taux d’électrification rurale. Il serait 
+donc plus adapté pour la planification énergétique des pays en développement particulièrement 
+d’Afrique. Les calculs sont réalisables sur autant d’années que l’on désire : 20 ans, 30 ans, 40 
+ans etc. le tracé des courbes de simulation est quasi automatique. Pendant la saisie des données 
+les graphiques de simulation sont automatiquement montré es au concepteur.  
+LEAP permet de programmer autant de scénarios qu e l’on veut sous une forme la plus 
+diversifiée possible. Pratiquement tous les scénarios de production, transformation et de 
+consommation d’énergie sont possibles.  
+Un des avantages de LEAP c’est de nécessiter très peu de données en entrée par le concepteur  
+du projet. Beaucoup de données énergétiques (unités physiques ) existent directement dans le 
+logiciel. 
+LEAP permet une p lanification intégrée de l’énergie et de la diminution des émissions des gaz 
+à effet de serre  et est a pplicable à l’échelle locale, nationale ou encore régionale . 
+LEAP est u tilisé par différents pays pour leurs Communications Nationales de United Nations 
+Framework Convention on Climat Change (UNFCCC) et pour leurs stratégies nationales bas -
+Carbone (LEDS) .  
+L’objectif de LEAP est d’ exam iner la demande et la fourniture électrique dans différents 
+scénarios :  
+✓ Impact du changement climatique  ;  
+✓ Identification et e stimation de la contribution de l’électricité renouvelable dans les objectifs 
+nationaux  ; 
+✓ Comment atteindre un déploiement des énergies renouvelables qui soit résilient au 
+changement climatique ?  
+✓ Examiner la saisonnalité et la complémentarité de l’hydroélectricité, du solaire et du vent  ; 
+
+--- PAGE 38 ---
+ 
+ 38 ✓ Examiner les business models des systèmes de production électrique décentralisés.  
+L’écran principal du LEAP consiste en sept « vues » majeures, chacune permettant d’examiner 
+des aspects différents du logiciel. La Barre des vues, située à la gauche de l'écran, présente une 
+icône pour chaque vue  
+Nous avons un certain nombre de vues dans LEAP à av oir analyse, résultats, bilan énergétique, 
+résumé (tableaux et graphiques), Bases de données technologiques et notes. Nous allons 
+montrer quelques vues  : 
+✓ Analyse  (Analysis) permet d’entrer ou voir des données et construire les modèles et 
+scénarios.  
+ 
+Figure 8 : Différentes parties d u champ analyse  
+✓ Résultat  (Results)  permet d’examiner les sorties de différents scénarios sous forme de 
+graphiques et de tableaux (base ou en modifiant certains paramètres en fonction de la 
+politique nationale)  
+
+
+--- PAGE 39 ---
+ 
+ 39  
+Graphique  1 : Résultat  de simulation d’un scénario  
+✓ Bilan énergétique  (Energy Balance) : les résultats énergétiques calculés dans le LEAP 
+sont présentés dans des bilans spécialement structurés.  Le bilan peut être présenté en 
+tableau, graphique ou diagramme.  
+Le bilan ci -dessous d’un pays Freedonia de l’année 2021 pour un scénario prenant en compte 
+la modification de certains paramètres.  
+Tableau 10 : Bilan énergétique dans LEAP  
+ 
+
+
+--- PAGE 40 ---
+ 
+ 40  
+Graphique 2 : Bilan énergétique dans LEAP  
+ 
+Diagramme 1  : Diagramme de Sankey  dans LEAP  
+✓ Résumé  
+ 
+Graphique  3 : Résumé dans LEAP  
+
+
+--- PAGE 41 ---
+ 
+ 41 Comment LEAP structure la demande  ? 
+✓ L’arborescence est la principale structure de données utilisée pour organiser les données et 
+les modèles, et pour examiner les résultats.  
+✓ Les icônes indiquent les types de données (p. ex. catégories, technologies, carburants et 
+effets environnementaux).  
+✓ Les utilisateurs peuvent modifier l’arbre à l’écran à l’aide des fonctions d’édition standard 
+(copier, coller, glisser -déposer)  
+✓ Les détails  peuvent varier d’un secteur à l’autre.  
+ 
+Figure 8  : Structure dans LEAP  
+LEAP s’appuie sur deux (0 2) types de variables d’entrées : 
+✓ Consommations d’énergie exprimées en unités physiques (tonnes ; kWh ; etc.)  ; 
+✓ Variables indépendantes  (population total, PIB, etc.) . 
+Les extrants de LEAP sont  : 
+✓ Les tableaux de séries de données  ;  
+✓ Les graphiques montrant des scénarios  ;  
+✓ Les rapports sur les données saisies . 
+NB : LEAP donne la possibilité d’extraire des données en Excel, PowerPoint ou image.  Il est 
+possible de changer la langue dans LEAP.  
+LEAP est téléchargeable sur l’adresse  www.energycommunity.org/download . 
+
+
+--- PAGE 42 ---
+ 
+ 42  Un autre outil Développé par le Stockholm Environment  Institute depuis plus de 25  ans Wate r 
+Evaluation  And Planning  (WEAP), un m odèle qui intègr e les ressources en eau  à travers des 
+processus naturels à savoir modélisation hydrologique et hydrogéologique  ; et processus 
+anthropiques à savoir  demandes en eau, barrages, conduites, canaux etc .   
+Il est possible de faire une modélisation WEAP/LEAP à savoir que les résultats de WEAP 
+peuvent être utilisés ensuite dans LEAP . Il s’agit d’ examiner la demande et la fourniture 
+électrique dans différents scénarios  en tenant compte des i mpact s du changement climatique.  
+D’autres outils sont disponibles  :  
+✓ Energy Balance Studio (EBS)  : Compilation des statistiques et bilans énergétiques  
+✓ Energy Scenarios Simulation Tool (ESST)  : Simulation et estimation rapides de scén ario 
+énergétique  
+✓ Wien Automatic System Planning Package (WASP)  : Investissements dans la production 
+d'électricité  
+✓ Simplified Approach for Estimating Impacts of Electricity Generation (SIMPACTS)  : 
+Analyse des impacts environnementaux  
+✓ Financial Analysis of E lectric Sector Expansion Plans (FINPLAN)  : Analyse de la 
+viabilité financière des projets  
+✓ Macroeconomic impacts (EMPOWER)  : Quantification des effets macroéconomique.  
+✓ Etc. 
+Les outils de modélisation sont aussi utilisés dans des cadres d’évaluation plus larges qui 
+combinent plusieurs méthodologies pour analyser certains aspects des systèmes énergétiques et  
+leur interaction avec d'autres activités ou éléments économiques.  
+✓ Indicators of Sustainable Energy Development (ISED)  : Énergie, économie, 
+environnement et interactions sociales . 
+✓ Climate, Land, Energy and Water Nexus (CLEW)  : Climat, utilisation des terres et de 
+l'eau et interactions énergétiques . 
+✓ Strategic Environmental Assessment (Nuclear) (SEA)  : Évaluation environnementale 
+stratégique (nu cléaire) . 
+ 
+ 
+ 
+
+--- PAGE 43 ---
+ 
+ 43 3.6. Méthode simple de planification énergétique adaptée aux régions de pays 
+en développement  
+La plupart des méthodes de planification énergétique proposent des logiciels parfois très 
+compliqués et difficiles à maîtriser. La complexité des systèmes mis en jeux dans la 
+planification énergétique fait qu’il est difficile de se passer de modèles mathém atiques longs et 
+complexes. Il existe cependant quelques méthodes simples de planification basées sur 
+l’expérience quotidiennes d’experts. C’est l’une de ces méthodes que nous exposons ci -dessous.  
+La prise de décision dans le domaine de l’énergie peut sui vre les étapes suivantes :  
+✓ Indentification des problèmes ou des opportunités d’investissement  : constatation des 
+coupures d’électricité fréquentes sur le réseau national  ; 
+✓ Identification des options ou scénarios vers la solution  : construction d’une centra le solaire 
+PV, i nterconnexion avec les pays voisins , mesures d’efficacité énergétique généralisée dans 
+le pays  ;  
+✓ Evaluation et comparaisons des solutions retenues  : en tenant compte de l’ économique, 
+l’environnemental  et le social  c’est -à-dire le Développement Durable ; 
+✓ Sélection de l’option la plus adaptée  : la tendance ce sont les sources d’énergie renouvelable 
+en intégrant les mesures d’efficacité énergétique . 
+Méthodes et modèles en planification énergétique  
+Les modèles  sont les calculs mathématiques souvent réalisés sur ordinateurs à partir de logiciel.  
+Les méthodes  sont les procédures générales qui peuvent inclure des modèles et/ou des logiciels. 
+Aucun modèle ou méthode ne peut prendre totalement en compte tous les as pects d’un problème 
+de planification énergétique. Ils donnent tous des solutions sous forme de simulation plus ou 
+moins simplifiées du problème. Les raisons sont données dans la liste de problèmes inhérents à 
+la planification énergétique ci -dessous :  
+✓ Les a spects socio -politiques ou même institutionnels sont difficiles à prendre en compte  ; 
+✓ Tous les aspects non quantifiables sont difficilement utilisables dans un modèle  ; 
+✓ Les pays en développement en particulier ont généralement des bases de données 
+incomplè tes et/ou non fiables . 
+La méthode que nous expliquons ci -dessous propose un scénario centré sur les régions souvent 
+pauvres des pays en développement. C’est le problème de l’adéquation entre l’offre et la 
+demande à petite échelle dans les pays sous -dévelop pés. La méthode proposée commence 
+
+--- PAGE 44 ---
+ 
+ 44 comme toutes les autres méthodes par une évaluation claire des besoins en termes qualitatifs et 
+quantitatifs. Ces besoins peuvent être  :  
+✓ L’éclairage  ;  
+✓ La cuisson des aliments  ;  
+✓ La ventilation  ;  
+✓ La réfrigération pour la  conservation des médicaments  ;  
+✓ La production d’eau chaude  ;  
+✓ L’électricité pour diverses petites applications (radio, TV, cellulaires…)  ;  
+✓ La force motrice pour le transport et l’irrigation dans l’agriculture  ; 
+✓ Les besoins des activités socio -économiques  (moulins, buvette, mécaniciens, menuisiers, 
+commerçants, charge de batteries, télécentres, restaurants, hôtels) . 
+Ces besoins qui correspondent tous chacun à un service énergétique à satisfaire sont traduits en 
+quantités d’énergie finale nécessaire.  
+Ces é nergies finales seront le plus souvent :  
+✓ L’électricité de façon générale  ; 
+✓ La chaleur (de séchage, de chauffage, de cuisson , …) ;  
+✓ Le fuel (tous usages)  ;  
+✓ Le gaz (pour la cuisson) .  
+A partir de ces quatre (04) formes d’énergie finale on obtient toutes les formes d’énergie utile 
+tout en adaptant l’offre à la demande  en tenant compte des pertes dans le fonctionnement des 
+dispositifs énergétiques . L’étape suivante consiste à choisir les technologies appropriées pour 
+la satisfaction en besoin de ces énergie s finales.  
+On arrive ensuite à la question de comparaison des technologies ou des diverses options 
+retenues, en tenant compte du contexte régional. La méthode proposée suggère de prendre en 
+compte les objectifs visés par chacun des acteurs du projet comme indicateur d’évaluation. Cet 
+indicateur peut être qualitatif ou quantitatif, pourvu qu’il conduise à un niveau de pertinence 
+globale des options par rapport au projet.  
+ 
+ 
+ 
+
+--- PAGE 45 ---
+ 
+ 45 4. Exemple  de cas : Cas du Burkina Faso et de deux (02) autres pays africains 
+de différentes sous -régions  
+4.1. Comptabilité énergétique  
+Cas du Burkina Faso  
+Selon les données énergétiques du Système d’Information Energétique (SIE) de l’UEMOA, la 
+situation énergétique du Burkina Faso se présente dans le tableau ci -dessous.  
+Tableau 11 : Situation énergétique du Burkina Faso  en 2020  
+ 
+Après conversion et calcul , le bilan énergétique du Burkina Faso 2020 se présente comme suit.  
+ 
+ 
+ 
+ 
+ 
+ 
+Approvisionnements  Production  Géothermique/ Solaire/ etc. = 81  395 349 kWh/an  ; 
+Hydroélectricité = 104 651 163 kWh/an  ; Biomasse, 
+Biocarburant et déchets = 13 103 333 tonne/an  
+Importation  Produits pétroliers = 1 660 417 tonnes/an  ; 
+Electricité = 1 081 395 349 kWh/an  
+Transformation  Centrales électriques  Produits pétroliers = 170 834 tonnes/an  ; 
+Hydroélectricité = 104 651 163 kWh/an  
+Géothermique/ Solaire/ etc. = 81  395 349 kWh/an  ; 
+Electricité = 976 744  186 kWh/an  
+Centrales auto productrices  d’électricité  Produits pétroliers = 115  625 tonnes/an , Biomasse  ; 
+Biocarburant et déchets = 96  667 tonne s/an ; 
+Electricité = 569 767  442 kWh  
+Unité de production de charbon de bois  Biomasse, Biocarburant et déchets = 3 370  000 
+tonne/an  ; Charbon de bois = 79 429  tonnes/an  
+Consommation propre de l'industrie 
+énergétique  Electricité = 23 255  814 kWh  
+ 
+Pertes de transport et de distribution  Produits pétroliers = 20  833 tonnes/an  ; Electricité = 
+69 767  442 kWh/an  
+Consommation Finale 
+Totale (CFT)  Secteur industrie  Produits pétroliers = 204 167 tonnes/an  ; Electricité 
+= 1 279 069  767 kWh/an  
+Transport routier  Produits pétroliers = 961  458 tonnes/an  
+Résidentiel  Produits pétroliers = 71  875 tonnes/an  ; Biomasse, 
+Biocarburant et déchets = 7 743  333 tonnes/an  ; 
+Charbon de bois = 698  571 tonnes/an  ; Electricité = 
+360 000 000 kWh/an  
+Commerc e et Services publics  Produits pétroliers = 47  917 tonnes/an  ; Biomasse, 
+Biocarburant et déchets = 1 893  333 tonnes/an  ; 
+Charbon de bois = 95  714 tonnes/an  ; Electricité = 
+326 000 000 kWh/an  
+Agriculture/Sylviculture/Pêche  Produits pétroliers = 4  167 tonnes/an  ; Electr icité = 
+17 000 000 kWh /an 
+Autres secteurs non spécifiés  Electricité = 465  000 000 kWh/an  
+ 
+
+--- PAGE 46 ---
+ 
+ 46 Tableau 12 : Bilan énergétique du Burkina Faso  
+ 
+Nous allons faire cas de deux (02) pays africains (Tunisie et le Cameroon) à travers le site 
+https://www.iea.org/data -and-statistics/data -tables  de l’Agence Internationale de l’Energie 
+(AIE). Les données sont toutes exprimées en Téra Joule (TJ). A travers ce site, nous pouvons 
+visualiser le bilan énergétique de tous les pays membres de l’AIE.  
+Cas de la Tunisie  
+ 
+Unités : Milliers de tonnes 
+équivalent pétrole (ktep )Charbon 
+minéralPétrole 
+brutProduits 
+pétroliersGaz 
+naturelHydroGéothermique/ 
+Solaire/ etc.Biomasse, 
+Biocarburant et 
+déchetsCharbon 
+de boisElectricité Chaleur Total
+Production - - - - 9 7 3931 - - - 3947
+Importations - - 1594 - - - - - 93 - 1687
+Dont importations non contrôlées - - - - - - - - - - 0
+Exportations - - - - - - - - - - 0
+Soutages maritimes internationaux - - - - - - - - - - 0
+Soutages aériens internationaux - - - - - - - - - - 0
+Variation de stocks - - 2 - - - - - - - 2
+Approvisionnement total en énergie 
+primaire (ATEP)0 0 1596 0 9 7 3931 0 93 0 5636
+Transferts - - - - - - - - - - -
+Ecarts statistiques - - 7 - - - - - -5 - 2
+Secteur Transformation 0 - -295 0 -9 -7 -1040 556 125 0 -670
+Centrales électriques - - -164 - -9 -7 - - 84 - -96
+Centrales autoproductrices 
+d’électricité- - -111 - - - -29 - 49 - -91
+Raffineries de pétrole - - - - - - - - - - -
+Unité de production de charbon de 
+bois- - - - - - -1011 556 - - -455
+Autres transformations - - - - - - - - - - -
+Consommation propre de l'industrie 
+énergétique- - - - - - - - -2 - -2
+Pertes de transport et de 
+distribution- - -20 - - - - - -6 - -26
+Consommation Finale Totale (CFT) - - 1308 - - - 2891 556 213 0 4968
+Secteur industrie - - 196 - - - - - 110 - 306
+Transport routier - - 993 - - - - - - - 993
+Résidentiel - - 69 - - - 2323 489 31 - 2912
+Commerce et Services publics - - 46 - - - 568 67 28 - 709
+Agriculture/Sylviculture/Pêche - - 4 - - - - - 4 - 8
+Autres secteurs non spécifiés - - - - - - - - 40 - 40
+Utilisations non énergétiques - - - - - - - - - - 0
+
+
+--- PAGE 47 ---
+ 
+ 47  
+ 
+ 
+Cas d u Cameroon  
+ 
+
+
+--- PAGE 48 ---
+ 
+ 48  
+ 
+ 
+Cas de  la France  
+Le bilan énergétique de la France est élaboré  en trois ( 3) étapes . 
+Le bilan énergétique de la France fait l’objet chaque année de trois (3) publications. Dans le 
+courant du printemps, des résultats provisoires relatifs aux grands agrégats de l'année 
+précédente sont publiés. Une seconde publication synthétique, accompagnée de l’ensemble des 
+données détaillées, paraît en fin d’année pour présenter les résultats définitifs. Un bilan détaillé 
+est ensuite publié quelques semaines après.  Il s’agit d es données de 2022 exprimées en Téra 
+Watt Heure (TWh). Source  : sur ce lien  https://www.insee.fr/fr/statistiques/2016345  
+
+
+--- PAGE 49 ---
+ 
+ 49  
+5. Conclusion  
+Un bilan énergétique est une matrice montrant les relations entre les produits énergétiques ou 
+sources d’énergie (représentés en colonnes) et les flux d’énergie ou les utilisations (représentés  
+en lignes).   
+D'apparence simple, construit selon une architecture logique au premier abord, agrégeant les 
+différ entes énergies selon des principes bien définis, le bilan énergétique demeure une 
+construction conventionnelle. La connaissance de ces conventions est absolument nécessaire 
+pour éviter des erreurs d’interprétation . Pour lire correctement un bilan énergétiq ue il faut se 
+plonger  dans le développement ci -dessus . Un bon bilan énergétique nécessite des statistiques 
+de bonne qualité (données physiques & pouvoirs calorifiques ) et constitue une source compacte 
+d'informations sur l'énergie .  
+De nombreux indicateurs se dégagent automatiquement du bilan, d’autres indicateurs sont 
+calculés en croisant les données énergétiques avec les données démographiques et 
+socioéconomiques . 
+Le bilan énergétique présente la situation énergétique du pays à une période donnée. Pour jou er 
+efficacement son rôle d’outil d’aide à la prise de décision, il doit s’inscrire dans un vaste 
+programme de production régulière des statistiques énergétiques, le Système d’information 
+énergétique (SIE). Grâce à une analyse approfondie du bilan énergétiq ue complétée du 
+croisement entre données énergétiques, données socioéconomiques, voire données 
+environnementales, le SIE permet de dégager des indicateurs pertinents pour comprendre les 
+évolutions du secteur énergétique d’un pays et ainsi orienter les déci deurs dans la prise de 
+décision.  
+Bilan énergétique physique 2022                                     
+En TWhCharbonPétrole 
+brutProduits pétroliers 
+raffinésGaz 
+naturelNucléaireEnR 
+électriquesEnR thermiques 
+et déchetsÉlectricitéChaleur 
+commercialiséeTotal
+Production d'énergie primaire 0,0 9,6 0,0 0,2 893,1 104,7 241,6 0,0 0,0 1249,2
+Importations 70,7 486,8 482,1 576,1 0,0 0,0 27,4 52,4 0,0 1695,5
+Exportations -0,1 -0,6 -159,8 -157,5 0,0 0,0 -8,3 -37,3 0,0 -363,6
+Soutes maritimes internationales 0,0 0,0 -13,5 0,0 0,0 0,0 0,0 0,0 0,0 -13,5
+Soutes aériennes internationales 0,0 0,0 -49,9 0,0 0,0 0,0 0,0 0,0 0,0 -49,9
+Variations de stocks (+ = déstockage, - = 
+stockage) 1,8 -2,1 -0,5 -35,1 0,0 0,0 0,0 0,0 0,0 -35,9
+Consommation primaire 72,5 493,7 258,4 383,7 893,1 104,7 260,7 15,1 0,0 2481,9
+Écart statistique 0,4 0,1 2,9 0,0 0,0 0,0 0,0 4,1 0,0 7,5
+Production d'électricité 17,1 0,0 14,8 69,0 893,1 104,7 37,7 -469,7 0,0 666,6
+Production de chaleur 1,4 0,0 2,8 23,7 0,0 0,0 32,7 0,0 -50,8 9,7
+Injections de biométhane 0,0 0,0 0,0 -6,3 0,0 0,0 6,3 0,0 0,0 0,0
+Raffinage de pétrole 0,0 506,4 -500,4 0,0 0,0 0,0 0,0 0,0 0,0 6,1
+Autres transformations, transferts 27,2 -12,8 11,8 0,0 0,0 0,0 0,0 0,0 0,0 26,2
+Usages internes de la branche énergie 12,4 0,0 15,8 4,9 0,0 0,0 0,0 30,6 0,0 63,7
+Pertes de transport et de distribution 0,0 0,0 0,0 4,2 0,0 0,0 0,0 35,7 4,7 44,6
+Consommation nette de la branche énergie 58,5 493,7 -452,3 95,5 893,1 104,7 76,6 -399,3 -46,1 824,4
+Industrie 10,1 0,0 26,0 94,5 0,0 0,0 20,7 108,9 20,5 280,7
+Transports 0,0 0,0 468,7 1,9 0,0 0,0 35,8 10,2 0,0 516,6
+Résidentiel 0,3 0,0 38,9 114,6 0,0 0,0 110,3 154,5 15,6 434,3
+Tertiaire 0,4 0,0 33,5 62,6 0,0 0,0 12,6 133,2 9,7 252,0
+Agriculture-pêche 0,0 0,0 33,8 2,2 0,0 0,0 4,8 7,7 0,3 48,7
+Consommation finale énergétique 10,9 0,0 601,0 275,8 0,0 0,0 184,1 414,4 46,1 1532,2
+Consommation finale non énergétique 3,1 0,0 109,8 12,4 0,0 0,0 0,0 0,0 0,0 125,3
+Consommation finale 14,0 0,0 710,7 288,2 0,0 0,0 184,1 414,4 46,1 1657,5
+Source : SDES, Bilan de l'énergie, Bilan de l'énergie
+
+--- PAGE 50 ---
+ 
+ 50 La planification énergétique passe nécessairement par une comptabilité énergétique de qualité. 
+Une comptabilité associée à la planification permet de faire des projections à long terme toute 
+chose qui aide aux politiques à la prise de décision dans le système énergétique. La planification 
+énergétique intégrée consiste à analyser systématiquement toute une gamme de facteurs qui 
+influencent l’évolution des systèmes énergétiques. Parmi ces facteurs nous avons les 
+changements cl imatiques . Notons que la politique de lutte contre le changement climatique 
+repose sur deux (02) piliers à savoir l’atténuation et l’adaptation . 
+Ressources complémentaires  
+1. Amélioration des bilans énergétiques pour supporter l’élaboration des inventaires de GES  
+en accord avec les lignes directrices 2006 du GIEC  ; Burkina Faso, 16 - 19 Janvier 2023  
+2. Le bilan énergétique : de la comptabilité à la planification ; Institut de la Francophonie 
+pour le développement durable (IFDD)  ; Jeudi 29 août 2019   
+3. Comptabilité énergétique du Burkina Faso des années 2004,2005, 2006 et 2007  ; Master - 
+énergie et procèdes industriels  ; Jérôme R. TOGO  ; juin 2009  
+4. Atelier sur les statistiques d e l'énergie pour les pays de l’Afrique de l'ouest  ; Institut 
+Africain de Développement Economique et de Planification (IDEP) - Dakar, Sénégal  ; 5 au 
+18 octobre 2019  
+5. Prisme  : La planification énergétique sectorielle, fiche nº 16  ; Calcul et interprétati on des 
+indicateurs dans les bilans énergétiques  ; Institut de la Francophonie pour le développement 
+durable (IFDD)  ; Septembre 2020  
+6. La modélisation au service de la planification énergétique : exemples d'outils et 
+d'applications  ; Institut de la Francop honie pour le développement durable (IFDD)  ; Jeudi 
+14 mai 2020  
+7. Système de Long -range Energy Alternatives Planning (LEAP), Exercices de formation  ; 
+Institut Stockholm de l’Environnement – Centre États -Unis  ; Février 2018  
+8. Chiffres clés sur l’énergie au  Burkina Faso et dans l’espace UEMOA  ; Système 
+d’information énergétique (SIE) des États membres de l’UEMOA  ; RAPPORT 2019  ;  
+9. Site Web de Système d’information énergétique (SIE -UEMOA)  : www.sie.uemoa.int     
+10. Approfondir le bilan énergétique, de la théorie à la pratique  ; Institut de la Francophonie 
+pour le développement durable (IFDD)  ; Jeudi 19 décembre 2019  
+11. Le bilan énergétique  ; Économie et politique de l'énergie, RAMAIN Patrice, octobre 2015  
+12. Comptabilité et Planification Energétique  ; Yezouma Coulibaly  ; 2iE, 2016  
+13. https://www.iea.org/   
+ 
+
