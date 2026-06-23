@@ -1,0 +1,1656 @@
+--- PAGE 1 ---
+1 
+  
+ 
+ 
+ 
+Objectifs pédagogiques généraux du cours  
+L’objectif de ce cours est de permettre aux apprenants de  : 
+❑ Identifier les normes et les paramètres de pollution et/ou de qualité d’une eau  
+❑ Appliquer les méthodes et techniques de contrôle de la qualité des eaux brutes 
+et des eaux  traitées  ; 
+❑ Décrire les différentes filières et procédés de traitement de l’eau de 
+consommation  
+ 
+ 
+Pré requis  : Chimie de l’eau, Microbiologie des eaux, Génie des procédés  
+ 
+Auteur (s)  : Dr Ibrahim TCHAKALA      Date de création  : 2022  
+ 
+  
+QUALITE ET TRAITEMENT DE L’EAU  
+ 
+
+--- PAGE 2 ---
+2 
+ TABLE DE MATIERES  
+I. Normes et les paramètres de pollution et/ou de qualité d’une eau  ……………………... 1  
+ 
+1. Normes nationales et internationales de la qualité d’une eau  …………………………… 1  
+2. Les différentes normes très utilisées dans le monde  ……………………………… …… . 2 
+3. Normes relatives aux bactéries et aux autres organismes biologiques dans l’eau potable  . 2 
+4. Principales maladies hydriques  ………………………………………………………….. 3  
+5. Normes sur les substances toxiques  ……………………………………………………... 4 
+6. Normes sur les paramètres physico -chimiques  ………………………………………….. 5  
+7. Normes relatives à la radioactivité de l’eau potable  …………………………………….. 7  
+8. Normes relatives aux sous -produits de désinfections  …………………………………… 8  
+ 
+II. Méthodes et techniques analytiques de contrôle de la qualité des eaux  ……………….. 9  
+ 
+1. Méthodes d’analyse physicochimiques de l’eau  ………………………………………. 9  
+2. Méthodes d’analyse biologiques de l’eau  ………………………………………….… 16  
+ 
+III. Filières et procédés de traitement de l’eau de consommation  ……………………..….. 28  
+ 
+1. Différents, Classement et filières de traitement de l’eau brute  …………………….… 28  
+2. Traitements primaires ou prétraitements  ………………………………………….….. 32  
+3. Traitements secondaires  …………………………………………………………….... 35  
+4. Traitements tertaires  ………………………………………………………………….. 43  
+ 
+
+--- PAGE 3 ---
+1 
+ Normes et les paramètres de pollution et/ou de qualité 
+d’une eau  
+ 
+Introduction  
+Les normes concernant la qualité des eaux ont connu ces dernières années un développement 
+considérable à divers niveaux (national, -européen – mondial).  
+Les réglementations ont toutes pour finalité de protéger le consommateur ou l’utilisateur contre les 
+maladies hydriques. Il faut que l’eau puisse être consommée sans danger par les abonnés des 
+réseaux de distribution. Il faut ensuite qu’elle puisse être li vrée sans danger pour les canalisations, 
+du moins à un terme raisonnable, et qu’elle ne risque pas d’évoluer spontanément au cours de son 
+voyage dans le réseau ou de son attente dans les réservoirs. Il faut enfin qu’elle soit autant que 
+possible agréable à  boire.  
+On attend souvent de l’eau potable qu’elle soit saine et d’un goût agréable.  L’eau doit être en plus 
+attrayante pour celui qui s’en alimente. Elle doit être incolore, insipide, inodore et sans éléments 
+minéraux et organiques en quantités excessives. Les l imites de l’acceptation du consommateur 
+doivent être considérées comme critères de qualité et introduites dans les normes. Quelques rares 
+sources naturelles correspondent à l’idée d’eau saine et que se font les consommateurs. La fonction 
+d’un service des e aux est de servir le public. L’activité de fourniture de l’eau est dès lors de produire 
+une eau adéquate de manière continue, en protégeant et favorisant la santé et le bien-être.  
+Ainsi, il est de la responsabilité des gestionnaires de stations de traitement de sélectionner les 
+procédés et de combiner les techniques, de manière à ce qu’une eau potable saine et sans danger 
+puisse être fournie en aval.  
+1 Normes nationales et internationales de la qualité d’une eau  
+ 
+Le rôle primordial des installations de traitement de l’eau est de rendre disponible, en quantité 
+suffisante, une eau de qualité adéquate à de multiples usages et ceci à un prix raisonnable. La 
+conception des installations appropriées à cet objectif impliq ue plusieurs étapes  : 
+- La comparaison entre sources disponibles et besoins envisageables,  
+- L’interconnexion flexible entre les procédés unitaires à l’intérieur d’un diagramme global 
+d’épuration (définition des filières de traitement),  
+- La conception détaillée et précise de chacun des procédés qui doivent être mis en œuvre  
+- Les dispositions nécessaires pour parer à d’ultérieurs besoins croissants en eau ou à des normes 
+de qualité plus strictes.  
+Les critères de qualités d’une eau brute destinée à être potable doivent être établis en regard des 
+exigences de qualité pour l’eau potable. Pour la définition normalisée de ces exigences, les 
+constituants de l’eau peuvent être rangés en deux catégories  : 
+
+--- PAGE 4 ---
+2 
+  
+- Les composés et les organismes dangereux pour lesquels des normes maximales doivent être 
+fixées  
+- Les substances nécessaires pour lesquelles des normes minimales et maximales sont exigées.  
+ 
+2 Les différentes normes très utilisées dans le monde . 
+ 
+- Directive ou normes européenne  
+ 
+Dans les années 1975 à 1980, le conseil des Communautés Européennes à pris trois directives 
+essentielles sur la qualité des eaux superficielles destinées à la production d’eau potable.  
+Le conseil a révisé la directive du 15 juillet 1980 pour adopter une nouvelle directive le 30 Mai 
+1995 qui s’impose à tous les états membres.  
+ 
+- Réglementation française . 
+ 
+S’inscrivant dans les directives européennes, le Ministère de la Santé en France par des décrets, 
+arrêtés et circulaires retient la plupart des valeurs européennes (parfois en les aggravant) et en 
+proposant des recommandations où les paramètres ne disposan t pas de valeurs obligatoires.  
+ 
+- Recommandations de l’OMS  
+Lors d’une réunion en Suisse, les 21 -25 septembre 1992, 200 experts venant de 40 pays ont révisé 
+les recommandations de l’OMS datant des années 1984 -1985 portant sur la qualité des eaux de 
+boisson.  
+ 
+3 Normes relatives aux bactéries et aux autres organismes biologiques dans 
+l’eau potable  
+ 
+Les bactéries et d’autres organismes aquatiques, y compris les virus et les parasites présents dans 
+l’eau, constituaient récemment encore, dans l’eau de consommation, les risques majeurs pour la 
+santé. Une désinfection appropriée permet de maîtriser la plu part des risques. Cependant, on ne 
+doit pas oublier que, si les maladies d’origines hydriques sont sans doute en voie de raréfaction, 
+elles demeurent malgré tout endémiques et donneront toujours lieu, sporadiquement, a des 
+épidémies limitées. Les épidémies  de Choléra et d’autres maladies qui persistent montrent que des 
+efforts continus sont absolument nécessaires.  
+Les germes pathogènes sont évidemment assez nombreux mais on se borne souvent à la recherche 
+de deux familles d’ entre  eux : 
+- La famille de l’Escherichia Colis désignée légalement sous le nom de «  coliformes fécaux  » 
+(culture à 44 °C). Ils sont légèrement différents des coliformes totaux (cultures à 37 °C).  
+- Les streptocoques fécaux d’origine humaines et indiquant une pollution passagère.  
+Cependant on note l’existence d’autres microorganismes pathogènes dont il est important 
+d’éliminer des eaux.  
+ 
+Le tableau 1 suivant montre les concentrations maximales admissibles de la CEE pour l’eau 
+potable.  
+ 
+
+--- PAGE 5 ---
+3 
+ Tableau 1  : Concentration maximales admissibles, Normes CEE, OMS et Normes françaises  
+Organismes biologiques  Normes CEE  Valeurs Guides de 
+l’OMS  Normes 
+Françaises  
+Coliformes totaux  0 dans 100 mL  0 dans 100 mL  0 dans 100 mL  
+Coliformes fécaux  0  dans 100 mL  0 dans 100 mL  0 dans 100 mL  
+Streptocoques fécaux  0 dans  100 mL  0 dans 100 mL  0 dans 100 mL  
+Comptage total à 70 °C  <10 dans 1 mL  - - 
+Comptage total à 22 °C  <100 dans 1 mL  - - 
+Clostridium sulfito -
+réducteurs  2 dans 20 mL  - ≤1 dans 20 mL  
+Salmonelles  0 dans 5 mL  - absence  
+Staphylocoques pathogènes  0 dans 100 mL  - absence  
+Bactériophages fécaux  0 dans 100 mL  - absence  
+Virus entérogènes  0 dans 10 mL  - absence  
+Protozoaires pathogènes  Absence  - absence  
+Animalcules pathogènes  Absence  - absence  
+  
+Le non-respect  de ces qualités entraîne des maladies hydriques aux conséquences fâcheuses.  
+ 
+4 Principales maladies hydriques  
+ 
+• La fièvre typhoïde  : elle est causée par salmonella typhi . En conditions normales, ce microbe 
+peut demeurer en vie pendant des semaines ou des mois, dans l’eau, le sol et les fèces. Dans la 
+glace, il peut survivre jusqu’à 5 mois. La bactérie s’introduit dans l’organisme par voie orale. 
+Les organes cibles sont le foie, la vésicule biliaire, le tractus biliaire et le duodénum. Après 
+une période  approximative de 2 semaines, le microorganisme est évacué avec l’urine ou les 
+fèces.  
+• Choléra  : provoqué la le Vibrio chol erae, il est endémique en Asie et dans certaines régions 
+d'Afrique. La virulence au germe est réduite après un séjour d’une semaine dans l’eau. La 
+bactérie est très sensible au chlore.  
+• Gastro -entérite  : troubles intestinaux  qui se déclare sporadiquement accompagnée de 
+vomissement, diarrhée, crampes et même de fièvre, nausée et maux de tête. Les shigella  et les 
+salmonella (S. typhoas et S. paratyphi ) en sont responsables.  Escherichia colis et les 
+Pseudomonas  peuvent aussi causer la gastro -entérite.  
+• Ambiase  : la dysenterie amibienne est causée par Entamoeba histolytica . La décontamination 
+exige de fortes doses de désinfectant, cependant la filtration sur sable est aussi efficace.  
+• Bilharziose  (= Schistosomiase ) : maladie parasitaire transmise par la douve schistosoma 
+mansoni  qui vit dans les veines abdominales de l’homme et expulse ses œufs dans l’urine et 
+les fèces. La maladie est répandue dans les milieux tropicaux  
+ 
+D’autres microorganismes peuvent se retrouver dans l’eau de distribution si les conditions de 
+désinfection ne sont pas efficaces. Par exemples les nématodes, les Cryptoporidium parvum, les 
+virus comme Adénovirus, Entérovirus, Poliovirus, les virus Coxs ackie, les virus Echo  peuvent être 
+détectés dans les eaux de consommation. L’utilisation du chlore soit de l’ozone soit du dioxyde de 
+chlore ou  même les UV permet efficacement leur élimination des eaux de boisson.  
+
+--- PAGE 6 ---
+4 
+ 5 Normes sur les substances toxiques.  
+ 
+La toxicité d’une substance peut être aiguë ou chronique. Elle aiguë, lorsqu’elle produit une 
+réaction rapide.  La toxicité aiguë est mieux connue que la toxicité chronique. Cette dernière se 
+manifeste après des absorptions lentes et répétées de quantités faibles d’une substance toxique. Les 
+effets sont souvent difficiles à détecter parce que les substances peuvent s’accumuler et occasionner 
+des effets combinés et irréversibles. Les normes de q ualités relatives aux substances toxiques sont 
+exprimées en niveaux de concentration maximale autorisée. Les normes de qualités pour l’eau 
+potable sont souvent établies au 1/10 de la dose permise pour une population ordinaire. Ceci permet 
+de satisfaire à l a qualité nécessaire aux individus les plus sensibles (par exemple  : les bébés, les 
+personnes âgées, les patients en traitement ou qui pourraient éprouver une synergie 
+médicamenteuse). D’autres parts, l’ingestion d’un produit donné peut avoir pour conséque nce une 
+augmentation séquentielle de plusieurs effets  : symptômes biochimiques (modifications 
+d’enzymes), vomissement, maux de ventre, diarrhée, déshydratation … Le niveau effet zéro (VS  : 
+Valeur seuil ) est toujours déterminé à partir de la manifestation ob servable la moins marquée. Si 
+cette valeur est inconnue pour l’humain, 1/10 de la valeur pour l’animal est alors adopté. S’il 
+existe un risque carcinogène, le facteur de réduction s’exprime jusqu’à 1/2000 de VS. La valeur 
+de l’ADI (average daily intake  : Prise moye nne quotidienne) est dérivée des valeurs de VS sur base 
+du poids corporel moyen d’une population (par exemple 60 à 65 Kg). Le niveau autorisé (NA) pour 
+une substance donnée est déduite de l’ADI en se basant sur un facteur d’impact (FI) attribué au  
+produit spécifique pris comme élément de l’alimentation globale ou des risques d’exposition.  
+ 
+60 ADINAFI=
+ 
+Bien souvent, les objectifs de l’établissement du NA ne sont pas signalés  ; cependant le but 
+fondamental recherché est de garder la concentration la plus basse possible. Quelques éléments 
+font exception  : le fluor pour le quel une valeur guide de 1 à 1,7 a été choisi en raison de son effet 
+bénéfique possible pour les dents.  
+Tableau 2  : Niveaux ADI des substances toxiques . 
+ 
+Eléments toxiques  ADI mg/m3 (eau potable)  
+(µg/kg)  mg/personne/jour  
+Arsenic  50,0 2,250  160,0  
+Cadmium  1,0 0,065  3,3 
+Cuivre  500,0  32,500  1625,0  
+Mercure  0,7 0,045  2,2 
+Plomb  7,0 0,450 22,0 
+Nitrate  5000,0  325,000  16250,0  
+Nitrites  200,0  13,00 0 650,0  
+Aldrine/Dialdrine  0,1 0,006  0,3 
+
+--- PAGE 7 ---
+5 
+ DDT (dichloro -
+diphényl -
+trichloréthane  5,0 0,325  16,0 
+Α-HCH 
+(hexachlorohexane)  10,0 0,650  32,0 
+Heptachlore  0,5 0,030  1,5 
+HCB 
+(Hexachlorobenzène)  0,6 0,040  2,0 
+ 
+• Toxicité des éléments  
+- Argent  : provoque un noircissement irréversible de la peau, létal à de très hautes concentrations 
+seulement.  
+- Arsenic  : cancérogène (peau), mortel par toxicité chronique à haute dose.  
+- Baryum  : dangereux pour le cœur, les vaisseaux sanguins et le système nerveux, par stimulation 
+musculaire excessive.  
+- Cadmium  : nausées et vomissements, accumulation dans le foie et les reins  
+- Cyanures  : hautement toxique par perturbation irréversible de l’hémoglobine  
+- Chrome  : la forme hexavalente est toxique, à long terme, entraîne des ulcères.  
+- Fluor  : au-delà de 4 g/m3, crée des macules sur les dents  ; au-delà de 15 g/m3, la fluorose 
+apparait.  
+- Mercure  : gingivite, stomatite et tumeurs, capable d’envahir le système nerveux (maladie de 
+Minamata),  
+- Nickel  : blocage des reins.  
+- Nitrate/nitrite  : associés à la méthémoglobinémie et au cancer de l’estomac (peut interférer avec 
+la détermination analytique du chlore et des Coliformes.  
+- Plomb  : s’accumule dans les os, provoque perte d’appétit, anémie et paralysie (saturnisme).  
+- Antimoine  : similaire à l’arsenic mais à moindre effet.  
+- Sélénium  : provoque les symptômes d’empoisonnement similaires à ceux de l’arsenic  ; est 
+aussi associé à la carie dentaire.  
+- HPA (hydrocarbure polycycliques aromatiques)  : potentiellement cancérigènes.  
+- Pesticides chlorés  : neurotoxique, probablement cancérigène (par exemple  : aldrine, le 
+chlordane, le DDT, la dialdrine, l’endrine, l’heptachlore, l’heptachlore époxyde). Ces 
+pesticides sont interdits de nos jours.  
+- Méthoxychlore  : mortel à hautes doses.  
+- Organo -phosphates et carbamates  : neurotropes, causant convulsion et mort.  
+- Taxaphène  : neurotoxique,  
+- Herbicides chlorés (ex  : 2,4-D) : désagréables plus que toxiques.  
+ 
+6 Normes sur les paramètres physico -chimiques  
+ 
+Non nécessairement toxique, ces substances peuvent avoir des répercussions physico -chimiques 
+et, souvent des implications biologiques. Les conséquences principales peuvent être des effets 
+organoleptiques ou esthétiques, des inconvénients techniques telle la corrosion d’un réseau de 
+canalisation, ou une reprise de cr oissance bactérienne néfaste à la qualité générale de l’eau. Les 
+normes sont fondées sur une base technologique, les objectifs sont formulés en vue d’aboutir à une 
+eau saine et potable. Les paramètres considérés sont consignés dans le tableau 3.  
+
+--- PAGE 8 ---
+6 
+ Tableau 3  : Normes relatives aux paramètres physico -chimiques dans les eaux de boissons  
+ 
+Paramètres  unités  Directives UE                  OMS  Normes 
+française s CMA  Objectif  CMA  Objectif  norme  
+Cuivre  µg/L  100 - 1500  50 1000  1 mg/L  
+fer µg/L  200 50 1000  100 300 0,2 mg/L  
+Manganèse  µg/L  50 20 500 50 50 0,05 
+mg/L  
+phosphore  µg/L  2000  - - - - 5 mg/L  
+Zinc µg/L  100 - 15000  5000  5000  0,5 mg/L  
+Détergents  µg/L  100 - 200 100 500 - 
+Couleur 
+(°Pt)  mg/L)Pt-
+Co 20 1 50 5 15 15 mg/L 
+PT-Co 
+Turbidité  µg/L 
+SiO 2 10 1 - - 5JTU  <2 
+Odeur  Taux de 
+dilution  2-3 0 - - 3 2 à12° C  
+3 à 25°C  
+Goût  Taux de 
+dilution  - - - - - 2 à12° C  
+3 à 25°C  
+Température   °C 25 - - - - 25 
+pH  9,5 6,5-8,5 6,5-9,2 7-8,5 - 6,5 – 8,5 
+σ µS/cm  - 400 - - - - 
+Ca g/m3 - 100 500 100 TH = 
+2méq/L  - 
+Mg mg/L 50 30 150 30 - 50 
+Na mg/L  175 20 200 - - 150 
+K mg/L  12 10 - - - 12 
+Al mg/L  0,2 0,05 - - 0,2 0,2 
+CO 3H- mg/L  - 120 - - - - 
+SO 42- mg/L  250 100 250 400 200 250 
+Cl- mg/L  200 50 600 200 - 200 
+NH 4+ mg/L  0,5 0,5 1,5 - - 0,5 
+O2 mg/L  - >5 - - - - 
+Matière 
+dissoutes  mg/L  - - - - 500 - 
+Résidu sec 
+(180 °C ) mg/L  - 1500    1000  1500  
+CMA  = concentration  maximale admise  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+--- PAGE 9 ---
+7 
+ Tableau 4  : Comparaison des normes sur certaines substances indésirables  
+ 
+Paramètres  unités  Directives 
+EU OMS  Normes 
+Française s   
+Nitrates  mg/L  50-50 50 50  
+Nitrites  mg/L  0,1-0,1 0,3 0,1  
+Phénols  mg/L  0,5 - 0,5  
+Hydrocarbures  µg/L  10 - 10  
+Oxy KMnO 4 mg/L(O 2) 5-5 - 5  
+Azote 
+Kjeldahl  mg/L(N)  1 - 1  
+Bore  mg/L  1-0,3 0,3 1  
+ 
+Les propriétés organoleptiques concernent la couleur, le goût, la température, la turbidité et les 
+propriétés moussantes et colorantes, chacune d’elles étant perçues comme déplaisantes. Elles 
+affectent l’acceptation de l’eau par le consommateur. La turbidité contribue no n seulement à une 
+apparence suspecte et sale mais perturbe aussi l’efficacité de la désinfection. Elle est aussi associée 
+au développement des bactéries, larves, crustacés, vers, mollusques et anguilles. Tous ces éléments 
+biologiques et minéraux devraient,  bien sûr, être absents, selon des niveaux de références 
+significatifs.  
+A partir de 1 et 5 mg/L, respectivement pour le cuivre et le zinc, il y a rejet de l’eau par le 
+consommateur, à cause du goût, (Cu) et de l’aspect film laiteux et graisseux (Zn).  Le fer et le 
+manganèse ont une portée toxicologique mais souille le textile,  sont associés à la corrosion des 
+conduites et peuvent promouvoir un regain bactérien. L’aluminium, aux concentrations supérieures 
+à 0,05 mg/L peut provoquer une floculation dans les canalisations. L’ammoniaque, bien que non 
+toxique, doit être limité afin d’empêcher un développement bactérien, et partant, une 
+consommation de l’oxygène. La limite esthétique pour l’ion chlorure est de 250 mg/L, à partir de 
+laquelle il est détecté par dégustation. Le phénol doit être limité afin d’éviter le goût et l’odeur 
+nocifs des chlorophénols, formés lors de la chloration de l’eau.  D’une manière générale, il faut 
+éviter que les teneurs en substances organiques comme les détergents, les hydrocarbures et les 
+carbones organiques, oxydables ou extractibles n’outrepassent les proportions qui provoquent goût 
+et odeur sans parler de leurs effets nocifs.  
+La dureté (Ca + Mg), l’alcalinité (TA ou TAC) et  le pH sont des propriétés dépendantes les unes 
+des autres. Il faut un équilibre entre les espèces d’acides carbonique afin de préserver le carbonate 
+de calcium, et afin d’éviter les corrosions et les précipitations excessives.  
+ 
+7 Normes relatives à la radioactivité de l’eau potable . 
+ 
+ Cette norme vise à faire de sorte que la population ne reçoive pas plus que la quantité minimale 
+possible. Ainsi 1/10 de la quantité pour les professionnels est admise comme norme.  
+En Europe, le niveau admissible de la radioactivité n’est plus défini  en termes de concentrations 
+(ou d’activité  : pCi/L ou Bq/L) volumétrique mais en termes de dose d’irradiation (en unité gray  : 
+1 Gy = 1 J/Kg). On définit les limites d’assimilation corporelle annuelles pour chaque isotope.  
+ 
+
+--- PAGE 10 ---
+8 
+ 8 Normes relatives aux sous-produits  de désinfections  
+ 
+L’utilisation de chlore (hypochlorite de sodium ou eau de Javel), du dioxyde de chlore, de l’ozone 
+et quelques autres désinfectants comme O 3/H2O2, chloramine (NH 2Cl) ou le permanganate de 
+potassium engendre la production plus ou moins importante des sous-produits  de désinfections 
+(THM  : tri-halométhane, TOX  : total organohalide). Ils sont souvent suspectés d’être cancérigènes 
+et donne un mauvais goût à l’eau, d’où une limite admise pour ces sous-produits . 
+Tableau 5  : Normes sur les sous-produits  de désinfection . 
+Paramètres  unités  Directives UE  Normes 
+Françaises  Valeurs Guides 
+OMS  
+Bromates  µg/L  10 - 25 
+Bromodichlorométhane  µg/L  15 - 60 
+Bromoforme  µg/L  - - 100 
+Chlore  µg/L  - - 5 
+Chlorites  µg/L  - - 200 
+Chloroformes  µg/L  40 30 200 
+Dibromochlorométhane  µg/L  - - 100 
+Dichloroacétate  µg/L  - - 50 
+Trichloacétate  µg/L  - - 100 
+ 
+ 
+Pour atteindre ces normes de qualité, les traitements sont effectués sur les eaux brutes de surface 
+ou les eaux souterraines.  
+  
+
+--- PAGE 11 ---
+9 
+ Méthodes et techniques analytiques de 
+contrôle de la qualité des eaux  
+ 
+1 Méthodes d’analyse physicochimiques de l’eau  
+1.1 - Paramètres physico -chimiques  
+- pH : unité pH à la température de mesure  
+Le pH d'une eau permet de mettre en évidence les espèces chimiques présentes dans un échantillon. 
+On parle alors de pH acide, de pH neutre ou de pH basique. La mesure du pH est réalisée par une 
+méthode potentiométrique en mesurant la différence de potentie l entre une électrode de verre et 
+une électrode de référence.  
+- Conductivité : unité : µS/cm à une température de 25°C  
+La conductivité permet d'évaluer rapidement et approximativement la minéralisation globale de 
+l'eau. La mesure de conductivité est réalisée en mesurant la conductance d'une eau entre 2 
+électrodes métalliques, elle est l'inverse de la résistivité électrique .  
+- Turbidité : unité : FNU  
+La turbidité est la réduction de la transparence d'un liquide due à la présence de matières non 
+dissoutes. La mesure de la turbidité est très utile pour le contrôle d'un traitement mais ne donne pas 
+d'indications sur les particules en suspension qui l'occa sionne. La mesure se fait par comparaison 
+de la lumière diffusée et de la lumière transmise dans l'échantillon d'eau et par une gamme étalon.  
+- Couleur : unité : mg/l Pt (Platine)  
+Cette analyse consiste en la détermination de l'intensité de la couleur brun jaunâtre d'un échantillon 
+par comparaison visuelle avec une série de solutions étalons. La couleur est exprimée en mg/l de 
+Pt représentant l'intensité de la couleur produite par l es solutions étalons.  
+- Alcalinité : unité : °F (degré français)  
+L'alcalinité d'une eau correspond à la présence des hydrogénocarbonates, carbonates et 
+hydroxydes. Le titre alcalimétrique (TA) mesure la teneur de l'eau en hydroxydes libres et en 
+carbonates. Le titre alcalimétrique complet ou TAC correspond à la teneur e n hydroxydes libres 
+carbonates et hydrogénocarbonates. Ces déterminations sont basées sur la neutralisation d'un 
+
+--- PAGE 12 ---
+10 
+ volume d'eau par un acide minéral dilué. - Dureté : unité : °F (degré français) La dureté de l'eau est 
+liée au lessivage des terrains traversés et elle correspond à la teneur en calcium (Ca) et en 
+magnésium (Mg). On parle de dureté totale d'une eau ou de t itre hydrométrique (TH). Ces 
+déterminations sont basées sur la neutralisation d'un volume d'eau par un acide minéral dilué.  
+1.2- Substances et critères chimiques indicateurs de pollutions  
+Les composés azotés : l'azote présent dans l'eau peut avoir un caractère organique ou minéral. 
+L'azote organique est principalement constitué par des composés tels que des protéines, des acides 
+aminés. Le plus souvent, ces produits ne se retrouvent qu'à de  très faibles concentrations. Quant à 
+l'azote minéral (ammoniaque (NH 4), nitrates (N0 3), nitrites (N0 2)), il constitue la majeure partie de 
+l'azote total. Le dosage de l'azote Kjeldahl ne permet pas de déterminer l'azote total mais seulement 
+les composés n on oxydés de l'azote. N total = N NH 4 + N organique + N N0 2 + N N0 3 
+- Azote Kjeldhal : unité : mg/l NtK  
+Après minéralisation de l'azote organique, l'ammoniac (NH 3) est déplacé de son sel par l'ajout d'une 
+base (NaOH), puis on effectue une distillation dans une solution d'acide borique indicateur. Enfin 
+un dosage titrimétrique est réalisé avec un acide titré.  
+- Azote ammoniacal selon la norme : unité : mg/l NH 4  
+La présence d'azote ammoniacal (NH 4) dans une eau traduit un processus de dégradation 
+incomplète de la matière organique. Une première méthode de détermination se fait par la mise en 
+œuvre d'une réaction colorée et d'un dosage en spectrophotométrie d'absorption moléculaire. Elle 
+permet de d oser des concentrations faibles pour les eaux de consommation et les eaux de rivières. 
+Une deuxième méthode de dosage permet de doser des concentrations plus importantes notamment 
+dans les eaux industrielles ou résiduaires en mettant en œuvre un dosage vol umétrique après 
+entraînement à la vapeur en milieu basique. L'analyse se poursuit par un dosage titrimétrique avec 
+un acide titré.  
+- Nitrites : unité : mg/l NO 2  
+Les nitrites proviennent soit d'une oxydation incomplète de l'ammoniaque, soit d'une réduction des 
+nitrates sous l'influence d'une action dénitrifiante. Une eau qui renferme des nitrites est à considérer 
+comme suspecte. Pour connaître la méthode de détermi nation voir § “ anions “.  
+- Nitrates : unité : mg/L NO 3  
+Toutes les formes d'azote sont susceptibles d'être à l'origine des nitrates par un processus 
+d'oxydation biologique. Pour connaître la méthode de détermination voir § “ anions“. Les composés 
+carbonés : il existe différents indicateurs de pollution organiqu e. Les composés carbonés peuvent 
+avoir différentes origines liées aux activités humaines, industrielles, agricoles ainsi qu'aux activités 
+naturelles.  
+
+--- PAGE 13 ---
+11 
+ - Oxydabilité au permanganate de potassium : unité : mg/l d'O 2  
+Ce test a pour but d'approcher la teneur en matières organiques dans l'eau en mesurant la quantité 
+d'oxygène utilisée pour la réduction du permanganate de potassium (KMnO 4) par les matières 
+organiques contenues dans une eau. Il s'agit d'un dosage en retour.  
+- Demande Biochimique en oxygène après n jours (DBOn) : unité : mg/l d'O 2  
+Ce test constitue un moyen de l'étude des phénomènes naturels de dégradation des matières 
+organiques. Il s'agit de déterminer la quantité d'oxygène consommée dans les conditions de l'essai 
+après une incubation durant 5 jours à 20°C et dans l'obscurité. Mét hode soit sans dilution ou avec 
+dilution.  
+- Demande chimique en oxygène (DCO) : unité : mg/l dO 2  
+Cette mesure correspond à une estimation des matières oxydables présentes dans l'eau, quelle que 
+soit leur origine organique ou minérale. Certaines matières organiques sont oxydées par du 
+dichromate de potassium (K 2Cr2O7) en milieu acide et en présence de catalyseur à l'argent. On 
+procède ensuite au titrage de l'excès de dichromate de potassium avec une solution titrée de sulfate 
+de fer (II) et d'ammonium.  
+- Carbone organique total (COT) : unité : mg/l C  
+Le COT c'est la quantité de carbone contenue dans l'eau, dans les matières organiques dissoutes ou 
+en suspension dans l'eau. Une oxydation par combustion, adjonction d'oxydants appropriés ou 
+irradiation aux ultraviolets du carbone organique de l'eau le tra nsforme en dioxyde de carbone 
+(CO2). Le CO 2 se forme par oxydation et il est ensuite dosé par spectrométrie infrarouge.  
+ - Carbone organique dissous (COD) : unité : mg/l C  
+Le COD est la quantité de carbone contenue dans l'eau, dans les matières organiques passant, durant 
+la filtration, à travers une membrane filtrante de pores de 0,45µm. Le principe de dosage est 
+identique à celui du COT (voir précédemment).  
+1.3 - Les composés phosphorés  
+Les phosphates font partie des anions facilement fixés par le sol ; leur présence dans les eaux 
+naturelles est liée à la nature des terrains traversés et à la décomposition de la matière organique. 
+Les eaux de surface peuvent souvent être contaminées par d es rejets domestiques, agricoles ou 
+industriels. Le phosphore existe à l'état minéral ou organique. Chaque fraction peut être séparée 
+analytiquement en orthophosphates, phosphore hydrolysable et phosphore organique.  
+ 
+ 
+
+--- PAGE 14 ---
+12 
+ - Phosphore total : unité mg/l Pt  
+Le phosphore total est dosé, après minéralisation de l'échantillon, par passage sur un 
+spectrophotomètre d'émission à plasma avec un couplage inductif (ICP AES).  
+1.4 - Autres paramètres   
+- Matières en suspension (MES) : unité : mg/l MES : - Méthode par filtration  
+La détermination des matières en suspension (MES) est un indicateur de pollution concernant la 
+charge en matières solides. L'eau est filtrée et le poids de matières retenues par le filtre est 
+déterminé par une pesée différentielle après un séchage à 105 °C .  
+- Matières en suspension (MES) : unité :mg/l MES : Méthode par centrifugation  
+L'eau est centrifugée, le culot est recueilli, séché à 105°C et pesé. Cette méthode est surtout réservée 
+aux eaux contenant trop de matières colloïdales pour être filtrées dans de bonnes conditions. C'est 
+le cas des boues de stations d'épuration.  
+- Résidu sec : unité : mg/l  
+Cette mesure permet d'évaluer la teneur des matières dissoutes et en suspension déterminée par 
+pesée. Une certaine quantité d'eau est évaporée soit à 110 ou 180 °C dans une coupelle tarée. Le 
+résidu desséché est ensuite évalué par pesée.  
+1.5 - Substances toxiques   
+Les autres composés :  
+- Cyanures (CN) : unité : µg/l de cyanures totaux  
+Les cyanures sont libérés dans l'environnement aquatique avec les effluents de l'industrie des 
+produits chimiques organiques et de l'industrie de l'extraction et de la concentration de l'or, ainsi 
+qu'avec les effluents de procédés industriels (usines de ga z, fours à coke, épuration des gaz dans 
+les usines sidérurgiques, nettoyage des métaux et électro  placage). Le cyanure présent dans 
+l'environnement aquatique peut aussi provenir de sources non ponctuelles, dont le ruissellement 
+découlant de l'application s ur le sol et dans l'eau de sels contenant des composés du cyanure utilisés 
+comme anti -agglomérants. Après libération des cyanures totaux sous forme de HCN par digestion 
+sous UV et une distillation en ligne à chaud en milieu acide, la quantité d'ions CN con tenue dans 
+le distillat est ensuite déterminée par colorimétrie.  
+- Mercure (Hg) : unité : µg/l de mercure  
+Le mercure est un élément toxique qui n'accomplit aucune fonction physiologique utile chez 
+l'homme  ; en conséquence, il a été fixé une concentration maximale acceptable de 0,001 mg/L (1 
+µg/L) de mercure dans l'eau potable.  
+
+--- PAGE 15 ---
+13 
+ Un aliquot d'échantillon est digéré en utilisant du brome généré chimiquement. Ce procédé est 
+connu comme décomposant en mercure (II) toutes les substances organo -mercuriques rencontrées. 
+Immédiatement avant de procéder à l'analyse, l'excès de brome est él iminé par l'acide ascorbique. 
+Les vapeurs de mercure élémentaire sont générées à partir de l'échantillon digéré par réduction 
+avec le chlorure d'étain (II), puis sont entraînées de la solution par un flux vecteur d'argon. 
+L'humidité est éliminée en permane nce du courant gazeux et les vapeurs de mercure sont détectées 
+par spectrométrie de fluorescence atomique (CFA). Le mode opératoire est généralement 
+automatisé à l'aide  d'un échantillonneur automatique et d'un logiciel de contrôle.  
+- Indice Phénol : unité : µg/l d'indice phénols  
+Fortement toxique, le phénol est connu pour sa persistance et son aptitude à la bioaccumulation. 
+L'échantillon est amené dans un flux vecteur en continu, mélangé à l'acide phosphorique, puis 
+distillé en ligne à pH 1,4. Le distillat contenant les composés p hénoliques volatils à la vapeur est 
+ensuite mélangé aux solutions s'écoulant sans interruption d'amino -antipyrine et 
+d'héxacyanoferrate (III) de potassium. Les composés phénoliques présents dans le distillat sont 
+oxydés par l'héxacyanoferrate (III) et les quinones qui en résultent réagissent à l'amino -antipyrine 
+en formant des produits de condensation de couleur jaune, mesurés par spectrométrie dans un 
+spectromètre de flux entre 505 nm et 515 nm.  
+- Silice (SiO 2) : unité : mg/l SiO 2  
+Méthode colorimétrique, l'acide molybdique, en présence d'ions silicates (SiO 3), forme un 
+complexe silico -molybdique de couleur jaune puis est réduit par l'acide ascorbique en un complexe 
+bleu. Le mesurage de l'absorbance du complexe formé est effectué à 650nm.  
+1.6 - Recherche des anions  
+Les anions : Anions dosés par Chromatographie liquide ionique (Fluorures (F), Orthophosphates 
+(PO 4), Nitrites (NO 2), Nitrates (NO 3), Sulfates (SO 4), Chlorures (Cl) ainsi que les Chlorites (ClO 2), 
+Chlorates (ClO 3) et les Bromates (BrO 3)).  
+Principe de l'analyse :  
+On utilise un appareil de Chromatographie ionique. Cette méthode d'analyse est basée sur la 
+séparation des anions dans une colonne entre une phase mobile et une phase stationnaire.  
+Chaque soluté injecté sur la colonne est soumis à deux effets antagonistes : un effet d'entraînement 
+par la phase mobile dans laquelle il est soluble, et un effet de rétention par la phase stationnaire 
+avec laquelle il interagit.  
+La séparation et le temps de migration des composés sont donc fonction des différentes affinités 
+de ces composés pour chaque phase.  
+La détection s'effectue par conductimétrie.  
+
+--- PAGE 16 ---
+14 
+ Liste des éléments dosés par chromatographie ionique  
+* Chlorures (mg/l) Cl,  
+* Nitrites (mg/l) NO 2, 
+* Nitrates (mg/l) NO 3, 
+* Orthophosphates (mg/l) PO 4, 
+* Sulfates (mg/l) SO 4  
+* Fluorures (mg/l) F  
+* Chlorites (µg/l) ClO 2  
+* Chlorates (µg/l) ClO 3  
+* Bromates (µg/l) BrO 3  
+- Paramètres dosés par ICP optique AES  
+Principe de l'analyse :  
+On utilise un spectrophotomètre d'émission par plasma à coupage inductif (ICP AES). Cette 
+technique fait appel à la propriété des atomes d'émettre une certaine énergie à une ou plusieurs  
+longueurs d'ondes spécifiques après excitation avec un gaz ionisé (Argon).  
+La détermination des éléments dissous se fait après filtration à 0,45µm, si nécessaire.  
+La détermination des éléments totaux de l'échantillon avec cet appareil peut se faire directement, 
+si le prélèvement ne contient pas de matières en suspension, sinon une minéralisation avec mise en 
+solution est nécessaire.  
+Liste des éléments dosés par ICP  
+Catégorie Éléments Symbole Matrice  
+ 
+Majeurs  
+* Calcium Ca mg/l,  
+* Magnésium Mg mg/l,  
+* Potassium K mg/l,  
+* Sodium Na µg/l.  
+
+--- PAGE 17 ---
+15 
+ Toxiques  
+* Antimoine Sb µg/l,  
+* Arsenic As µg/l,  
+* Baryum Ba mg/l,  
+* Cadmium Cd µg/l,  
+* Chrome Cr µg/l,  
+* Nickel Ni µg/l,  
+* Plomb Pb µg/l,  
+* Sélénium Se µg/l,  
+Indésirables  
+* Aluminium Al µg/l,  
+* Cuivre Cu mg/l,  
+* Fer Fe µg/l,  
+* Manganèse Mn µg/l,  
+* Zinc Zn mg/l,  
+Autres  
+* Bore B µg/l,  
+* Silicium Si mg/l,  
+* Phosphore P mg/l,  
+* éléments accrédités COFRAC 8  
+ 
+1.7 Absorption atomique Four  
+La spectrométrie d'absorption atomique (AAS) constitue un outil privilégié d'analyse en sciences 
+environnementales. Couplée à un four graphite, la spectrométrie AAS autorise le dosage d'éléments 
+majeurs et traces dans divers types de substrats : végétaux, sols, sédiments, roches, aliments, 
+déchets solides, effluents liquides, eaux souterraines, eaux de surface, eaux usées, etc.  
+
+--- PAGE 18 ---
+16 
+ Principe de l'analyse :  
+Dans son principe, la spectrométrie AAS consiste à vaporiser l'échantillon liquide et à le chauffer 
+à l'aide d'une flamme ou d'un four. Les différentes étapes sont : dans son principe, la spectrométrie 
+AAS consiste à vaporiser l'échantillon liquide et à le  chauffer à l'aide d'une flamme ou d'un four. 
+Les différentes étapes sont :  
+- Minéralisation de l’échantillon à une température proche de 100°C  
+- Injection de l’échantillon dans le spectromètre d’absorption atomique équipé d’un système 
+d’atomisation électrothermique.  
+- Mesure de l’absorbance à une longueur d’onde spécifique de l’élément à doser.  
+- Correction du bruit de fond par effet Zeeman.  
+Liste des éléments dosés par Absorption Atomique Four  
+Antimoine * Sb en µg/l,  
+Cadmium * Cd en µg/l,  
+Arsenic * As en µg/l,  
+Plomb * Pb en µg/l,  
+Sélénium Se en µg/l,  
+Chrome * Cr en µg/l  
+ 
+2 Méthodes d’analyse biologiques de l’eau  
+La croissance microbienne est définie comme étant l’augmentation des constituants cellulaires, elle 
+se traduit aussi par l’augmentation de la taille des cellules, de leur nombre ou des deux.  
+Le cycle cellulaire d’une bactérie se traduit par l’accomplissement de la réplication du chromosome 
+cellulaire suivi de la division lors de laquelle se forme un septum de division qui sépare les deux 
+cellules filles.  
+Le processus de division dure environ 20 minutes chez E. coli , il est connu sous le nom de temps 
+de génération  (G), temps nécessaire au dédoublement de la population bactérienne (ou biomasse).  
+ 
+
+--- PAGE 19 ---
+17 
+ Exemple  : 
+Espèce  G (min)  Nombre de division 1/G (h-1) 
+Vibrio paraheamolyticus  10 6 
+Escherichia coli  20 3 
+Lactobacillus acidophilus  100 0,6 
+Mycobacterium tuberculosis  1000  0,06 
+ 
+2.1 Mesure de la croissance  
+La mesure de la croissance bactérienne peut se faire grâce au dénombrement cellulaire ou à la 
+mesure de la biomasse  ; les deux valeurs, nombre et biomasse progressent de façon parallèle.  
+2.1.1 Mesure De la charge cellulaire  
+a- Microscope  
+Les cellules de taille grande peuvent être dénombrées au microscope grâce à un hématimètre 
+(cellule de Thoma, Malassez…). Pour les bactéries, le dénombrement peut se faire grâce à la cellule 
+de Petrof -Hausser dont la profondeur de la cuvette est dix fois p lus faible que l’hématimètre.  
+
+--- PAGE 20 ---
+18 
+  
+ 
+ 
+Compteur de particules  
+Les cellules en suspension sont comptées en utilisant un compteur de particules dans une solution 
+d’électrolytes.  
+
+
+--- PAGE 21 ---
+19 
+ Lorsqu’une cellule traverse un micro -orifice, deux électrodes placées de part et d’autre de l’orifice 
+et reliées à un générateur de courant électrique, enregistre une variation électronique qui est 
+détectée par un compteur.  Ce compteur présente l’inconvénient de compter les cellules ainsi que 
+les autres particules inertes de même taille.  
+ 
+b- Épifluorescence  
+Cette méthode permet de dénombrer compte et de distinguer les cellules viables des cellules 
+mortes. L’orangé d’acridine (fluorochrome) colore les bactéries qui sont ensuite examinées en 
+ultraviolet, les bactéries vivantes apparaissent en vert, les mortes e n rouge.  
+Plusieurs inconvénients sont attribués à cette technique  : 
+- Chez les bactéries vivantes, l’ouverture de la double chaîne nucléotidique induit une 
+fluorescence rouge.  
+- Les populations inferieures à 105 cellules/mL pour les levures et 106 cellules/mL pour les 
+bactéries ne peuvent être évaluées.  
+- Chez les bactéries formant des chainettes ou des mycéliums, ce procédé est inadéquat.  
+ 
+c- Dénombrement après culture  
+Plusieurs procédés sont suivis pour ce genre de dénombrement de cellules.  
+Partant du principe que chaque cellule microbienne donne naissance à une colonie, l’étalement puis 
+l’incubation d’un volume précis d’une suspension microbienne ou de sa dilution à la surface d’une 
+
+
+--- PAGE 22 ---
+20 
+ gélose donne des colonies visibles à l’œil nu et facilement dénombrables. Cependant, le résultat est 
+exprimé en Unités Formants Colonies (UFC) /mL.  
+ 
+Une autre technique permet de quantifier les cellules viables dans une solution, notamment dans 
+l’eau.  
+Cette technique consiste en l’inoculation de 3 à 5 tubes pour chaque dilution, le nombre de cultures 
+positives dans trois dilutions successives donne le Nombre le Plus Probable (NPP) qui sera évalué 
+par rapport à la table de Mac Grady.  
+D’autres méthodes, comme celle de la filtration sur membrane et la technique de Postgate 
+(microcolonies sur couche mince), sont utilisées pour le dénombrement des bactéries.  
+d- Mesure de la biomasse  
+La biomasse peut être quantifiée en mesurant soit le poids sec de la culture microbienne, soit le 
+trouble de la suspension.  
+La première consiste à récolter les cellules par centrifugation puis au lavage à l’eau physiologique 
+avant de les passer au séchage à 100 -110°C. Le culot est ensuite pes é. 
+La deuxième technique est plus simple, elle est largement utilis ée pour dénombrer les cellules 
+microbiennes  ; cette technique est basée sur la mesure l’absorbance de la lumière incidente par 
+rapport à celle transmise.  
+
+
+--- PAGE 23 ---
+21 
+ e- Mesure de la turbidité  
+Cette technique repose sur la dispersion de la lumière incidente, elle est rapide, facile et précis.  
+ 
+ 
+ 
+2.1.2 M esure des constituants cellulaires  
+Certains constituants de la cellule, comme l’ATP qui est indispensable au transfert d’énergie, le 
+FAD et le FMN, qui sont des co -enzymes des déshydrogénases, sont des marqueurs biotiques de 
+choix. Ils permettent une mesure relativement précise d’une culture cellulaire donnée.  
+
+
+--- PAGE 24 ---
+22 
+ 2.1.3 Mesure de l’activité cellulaire  
+La croissance microbienne peut être quantifiée selon plusieurs procédés (Figure 16) :  
+- Mesure de la consommation d’un substrat présent dans le milieu, comme l’oxygène, 
+une source de carbone, d’azote ou d’un élément spécifique de croissance.  
+- Mesure des produits d’excrétions, notamment le dosage du CO 2. 
+- Mesure des variations physico -chimiques, comme la variation du pH du milieu suite à 
+son acidification, le potentiel d’oxydo -réduction qui peut être évalué grâce à des 
+indicateurs redox colorés tel que le bleu de méthylène, la résazurine ou le tétrazolium.  
+- Mesure de la chaleur dégagée suite aux réactions de dégradation de substrats 
+énergétiques.  
+ 
+ 
+ 
+Figure  16 : Corrélation entre la croissance microbienne et la variation de certains éléments.  
+ 
+2.2 Courbe de croissance  
+La courbe de croissance est obtenue en traçant l’évolution de la biomasse en fonction du temps. 
+Cette évolution est la vitesse volumique de croissance par unité de temps, X = f (t). 
+
+
+--- PAGE 25 ---
+23 
+ Dans des conditions de croissance discontinue, la courbe de croissance est constituée de quatre 
+phases distinctes. Phase de latence, phase exponentielle, phase stationnaire et phase de déclin 
+(Figure 17).  
+ 
+Figure  17 : Courbe de croissance d’une culture bactérienne dans des conditions de croissances 
+fermées.  
+ 
+2.2.1 Phase de latence  
+C’est une phase de courte durée, elle varie d’une espèce à l’autre. Durant cette phase, les bactéries 
+s’adaptent au milieu (adaptation enzymatique) et le nombre de bactéries reste inchangé et égale au 
+nombre initial.  
+Cette phase est influencée par plusieurs facteurs. Plus la concentration de l’inoculum de départ est 
+importante, moins la phase de latence est longue. Elle est aussi réduite si les cellules jeunes sont 
+mise s en culture, l’âge des bactéries provenant de la phase stationnaire ou de la phase de déclin 
+peut prolonger la phase de latence du fait que l’inoculum contient beaucoup de cellules mortes 
+alors l’état physiologique des cellules viables nécessite du temps p our restaurer leur s systèmes 
+enzymatiques mis en veille.  
+2.2.2 Phase exponentielle  
+Cette phase débute par une phase d’accélération (fin de la phase de latence) durant laquelle le 
+nombre de bactéries augmente. Elle est suivie par une période exponentielle de croissance qui se 
+termine par un maximum à la fin de la phase.  
+
+
+--- PAGE 26 ---
+24 
+ Durant cette phase, certains métabolites primaires sont synthétisés, comme les antibiotiques et les 
+toxines. Les paramètres physico -chimiques (l’activité d’eau «AW», pH, température, la nature et 
+la concentration des aliments…) influent sur l’allure de la phase exponentielle et la vitesse 
+spécifique de croissance.  
+2.2.3 Phase stationnaire  
+La phase stationnaire débute par une phase (période) de décélération (ralentissement) pendant 
+laquelle diminue la vitesse de division cellulaire.  
+Pendant cette phase (stationnaire), le nombre de cellules viables reste constant. La division 
+cellulaire ne s’est pas arrêtée, mais le taux de mortalité cellulaire est égal au taux de cellules en 
+division. Ce qui correspond à un équilibre entre le nombre d e nouvelles cellules provenant d’une 
+division cellulaire et le nombre de cellules qui disparaissent par autolyse.  
+2.2.4 Phase de déclin  
+A ce stade de croissance, le taux de mortalité est plus important que la division cellulaire et le 
+nombre de cellules diminue considérablement. Ceci est dû en grande partie à l’épuisement des 
+nutriments du milieu de culture et à l’accumulation des déchets parfois toxiques pour les 
+microorganismes, de plus, le changement de pH peut être limitant.  
+Dans certains cas, les bactéries survivantes peuvent amorcer une nouvelle croissance au dépend 
+des nutriments libérés par la lyse des cellules mortes. Ce phénomène est connu sous le nom de 
+croissance cryptique  (Figure 18).  
+ 
+
+--- PAGE 27 ---
+25 
+  
+Figure  18 : schéma graphique de la croissance cryptique chez les bactéries.  
+2.2.5 Phénomène de diauxie  
+Dans un système de culture contenant une seule source de carbone, la croissance bactérienne 
+s’achève par une phase de déclin qui se traduit par la lyse bactérienne et la réduction du nombre de 
+bactéries. Cependant, dans un milieu de culture contenant deux sources de carbone différentes 
+(Exemple  : glucose et lactose), la phase stationnaire n’est pas achevée par une phase de déclin, mais 
+elle est caractérisée par l’apparition d’une deuxième phase exponentielle (Figure 19). Les bactéries 
+préfèrent utiliser le glucose d’abord, mais quand celui -ci est épuisé du milieu de culture, elles 
+utilisent le lactose.  
+ 
+Figure  19 : Phénomène de diauxie chez les bactéries cultivées en présence du glucose et du lactose 
+comme source de carbone.  
+
+
+--- PAGE 28 ---
+26 
+ 2.3 Types de croissance  
+2.3.1 Croissance synchrone et asynchrone  
+La croissance d’une population microbienne ne se fait pas d’une manière harmonieuse, les bactéries 
+dans une population ne se divisent pas réellement en même temps, chaque cellule à sa phase de 
+latence différente des autres cellules. De ce fait, le schéma d e croissance trace une courbe 
+asynchrone. Au contraire, si toutes les cellules se divisaient en même temps, on obtient une courbe 
+synchrone (Figure 20).  
+ 
+Figure 20  : Schéma de croissance bactérienne synchrone et asynchrone  
+2.3.2 Croissance continue  
+Les quatre phases de croissance vues jusqu’ici (latence, exponentielle, stationnaire et déclin) sont 
+obtenues dans un milieu fermé. Pour atteindre un but d’intérêt industriel (Ex  : fermentation), il est 
+plus pratique de maintenir les bactéries en phase exp onentielle. Ceci est possible en renouvelant le 
+milieu de culture et en éliminant les produits du métabolisme en utilisant les Turbidostats (Figure 
+21) et les chémostats.  
+ 
+ 
+ 
+
+
+--- PAGE 29 ---
+27 
+  
+ 
+ 
+Figure  21 : Schéma du turbidostat  
+ 
+  
+
+
+--- PAGE 30 ---
+28 
+ Filières et procédés de traitement de 
+l’eau de consommation  
+ 
+1 Différents, Classement et filières de traitement de l’eau brute  
+  
+1.1 Différents types d’eau brute  
+Les eaux destinées à la production d’eau potable ou destinées à la mise en réseau de distribution 
+de l’eau potable sont de deux natures : les eaux de surface et les eaux souterraines.  
+- Eaux de surface  
+Les eaux de surface sont de deux types : les eaux courantes (ruisseaux, rivières et fleuves) et les 
+eaux stagnantes (Lacs).  
+Les eaux courantes sont caractérisées par une présence de MES, un indice de couleur faible en 
+amont et élevé en aval d’une zone d’activité ou d’habitation. La contamination bactérienne est de 
+même faible en amont et élevé en aval d’une telle zone. Les conc entrations des matières 
+organiques et inorganiques sont plus importantes en aval à cause des activités domestiques, 
+industrielles et du lessivage des sols agricoles.  
+Les eaux stagnantes subissent naturellement la décantation d’où la turbidité est faible sauf en 
+période de pluie. Les paramètres physico -chimiques varient qu’en temps de pluie et les 
+substances nutritives en azote et phosphore arrivent par ruissellement ou  par contamination si une 
+activité humaine est proche.  
+- Eaux souterraines :  
+Suite à une filtration naturelle par le sol, la turbidité des eaux naturelles est très faible. De même 
+la contamination bactérienne est faible due au temps de séjour long dans le sol et au manque de 
+matières organiques. Cependant, suite à une source de con tamination (cas des nappes moins 
+
+--- PAGE 31 ---
+29 
+ profondes), les microorganismes peuvent être présents. L’indice de colorant est faible sauf en cas 
+de présence de Fe ou de Mn qui peuvent être élevés dans les eaux souterraines. Due à la 
+dissolution des roches, la salinité et la dureté totale sont souvent très élevées dans les eaux 
+souterraines. La température ne varie qu’en fonction de la profondeur de la nappe et l’oxygène 
+quasi inexistant.  
+1.2  Filières de traitement  
+Les qualités exigées pour une eau dépendent de l’utilisation de cette eau. Les qualités requises 
+sont différentes selon que l’eau est pour :  
+- La production d’eau potable  
+- La pisciculture  
+- La baignade  
+- Les circuits de refroidissement ou pour la production de la vapeur d’eau.  
+Pour cela, dans notre sous -region  par exemple on établit une grille de qualité. Pour chacun des 
+usages appelés grille multi -usage. Cette grille comporte 5 classes de qualité.  
+- Classe IA  
+Cette classe caractérise les eaux considérées comme exemptes de pollution. Elle est apte à 
+satisfaire les usages exigeants de qualité.  
+- Classe IB  
+D’une qualité légèrement moindre, ces eaux de classe IB peuvent  néanmoins satisfaire à tous les 
+usages.  
+- Classe II  
+C’est la classe des eaux de qualité passable. Elle peut servir à la production d’eau de 
+consommation et aussi d’irrigation  
+- Classe III : Qualité médiocre  
+
+--- PAGE 32 ---
+30 
+ Apte à l’irrigation  
+- Les eaux hors classe  
+Ce sont des eaux dont la valeur dépasse la valeur maximale en classe III pour un ou plusieurs 
+paramètres. Elles sont considérées comme inaptes à la plupart des usages et peuvent même 
+constituer une menace pour la santé et pour l’environnement.  
+Après un traitement d’eau il n’existe pas de normes de qualités pour les eaux industrielles. 
+Chaque utilisation fait appel à des qualités toutes particulières.  
+En ce qui concerne les eaux destinées à la consommation humaine, l’eau traitée avant sa 
+distribution doit satisfaire certaines conditions.  
+Il existe pour chaque pays des normes ou des directives de potabilité. On parle de CMA 
+(Concentration Maximale Admise) pour certains paramètres ou éléments.  
+On parle aussi en termes de NG (Nombre Guide).  
+Remarque : le NG est une concentration souhaitée (valeur à obtenir au mieux)  
+La CMA par contre est la consommation qu’on ne peut pas dépasser. La valeur du paramètre v 
+est : 
+  NG ≤ v ≤ CMA  
+ 
+
+--- PAGE 33 ---
+31 
+  
+Figure 1  : Schéma des différentes étapes adoptées dans la filière de traitement des eaux de surface  
+ 
+Les étapes en pointillées ne sont pas obligatoires, bien sûr dépendamment de la qualité de l’eau 
+brute qu’on dispose en début.  
+ 
+NB : Avant tout processus de traitement, le stockage  de l’eau brute est important. Cette réserve 
+permet de disposer d’eau utilisable lorsqu’un accident ne permet pas le recours à la source d’eau.  
+Après le stockage, le dégrillage, le tamisage ou le micro -tamisage  peuvent être réalisés.  Le 
+dégrillage ou le tamisage  consistent à faire passer l’eau à travers un filtre dont les mailles sont 
+assez fines (0,5 à 2 mm) de façon à retirer toutes les particules de tailles supérieures. Le micro -
+Pré-oxydation  
+Coagulation  
+Floculation  
+Décantation ou flottation  
+Inter -oxydation  
+Filtration en profondeur  
+Reminéralisation  
+Désinfection  
+Inter -oxydation  
+Filtration sur charbon actif  
+
+--- PAGE 34 ---
+32 
+ tamisage utilise des filtres métalliques beaucoup plus fins. Ces opérations sont confrontées à des 
+problèmes de colmatage.  
+ 
+2 Traitements primaires ou prétraitements  
+2.1 Dégrillage  – Tamisage – Dessablage  
+Dégrillage  
+Le dégrillage, premier poste de traitement, indispensable sur les eaux de surface et les eaux 
+résiduaires, permet :  
+• De protéger les ouvrages aval contre l’arrivée de gros objets susceptibles de provoquer des 
+bouchages dans les tuyauteries de liaison, voire dans les différentes unités de l’installation ;  
+• De séparer et d’évacuer facilement les matières volumineuses charriées par l’eau brute qui 
+pourraient nuire à l’efficacité des traitements d’eau et de boues, ou au moins compliquer 
+leur exécution, et leur exploitation.  
+On emploie parfois les mêmes grilles pour éliminer les filasses des boues.   
+L’opération est plus ou moins efficace, en fonction de l’écartement entre barreaux de grille. On 
+peut distinguer :  
+• Le prédégrillage, pour écartement supérieur à 40 mm ;  
+• Le dégrillage moyen, pour écartement de 40 à 10 mm ;  
+• Le dégrillage fin, pour écartement de 10 à 6 mm ;  
+• Le tamisage, pour écartement de 6 à 0,5 mm.  
+Le placement des grilles empêche l’endommagement des rotors et des pompes par les déchets 
+grossiers. Les grilles sont composées de barres verticales contres lesquelles les branches, chiffons, 
+cannettes, papiers, plastiques et déchets de jardins sont retenu s. 
+Tamisage  
+Le tamisage est le second procédé de pré -traitement mécanique permettant une séparation plus fine 
+que le dégrillage des déchets contenus dans les eaux brutes. La filtration est réalisée par un entrefer 
+de 6mm à 0,25mm à l’aide de tôle perforée ou tôle gril lagée (aussi appelé maille johnson). Le 
+tamisage est la plupart du temps automatisé grâce à une motorisation du système du ramassage par 
+
+--- PAGE 35 ---
+33 
+ vis, tambour ou racle. Des solutions manuelles existent aussi demandant l’action d’un opérateur 
+moyennant un coût plus abordable  
+Un tamis peut être une bonne solution pour certaines branches industrielles. Les particules solides 
+de petite taille (comme le sable, les pellets plastiques et autres particules), ainsi que les particules 
+plus grandes n’ayant pas été retenue par un éventue l traitement de dégrillage préalable peuvent être 
+éliminées de l’eau usée à l’aide d’un tamisage. Un nettoyage périodique (automatique ou non) se 
+déroule à l’aide de balais durs, d’air comprimé ou d’eau sous pression.  
+Différents types de tamis existent  : 
+• Tamis vibrant  : plaques métalliques mouvantes munies de perforations. Les vibrations 
+amènent les saletés vers un point de sortie, tandis que l’eau traverse le tamis par les 
+perforations.  
+• Tamis rotatif plaque métallique perforée et légèrement pliée de telle manière que les particules 
+retenues glissent vers un conteneur de déchets.  
+• Tamis à tambour  : est constitué d’un tamis rotationnel qui laisse passer l’eau usée. Les déchets 
+retenus sont généralement éliminés à l’intermédiaire d’un grattoir.  
+Dessablage  
+Le dessablage a pour but d’extraire des eaux brutes les graviers, sables et particules minérales plus 
+ou moins fines, ainsi que les filasses de façon à éviter les dépôts dans les canaux et conduits, à 
+protéger les pompes et autres appareils contre l’abrasion.  
+On peut se baser sur les données du tableau 3 (valables en sédimentation libre pour particules de 
+sable de masse volumique 2,65) pour définir le taux de coupure d’un dessableur, de géométrie 
+donnée. En fait, deux difficultés interviennent dans la conceptio n des dessableurs :  
+✓ Le sable arrive principalement au moment d’une pointe de débit (auto curage des égouts) 
+durant laquelle la vitesse transversale est la plus élevée et donc le taux de remise en 
+suspension le plus élevé ;  
+
+--- PAGE 36 ---
+34 
+ ✓ Dans le traitement des eaux résiduaires le but est d’extraire de l’eau le maximum de 
+matières minérales (Mm) contenant le minimum de matières organiques (qui provoquent 
+des nuisances lors de leur stockage et de leur évacuation).  
+Pour séparer les matières organiques des matières minérales, il faut maintenir une turbulence  
+suffisante d’où la mise en œuvre d’un brassage transversal, en général à l’air surpressé.  
+2.2 Débourbage -Déshuilage – Actions pour la protection de la ressource et de la prise d’eau  
+Le débourbage est une étape de séparation solide -liquide qui précède la  
+clarification des eaux de surface très chargées en matières en suspension  
+(MeS) lorsque la décantation en un seul étage n'est plus possible. Le but de  
+cette pré -décantation est de :  
+✓ Éliminer la majorité de MeS de l'eau brute,  
+✓ En assurer l'évacuation sous forme de boues concentrées  
+✓ Fournir à l'étape de décantation principale une eau de qualité acceptable.  
+Situé après un éventuel dessablage, le débourbage associe deux phases de  
+séparation solide -liquide  : la décantation et l'épaississement des boues  
+Quand prévoir un débourbage ?  
+Le seuil de concentration en MeS à partir duquel le débourbage devient  
+nécessaire, dépend du type de décanteur principal :  
+1,5 à 2 g/L pour les décanteurs non raclés ou à lit de boue (Pulsator, etc.),  
+5 g/L pour les décanteurs raclés.  
+Un débourbage est généralement conçu pour éliminer les pointes occasionnelles  
+de MeS jusqu'à environ 30 g/L. En dehors de ces périodes de crue, le débourbeur  
+peut-être by -passé.  
+Mise en œuvre du débourbage  
+Avec un coagulant minéral seul, une fraction de la phase colloïdale est éliminée :  
+Le chlorure ferrique permet souvent d'atteindre une vitesse de décantation (1,5  
+à 3 m/h) supérieure à celle obtenue avec le sulfate d'aluminium (1 à 2 m/h).  
+Les sels d'aluminium produisent en outre des volumes de boue très importants.  
+Le taux de traitement à appliquer est de l'ordre du tiers du taux nécessaire à  
+une coagulation -floculation optimale.  
+Ces coagulants minéraux ne doivent être mis en œuvre que sur des eaux  
+ayant des MeS  nettement inférieures à 30 g/L  
+
+--- PAGE 37 ---
+35 
+ Mise en œuvre du débourbage  
+Avec un floculant organique seul (polymère), la vitesse de décantation est  
+considérablement augmentée. La fraction colloïdale peut également être réduite si  
+le polymère est bien choisi. Cette solution donne un floc très compact et des  
+boues particulièremen t concentrées (plus de 100 g/L). Pour un taux de traitement  
+de 1 g/m3 en produit actif, les vitesses applicables peuvent atteindre :  
+✓ 3 à 5 m/h pour une eau brute à 30 g/L en MeS,  
+✓ 8 à 10 m/h pour une eau brute à 10 g/L en MeS.  
+ 
+Systèmes de déshuilage : séparation de la phase huileuse  
+L’élimination des huiles et des graisses de l’eau est nécessaire, mais avec des objectifs différents : 
+séparer la phase huileuse de la phase aqueuse avec des déshuileurs appropriés avant d’être 
+introduite dans une masse d’eau naturelle ou avant de procéder  au traitement d’épuration des eaux 
+usées, si ceux -ci contiennent des huiles et des hydrocarbures.  
+Dans les applications pratiques, on distingue principalement deux types de séparateurs d’huile  : 
+✓ Déshuileurs gravitaires statiques à pression atmosphérique ; sans l’aide de machines en 
+mouvement ou la nécessité de doser des produits chimiques  
+✓ Déshuileurs par coalescence  
+3 Traitements secondaires  
+3.1 Pré - oxydation  - Coagulation – floculatio n 
+a- Préoxydation  
+Ce traitement en tête de la filière se justifie en raison de ses multiples objectifs. L’élimination des 
+algues, des goûts, de l’odeur et de la couleur, en fait l’amélioration des qualités organoleptiques 
+d’une eau en est un.  
+La préoxydation permet également de pallier à tout dysfonctionnement de la nitrification sur les 
+filtres spécifiques. Elle améliore les phénomènes de coagulation et de floculation en termes de 
+turbidité éliminée, de duré de fonctionnement de filtres, d’éco nomie de réactifs et de compacité 
+des boues hydroxydes. Comme explication  : l’oxydation des algues provoque la rupture de leur 
+membrane, libérant ainsi l’alginate qui est un floculant naturel  ; modification des composés 
+organiques qui se polymérisent sous l’action des radicaux OH° et une inversion de charges des 
+colloïdes  ; oxydation des complexes libérant des ions métalliques participant à la coagulation.  
+Les principaux oxydants tels que le chlore et dérivés, le dioxyde de chlore et l’ozone sont, ou, ont 
+été utilisés en préoxydation.  
+Si l’eau brute est riche en matières organiques mesurées en COT, l’emploi de chlore est proscrit. 
+La formation des THM et des TOX en est la cause.  
+
+--- PAGE 38 ---
+36 
+ L’intérêt du ClO 2 réside dans sa faible réactivité sur les molécules organiques.  
+La préozonation  présente les mêmes indications que le ClO 2, augmentées de l’amélioration de la 
+coagulation et de la floculation.  
+ 
+b- coagulation -floculation  
+La couleur et la turbidité d’une eau de surface sont dues à la présence de particules de très faible 
+diamètre  : les colloïdes. Leur élimination ne peut se baser sur la simple décantation. En effet, leur 
+vitesse de sédimentation est extrêmement faible. Le t emps nécessaire pour parcourir 1 m en chute 
+libre peut être de plusieurs années. La coagulation est le phénomène de déstabilisation des 
+particules en suspension colloïdale  « stable  » pour permettre leur agrégation (floculation) quand le 
+contact a lieu.  
+Elle précède comme le montre sa définition le phénomène de floculation.  La déstabilisation de la 
+charges des colloïdes qui les maintiennent éloignées les unes des  autres se fait à l’aide des 
+coagulants comme le sulfate d’aluminium, le polychlorure d’aluminium, le chlorure ferrique… La 
+floculation est l’agglomération des particules colloïdales déstabilisées (coagulées). Cette étape de 
+traitement ne peut donc se situe r qu’après une coagulation.  
+ 
+3.2 Décanteur – filtration – Equilbre calco -carbonique  
+a- Décanteur -filtration  
+Décantation  
+ 
+L’étude de la décantation (ou sédimentation) est l’étude du déplacement d’une particule ou d’un 
+ensemble de particules dans un liquide ou repos ou en mouvement.  
+Toute particule est soumise à deux forces  : la force de pesanteur qui est la force motrice de chute, 
+les forces de frottement dues à des trainées de fluide s’opposant à ce mouvement. La force 
+résultante est la différence. STOKES a établi à partir de ces données, la loi qui permet de calculer 
+la vitesse de chute  : 
+ 
+2()
+18pL
+pdgV
+−=
+ 
+d = diamètre moyen d’une particule (m)  
+ρp = masse volumique de la particule (Kg/m3) 
+η = Viscosité dynamique de l’eau à la température considérée (en Poiseuille)  
+ρL = masse volumique de l’eau (1000 Kg/m3) 
+g = accélération de la pesanteur (9,81 m/s2) 
+ 
+
+--- PAGE 39 ---
+37 
+ Les densités du sable et du floc sont respectivement de 2650 kg/m3 et 1004 k/m3. Cette faible 
+différence entre la densité du floc et celle de l’eau peut dans, certains cas, poser des problèmes pour 
+la décantation.  
+ 
+Dans tous les cas, les particules éliminées par sédimentation sont celles dont la vitesse de 
+sédimentation Vs est supérieure à la valeur de la vitesse ascensionnelle ou vitesse de HAZEN (V H). 
+Le tableau suivant donne les expressions de la vitesse de HAZEN pour les trois principaux types 
+de décantation.  
+ 
+ 
+Tableau 6  : Expression de la vitesse de HAZEN pour  les trois principaux décanteurs  
+ 
+Type de décantation  Expression de V H 
+A flux vertical ascendant  
+H
+solQVS= 
+A flux horizontal  
+H
+solQVS= 
+Lamellaire (Contre ou co -courant  
+( 1) 'HQVn S cons =− 
+ 
+Q est le débit d’alimentation,  
+Ssol est la surface au sol de la zone de décantation  
+C’est  la surface d’une lamelle  
+n est le nombre de lamelle  
+α est l’angle d’inclinaison des lamelles  
+On distingue plusieurs types de décantation  : 
+ 
+- Les décanteurs classiques à flux vertical  : 
+ 
+Cette décantation est utilisée pour les petits débits d’eau à traiter, leur vitesse de HAZEN est de 
+l’ordre de 0,5 à 1 m/h  
+ 
+- Les décanteurs classiques à flux horizontal  : 
+ 
+La vitesse de HAZEN est comprise entre 1 et 1,5 m/h. C’est la vitesse limite pour obtenir des 
+rendements de 90%. Il faut 666 à 1000 m2 de surface pour un débit de 1000 m3/h. 
+ 
+- Les décanteurs lamellaires stricts  : 
+ 
+Ils sont considérés comme des décanteurs multi -étage dans lesquels la surface S a été multipliée 
+par les lamelles parallèles entre elles, en respectant un angle permettant l’évacuation des boues. 
+Selon la possibilité de circulation de l’eau et des boues on  a : 
+
+--- PAGE 40 ---
+38 
+ • Décantation co -courant  : l’eau à traiter et les boues circulent dans le même sens  
+• Décantation à contre -courant  : l’eau et les boues circulent dans le sens contraire.  
+Il existe aussi des décantations à courants croisés.  
+ 
+ 
+ 
+ 
+- Les décanteurs à lit de boues (ou à contact de boues)  :  
+ 
+L’idée est de mettre en contact l’eau floculée avec des boues déjà formées  maintenues à niveau 
+constant dans un décanteur cylindrique ou parallélépipédique à flux vertical . La décantation est 
+également améliorée.  
+ 
+- Les décanteurs à circulation de boues et à microsable  : 
+ 
+L’objectif principal est de créer une zone de contact entre l’eau coagulée, les boues stockées et 
+(éventuellement) du microsable. La différence avec les décanteurs à lit de boues est que le gradient 
+de vitesse dans la zone de boues est plus important grâce  à une agitation hydraulique ou mécanique, 
+ménagée au fond du décanteur. En outre, dans certains cas, un microsable de taille comprise entre 
+20 et 100 µm est introduit dans les boues (1 à 2 g/L). Le microsable améliore la floculation, alourdit 
+les flocs et  augmente ainsi leur vitesse et aussi préfilter l’eau dans la zone de réaction.  
+ 
+- Les décanteurs à technologies avancées  : 
+ 
+Ils permettent de décanter les eaux à des vitesses de HAZEN très élevées. Le principe est d’inclure 
+dans le même bloc, une zone de coagulation et de floculation (dont les gradients de vitesse ont été 
+optimisés) avec ajout de polyélectrolyte, recirculation de boues et/ou de microsable, ainsi qu’une 
+zone de décantation lamellaire.  
+ 
+Flottation  : 
+ 
+La flottation est un procédé de séparation liquide -solide basé sur la formation d’un ensemble appelé 
+attelage, formé des particules à éliminer, de bulles d’air et des réactifs, plus léger que l’eau. Cette 
+technologie convient pour éliminer des particules de diamètre compris entre 1 et 400 µm.  
+Principe  : l’eau brute, préalablement floculée, est mélangée à la partie basse de l’ouvrage dans une 
+chambre de contact avec de l’eau pressurisée, qui est distribuée uniformément par des pots de 
+détente, pour éviter la destruction des flocs. La boue accumu lée en surface sous forme de gâteau 
+est évacuée périodiquement par raclage.  
+L’OZOFLOTTATION brevetée est basée sur l’utilisation d’ozone en remplacement de l’air. Ce 
+procédé est très efficace en cas d’eau riche en algues ou en matières organiques colloïdales.  
+ 
+Filtration en profondeur  : 
+ 
+
+--- PAGE 41 ---
+39 
+ La filtration est un procédé destiné à clarifier un liquide qui contient des MES en les faisant passer 
+à travers un milieu poreux constitué d’un matériau granulaire.  
+La rétention des particules se déroule à la surface des grains grâce à des forces physiques. L’espace 
+intergranulaire définit la capacité de rétention du filtre. Au fur et à mesure du passage de l’eau, cet 
+espace se réduit, le filtre se colmate. Il faut al ors déclencher le retrolavage. La filtration permet une 
+élimination correcte de bactéries, de couleur et de la turbidité.  
+Type de matériaux de filtration en profondeur  : 
+ 
+Les matériaux utilisés sont des granules libres non adhérents les uns aux autres, insoluble, 
+inattaquables par le liquide filtré ni par les solides retenus. Le choix se porte sur le sable quartz 
+rond, la pierre ponce ou l’hydroanthracite pour les filtres b icouches. On utilise aussi la pouzzolane 
+dans le cas d’une déferrisation sous pression.  
+ 
+Caractéristiques des matériaux  : 
+ 
+Il est important de connaître la taille du plus petit grain et du plus gros grain afin de déterminer 
+l’homogénéité du matériau. La taille effective notée TE est celle qui correspond à l’ouverture de la 
+maille (d’un tamis AFNOR) laissant passer 10 % du  matériau. La connaissance de ce paramètre 
+permet de savoir que 90% de la masse des grains ont un diamètre supérieur à TE. Le coefficient 
+d’uniformité noté CU est le rapport des ouvertures de maille laissant passer respectivement 60 et 
+10% du sable.  
+60
+10TECUTE=
+ 
+ 
+Si ce paramètre tend vers 1, les grains du matériau présentent la même granulométrie.  
+L’homogénéité est respectée et satisfaisante pour les valeurs suivantes  : 
+-TE de 3 et 5% supérieure à la taille du grain le plus fin  
+-CU compris entre 1,35 et 1,4.  
+La forme des grains est variée. Les grains sont généralement ronds ou anguleux. Dans le dernier 
+cas, l’imbrication est moins que dans le cas des grains ronds et les espaces interstitiels sont plus 
+grands.  
+ 
+Constitution d’un filtre  : 
+ 
+On distingue le fond (solide pour supporter l’eau, gravier et le matériau filtrant), le gravier 
+support (retenir le sable et améliorer la distribution de l’eau) et le matériau filtrant.   
+On distingue les filtres fermés sous pression et les filtres ouverts.  
+ 
+Mécanisme de filtration  : 
+ 
+La filtration se déroule dans le volume des vides du matériau quantifié par le paramètre ε. Trois 
+mécanismes sont possibles  : 
+
+--- PAGE 42 ---
+40 
+ - La capture caractérisée par l’interception de la particule par frottement grâce à son inertie et 
+sa décantation.  
+- La fixation due aux forces de d’adsorption de type de VAN DER WALLS et facilitée par une 
+vitesse faible de l’eau.  
+- Le détachement sous l’influence de la vitesse de l’eau lors du lavage.  
+ 
+Lavage des filtres  : 
+ 
+Le lavage des filtres est réalisé en inversant le sens d’écoulement  de l’eau.  Le sable est mis en 
+expansion et les impuretés, moins denses que les grains de sable, sont décollées par les 
+phénomènes de frottement intergranulaire. La vitesse de l’eau du lavage à Traitements tertaires  
+contre -courant  est limitée du fait des pertes possibles du matériau.  
+ 
+b- Equilibre calco -carbonique  
+Les éléments fondamentaux jouent un rôle important dans les eaux naturelles. La connaissance des 
+équilibres dit calco -carbonique est fondamental pour une approche scientifique d’un certain 
+nombre de traitement. Il s’agit alors de déterminer les taux de traitem ent pour corriger une eau 
+agressive ou une eau incrustante (entartante ou calficiante).  
+L’eau naturelle avec sa diverse composition est une solution électriquement neutre  : La loi de 
+neutralité s’exprime alors par  : 
+ 
+Somme des équivalents cations = somme des équivalents anions.  
+ 
+[H3O+] + 2[Ca2+] + 2[Mg2+] + [Na+] + [K+] + [NH 4+] …. =  
+[OH-] + 2[CO 32-] + [HCO 3-] + 2[SO 42-] + [Cl-] + [NO 3-] + [NO 2-] +….  
+Cette équation se résume par :  
+ 
+[H3O+] + 2[Ca2+] + P = [OH-] + 2[CO 32-] + [HCO 3-] + N  
+Où P est la somme des cations caractéristiques, et N la somme des anions caractéristiques.  
+ 
+ 
+Relation entre les éléments fondamentaux  : 
+ 
+Cette relation est déduite des équilibres entre ces éléments présents dans l’eau.  
+ 
+
+--- PAGE 43 ---
+41 
+ 
+2 3 3
+33
+2 3 2 3 3 1
+23
+2
+33 2
+3 2 3 3 2
+3
+22
+3( ) 3(1) : 2 :                    
+(2) : :   
+(3) : :     
+(4) : :         sH O H O HO Ke H O HO
+HCO H O
+H CO H O HCO H O KH CO
+CO H O
+HCO H O CO H O K
+HCO
+CaCO Ca CO+ − + −
+−+
+−+
+−+
+− − +
+−
++−    + =    
+      + + =
+      + + =
++
+22
+3      Ks Ca CO+−   =    
+ 
+Ce dernier équilibre et le produit de solubilité K s qui le caractérise, traduisent l’exacte saturation 
+de l’eau en carbonate de calcium et définissant une eau à l’équilibre calco -carbonique.  
+✓ Si l’eau est en deçà de la saturation on alors la relation [Ca2+]×[CO 32-] < K s ; 
+✓ Si l’eau est saturée alors la relation devient  : [Ca2+]×[CO 32-] > K s . 
+Ke, K1, K2 et K s sont des constantes pour une température (T) et une force ionique donnée (I). C’est 
+dire donc que ces constantes sont fonctions de T et de I.  
+ 
+Force ionique (I)  : 
+ 
+La force ionique est une grandeur qui caractérise l’intensité des forces d’interaction s’exerçant 
+entre les ions, force qui dépendent des concentrations des divers ions présents dans l’eau.  
+2 1
+2ii I C Z=
+ 
+ 
+Ci est la concentration molaire de l’ion (mol/L) et Zi est la valence de l’ion.  
+La force ionique induit une correction sur les constantes et cette correction est désigné par ε et se 
+calcule par  : 
+1 1, 4I
+I=
++
+ 
+A partir de la force ionique, les constantes d’équilibres sont corrigées comme suit  : 
+ 
+11
+22'
+'
+'2
+'4pKe pKe
+pK pK
+pK pK
+pKs pKs
+
+
+=−
+=−
+=−
+=−
+ 
+
+--- PAGE 44 ---
+42 
+ Sachant que pk  = -logK  
+Le carbone dit carbone minéral rassemble  : H 2CO 3, HCO 3-, et CO 32- ; H 2CO 3 étant l’acide 
+carbonique (CO 2+H 2O). 
+On peut connaitre la répartition du carbone minéral en traçant le diagramme C min en font du pH 
+(Cim = [H 2CO 3], [HCO 3-], et [CO 32-] = (CO 2)total. 
+A partir de ce diagramme, on montre que  : 
+- pH < 4, tout le carbone minéral se trouve sous force H 2CO 3 
+- 4 < pH < 8, [CO 32-]= 0 et il existe un équilibre entre H 2CO 3 et HCO 3- 
+- pH > 8 alors  [H 2CO 3] = 0 et il y a un équilibre entre HCO 3-, et CO 32-. 
+Ainsi, au regard du domaine de pH des eaux naturelles, quelles sont les espèces du carbone minéral 
+dans l’eau  ? 
+Réponse  : équilibre entre H 2CO 3 et HCO 3- 
+ 
+Toutes les eaux contiennent en quantité plus ou moins importante, de l’acide carbonique (H 2CO 3), 
+des ions monohydrogénocarbonates (HCO 3-) et les carbonates (CO 32-). 
+Toutes ces espèces chimiques sont interdépendantes  : c’est l’équilibre calcocarbonique. Le 
+comportement de l’eau dépend du fait qu’elle soit ou non en équilibre. L’eau fera tout pour le 
+retrouver dans les canalisations. Les eaux agressives attaquent la cou che des canalisations alors 
+que les eaux entartrantes ou incrustantes, provoquent le colmatage par dépôt du calcaire.  
+La réaction prédominante est la suivante  : 
+ 
+CaCO 3    +   CO 2 + H2O   
+1
+2⎯⎯ →⎯ ⎯   Ca(HCO 3)2 
+ 
+Le calcaire ou le c arbonate de calcium est insolubl e alors que le dihydrogénocarbonate de calcium 
+est soluble. L’équilibre entre les deux espèces est fonction de la teneur du CO 2 définit comme 
+concentration en CO 2 équilibrant.  
+Deux cas peuvent se présenter  : 
+- Si la concentration en CO 2 libre est supérieure à celle du CO 2 équilibrant, le sens 1 est favorisé. 
+Le CO 2 excédentaire attaque la couche calcaire présente dans les canalisations. L’eau est 
+agressive.  
+ 
+- Le manque du CO 2 favorise le sens 2  et une partie du Ca(HCO 3)2 se dépose en calcaire et 
+augmente la teneur du CO 2 libre. L’eau est entartrante ou incrustante.  
+ 
+ 
+Répartition du CO 2 total :  
+ 
+ 
+ 
+
+--- PAGE 45 ---
+43 
+  
+ 
+ 
+ 
+ 
+4 Traitements tertaires  
+4.1 Mécanisme de désinfection – caractéristiques des eaux à désinfecter  
+a- Micro -organismes  
+ 
+Les agents pathogènes transmis par voie hydrique sont de trois types  : les bactéries, les virus et 
+les parasites . On recherche les GTCF  : germes témoins de la contamination fécale qui sont 
+témoins d’une contamination fécale. Les coliformes, streptocoques et salmonelles constituent les 
+GTCF.  
+La disparition de ces germes par désinfection n’est pas nécessairement synonyme du zéro risque 
+sanitaire. Le choix doit se porter sur un GID  : germe d’indicateur de désinfection, qui est plus 
+résistant que les pathogènes. Les bactériophages et les spores b actériennes remplissent cette 
+condition.  
+ 
+b- Loi de CHICK  
+ 
+CHICK a établi une relation empirique qui quantifie le nombre de microorganismes survivants au 
+temps t en présence d’une concentration C d’un désinfectant  : 
+t
+00 intégrant, on obtient:
+N NtLn exp( ) exp( )NNn
+nndNkN avec k conste de réaction Cdt
+En
+C t ou C t kt=− = =
+=− = − = −
+ 
+ 
+ 
+N0 est le nombre de microorganismes initialement présent à t = 0  
+CO2 total  
+   CO2 libre (CO2  équilibrant + CO2  agressif)  
+CO2   combiné (HCO3-, CO32-) 
+
+--- PAGE 46 ---
+44 
+ Nt, le nombre de microorganismes survivants au temps t, en présence de la concentration en 
+désinfectant C,  
+k, la constante de vitesse, qui dépend du microorganisme, du désinfectant et des conditions 
+opératoires (température, pH, force ionique…),  
+t, le temps de contact avec l’oxydant,  
+C, la concentration en oxydant (supposée constante pendant toute la durée de l’inactivation),  
+
+, c’est le coefficient  spécifique de létalité du micro -organisme en présence du désinfectant étudié,  
+n = coefficient de dilution, n est une constante qui caractérise un désinfectant donné. Par exemple 
+n = 1 pour le chlore et environ 2 pour le dioxyde de chlore dans le cas de la désinfection de 
+Escherichia coli.  
+On définit un couple de concentration -temps (CT) qui doit être préconisé pour chaque 
+microorganisme. Un désinfectant est d’autant plus efficace si son CT est faible.  
+ 
+c- Mode d’action des désinfectants  
+ 
+L’action d’un désinfectant chimique ou physique varie suivant de nombreux paramètres.  
+- Le pH influence l’efficacité du chlore. En effet, le pourcentage de la forme oxydante réellement 
+bactéricide évolue suivant l’acidité du milieu,  
+- Les matières organiques consomment l’oxydant avant que celui –ci n’ait agi sur les micro -
+organismes  ;  
+- La résistance de ceux -ci est primordiale car une bactérie peut être sensible ou résistante en 
+développant des formes résistantes comme des spores.  
+- La température peut faire augmenter ou abaisser la réactivité d’un oxydant.  
+Seul l’ozone possède une forte activité virulicide. Il oxyde directement ou par radicaux libres les 
+protéines de l’enveloppe  et de la capside dont la perméabilité augmente brutalement. L’oxydation 
+de l’acide nucléique est alors possible.  
+Les mécanismes d’inactivation des protozoaires sont mal connus. Néanmoins, la rupture 
+membranaire semble être en cause. Le Cl 2 et le ClO 2 sont inefficace. L’ozone a une action certaine.  
+La persistance  d’un oxydant dans l’eau traitée ou rémanence , est la garantie de la limitation de la 
+prolifération des micro -organismes dans le réseau de distribution. L’ozone ne possède pas cette 
+qualité.  
+ 
+d- Pouvoir désinfectant  
+ 
+L’efficacité d’un désinfectant est déterminée par la relation temps -dose pour inactiver 99% d’une 
+souche référence . Les bactéries sont référencées par rapport à Escherichia coli , les virus par le 
+Poliovirus  et les protozoaires parasites par les kystes de Giardia .  
+Plus le CT est faible, plus le désinfectant est efficace. La forme acide hypochloreux de Cl 2 en 
+solution dans l’eau est loin la plus bactéricide. L’ion ClO-, forme conjuguée suivant les valeurs du 
+pH, est 60 fois moins efficace. La monochloramine ne possède qu’un pouvoir désinfectant très 
+relatif.  
+
+--- PAGE 47 ---
+45 
+  
+Tableau 1  : Valeur du produit CT en fonction du microorganisme  
+ 
+Microorganismes  OHCl  NH 2Cl ClO 2 O3 
+Escherichia coli  0,034 - 0,05 95 - 180 0,4 - 0,75 0,02 
+Poliovirus  1,1 - 2,5 770 - 3740  0,2 – 6,7 0,1 – 0,2 
+Kystes Giardia  30 - 630 1400  7,2 – 18,5  1,8 - 2 
+ 
+Le chlore et le dioxyde de chlore ont un spectre d’activité et une efficacité comparable. Etant 
+donnée les valeurs de CT, l’ozone est le désinfectant le plus puissant.  Sa mise en œuvre dans une 
+filière de traitement est une garantie sur la qualité bactériologique d’une eau, même en ce qui 
+concerne les formes les plus résistantes co mme les virus et les parasites.  
+ 
+En ce qui concerne les eaux résiduaires urbaines, la concentration en GTCF pour 100 mL d’effluent 
+entrant s’établit entre 107 et 109 de coliformes totaux, 104-108 de coliformes fécaux et de 104-107 
+de streptocoques. Les différents traitements d’une filière classique permettent un abattement 
+bactérien sans avoir recours à un désinfectant.  
+ 
+4.2 Désinfectants – demande en chlore – point de rupture – stockage et distribution du 
+chlore  
+a- les désinfectants  
+- Chlore et dérivés  
+ 
+Le chlore est un gaz jaune -vert qui lors de la dissolution dans l’eau se dismute en acide 
+hypochloreux (HOCl), ion chlorure (Cl-) et en proton (H+).  
+ 
+L’acide hypochloreux  est un acide faible qui se dissoci e dans l’eau en ion hypochlorite  et en proton . 
+ 
+L’eau de Javel NaOCl ou l’hypochlorite de sodium est liquide jaune verdâtre commercialisé sous 
+forme d’un liquide équimolaire d’hypochlorite de sodium et de chlorure de sodium, à une 
+concentration de 48 degrés chlorimétrique, soit environ 150 g de chlore l ibre par litre.  
+Cette famille d’oxydant contient un certain nombre d’impuretés. Les composés les plus gênants 
+sont les bromures Br-, les bromates BrO 3-, des métaux lourds tels que le plomb, le mercure et le 
+chrome ainsi que les molécules organochlorées comme le tétrachlorure de carbone CCl 4 et le 
+chloroforme HCCl 3. 
+ 
+- Dioxyde de chlore  
+ 
+Le dioxyde de chlore (ClO 2) est un gaz dense (2,4 fois la densité de l’air) et a une couleur jaune. 
+Les réactions de formation du dioxyde de chlore à partir de Cl 2 ou d’HCl et de chlorite de sodium 
+
+--- PAGE 48 ---
+46 
+ NaClO 2, génèrent des chlorites et des chlorates. Parallèlement au problème du chlore, la solution 
+de NaClO 2 contient un certain nombre d’impuretés  : ClO 3-, BrO 3-, mais plus surprenant des 
+organochlorés. Le dioxyde de chlore n’est pas un agent de chloration. On pensait que son utilisation 
+ne pouvait entraîner la formation d’organochlorés. Il n’en est rien du fait de l’existence des 
+impuretés contenues dans les solu tions préparatrices.  
+ 
+- Ozone  
+ 
+L’ozone est un gaz produit à partir de l’oxygène et de l’air (ou d’oxygène pur). Il est préparé sur le 
+site d’utilisation.  
+ 
+ 
+b- Dempande en chlore – point de rupture  
+Dans la pratique, la demande en chlore d’une eau doit être mesurée dans les conditions 
+expérimentales qui dépendent des données locales (temps de séjour en réservoir de stockage, temps 
+de séjour en réseau). On peut distinguer deux méthodes de mesure de cet te demande en chlore, qui 
+vont conduire à l’évaluation du chlore a appliquée.  
+Première méthode dite du « break -point » ou « point de rupture »  
+Elle consiste à ajouter dans une série de flacons contenant le même volume d’eau, des doses 
+croissantes de chlore. La demande en chlore est donnée par le premier flacon dans lequel on décèle 
+du chlore libre, au bout d’un temps de contact donné (généralemen t de 2 heures).  
+Il est important de ne mesurer que le chlore libre car c’est la forme la plus efficace du chlore pour 
+la désinfection (par rapport aux chloramines minérales). Le tracé de la courbe de la concentration 
+résiduelle en chlore (libre + combiné) en fonction de l a dose de chlore introduite dans chaque flacon 
+est une méthode efficace pour les eaux contenant l’azote ammoniacal. Dans ce cas, on obtient une 
+courbe de « break -point » pouvant inclure 4 zones comme l’indique la figure.  
+
+--- PAGE 49 ---
+47 
+  
+Figure 1 : Courbe typique de break -point d’une eau naturelle.  
+Zone A : Consommation initiale de chlore par les composés très réactifs  
+Zone B : zone de formation des chloramines minérales entre le chlore libre et l’azote ammoniacal.  
+Zone C : Zone de destruction des chloramines par le chlore libre  
+Zone D : zone de présence de chlore libre (et traces de trichloramine).  
+ 
+La désinfection n’est optimale que pour des taux de chlore appliqués supérieurs à celui 
+correspondant au break point. Théoriquement, ce taux (en mg/L de chlore) doit être à 7,6 fois la 
+teneur en azote ammoniacal (en mg/L d’azote). En fait, la présence dans  l’eau de nombreux 
+composés consommateurs de chlore augmente significativement cette valeur. Par exemple pour un 
+temps de 3 heures de chloration, la demande en chlore (en mg/LCl 2) de quelques eaux brutes a été 
+trouvée égale à 7,6 × (N -NH4+ en mg/L) + (0,5 à 0,7)×(COT en mg/L).  
+Deuxième méthode  : elle consiste à suivre la concentration résiduelle du chlore libre en fonction 
+du temps. Dans ce cas, les taux de chloration sont choisis de manière à ce qu’une concentration 
+résiduelle de chlore libre soit encore présente après un temps donné. Les temp s de chloration sont 
+de l’ordre de grandeur de la durée du stockage en réservoir de chloration (demande en chlore 
+immédiate), soit de quelques dizaines d’heures (24 à 72 heures) pour simuler la consommation en 
+chlore par l’eau pendant son t emps de séjour en réseau.  
+c- stockage et distribution du chlore  
+Le chlore est un produit corrosif et de ce fait ne doit pas être inhalé car il présente des risques 
+importants pour les voies respiratoires.  
+A B 
+C D 
+
+--- PAGE 50 ---
+48 
+ Il est commercialisé sous forme liquéfiée dans des tanks en acier qui doivent être conservés en 
+milieu sec. Il est produit industriellement par électrolyse du chlorure de sodium.  
+Les fuites de Cl 2 peuvent être neutralisées par une solution de Soude.  
+L’hypochlorite de sodium ou eau de Javel est une solution commerciale de NaClO et de NaCl 
+définie par son degré chlorimétrique (47 – 48 °).  
+Le chlore peut être aussi commercialisé sous forme d’hypochlorite de calcium à l’état solide. 
+L’utilisation de chlore gazeux se fait par un ensemble de chloromètre et hydro -éjecteur. La mise 
+en œuvre de l’eau de Javel ou d’une solution d’hypochlorite de Ca lcium se fait par une pompe 
+doseuse.  
+ 
+- Degré chlorimétrique  : 
+ 
+Le degré chlorimétrique d’une solution d’eau de Javel représente la concentration d’une solution 
+qui dégage 1 litre de Chlore par litre de solution dans les conditions normales de pressions et de 
+température par action de HCl.  
+1 mol →   22,4 L  
+n      →     1 L  
+Le calcul donne n = 0,044 mol  
+Soit pour 1L de la solution, C = 0,044 mol/L  
+La concentration massique en chlore est alors donnée par  
+T = C.M Cl2 =  0,044 * 71 = 3,17 g/L  
+ 
+1°chlorimétrique = 3,17 g/L  
+Soit 48 ° chlorimétrique correspond à environ 150 g/L  
+ 
+

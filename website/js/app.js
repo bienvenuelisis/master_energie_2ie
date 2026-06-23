@@ -114,7 +114,9 @@ function renderUE07Summary(){return`<div style="display:grid;grid-template-colum
 // ============================================
 function renderResume(container){
   const ue=UES[currentUE];
-  container.innerHTML = currentUE==='ue06' ? resumeUE06(ue) : resumeUE07(ue);
+  if(currentUE==='ue06') container.innerHTML = resumeUE06(ue);
+  else if(currentUE==='ue07') container.innerHTML = resumeUE07(ue);
+  else container.innerHTML = resumeUE08(ue);
 }
 
 function resumeUE06(ue){ return `<h2>📋 Résumé détaillé — ${ue.name}</h2>
@@ -314,6 +316,79 @@ ${ac('🛡️ 9. Sécurité, nuisances et suivi',`
   <p><strong>Contrôle des poussières :</strong> l'<strong>eau</strong> est la seule arme efficace — vaporisation en nuage, arrosage continu, réduction de la hauteur de chute des blocs, <strong>débourbeur de roue</strong> en sortie de chantier, bâches sur bennes.</p>
   <p><strong>Suivi de chantier :</strong> comparer le réalisé aux prévisions, fiches de non-conformités, tableau de bord du process, rapports journaliers/hebdomadaires de suivi des déchets (type camion, matériaux, volume/masse, destination).</p>
   <p><strong>Réunion de chantier :</strong> coordination, suivi du planning, qualité, sécurité, maîtrise des coûts.</p>
+`)}`;
+}
+
+function resumeUE08(ue){ return `<h2>📋 Résumé détaillé — ${ue.name}</h2>
+${ac('💧 1. Concepts fondamentaux de l\'hydraulique',`
+  <p>L'<strong>hydraulique</strong> est l'étude des écoulements. On distingue deux grandes catégories :</p>
+  <ul style="padding-left:1.2rem;margin:.4rem 0">
+    <li><strong>Écoulements en charge :</strong> l'eau remplit complètement la canalisation, la pression est supérieure à la pression atmosphérique. <em>Ex : réseaux d'eau potable, conduites forcées.</em></li>
+    <li><strong>Écoulements à surface libre :</strong> interface entre l'eau et l'air, pression = pression atmosphérique à la surface. <em>Ex : rivières, canaux d'irrigation, réseaux d'assainissement.</em></li>
+  </ul>
+  <p><strong>Classification dans le temps :</strong> Un écoulement est <strong>permanent</strong> si le débit Q est invariable dans le temps, <strong>non permanent</strong> si Q et la vitesse U changent (ex : fermeture de vanne, arrêt de pompe). Un écoulement permanent peut être <strong>uniforme</strong> (section et vitesse constantes) ou <strong>varié</strong> (changement progressif ou brusque de section).</p>
+  <p><strong>Nombre de Reynolds :</strong> Re = U×DH/ν = 4Q/(πDν). Il détermine le régime : <strong>Re < 2000 = laminaire</strong> (filets fluides parallèles), <strong>2000-4000 = transitoire</strong>, <strong>Re > 4000 = turbulent</strong> (mélange chaotique). La viscosité cinématique ν de l'eau à 20°C ≈ 1,01×10⁻⁶ m²/s.</p>
+  <p><strong>Charge hydraulique H</strong> (énergie totale par unité de poids, en mètres) : <span class="formula-math" style="display:inline">H = z + p/ρg + V²/2g</span> — somme de l'énergie de position (z), de pression (p/ρg) et cinétique (V²/2g).</p>
+`)}
+${ac('📏 2. Pertes de charge et dimensionnement des conduites',`
+  <p>Les <strong>pertes de charge</strong> sont la dissipation d'énergie due aux frottements du fluide contre les parois. Elles sont de deux natures :</p>
+  <ul style="padding-left:1.2rem;margin:.4rem 0">
+    <li><strong>Linéaires (régulières) :</strong> le long des tronçons droits, dues à la rugosité de la conduite.</li>
+    <li><strong>Singulières (locales) :</strong> aux changements de direction ou de section (coudes, vannes, élargissements).</li>
+  </ul>
+  <p><strong>Formule de Darcy-Weisbach :</strong> <span class="formula-math" style="display:inline">ΔH = λ·(L/D)·(U²/2g)</span> où λ est le coefficient de perte de charge. λ est déterminé par l'<strong>équation de Colebrook-White</strong> : 1/√λ = -2log(k/(3,71D) + 2,51/(Re√λ)), fonction du nombre de Reynolds Re et de la rugosité relative k/D.</p>
+  <p><strong>Formule de Manning-Strickler (conduite) :</strong> <span class="formula-math" style="display:inline">ΔH ≈ 10,294×Q²×L/(KS²×D^(16/3))</span>. KS dépend du matériau : PVC = <strong>120</strong>, Béton = <strong>100</strong>, Fonte neuve = <strong>80</strong>.</p>
+  <table><tr><th>Matériau</th><th>KS</th><th>k [mm]</th></tr>
+  <tr><td>PVC / Plastique</td><td>120</td><td>0</td></tr>
+  <tr><td>Béton centrifugé</td><td>100</td><td>0,25</td></tr>
+  <tr><td>Fonte acier revêtue ciment</td><td>90</td><td>0,5</td></tr>
+  <tr><td>Fonte acier non revêtue (neuf)</td><td>80</td><td>1</td></tr>
+  <tr><td>Fonte acier non revêtue (ancien)</td><td>75</td><td>2</td></tr></table>
+  <p><strong>Conduites en série :</strong> même débit Q partout, ΔH totale = somme des pertes de chaque tronçon. <strong>Conduites en parallèle :</strong> même ΔH aux bornes, Q total = somme des débits.</p>
+  <p><strong>Diamètre économique :</strong> formule de <strong>Bresse</strong> : Φ = 1,5×√Q × 1000 [mm] (Vm ≈ 0,57 m/s). <strong>Bonnin</strong> : Φ = √Q × 1000 [mm] (Vm ≈ 1,27 m/s).</p>
+`)}
+${ac('🌊 3. Écoulements à surface libre',`
+  <p>Dans un canal, la surface de l'eau est en contact avec l'air à la pression atmosphérique. Les grandeurs clés sont : le <strong>tirant d'eau y</strong> (hauteur d'eau), la <strong>section mouillée S</strong>, le <strong>périmètre mouillé P</strong>, le <strong>rayon hydraulique RH = S/P</strong>.</p>
+  <p><strong>Nombre de Froude :</strong> <span class="formula-math" style="display:inline">Fr = U/√(g×ym)</span> où ym = profondeur moyenne = S/l.</p>
+  <ul style="padding-left:1.2rem;margin:.4rem 0">
+    <li><strong>Fr < 1 :</strong> régime <strong>fluvial</strong> (subcritique) — écoulement lent, contrôlé par l'aval</li>
+    <li><strong>Fr = 1 :</strong> régime <strong>critique</strong></li>
+    <li><strong>Fr > 1 :</strong> régime <strong>torrentiel</strong> (supercritique) — écoulement rapide, contrôlé par l'amont</li>
+  </ul>
+  <p><strong>Formule de Manning-Strickler pour canaux :</strong> <span class="formula-math" style="display:inline">Q = KS×S×RH^(2/3)×√I</span> et <span class="formula-math" style="display:inline">U = KS×RH^(2/3)×√I</span> où I est la pente du radier.</p>
+  <p><strong>Profondeur critique yc :</strong> pour un canal rectangulaire, <span class="formula-math" style="display:inline">yc = (Q²/(b²g))^(1/3)</span>. Si <strong>yn > yc</strong> → régime fluvial. Si <strong>yc > yn</strong> → régime torrentiel.</p>
+  <p><strong>Section hydrauliquement favorable :</strong> pour un canal trapézoïdal, <span class="formula-math" style="display:inline">b = 2y(√(1+m²)-m)</span>. Elle donne la vitesse maximale pour une pente et un débit donnés.</p>
+  <p>La vitesse maximale dans un canal se situe au <strong>tiers de la profondeur</strong> depuis la surface. Formule de Prony : U = 0,82 × Vmax. La mesure au moulinet : V = a×n + b.</p>
+`)}
+${ac('⚙️ 4. Pompes et turbopompes',`
+  <p>Une <strong>pompe</strong> est une machine qui élève le niveau d'énergie d'un fluide. La <strong>pompe centrifuge</strong> (turbopompe) transforme l'énergie cinétique en pression : ΔP/ρ = -Δ(U²/2).</p>
+  <p><strong>Les 4 courbes caractéristiques :</strong> débit-hauteur (HMT), débit-puissance, débit-rendement, débit-NPSH requis.</p>
+  <p><strong>HMT (Hauteur Manométrique Totale) :</strong> <span class="formula-math" style="display:inline">HMT = Hgéo + Jasp + Jref + (PB-PA)/ρg</span>. C'est l'énergie que la pompe doit fournir au fluide.</p>
+  <p><strong>Vitesse spécifique Ns :</strong> <span class="formula-math" style="display:inline">Ns = N√Q/H^(3/4)</span>. Elle détermine le type de pompe : Ns ≤ 20 → multicellulaire, 20-60 → monocellulaire, 60-100 → double corps, 100-150 → hélico-centrifuge, >150 → hélice.</p>
+  <p><strong>Cavitation :</strong> phénomène d'ébullition quand la pression descend sous la pression de vapeur saturante. Les bulles implosent et détériorent la roue. Condition : <strong>NPSHdis > NPSHreq + 0,5</strong>.</p>
+  <p><strong>NPSH disponible :</strong> <span class="formula-math" style="display:inline">NPSHdis = 10,33 - 0,0012×Z - Ha - Jasp - Pv/ρg - VE²/2g</span>. La hauteur max d'aspiration au niveau de la mer est de <strong>10,33 m</strong>, réduite en altitude.</p>
+  <p><strong>Lois de similitude (changement de vitesse N) :</strong> Q ∝ N, H ∝ N², P ∝ N³. <strong>Rognage de la roue (≤15%) :</strong> Q ∝ D², H ∝ D², P ∝ D⁴.</p>
+  <p><strong>Équipements aspiration (NF CR13932) :</strong> crépine immergée ≥ 0,30 m sous basses eaux, convergent avec génératrice supérieure horizontale, pente montante ≥ 2% vers la pompe, longueur droite amont = 5×D.</p>
+`)}
+${ac('🧪 5. Qualité de l\'eau et normes',`
+  <p>Une eau potable doit être <strong>saine, d'un goût agréable, incolore, insipide et inodore</strong>. Deux catégories de constituants : les composés dangereux (normes maximales) et les substances nécessaires (normes minimales et maximales).</p>
+  <p><strong>Normes biologiques — tolérance zéro :</strong> OMS, CEE et normes françaises exigent <strong>0 coliformes totaux et fécaux / 100 mL</strong>, 0 streptocoques fécaux / 100 mL, absence de salmonelles et staphylocoques pathogènes.</p>
+  <p><strong>Principales maladies hydriques :</strong></p>
+  <ul style="padding-left:1.2rem;margin:.4rem 0">
+    <li><strong>Fièvre typhoïde :</strong> Salmonella typhi, survit des semaines/mois dans l'eau</li>
+    <li><strong>Choléra :</strong> Vibrio cholerae, endémique Asie/Afrique, très sensible au chlore</li>
+    <li><strong>Bilharziose :</strong> Schistosoma mansoni (ver parasite), milieux tropicaux</li>
+    <li><strong>Gastro-entérites :</strong> Shigella, Salmonella, E. coli</li>
+  </ul>
+  <p><strong>Normes physico-chimiques :</strong> pH 6,5-8,5, température ≤ 25°C, turbidité < 2 NTU, conductivité ~400 µS/cm (objectif).</p>
+  <p><strong>Métaux toxiques :</strong> Plomb → saturnisme (accumulation os, anémie). Mercure → maladie de Minamata. Cadmium → reins. Arsenic → cancer peau. Nitrates/nitrites → méthémoglobinémie (nourrissons). Fluor >4 mg/L → fluorose dentaire.</p>
+  <p><strong>Niveau Autorisé (NA) :</strong> <span class="formula-math" style="display:inline">NA = ADI × 60 / FI</span> où ADI = prise moyenne quotidienne (µg/kg/j), 60 kg = poids corporel moyen, FI = facteur d'impact.</p>
+`)}
+${ac('🔄 6. Le cycle de l\'eau et l\'hydrologie',`
+  <p>Le <strong>cycle de l'eau</strong> est alimenté par l'énergie solaire qui provoque l'évaporation. Les principales étapes : <strong>évaporation</strong> (océans, lacs, sols) → <strong>condensation</strong> (nuages) → <strong>précipitations</strong> (pluie, neige) → <strong>ruissellement</strong> (cours d'eau) et <strong>infiltration</strong> (nappes souterraines) → retour aux océans. L'<strong>évapotranspiration</strong> combine l'évaporation du sol et la transpiration des plantes.</p>
+  <p><strong>Bilan hydrologique simplifié :</strong> <span class="formula-math" style="display:inline">P = ETR + R + I</span> — Précipitations = Évapotranspiration Réelle + Ruissellement + Infiltration.</p>
+  <p><strong>Aquifère :</strong> formation géologique perméable capable de stocker et transmettre l'eau souterraine. Une <strong>nappe libre</strong> a sa surface à la pression atmosphérique. Une <strong>nappe captive</strong> est confinée entre deux couches imperméables et se trouve sous pression (puits artésiens).</p>
+  <p><strong>Bassin versant :</strong> territoire drainé par un cours d'eau et ses affluents, où toutes les eaux convergent vers un même exutoire. Le <strong>ruissellement</strong> se produit quand l'intensité des précipitations dépasse la capacité d'infiltration du sol.</p>
 `)}`;
 }
 

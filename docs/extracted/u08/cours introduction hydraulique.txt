@@ -1,0 +1,3356 @@
+--- PAGE 1 ---
+1 
+ Cours  : introduction à l ’hydraulique  
+ 
+ 
+ 
+Chapitr e 1 : Généralités  sur les écoulements en charge  et à surface libre  
+I – Caractéristiques des écoulements  
+L’hydraulique est l’étude des écoulements. On distingue deux types d’écoulements à savoir :  
+ Les écoulements en charge , dans lesquels l’eau remplit complètement la 
+canalisation, c’est le cas notamment des réseaux d’eau potable ;  
+ Les écoulements à surface libre  (interface entre l’eau et l’air), c’est le cas des 
+rivières et des réseaux d’assainissement.  
+ 
+I – 1 Classification des écoulements  
+On peut résumer la classification des écoulements selon la variation du débit Q ou de la 
+vitesse U ou encore de la profondeur d’eau y en fonction de l’abscisse x le long de la conduite 
+et du temps  : Q (x, t)  ou U (x, t) ou y(x, t).  
+      
+(i) Ecoulement permanent  
+Le caractère permanent ou non d’un écoulement est un indicateur de la variabilité de 
+l’écoulement dans le temps. On parle d’écoulement permanent lorsque le débit Q reste 
+invariable dans le temps. On peut rencontrer dans ce cas les types suivants  : 
+ 
+❖ Ecoulement conservatif  : Q = cste  
+Le débit n’est pas fonction de x (pas de prélèvement s ni d’apports). Cependant, on y 
+distingue  : 
+➢ Ecoulement uniforme   
+L’uniformité est un indicateur de la variabilité spatiale des écoulements. Il correspond à un 
+écoulement à débit constant dans une même section, donc Q, S  et P sont invariables. C’est 
+le cas de l’écoulement dans les tuyaux ou canaux rectilignes à diamètre ou largeur constant 
+et loin des singularités.  
+➢ Ecoulement varié  
+On les rencontre dans les cas où la vitesse moyenne change avec le changement de section, 
+le débit restant le même. Toutefois, on y distingue  : 
+
+--- PAGE 2 ---
+2 
+ • Ecoulement graduellement varié  
+Un écoulement sera dit graduellement varié sur un tronçon donné, lorsque la vitesse 
+moyenne  ou de la profondeur  varie graduellement sur le tronçon considéré. Il est observable 
+au niveau des singularités du type élargissement progressif ou rétrécissement progressif.  
+• Ecoulement brusquement varié  
+Il est rencontré lors d’un changement brusque de la section transversale, d’où une variation 
+brusque de la vitesse moyenne à l’endroit de la singularité.  
+❖ Ecoulement non conservatif  : Q ≠ cste  
+Le débit change le long du système considéré. Par conséquent, les vitesses moyennes 
+changent aussi (par exemple, conduite non étanche ou avec des prélèvements ou des 
+injections).  
+ 
+(i) Ecoulement non permanent  
+Le débit et la vitesse moyenne changent en fonction du temps, dans une section donnée. Les 
+changements s’effectuent aussi le long d’un tronçon considéré. Dans ces conditions, les 
+écoulements non permanents uniformes sont rares sinon inexistants. On y renco ntre les 
+écoulements non permanents graduellement variés (ex  : fermeture progressive d’une vanne) 
+et les écoulements non permanents brusquement variés (ex  : arrêt brusque d’une pompe).  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure I - 1 : Type d’écoulement et variabilité spatio -temporelle. a) variabilité dans le temps  ; b) variabilité dans l’espace  
+ 
+II – Ecoulement en charge  
+
+
+--- PAGE 3 ---
+3 
+ Un écoulement en charge est un écoulement confiné à l’intérieur d’un contenant , en 
+général une conduite  circulaire . L’eau remplit totalement la conduite  et la pression 
+y est supérieure à la pression atmosphérique ou encore plus que la pression de vapeur 
+saturante. Cette pression dépend des conditions régnant aux limites amont et aval de la 
+conduite et du débit instantané. L’écoulement en charge ( Figure I  – 1) se distingue de 
+l’écoulement à surface libre car en aucun cas, on ne peut admettre la présence d’une surface 
+libre dans la conduite.  
+ 
+ 
+ 
+Figure I  – 2 : Section droite d’une conduite  
+ 
+II – 1 Eléments géométriques et hydrauliques d’une conduite  circulaire  
+Dans une coupe perpendiculaire au sens de l’écoulement de l’eau, on définit les termes 
+suivants  : 
+• Surface ou section mouillée S  : c’est l’aire occupée par l’eau dans une coupe 
+perpendiculaire à la direction de l’eau. En écoulement en charge 𝑆= 𝜋 𝐷2
+4 
+• Périmètre mouillé P  : c’est la longueur de la ligne de contact entre l’eau et les parois 
+dans un plan perpendiculaire à la direction de l’eau. En écoulement en charge  𝑃= 𝜋 𝐷 
+• Rayon hydraulique RH : c’est le quotient S/P . Pour une section circulaire de 
+diamètre D, R H = D/4.  
+• Diamètre hydraulique D H : D H = 4 x RH. Pour les  conduites circulaires, D H =  de 
+la conduite.  
+ 
+II – 2 Régimes d’écoulement  
+Selon la vitesse relative aux dimensions géométriques de l’écoulement , on observe, à partir 
+d’un certain seuil de vitesse l’apparition de fluctuations de l’écoulement que l’on nomme 
+turbulence . Le nombre de Reynolds permet de déterminer le régime d’écoulement.  
+ 
+II – 2.1 Expérience de Reynolds  
+
+
+--- PAGE 4 ---
+4 
+ On fait passer de l’eau propre dans un tube en 
+verre transparent, où l’on introduit un petit 
+filament, fortement coloré, dans la direction 
+coïncidant avec l’axe du tube. Si la vitesse de l’eau 
+dans le tube est relativement faible, le filament 
+coloré se mai ntient rectiligne et coïncide avec l’axe 
+du tube  : c’est le régime laminaire  où chaque 
+particule fluide se déplace parallèlement à l’axe du tube et avec une vitesse constante.  
+Si la vitesse augmente, le filet de colorant devient sinueux  ; il oscille et s’élargit  : c’est le 
+régime de transition . 
+Quand la vitesse devient élevée, le filet ne reste net que sur une petite longueur ; le volume 
+de liquide coloré est de plus en plus grand en même temps que la couleur s’atténue. Un 
+mélange intégral s’observe plus loin où l’on a une coloration uniforme  : c’est le régime 
+turbulent  où les diverses particules fluides se déplacent dans des directions et à des vitesses 
+variables formant des tourbillons.  
+ 
+II – 2.2 Nombre de Reynolds  
+A travers l’expérience mentionnée ci -dessus, Reynolds a donné des critères de passage d’un 
+régime à un autre basé sur un nombre adimensionnel appelé nombre de Reynolds  et qui 
+caractérise les écoulements en charge. Ce nombre caractérise le rapport des forces 
+d’inertie  sur les forces de viscosité  qui sont les deux forces impliquées dans les 
+variations de pressions du liquide dans la canalisation. Il a pour expression :  
+𝑹𝒆= 𝑼 × 𝑫𝑯
+        𝒆𝒕        =𝟏.𝟕𝟗𝟐×𝟏𝟎−𝟔 ×[𝟏+(𝑻℃
+𝟐𝟓)𝟏.𝟏𝟔𝟓
+]−𝟏
+ 
+- U vitesse moyenne dans la section [m/s]  ; 
+- DH diamètre hydraulique [m]  ;   est la viscosité cinématique [m²/s]  fournie par 
+Swame (2  004) . 
+- Re < 2 000, l’écoulement est laminaire  ; 
+- 2 000 < Re < 4 000 l’écoulement est transitoire . 
+- Si Re > 4 000, l’écoulement est turbulent  ; 
+ Le nombre de Reynolds pour les conduites circulaires se résumé à la formule suivante :  
+𝑹𝒆= 𝟒 𝑸
+𝝅 𝑫  
+ 
+
+
+--- PAGE 5 ---
+5 
+ II – 3 Energie des écoulements  
+II – 3.1 Types d’énergie  
+L’énergie (ou travail) W est définie, en mécanique, comme le produit d’une force par un 
+déplacement. Elle est exprimée en joule (J) dans le Système International.  Dans le problème 
+d’hydraulique, l’énergie est en général rapportée à l’unité de poids (force) écoulé, et est 
+désignée d’une manière simplifiée par la charge E ou H, qui a, en conséquence, les 
+dimensions d’une longueur. Dans le Système International, elle s’exprime en mètres.  
+ 
+Si une particule de masse m est animée d’une vitesse V, son énergie cinétique est  WC = ½ m 
+V². L’énergie cinétique par unité de poids sera alors  : 
+𝐸𝑐= 𝑊𝑐
+𝑚 𝑔= 1
+2 𝑚 𝑉2
+𝑚 𝑔= 𝑉2
+2 𝑔 
+Si la particule considérée est à une cote z au-dessus d’un plan horizontal de référence, elle a, 
+en relation à ce plan, une énergie potentielle de position  donnée par W Z = m g z. En 
+rapportant cette énergie potentielle à l’unité de poids, on obtient  : 
+𝐸𝑧= 𝑊𝑧
+𝑚 𝑔=  𝑚 𝑔 𝑧
+𝑚 𝑔= 𝑧 
+Si de plus la particule est sujette à une pression p, elle possède une énergie de pression  
+notée W P : 
+𝑊𝑝=𝑝 ×𝑣 𝑎𝑣𝑒𝑐 𝑣=𝑚
+𝜌.    𝐷𝑜𝑛𝑐   𝑊𝑝=𝑝 ×𝑚
+𝜌  
+En rapportant cette énergie de pression à l’unité de poids, on obtient  : 
+𝐸𝑝=𝑊𝑝
+𝑚 𝑔 =𝑝 ×𝑚
+𝜌 × 1
+ 𝑚 𝑔= 𝑝
+𝜌 𝑔  
+Autrement dit, une particu le liquide animée d’une vitesse V sujette à une pression p et placée 
+à une cote z au-dessus d’un plan horizontal de référence, a, par unité de poids, les types 
+d’énergie suivants  : 
+Energie  Nom  Formulation  
+de 
+position  cote au -dessus d’un plan horizontal de référence ou hauteur 
+géométrique  𝐸𝑧= 𝑧 
+de 
+pression  pression exprimée en mètre de colonne d’eau ou hauteur 
+piézométrique  𝐸𝑝= 𝑝
+𝜌 𝑔 
+cinétique  hauteur cinétique  𝐸𝑐= 𝑉2
+2 𝑔 
+ 
+L’énergie totale, par unité de poids écoulé, sera alors  :     𝑯=𝒛+ 𝒑
+𝝆 𝒈+ 𝑽𝟐
+𝟐 𝒈    
+C’est la charge hydraulique . 
+ 
+
+--- PAGE 6 ---
+6 
+ II – 3.2 Théorème de Bernoulli  généralisé  
+Il exprime le principe de conservation de l’énergie mécanique totale d’un système isolé ou 
+encore la variation de l’énergie cinétique entre deux sections données est égale au travail des 
+forces intérieures et extérieures appliquées au système.  
+Hypothèses  : 
+- Ecoulement permanent  ; 
+- La gravité est la seule force extérieure  ; 
+- Existence des forces de frottement (fluide réel)  ; 
+- Existence d’échange de chaleur avec l’extérieur (pompe et/ou turbine)  ; 
+- Fluide incompressible (  = cste).  
+ 
+L’application du théorème de Bernoulli donne  : 
+(𝒑𝟏
+𝝆 𝒈+𝒛𝟏+ 𝑽𝟏𝟐
+𝟐 𝒈) + 𝑯𝑷=  𝑯𝑻+ ∆𝑯𝟏−𝟐+(𝒑𝟐
+𝝆 𝒈+𝒛𝟐+ 𝑽𝟐𝟐
+𝟐 𝒈 ) 
+On peut définir la charge hydraulique non seulement en 
+un point d’une ligne de courant, mais encore dans une 
+section droite d’un écoulement, à condition que les 
+lignes de courant aient une courbure très faible, de 
+manière qu’elles puissent être considérées comme 
+sensiblement rectilignes ou parallèles.  
+ 
+Pour cela, on fait intervenir la vitesse moyenne U, au 
+lieu des vitesses ponctuelles V des particules, puis on introduit un facteur de correction de 
+l’énergie cinétique, désigné par coefficient de Coriolis, qui est défini comme la relation entre 
+l’énergie cinétique réelle de l’écoulement et l’énergie cinétique d’un écoulement fictif où 
+tout es les particules se déplaceraient à la vitesse moyenne U. La charge hydraulique dans la 
+section devient donc  : 
+𝑯=𝒛+ 𝒑
+𝝆 𝒈+ 𝜶 𝑼𝟐
+𝟐 𝒈 𝒂𝒗𝒆𝒄 𝜶=[𝟏
+𝑼𝟑 𝑺∫𝑽𝟑 𝒅𝑺
+𝑺] 
+ 
+Exercice d’application II – 1 : Une conduite subit un élargissement entre la section 1, 
+dont le diamètre est D 1 = 500 [mm], et la section 2, située à 2.5  [m] au-dessus de 1, dont le 
+diamètre est D 2 = 800 [mm]. Le débit transité dans la conduite est Q = 250 [l/s]. La pression 
+au point 1 est de 35 [N/cm²]. La masse volumique de liquide est  = 1000 [kg/m3]. On 
+demande de calculer  : 
+- La pression au point 2 en admettant que la perte de charge est négligeable.  
+
+
+--- PAGE 7 ---
+7 
+  
+Elément de réponse  
+L’écoulement étant permanent et conservatif, l’équation de continuité nous permet d’écrire  : 
+𝑄= 𝑈1 𝑆1= 𝑈2 𝑆2               𝑈1= 𝑄
+𝑆1= 4 𝑄
+𝜋 𝐷12        𝑒𝑡      𝑈2= 4 𝑄
+𝜋 𝐷22  
+On obtient  : U 1 = 1.27 [m/s] et U 2 = 0.50 [m/s].  
+Les pertes de charge étant négligées, on H 1 = H 2 = 35.76 [m]  
+ 
+{    𝑧1=0 
+𝑃1
+𝜌 𝑔=35 104
+9.81 ×1000=35.68 [𝑚]
+𝑈12
+2 𝑔= 1.27²
+2 ×9.81=0.08 [𝑚]                                              
+{    𝑧2=2.5 [𝑚] 
+𝑃2
+𝜌 𝑔=? [𝑚]
+𝑈22
+2 𝑔= 0.5²
+2 ×9.81=0.013 [𝑚] 
+P2/ g = 33.25 [m] ou encore P 2 = 3.26 105 [Pa]. 
+II – 4 Notion de pertes de charge  
+II – 4.1 Mise en évidence des pertes de charge  
+Lorsqu’on considère un fluide dans une canalisation, deux situations sont observables :  
+ 
+ 
+ 
+ 
+ 
+a) Pas d’écoulement.      b)    Avec écoulement.  
+Figure I – 2 : Mise en évidence des pertes de charge liées à un écoulement en charge dans une conduite.  
+(i) Le fluide n’est pas en mouvement, aussi, il subira le principe d’hydrostatique pure ; 
+la ligne piézométrique est confondue à la ligne de charge et elle est horizontale 
+(Figure I – 2a). 
+(ii) Le fluide est en mouvement, les frottements du fluide contre les parois de la conduite 
+vont induire une perte d’énergie qui vient en diminution de l’énergie initiale. C’est 
+cette perte d’énergie qu’on définit comme étant la perte de charge ( Figure I – 2b). 
+ 
+II – 4.2 Mise en équation du mouvement uniforme  
+
+
+--- PAGE 8 ---
+8 
+ Considérons une canalisation cylindrique où la vitesse 
+moyenne ne varie pas d’une section à l’autre (figure ci -
+contre). En mouvement uniforme, la somme des forces 
+appliquées au volume V (élément dx de fluide compris 
+entre les sections 1 et 2) est nulle car il n’y a pas 
+d’accélération. La répartition des pressions est aussi 
+hydrostatique dans ces 2 sections (les lignes de courant sont quasi -rectilignes).  
+En projetant les forces appliquées sur l’axe de la canalisation et dans la direction du 
+mouvement, on obtient :  
+- Force de pression      : (𝑷𝟏− 𝑷𝟐) ×𝑺 
+- Force de gravité      : 𝝆 𝒈 𝑺 𝒔𝒊𝒏(𝒊) 𝒅𝒙 
+- Force de frottement à la paroi   : − 𝝉𝟎 𝑷 𝒅𝒙 
+Où P désigne S la section mouillée, P le périmètre mouillé et 0 la contrainte de frottement 
+à la paroi.  
+La sommation des trois termes divisée par  g S en tenant compte z 1 – z2 = dx sin (i), donne  : 
+(𝒑𝟏
+𝝆 𝒈+𝒛𝟏+ 𝑼𝟐
+𝟐 𝒈 )−  (𝒑𝟐
+𝝆 𝒈+𝒛𝟐+ 𝑼𝟐
+𝟐 𝒈 )− 𝑷
+𝑺  𝝉𝟎
+𝝆 𝒈𝒅𝒙=𝟎  
+𝐶𝑒 𝑞𝑢𝑖 𝑒𝑠𝑡 é𝑞𝑢𝑖𝑣𝑎𝑙𝑒𝑛𝑡   à∶       𝑱= 𝒅𝑯
+𝒅𝒙= 𝑷
+𝑺  𝝉𝟎
+𝝆 𝒈= 𝝉𝟎
+𝝆 𝒈 𝑹𝑯           (𝟏.𝟒) 
+J est la perte de charge par unité de longueur [m/m]  
+𝐷𝑒 𝑙′𝑒𝑥𝑝𝑟𝑒𝑠𝑠𝑖𝑜𝑛  𝑑𝑒 𝐽,𝑜𝑛 𝑝𝑒𝑢𝑡 é𝑐𝑟𝑖𝑟𝑒∶ 𝜏0
+𝜌=𝐽 𝑔 𝑅𝐻 
+L’analyse adimensionnelle de cette dernière égalité nous montre  que : 
+ 𝝉𝟎
+𝝆=[𝑳 × 𝑻−𝟐×𝑳]= [𝑳 × 𝑻−𝟏]𝟐 
+Chaque membre de l’égalité ci -dessus a la dimension du carré de la vitesse. Par ailleurs, on 
+comprendra donc que plus le débit de l’écoulement est élevé, plus les frottements générés 
+sont forts, il s’ensuit donc que la force de frottement 0 est une fonction de la vitesse, ce qui 
+lui confère l’expression  : 
+𝝉𝟎= 𝝆 𝒈 𝝋(𝑼) 
+La fonction expérimentale (U) a été étudiée pour la première fois par Chézy qui avait 
+proposé qu’elle soit proportionnelle au carré de la vitesse U. C’est ce qui sera vu au prochain 
+chapitre sur l’étude des pertes de charge.  
+
+
+--- PAGE 9 ---
+9 
+  
+II – 5 Etude des pertes de charge  
+Les pertes de charges sont de deux natures  :  
+(i) Les pertes de charge régulières ou linéaires  provoquées par le frottement du 
+fluide sur une longueur droite de canalisation de diamètre constant ;  
+(ii) Les pertes de charge locales ou singulières  provoquées par les singularités de 
+la conduite (élargissement, rétrécissement, changement de direction, robinetterie 
+(vanne, coude, cône).  
+ 
+II – 5.1 Pertes de charge régulières ou linéaires  
+Elles dépendent de la forme, des dimensions et de la rugosité de la canalisation, de la vitesse 
+d'écoulement et de la viscosité du liquide écoulé. L’équation générale du mouvement 
+uniforme donnant la perte de charge par unité de longueur J , a conduit à la relation 
+suivante :  
+𝝉𝟎=𝝆 𝒈 𝑹𝑯 𝑱= 𝝆 𝒈 𝝋(𝑼) 
+Chézy fût le premier à poser que la fonction  (u) était proportionnelle à U²  :  𝝋 (𝑼)= 𝑼²
+𝑪² 
+𝜏0=𝜌 𝑔 𝑅𝐻 𝐽= 𝜌 𝑔 𝑈2
+𝐶2         𝑱=𝟏
+𝑹𝑯 𝑼𝟐
+𝑪𝟐      
+L’équation (2.1) est la formule de Chézy où C est le coefficient de Chézy qui dépend de la 
+rugosité de la conduite, de sa forme et des conditions d’écoulement. Sa dimension est [L1/2 
+T-1]. 
+Bien que cette formule fût utilisée pendant longtemps, elle a été délaissée de nos jours au 
+profit de nouvelles formules.  
+ 
+II – 5.1.1 Formule de Darcy - Weisbach  
+Elle résulte de l’analyse dimensionnelle et des résultats expérimentaux obtenus pour divers 
+régimes d’écoulement et divers fluides par Darcy et Weisbach. Sa formulation est la 
+suivante  : 
+𝑱=
+𝑫 𝑼𝟐
+𝟐 𝒈  = 𝟖 
+𝝅𝟐 𝒈 𝑸𝟐
+𝑫𝟓 
+-  est le coefficient de perte de charge ou facteur de résistance. Sans dimension, il est 
+fonction du nombre de Reynolds Re, et de la rugosité relative  = k/D  :  =𝒇(𝑹𝒆; 𝒌
+𝑫) 
+- D est le diamètre de la conduite et Q le débit écoulé.  
+
+--- PAGE 10 ---
+10 
+ La perte de charge linéaire totale dans une conduite de longueur L est fournie par  : 
+∆𝑯=𝑱 ×𝑳= 𝑳
+𝑫 𝑼𝟐
+𝟐 𝒈  
+En fonction du régime d’écoulement et de la nature de la rugosité de la conduite, plusieurs 
+formules ont été proposées pour la détermination du coefficient . 
+ 
+C’est à Colebrook et White  que l’on doit l’étude systématique des conduites quelle que 
+soit le régime ( turbulent ou laminaire ) et la nature de la rugosité ( lisse ou rugueux ). 
+Elle s’exprime  : 
+1
+√ =−𝟐 𝑳𝒐𝒈𝟏𝟎(𝒌
+𝟑.𝟕𝟏 𝑫+𝟐.𝟓𝟏
+𝑹𝒆 √)  
+C’est une expression explicite et la détermination de  se fait par itération.  
+L’approximation de Swame et Jain pour l’équation de Colebrook – White si 
+4000e (Bhave, 
+1991) donne  : 
+𝜆=0.25
+[𝐿𝑜𝑔 (𝑘
+3.71 𝐷+5.74
+ℜ𝑒0.9)]2 
+Si dans une conduite de longueur L et de diamètre D, les pertes de charge totales se résument 
+aux pertes de charge linéaires, et que l’on désire calculer le débit transitant dans cette 
+conduite, on fait un changement de variable en donnant une autre expression de la relation 
+de Colebrook – White.  
+𝑬𝒏 𝒑𝒐𝒔𝒂𝒏𝒕    𝜹=𝟐 𝒈 𝑫 ∆𝑯𝒍
+𝑳      𝒂𝒍𝒐𝒓𝒔    𝑼= −𝟐 √𝜹 𝑳𝒐𝒈(𝒌
+𝟑.𝟕𝟏 𝑫+ 𝟐.𝟓𝟏 
+𝑫 √𝜹)      𝒆𝒕 𝑸=𝑼 × 𝝅 𝑫𝟐
+𝟒   
+ 
+Exercice d’application I I – 2 : Quelle est la perte de charge linéaire dans une conduite 
+en acier soudée, peinte avec du bitume de diamètre D = 1.2 [m] et transitant sur une 
+longueur L = 3  200 [m] un débit Q = 1.5 [m3/s]. Le fluide transporté est de l’eau à 20°C (  = 
+1.01 10-6 [m²/s]).  On donne k = 0.5 [mm]  
+ 
+Eléments de réponse  : 
+- 𝑆= 𝜋 𝐷2
+4= 𝜋 1.22
+4=1.13 [𝑚2] ;   𝑈= 𝑄
+𝑆= 1.5
+1.13=1.33 [𝑚/𝑠]       𝑒𝑡         𝑈2
+2 𝑔=0.090 [𝑚]  
+- 𝑅𝑒= 𝑈 × 𝐷
+= 1.33 ×1.2
+1.01 × 10−6=1.58 106 
+L’approximation de Swame et Jain nous donne respectivement pour kmin et kmax  : 
+
+--- PAGE 11 ---
+11 
+ 𝜆=0.25
+[𝐿𝑜𝑔 (𝑘
+3.71 𝐷+5.74
+ℜ𝑒0.9)]2 =0.0165  
+𝑶𝒏 𝒐𝒃𝒕𝒊𝒆𝒏𝒕 ∶ ∆𝑯= 𝑳
+𝑫 𝑼𝟐
+𝟐 𝒈= 𝟎.𝟎𝟏𝟔𝟓× 𝟑𝟐𝟎𝟎
+𝟏.𝟐 ×𝟎.𝟎𝟗𝟎=𝟑.𝟗𝟒 [𝒎] 
+ 
+Exercice d’application I I – 3 : Estimer le débit Q et le coefficient de frottement  d’un 
+écoulement d’eau à 20°C entrainant une perte de charge par frottement de 2.2 [m/km] dans 
+une conduite en acier soudé et peinte au bitume de 1.5 [m] de diamètre. On donne k = 0.6 
+[mm].  
+ 
+Eléments de réponse  : 
+Les pertes de charge singulières étant négligées dans la conduite, on cal culera à l’aide de 
+l’équation de la vitesse moyenne U et donc le débit Q.  
+𝑼= −𝟐 √𝟐 ×𝟗.𝟖𝟏×𝟏.𝟓×𝟐.𝟐
+𝟏𝟎𝟎𝟎 𝑳𝒐𝒈
+( 𝟎.𝟔
+𝟑.𝟕𝟏×𝟏𝟓𝟎𝟎+ 𝟐.𝟓𝟏 𝟏𝟎−𝟔
+𝟏.𝟓 √𝟐 ×𝟗.𝟖𝟏×𝟏.𝟓×𝟐.𝟐
+𝟏𝟎𝟎𝟎 ) =𝟐.𝟎𝟎 [𝒎/𝒔] 
+𝑄=𝑈 𝑆= 𝑈 𝜋 𝐷2
+4= 2 × 𝜋 1.52
+4=𝟑.𝟓𝟑𝟒 [𝒎𝟑/𝒔] 
+Connaissant U (et donc Q) D, L et H, on peut calculer le coefficient de frottement  sans 
+effectuer la lecture directe sur le diagramme de Moody. Pour cela, on utilise la formule de 
+Darcy  : 
+=𝟐 𝒈 𝑫 ∆𝑯
+𝑳 𝑼𝟐= 𝝅𝟐 𝒈 𝑫𝟓 ∆𝑯 
+𝟖 𝑳 𝑸𝟐= 𝟐×𝟗.𝟖𝟏×𝟏.𝟓×𝟐.𝟐
+𝟏𝟎𝟎𝟎×𝟐²=𝟎.𝟎𝟏𝟔𝟐  
+ 
+II – 5. 1.2 Formule empirique de Manning – Strickler  
+C’est une formule monôme valable pour les conduites industrielles et pour l’eau. Elle donne 
+l’expression de la vitesse moyenne U en fonction de la perte de charge unitaire J, du rayon 
+hydraulique R H et du coefficient de Strickler Ks. Le coefficient de Strickler Ks est égal à 
+l’inverse du coefficient de Manning noté n. Il dépend de la nature du matériau. Son 
+expression est  :  
+∆𝑯= 𝟒𝟏𝟎/𝟑 𝑸𝟐𝑳
+𝝅𝟐 𝑲𝑺𝟐 𝑫𝟏𝟔/𝟑≅ 𝟏𝟎.𝟐𝟗𝟒 × 𝑸𝟐× 𝑳
+𝑲𝑺𝟐 ×𝑫𝟏𝟔/𝟑    
+ 
+II – 5.1.3 Rugosité des conduites  
+La rugosité absolue, k, s’obtient par la mesure des rugosités des conduites. La rugosité 
+relative , est le rapport entre la rugosité absolue k et le diamètre D de la conduite (k/D). La 
+
+--- PAGE 12 ---
+12 
+ rugosité absolue des conduites en service peut être estimée en mesurant la différence de 
+charge entre deux extrémités de la conduite pour différents débits mais cette détermination 
+suppose que le débit Q est connu. Ces mesures effectuées sur les conduites de différents 
+diamètres ont permis d’estimer le coefficient de rugosité des tuyaux pour les matériaux 
+usuels.  
+Nature du matériau de la conduite  Manning -
+Strickler  Colebrook et 
+Calmon -Lechapt  
+Ks k [mm]  
+Chlorure de Polyvinyle (PVC) et plastique  120 0 
+Mortier du ciment centrifugé  110 0.05  
+Métal neuf  105 0.1 
+Béton centrifugé  100 0.25  
+Fonte en acier avec revêtement de ciment  90 0.5 
+Fonte en acier non revêtu (neuf)  80 1 
+Fonte en acier non revêtu (ancien)  75 2 
+ 
+II – 5.2 Pertes de charge singulières  
+En complément des pertes de charges par frottement, l’écoulement à travers les conduites 
+subit des pertes de charges locales dues aux singularités telles que les changements de 
+géométrie au niveau des entrées, courbes, coudes, joints, grilles, vanne et con traction ou 
+élargissement brusque de la section. Cette perte dépend de la vitesse et est exprimée par un 
+coefficient K appliqué au terme d’énergie cinétique.  
+ 
+En régime turbulent, la perte de charge entre les deux sections limitant la singularité est de 
+la forme suivante  : 
+∆𝑯𝑺=𝑲 𝑼𝟐
+𝟐 𝒈 
+ 
+II – 6 Calcul des conduites gravitaires  
+Une conduite est dite gravitaire lorsque la cote du point de départ de l’eau est supérieure à 
+celle du point d’arrivée. L’eau se déplace dans la conduite grâce à la force de gravité.  
+ 
+II – 6.1 Cas d’une seule conduite   
+La perte de charge totale est définie par la différence des niveaux amont et aval de la 
+conduite . La perte de charge totale est donnée par  : HT = HL + HS. En utilisant la 
+formule Manning -Strickler, on a  : 
+∆ 𝑯𝑻 = 𝟏𝟎.𝟐𝟗𝟒 ×𝑸𝟐×𝑳
+ 𝑲𝒔𝟐× 𝑫𝟏𝟔/𝟑  (𝟏+𝜶) 
+
+--- PAGE 13 ---
+13 
+ ❖ Pour un débit fixé, le diamètre théorique est fourni par la relation 
+suivante  : 
+  𝐃= (𝟏𝟎.𝟐𝟗𝟒 ×𝑸𝟐×𝑳
+ 𝑲𝒔𝟐×∆𝑯𝑻  (𝟏+𝜶))𝟑
+𝟏𝟔
+ 
+❖ Pour un diamètre choisi, le débit circulant dans la conduite est fourni 
+par la relation suivante  : 
+𝐐=√∆ 𝑯𝑻 × 𝑲𝒔𝟐× 𝑫𝟏𝟔/𝟑
+𝟏𝟎.𝟐𝟗𝟒 ×𝑸𝟐×𝑳 (𝟏+ 𝜶) 
+ 
+II – 6.1.1 Cas de plusieurs conduites en série  
+Lorsque deux ou plusieurs conduites sont en 
+série, le même débit Q tranverse les conduites et 
+la perte de charge totale est la somme des pertes 
+de charge de toutes les conduites.  
+∆𝐻𝑇=∑∆𝐻𝑖𝑁
+𝑖=1   →    ∆𝐻𝑇=𝑎 𝑄𝑛∑𝐿𝑖
+𝐷𝑖𝑚𝑁
+𝑖=1     →   𝑄= (∆𝐻𝑇
+𝑎 ∑𝐿𝑖
+𝐷𝑖𝑚𝑁
+𝑖=1)1/𝑛
+ 
+ 
+II – 6.1.2 Cas de plusieurs conduites en parallèle  
+Lorsque deux ou plusieurs conduites sont en parallèle, le débit total 
+est la somme des débits de toutes les conduites et la perte de charge 
+est la même pour toutes les conduites.  
+ 
+ 
+𝑄𝑇=∑𝑄𝑖𝑁
+𝑖=1  𝑒𝑡   ∆𝐻1= ∆𝐻2=⋯=  ∆𝐻𝑛     →   𝑄𝑖= (∆𝐻× 𝐷𝑖𝑚
+𝑎 ×𝐿𝑖)1/𝑛
+ 
+ 
+III – Ecoulements à surface libre  
+Un écoulement est dit à surface libre lorque la surface de l’eau est en contact avec l’air  ; la 
+pression y est égale à la pression atmosphérique. Les écoulements dans les canaux naturels 
+(rivière) et artificiels (irrigation, assainissement)  sont, dans la plupart des cas, des 
+écoulements à surface libre.  
+ 
+
+
+--- PAGE 14 ---
+14 
+ III – 1 Notion de canal  
+Un canal est une conduite dans laquelle l’eau circule en 
+présentant une surface libre. La position de cette surface 
+libre n’est pas fixée à priori, et la géométrie de 
+l’écoulement n’est donc pas connue. A la surface libre la 
+pression est égale à la pressio n atmosphérique.  
+ 
+Si les parois ne se referment pas au -dessus de la surface 
+libre on dira que le canal est découvert. Dans le cas 
+contraire, on parle de canaux couverts (drains, 
+égouts,…).  
+ 
+III – 1.1 Eléments géométriques et hydrauliques d’un canal   
+Dans une coupe perpendiculaire au sens de l’écoulement de l’eau, on définit les termes 
+suivants  : 
+• Hauteur d'eau  ou tirant d'eau  ou profondeur d'eau y : c'est la distance verticale 
+entre la surface libre et le fond du canal (le point le plus bas).  
+• Largeur  au fond ou largeur au radier b  : c’est la largeur de base du canal . 
+• Surface ou section mouillée S : c’est l’aire occupée par l’eau dans une coupe 
+perpendi culaire à la direction de l’eau  :  
+• Périmètre mouillé P : c’est la longueur de la ligne de contact entre l’eau et les parois 
+dans un plan perpendi culaire à la direction de l’eau  :  
+• Largeur en gueule  ou largeur en miroir  ou largeur au plan d’eau l : c'est la 
+largeur de la surface libre dans la section mouillée.  
+• Profondeur moyenne ym : c'est le rapport S/ l. 
+ 
+III – 2 Régimes d’écoulement  
+Comme pour les écoulements en charge, nous avons également un régime d’écoulement 
+laminaire et turbulent. (L’écoulement laminaire est rare en hydraulique). Dans les 
+écoulements à surface libre, en complément de la nature du régime, on s’intéresse également  
+au type d’écoulement. Le nombre de Froude  permet de distinguer les différents types 
+d’écoulement. Il est défini par l’expression suivante  : 
+mUFr
+gy=
+×
+ 
+ 
+Canal découvert
+Canaux couverts
+
+--- PAGE 15 ---
+15 
+ 
+mgy×représente la vitesse de perturbations des petites ondes.  
+Si Fr = 1, on dit que l’écoulement est critique  
+Si Fr < 1, l’écoulement est subcritique  ou écoulement fluvial  
+Si Fr > 1, l’écoulement est supercritique ou écoulement torrentiel.  
+ 
+III – 3 Débit – vitesses dans une section du canal  
+Le débit est le volume d’eau qui traverse une section droite par unité de temps. Il sera noté 
+Q pour le reste du cours. La vitesse moyenne U est le rapport du débit par la section 
+mouillée  : 
+QUS= . 
+La vitesse n’est pas constante dans toute la section S. Elle est nulle à la paroi et maximale au 
+tiers environ de la profondeur. Avec un flotteur sur le plan d’eau, on détermine la vitesse 
+moyenne connaissant la vitesse maximale  :  
+𝑈=0.82 𝑉𝑚𝑎𝑥 (formule de Prony).  
+Dans une se ction, le lieu des points d'égal e vitesse est appelé isodrome ou isotache.  
+Les vitesses se mesurent à l'aide d'un moulinet dont l'axe doit être placé dans la direction de 
+l'écoulement. On obtient une équation de la forme  : V = a n + b où a et b sont des coefficients 
+propres du moulinet et n la vitesse de rotation obtenue avec un compte tour et un 
+chronomètre.  
+ 
+III – 4 Courbes de remous  
+Par rapport à l’écoulement en charge, un écoulement à surface libre a une difficulté 
+supplémentaire qui est la détermination de la position de la surface libre par rapport au fond 
+du canal (tirant d’eau). Celle -ci est variable en fonction des caractéristiq ues du fluide et de 
+l’écoulement. La figure suivante montre un exemple de forme de surface libre.  
+ 
+ Seuil  
+chute  pente 0.003  
+faible  pente 0.003  
+faible  pente –0.07 
+négative  yc yc0 
+yaval yn M2 A2 M1 R1 
+M3 Ressaut  
+ 
+ 
+III – 5 Seuils et déversoirs frontaux  
+Un déversoir ou seuil frontal est un obstacle qui fait barrage à l’écoulement. Le seuil crée un 
+obstacle dans un canal, qui oblige le tirant d’eau à augmenter et donc l’eau à passer par -
+
+--- PAGE 16 ---
+16 
+ dessus. Dans le cas d’un seuil dénoyé , l’eau chute à l’aval du seuil. Dans le cas où le tirant 
+d’eau à l’aval de l’ouvrage est important, la chute d’eau ne peut plus avoir lieu. Dans ces 
+circonstances, le seuil est dit noyé . 
+
+--- PAGE 17 ---
+17 
+ Type de section  S P RH l ym lm yG 
+ 𝑏 𝑦 𝑏+2𝑦 𝑏 𝑦
+𝑏+2𝑦 b y b 𝑦
+2 
+ 𝑦 (𝑏+𝑚𝑦) 𝑏+2 𝑦√1+ 𝑚2 𝑦 (𝑏+𝑚𝑦)
+𝑏+2𝑦√1+ 𝑚2 𝑏+2𝑚𝑦 𝑦 (𝑏+𝑚𝑦)
+𝑏+2𝑚𝑦 𝑏+𝑚𝑦 
+32
+6y b my
+b my+
++ 
+y
+m1
+ 𝑚 𝑦2 2 𝑦√1+ 𝑚2 𝑚 𝑦
+2 √1+ 𝑚2 2 𝑚 𝑦 𝑦
+2 𝑚𝑦 𝑦
+3 
+ 
+2
+8D( - 
+sin) 
+2D 𝑫
+𝟒 𝜽− 𝒔𝒊𝒏𝜽
+𝜽 𝑫 𝒔𝒊𝒏(𝜽
+𝟐) 𝑫
+𝟖 𝜽− 𝒔𝒊𝒏𝜽
+𝒔𝒊𝒏(𝜽
+𝟐) 𝑫
+𝟒 𝜽− 𝒔𝒊𝒏𝜽
+𝟏−𝒄𝒐𝒔(𝜽
+𝟐) 𝑫
+𝟐 [𝟒
+𝟑 𝒔𝒊𝒏𝟑𝜽
+𝟐
+𝜽−𝒔𝒊𝒏𝜽− 𝒄𝒐𝒔𝜽
+𝟐] 
+
+
+--- PAGE 18 ---
+Page 18 
+ III – 6 Calcul de l’écoulement uniforme dans un canal à surface libre  
+III – 6.1 Définition - Propriétés  
+Un écoulement est dit uniforme  lorsque les paramètres qui caractérisent l’écoulement 
+restent invariables dans les différentes sections du chenal . On l’appelle encore 
+écoulement normal.  
+ 
+III – 6.2 Charge moyenne et spécifique dans une section  
+Les écoulements à surface libre correspondent très généralement à un écoulement 
+pleinement turbulent. Même en régime uniforme, les vitesses locales ont des composantes 
+moyennes auxquelles s’ajoutent des composantes aléatoires de moyennes nulles. La charge 
+moyenne dans une section transversale est donc particulièrement délicate à calculer.  
+ 
+Par la suite, on admettra que la répartition des pressions est sensiblement 
+hydrostatique  et que l’écoulement est assimilable à un écoulement piston de vitesse U 
+(partout la même vitesse 
+SQU= ). 
+ 
+La charge moyenne H dans une section (où le fond est à la cote Z, où la pression du tirant 
+est p c’est -à-dire le tirant d’eau est y et où la vitesse moyenne est U = Q / S) est donc :  
+𝐻=𝑍+ 𝑝
+𝜌 𝑔+ 𝑈2
+2 𝑔= 𝑍+ 𝜌 𝑔 𝑦
+𝜌 𝑔+ 𝑈2
+2 𝑔=𝒁+ 𝒚+ 𝑼𝟐
+𝟐 𝒈    
+ 
+La charge spécifique H S dans la section d’un canal est la charge hydraulique mesurée par 
+rapport au fond du canal.  
+𝑯𝑺= 𝑯− 𝒁= 𝒚+ 𝑼𝟐
+𝟐 𝒈 
+  
+III – 6.3 Perte de charge en régime uniforme  
+La perte de charge H entre deux sections distantes d’une longueur L est évidemment  :  
+gUZgP
+gUZgPH HH2 22
+2
+222
+1
+11
+2 1 − − − + + = − = 
+ 
+Les vitesses et tirant d’eau étant constants d’une 
+section à l’autre on a  : 
+2 1ZZH − =
+ 
+Et le coefficient de perte de charge linéaire J n’est 
+autre que  : 
+ILZ Z
+LHJ =−==2 1
+ 
+ 
+
+
+--- PAGE 19 ---
+Page 19 
+ En régime uniforme, l’écoulement se fait avec un tirant d’eau tel que la perte de charge 
+linéaire  est égale à la pente du radier  et à la pente de la surface libre . La baisse de 
+l’énergie de position compense exactement les pertes d’énergie dans l’écoulement.  
+Lorsque le régime uniforme est atteint le tirant d’eau y prend une valeur constante yn dite 
+hauteur d’eau normale . 
+ 
+III – 7 Calcul de l’écoulement uniforme  
+L’équation du mouvement uniforme associé à la formule de Manning – Strickler conduit à 
+l’expression suivante  : 
+𝑈=𝐾𝑆 𝑅𝐻2/3 √𝐼 
+𝑸=𝑲𝑺 𝑺 𝑹𝑯𝟐/𝟑 √𝑰= 𝑲𝑺 𝑺𝟓/𝟑
+𝑷𝟐/𝟑 √𝑰 
+Le coefficient K S a la dimension L1/3 T-1. Les valeurs qui sont données dans les tables 
+correspondent au Système International [m 1/3/s].  
+Les paramètres à calculer avec ces équations sont de 4 types : 
+- Paramètres  géométriques : la profondeur normale yn et la largeur au radier b  ; 
+- Paramètres  hydrauliques : vitesse moyenne U et débit Q ; 
+- Paramètre  de rugosité : coefficient de Strickler Ks ; paramètre de pose  : pente 
+du canal I. 
+Il n’existe pas d’écoulement uniforme si la pente du canal est nulle  ou si elle est 
+négative . Le seul cas où il peut exister est si la pente est positive.  
+ 
+III – 7.1 Calcul de la profondeur normale  
+La profondeur normale est celle qui correspond à un écoulement uniforme. Pour son calcul, 
+on utilise l’une des méthodes ci -après  : 
+- Méthode de l’abaque  : elle consiste à calculer le rapport 𝑄
+𝐾𝑆 𝑏8/3√𝐼 𝑜𝑢 𝑄
+𝐾𝑆 𝐷8/3√𝐼 , puis 
+le placer sur l’axe des abscisses  ; ensuite on effectue une projection verticale. 
+L’interception avec la courbe correspondante est projetée horizontale pour obtenir le 
+rapport yn/b ou yn/D.  
+- Des méthodes numériques de résolution de fonction implicite de y c’est -à-dire yn = 
+f(yn)  
+ 
+Achour et Bedjaoui (2006) ont proposé pour un canal  rectangulaire  une solution 
+approchée pour le calcul de la profondeur normale  : 
+
+--- PAGE 20 ---
+Page 20 
+ 𝒒𝒏= 𝑸
+𝑲𝒔 × 𝒃𝟖/𝟑×√𝑰               𝒆𝒕             𝒚𝒏= 𝒃×(𝒒𝒏𝟎.𝟔+ 𝟒
+𝟓 𝒒𝒏𝟏.𝟐+𝟒
+𝟐𝟓 𝒒𝒏𝟏.𝟖−𝟏𝟔
+𝟏𝟐𝟓 𝒒𝒏𝟐.𝟒)  
+Exercice d’application III – 1  : Un canal rectangulaire de largeur b = 15 [m] véhicule un 
+débit Q = 60 [m3/s]. Le coefficient de Manning est n = 0.02 [m-1/3 s] et la pente du lit est I = 
+0,05%. Quelle est la hauteur du canal si l’on admet une revanche maximale de 20 [cm]. Quels 
+sont le type et la nature de cet écoulement  ? On donne  = 10-6 [m²/s].  
+ 
+Eléments de réponse  : 
+Détermination de la profondeur normale, du type et de la nature d’écoulement  
+- Calcul de la profondeur normale  :
+0392.0
+0005.0 1502.060
+3/8 3/8=
+= =
+I bKQq
+sn .  
+m yn 40.2 0392.0125160392.02540392.0540392.0 154.2 8.1 2.1 6.0=
+
+ −  + + =
+ 
+La hauteur maximale du canal est  : 
+m rechy Hn 60.2 20.040.2max = + = + = . 
+- Le type et la nature d’écoulement seront déterminés par le calcul des nombres de 
+Reynolds et Froude  : 
+ my bybD smybQ
+SQU
+nn
+H
+n27.74.2244.215424 ;/ 67.14.21560=+=+= === =
+ 
+. 0004 1021.1
+1027.767.1 7
+6turbulentest régimeLeDUH
+e   ===−
+ 
+. 1 344.0
+4.281.967.1fluvialest régimeLe
+ygUFr
+m  =
+= =
+ 
+ 
+Exercice d’application III – 2 : On veut écouler un débit de 15 [m3/s] dans un canal 
+trapézoïdal dont la rugosité de Strickler est Ks = 60 [m1/3/s], de pente 3‰ et dont les berges 
+ont pour fruit m = 0.5. Déterminer la profondeur normale si la largeur du canal est 5 [m].  
+ 
+Eléments de réponse  : 
+  Méthode des abaques  : 
+- Calcul du rapport 
+0624.0
+003.0 56015
+3/8 3/8=
+ =
+I bKQ
+s  
+- Partant de cette valeur placée sur l’axe des abscisses, on fait une projection verticale 
+sur la courbe m = 0.5  
+- L’intersection à la courbe m = 0.5 est projectée horizontale sur l’axe des ordonnée et 
+obtient  : 
+2.0=byn  
+
+--- PAGE 21 ---
+Page 21 
+ - yn = 0.2 x b = 0.2 x 5 = 1.0 [m]  
+Méthode numérique  : 
+   
+nn
+n
+nn
+snyyyymbm y b
+I KQy ++ +
+
+
+
+
+= ++ +
+
+
+
+
+=5.05²5.01 25
+003.0 6015;² 1 2 52
+53
+52
+53
+ 
+En partant d’une valeur de y   = 1.5 [m], on voit que la fonction converge après deux itérations 
+et yn = 1.0 [m].  
+ 
+Cas des conduites circulaires  
+Dans le cas de la section circulaire, on peut utiliser les formules approchées suivantes en 
+fonction du taux de remplissage y/D ou du paramètre q n défini ci -dessous  : 
+Achour Bachir (2013) démontre que pour tout yn/D <= 75% ou q N < = 0.2848, 
+on a  : 
+𝒒𝒏=𝟎.𝟑𝟕𝟐𝟕 [𝐬𝐢𝐧(𝟓 𝝅
+𝟏𝟏 𝒚𝒏
+𝑫)]𝟏𝟎.𝟒𝟖𝟓⁄
+     𝒆𝒕            𝑸=𝒒𝒏 × 𝑲𝒔 × 𝑫𝟖/𝟑×√𝑰 
+𝒒𝒏= 𝑸
+𝑲𝒔 × 𝑫𝟖/𝟑×√𝑰          𝒆𝒕            𝒚𝒏= 𝟏𝟏×𝑫
+𝟓× 𝝅 ×𝑨𝒔𝒊𝒏 (𝟏.𝟔𝟏𝟒× 𝒒𝒏𝟎.𝟒𝟖𝟓) 
+S’appuyant sur les travaux d’Achour, Mounirou (2014) démontre que pour 75 
+< yn/D <= 95% ou 0.2848< q N < = 0.3349, on a  : 
+𝒒𝒏=𝟎.𝟑𝟑𝟓𝟐 [𝐬𝐢𝐧(𝟎.𝟓𝟐𝟔𝟏×𝝅× 𝒚𝒏
+𝑫)]𝟏𝟎.𝟑𝟐𝟖𝟔⁄
+        𝒆𝒕              𝑸=𝒒𝒏 × 𝑲𝒔 × 𝑫𝟖/𝟑×√𝑰 
+𝒒𝒏= 𝑸
+𝑲𝒔 × 𝑫𝟖/𝟑×√𝑰              𝒆𝒕           𝒚𝒏= 𝟎.𝟔𝟎𝟓𝟏 × 𝑫 ×𝑨𝒔𝒊𝒏 (𝟏.𝟒𝟑𝟐𝟏× 𝒒𝒏𝟎.𝟑𝟐𝟖𝟔) 
+ 
+III – 7.2 Dimensionnement des canaux avec la section hydrauliquement 
+favorable  
+Pour qu’une section soit hydrauliquement favorable (section économique), il faut 
+simultanément minimiser les deux grandeurs qui entrent dans le coût pour un débit et une 
+pente donnés. Ces deux paramètres sont  : la section mouillée  et le périmètre mouillé . 
+ 
+Propriétés de la section hydrauliquement favorable  
+- U est maximale pour I et Q donnés  ; 
+- Q est maximal pour S et I fixés  ; I est minimale pour S et Q fixés  
+
+--- PAGE 22 ---
+Page 22 
+ On démontre que de toutes les formes géométriques ayant la même section, la forme 
+circulaire a le plus petit périmètre mouillé. Pour une forme trapézoïdale, la section 
+hydrauliquement favorable est caractérisée par le rapport y/b = f(m).  
+ 
+III – 7.2.1 Calcul de la section hydrauliquement favorable  
+Minimiser la section S et le périmètre mouillé P, qui sont tous les deux fonctions de la 
+profondeur d’eau y et de la largeur b, revient à annuler les différentielles totales exactes (y 
+et b variant).  
+S=y (b+my)  et P=b+2y√1+m² 
+{dS= (b+2my) dy+y db=0
+dP= 2 √1+m²  dy+ db =0 
+Ce système admet une solution non triviale si et seulement si le déterminant associé est nul.  
+|b+2my              y
+2 √1+m²           1 | = 0 
+b+2my−2y√1+m²=0 
+b=2y(√1+m²− m) 
+Posons pour la suite des calculs  :   =𝟐√𝟏+𝒎²− 𝒎 
+La substitution de ces relations dans les expressions de la section, du périmètre mouillé et 
+du rayon hydraulique en fonction de y et b, conduit à  : 
+𝑺= 𝒚𝟐       ;       𝑷=𝟐  𝒚     ;      𝑹𝑯=𝒚
+𝟐   
+ 𝑸= 𝑲𝑺 √𝑰 𝒚𝟖/𝟑
+𝟐𝟐/𝟑        ;         𝑼=𝑲𝑺 √𝑰 𝒚𝟐/𝟑
+𝟐𝟐/𝟑  
+ 
+Exercice d’application III – 3 : On veut écouler un débit de 12 [m3/s] par un canal 
+trapézoïdal (Ks = 50 [m1/3/s]) de pente 3‰ et de fruit de berges (1/4). Calculer les 
+dimensions du canal pour que S et P soient minimaux. Quelle sera alors la vitesse moyenne 
+dans le canal.  
+ 
+Eléments de réponse  : S et P étant minimaux, la section est hydrauliquement favorable. 
+On a  : 
+
+--- PAGE 23 ---
+Page 23 
+  =2 √1+m²− m=2√1+0.25²− 0.25=1.812 
+y=√Q 22
+3
+ KS  √I3/8
+=1.66 [m]  et b=2.59 [m]   
+Pour une meilleure mise en œuvre du canal, on retiendra b = 2.60 m et y devient  : y = 1.65 
+[m] 
+La vitesse moyenne U devient  : U = 2.42 [m/s]  
+ 
+III – 8 Calcul de l’écoulement critique  
+III – 8.1 Calcul de la profondeur critique  
+La profondeur critique est un paramètre important qui permet de se prononcer sur le 
+caractère fluvial ou torrentiel de l’écoulement. Si la profondeur critique yc est supérieure à 
+la profondeur normale yn, l’écoulement est de nature torrentielle ( yn < yc => régime 
+torrentiel ). Dans le cas contraire, l’écoulement est fluvial ( yn > yc => régime fluvial ). 
+ 
+La résolution de l’équation de criticité fournit la valeur de la profondeur critique. En fonction 
+de la géométrie du canal, on utilise l’une des méthodes ci -après  : 
+❖ Canal rectangulaire  : L’équation de criticité peut être résolue directement.  
+𝒍=𝒃   𝒆𝒕    𝑺=𝒃𝒚 → 𝑸𝟐 𝒍 
+𝒈 𝑺𝟑  = 𝑸𝟐 𝒃
+𝒈 (𝒃 𝒚𝒄)𝟑=𝟏      𝒚𝒄= (𝑸𝟐
+𝒃𝟐 𝒈)𝟏
+𝟑
+ 
+❖ Canal trapézoïdal  : yc est déterminée par un procédé itératif ou graphique  : 
+l = b + 2 my et S = y (b + my)   
+𝑸𝟐 𝒍 
+𝒈 𝑺𝟑 = 𝑸𝟐 (𝒃+𝟐𝒎𝒚𝒄)
+𝒈 𝒚𝒄𝟑 (𝒃+𝒎𝒚𝒄)𝟑=𝟏      𝒚𝒄= (𝑸𝟐 (𝒃+𝟐𝒎𝒚𝒄)
+ 𝒈)𝟏
+𝟑
+(𝒃+𝒎𝒚𝒄) ⁄  
+- On calcule le rapport 𝑄
+√𝑔 𝑏5 , puis le placer sur l’axe des abscisses  ; ensuite on effectue 
+une projection verticale. L’interception avec la courbe correspondante est projetée 
+horizontale pour obtenir le rapport yc/b.  
+Une solution approchée de la profondeur critique  pour un canal trapézoïdal est fournie 
+par French (1 999) :  
+𝑷𝒐𝒖𝒓 𝟎.𝟏𝟖 ≤ 𝑸
+𝒃𝟑 ≤𝟎.𝟗 → 𝒚𝒄=𝟎.𝟖𝟏 × (𝑸𝟐
+𝒈 ×𝒎𝟎.𝟕𝟓 × 𝒃𝟏.𝟐𝟓)𝟎.𝟐𝟕
+−  𝒃
+𝟑𝟎 𝒎   
+
+--- PAGE 24 ---
+Page 24 
+ Si la condition n’est pas respectée, yc peut être déterminé par la lecture sur abaque  
+❖ Canal circulaire  : L’équation de criticité peut être résolue directement.  
+Canal circulaire :    𝑙=𝐷 sin𝜃
+2      𝑒𝑡    𝑆= 𝐷2
+8 (𝜃− sin𝜃) 
+En remplaçant ces deux expressions dans l’équation caractéristique du régime critique on 
+a : 
+𝜃𝑐=sin𝜃𝑐+ 8 (𝑄2
+𝑔 𝐷5 sin𝜃𝑐
+2)1
+3
+      𝑒𝑡      𝑦𝑐=𝐷
+2 (1− 𝑐𝑜𝑠𝜃𝑐
+2) 
+Une approximation de la profondeur critique pour une section circulaire est fournie par la relation:  
+𝑷𝒐𝒖𝒓 𝟎.𝟏𝟏≤𝑸∗≤𝟎.𝟕𝟕→ 𝑸∗= 𝑸
+√𝒈 𝑫𝟓  𝒆𝒕 𝒚𝒄= 𝑫
+𝟎.𝟑 𝑨𝒔𝒊𝒏𝒉(𝟎.𝟑𝟏𝟐×𝑸∗𝟎.𝟓𝟐) 
+Exercice d’application III – 4 : Déterminer la profondeur critique d’un canal 
+rectangulaire ayant un débit Q = 1.88 [m3/s] et une largeur au plafond b = 1.5 [m]. On donne 
+Ks = 80 [m1/3/s]. 
+Eléments de réponse  : Canal rectangulaire  :
+m
+bgQyc 543.0
+5.181.988.13/1
+223/1
+22
+=
+
+
+
+=
+
+
+
+= . 
+ 
+Exercice d’application III – 5 : Déterminer la profondeur critique d’un canal trapézoïdal 
+ayant un débit Q = 5 [m3/s], une largeur au fond b = 2 [m] un fruit des berges m = 1 et un Ks 
+= 70 [m1/3/s]. 
+Eléments de réponse  : Canal trapézoïdal, vérifions si la formule approchée peut être 
+utilisée  : 
+9.0 625.0
+25
+3 3 = =
+bQ
+mmb
+b mgQyc 759.01302
+2 181.9581.03081.027.0
+25.1 75.0227.0
+25.1 75.02
+=−
+
+
+
+  = −
+
+
+
+ =
+ 
+ 
+Exercice d’application III – 6 : Calculer la profondeur critique d’un canal circulaire 
+ayant un débit Q = 0.8 [m3/s], avec un diamètre de 1.2 [m] et un  Ks = 100 [m1/3/s]. 
+ 
+Eléments de réponse  : Canal circulaire, vérifions si la formule approchée est utilisable  :  
+77.0 162.0
+2.181.98.0
+5 5* =
+= =
+DgQQ
+( ) ( ) m A Q ADyc 483.0 162.0 312.0 sinh3.02.1312.0 sinh3.052.0* 52.0*=  =  =
+ 
+ 
+
+--- PAGE 25 ---
+Page 25 
+ III – 8.2 Calcul de la pente critique  
+La pente ne figure pas dans la relation déterminant la profondeur critique. Donc si une 
+profondeur est critique pour un débit donné et une forme de section déterminée, cette 
+profondeur sera critique quelle que soit la pente. La pente critique est la pente pour laquelle 
+le régime  normal (écoulement uniforme) est critique. L’écoulement uniforme se 
+caractérisant par la formule de Manning -Strickler  : 
+ 
+Q=KS S RH2/3 √I 
+En régime critique cette équation devient  : 
+Q=KS Sc Rc2/3 √Ic   Ic= Q2
+KS2  Sc2  Rc4
+3 
+Exercice d’application III – 7 : Calculer la pente critique pour les 3 exercices 
+d’application du paragraphe V – 4.1 
+Réponses  : a°) Ic = 3.88 10-3 ;  b°) Ic = 2.97 10-3 ; c°)  Ic = 2.14 10-3. 
+  
+
+--- PAGE 26 ---
+Page 26 
+ Chapitr e II : Technologie, caractéristiques et classification des 
+turbopompes  
+II – Introduction  
+La conception d’une installation de pompage répond à un besoin : celui d’élever une certaine 
+quantité de liquide. De tous les moyens utilisés, le système de pompage est le plus 
+économique. Il est constitué d’un ensemble ouvrages dont les plus importants so nt les 
+pompes et les tuyauteries. La pompe est une machine élévatoire servant à élever le niveau 
+d’énergie d’un fluide sans en faire varier l’état et la composition. Une pompe peut agir :  
+ Soit sur l’ énergie potentielle du fluide  : on parle de pompe à capacité dont les plus connues 
+sont  : la roue à augets, la chaine à godets (chapelets), la vis d’Archimède.  
+ Soit sur l’ énergie de pression du fluide  : on parle alors de pompe volumétrique (liquide 
+pompé est déplacé par volumes entiers, paquet par paquet). C’est le cas des pompes à piston 
+(Exemples  : pompe à motricité humaine, bélier hydraulique).  
+ Soit sur l’ énergie cinétique du fluide  : on parle de turbopompe. Une turbopompe est une 
+machine hydraulique qui utilise la force centrifuge  pour communiquer de l’énergie à un 
+fluide, généralement en vue de son déplacement. Il s’agit des pompes centrifuges appartenant 
+à la famille des turbopompes qui sont du groupe des turbomachines.  
+Au sens le plus général du terme, une turbomachine est une machine dont la pièce essentielle 
+est une roue portant des aubes disposées symétriquement autour de l'axe. L’écoulement du 
+liquide sur ces aubes provoque l’échange d’énergie entre la veine liquide et l’arbre de la 
+machine.  
+❖ Si la turbomachine diminue  l’énergie de la veine liquide entre l’entrée et la sortie 
+de la machine par sa transformation partielle en énergie mécanique, on a affaire à 
+une turbine  ; 
+❖ Si la turbomachine augmente  cette énergie en faisant appel à une source d’énergie 
+mécanique extérieure, on a affaire à une turbopompe . 
+ 
+II – 1 Turbopompes ou pompes 
+centrifuges  
+La figure ci -contre montre la structure la plus 
+simple d’une turbopompe : on distingue trois 
+éléments principaux et des accessoires. Les 
+éléments principaux sont : la roue, le corps de 
+pompe, le corps d’aspiration.  
+ 
+  
+II – 1.1 Eléments constitutifs d’une pompe centrifuge  
+I – 1.1.1 La roue ou l’impulseur  
+
+
+--- PAGE 27 ---
+Page 27 
+ On l’appelle encore turbine, impulseur, rotor . Elle 
+communique au liquide à pomper une partie de 
+l’énergie transmise par l’arbre dont elle est 
+solidaire par le moteur d’entraînement. La 
+transmission de l’énergie de la roue au liquide se 
+fait par l’intermédiaire des aubes. Ces dernières 
+sont de simples  palettes incurvées, libres ou fixées 
+sur des plaques métalliques. Outre le transfert 
+d’énergie, le rôle des aubes est aussi de guider l’eau 
+dans la direction voulue.  
+On distingue  : les roues ouvertes, les roues semi -ouvertes et les roues fermées. De même, en 
+fonction de l’écoulement à la sortie de la roue (trajectoire du liquide à l’intérieur du rotor), 
+on distingue  : roue axiale (  = 0°), roue semi -radiale (  < 90°) et roue radiale (  = 90°).  
+Par rapport au nombre de roues équipant une pompe, on distingue les pompes 
+monocellulaires  (une roue ), des pompes multicellulaires, c’est -à-dire à plusieurs roues.  
+ 
+II – 1.1.2 Le corps de pompe  
+Il est destiné à recevoir le liquide sortant de la roue et à le diriger soit vers l’orifice de 
+refoulement dans les pompes monocellulaires, soit vers l’entrée de la roue suivante dans les 
+pompes multicellulaires.  
+ 
+II – 1.1.3 Le corps d’aspiration  
+C’est une pièce solidaire du corps de pompe et destinée à diriger le liquide provenant de la 
+conduite d’aspiration vers l’entrée de la roue, de manière à ce que la vitesse soit uniforme en 
+tous points. Elle est de forme conique. L’orifice d’aspiration est autrement appelé "ouïe".  
+ 
+II – 1.2 Classification des pompes centrifuges   
+En complément des classifications mentionnées plus haut , on distingue les pompes 
+horizontales, immergées ou submersibles.  
+ 
+II – 1.2.1 Pompes horizontales ou de surface  
+Les pompes horizontales (à axe disposé horizontalement) sont généralement installées au 
+niveau du sol mais peuvent également être installées en fosse sèche. Elles doivent être au -
+dessus du niveau des plus hautes eaux sauf dans les cas où la pompe est alime ntée par un 
+réservoir en charge. Elles doivent être au plus de 7 [m]  au-dessus du plan d’eau le plus bas. 
+L’avantage des pompes horizontales est leur facilité d’entretien. En effet, tous les éléments 
+sont démontables avec des moyens de manutention simples.  Dans de nombreuses pompes, 
+il est possible de démonter la partie hydraulique sans toucher au moteur. L’entraînement 
+est fait, par accouplement direct, entre la pompe et un moteur électrique ou thermique.  
+ 
+II – 1.2.2 Pompes immergées  
+Les pompes immergées sont conçues pour être installées dans des forages à grande 
+profondeur ( 70 à 300 [m]  et plus) sans utilisation d’arbre de transmission pour entraîner 
+
+
+--- PAGE 28 ---
+Page 28 
+ la pompe. Le moteur électrique, de conception spéciale, est prévu pour fonctionner dans 
+l’eau, rotor noyé et peut comporter un système de compensation de pression évitant la mise 
+sous pression de l’enveloppe du moteur par l’échauffement de cette eau résult ant du 
+fonctionnement du moteur ou de la température de l’eau du forage. Le diamètre de ces 
+pompes est limité par celui du forage. Du fait de son fonctionnement dans l’eau, le moteur 
+ne supporte pas les eaux chaudes ou agressives sauf avec des construction s spéciales. Le 
+refroidissement du moteur est assuré par le passage de l’eau pompée autour de la chemise 
+extérieure, et une vitesse minimale est à respecter pour éviter l’échauffement.  
+ 
+II – 1.2.3 Pompes submersibles  
+Ce sont des groupes monoblocs où le moteur travaille « submergé », mais sans eau à 
+l’intérieur, contrairement aux pompes immergées. Elles sont souvent utilisées pour le 
+relevage des eaux chargées et également pour des applications à bord des navires ou com me 
+groupes mobiles pour chantier de travaux publics.  
+Quel que soit le type de pompe, celle -ci est constituée de 3 parties distinctes :  
+➢ La partie "moteur" qui fournit la puissance 
+nécessaire au pompage  ; 
+➢ L’accouplement qui transmet cette puissance à la 
+partie hydraulique  ; 
+➢ La partie hydraulique qui transmet cette 
+puissance à l'eau pour la déplacer . 
+ 
+II – 2 Détermination du type de pompe  
+Le choix se fera entre les pompes hélices, les pompes hélico -centrifuges, et les pompes 
+centrifuges monocellulaires et multicellulaires. Le choix peut se faire grâce au paramètre  
+4/32/1
+HQNNs=
+qui est la vitesse spécifique  de la pompe, et nous ferons la convention qui suit  :  
+o Les pompes centrifuges multicellulaires  correspondent au domaine Ns ≤ 20 ; 
+o Les pompes centrifuges monocellulaires  correspondent au domaine 20 < Ns ≤ 60 ; 
+o Les pompes centrifuges à double corps  au domaine 60 < Ns ≤ 100  ; 
+o Les pompes hélico -centrifuges  correspondent au domaine intermédiaire 100 < Ns ≤ 
+150 ; 
+o Les pompes à hélices  correspondent au domaine Ns > 150 . 
+Pour une même pompe, Ns ne change pas avec la vitesse de rotation.  Ns est appelé nombre 
+spécifique .  
+On définit également le terme Ds appelé diamètre spécifique  qui permet de calculer très 
+facilement un diamètre approché (ou plutôt statistiquement moyen) de la roue de pompe. Il 
+est fourni par la relation suivante  :   
+2/14/1
+QHDDs=  
+
+
+--- PAGE 29 ---
+Page 29 
+ Le graphique ci -contre d’origine expérimentale et statistique, établit une relation simple, 
+entre les paramètres Ns et Ds. L’ajustement d’une 
+courbe de tendance à ce graphique a permis de 
+proposer une relation qui ajuste au mieux cette 
+courbe.  
+876.0333.60 80− = s s s N D alors Nsi
+ 
+445.0255.9 80− = s s s N D alors Nsi
+ 
+ 
+Le graphique ci -contre permet d’évaluer le 
+rendement hydraulique interne h (qui ne prend en 
+compte que les pertes hydrauliques), et le rendement 
+global g (qui prend en compte statistiquement la 
+totalité des pertes), des pompes centrifuges et hélico -
+centrifuges en fonction de la vitesse spécifique Ns. 
+On doit utiliser ces valeurs avec précaution avec 
+comme objectif de faire des comparaisons ou de 
+chiffrer d es évolutions. Le rendement hydraulique 
+dépend aussi (outre le Ns) de la taille des pompes, de 
+la vi tesse des écoulements, du nombre de Reynolds .  
+𝑠𝑖 𝑁𝑠 ≤50 𝑎𝑙𝑜𝑟𝑠  ℎ=0.9076 ×(1− 𝑒− 0.1153 ×𝑁𝑠) 
+𝑠𝑖 𝑁𝑠 ≤50 𝑎𝑙𝑜𝑟𝑠  𝑔=0.8987 ×(1− 𝑒− 0.0779 ×𝑁𝑠) 
+Remarque  : La pompe choisie devra être telle que son point de fonctionnement se situe dans la zone des 
+rendements maxima, même si pour cela on dit choisir un type de pompe plus cher : l’économie d’énergie qui 
+en résulte à l’exploitation justifie généralement ce supplément de coût d’investissement.  
+II – 3 Caractéristiques des pompes centrifuges  
+II – 3.1 Principe de fonctionnement  
+L’équation de Bernoulli stipule que dans le mouvement continu d’un filet liquide, la hauteur 
+de pression (
+gP
+ ), l’altitude (Z) et la hauteur cinétique (
+gU
+22 ) forment une somme constante 
+sur tous les points du filet. Ce qui s’écrit  : 
+CtegU
+gPZ = + +22
+ . 
+La variation de l’altitude entre l’entrée et la sortie d’une pompe est négligeable devant les 
+deux autres variables de l’équation. On peut donc écrire  : 
+UU PgUUgP −= −=  
+Ce qui montre qu’à toute diminution de vitesse correspond une augmentation de pression 
+et inversement. Ce principe explique le fonctionnement d’une turbopompe : le fluide est 
+admis dans une roue entraînée par un moteur qui lui communique une vitesse import ante. 
+A la sortie de la roue, la vitesse est transformée en pression par un ralentissement réalisé à 
+l’aide d’un dispositif approprié.  
+ 
+II – 3.2 Courbes caractéristiques d’une turbopompe  
+Les courbes caractéristiques d’une pompe sont au nombre de quatre :  
+❑ La courbe débit/hauteur (ou débit/pression) ;  
+❑ La courbe débit / puissance ou la courbe de puissance ;  
+
+
+--- PAGE 30 ---
+Page 30 
+ ❑ La courbe débit / rendement ou la courbe de rendement ;  
+❑  La courbe débit / NPSH requis ou la courbe de NPSH requis ;  
+L’importance des courbes caractéristiques tient à ce qu’une fois établies elles sont 
+invariables et permettent de prévoir le fonctionnement de la pompe dans des conditions 
+d’exploitation données.  
+ 
+Les courbes caractéristiques se déterminent expérimentalement en mesurant la variation de 
+la pression  H en fonction du débit entre l’aspiration et le refoulem ent de la pompe. Pour ce 
+faire,  des manomètres sont placés aux emplacements prévus à cet effet à l’entrée et à la sortie 
+de la pompe. La différence de la charge entre la sortie et l’entrée de la pompe est appelée 
+Hauteur Manométrique Totale  (HMT ). 
+Parallèlement, on détermine la puissance absorbée par la pompe. Le rendement de la pompe ( ) est le 
+rapport entre la puissance utile et la puissance absorbée. L’établissement de la courbe de NPSH requis ne 
+peut être fait qu’en usine. C’est pourquoi elle est toujours donnée par le constructeur.  
+ 
+II – 3.2.1 Courbe débit – hauteur ou courbe de la HMT  
+Elle est d’allure parabolique, de concavité tournée vers le bas, avec deux points 
+caractéristiques  : le point à débit nul et le point nominal. Le point nominal correspond au 
+débit pour lequel le rendement passe par son maximum. 
+Ce débit nominal Q N est le débit de calcul de la pompe. A 
+ce débit, les pertes hydrauliques, le niveau de bruit et les 
+vibrations présentent leurs valeurs minimales, le 
+fonctionnement est "tranquille” et la fiabilité maximale.  
+On choisira la pompe présentant la pente la plus 
+importante au niveau du point de fonctionnement , 
+afin que toute variation de la hauteur (valeur non 
+complètement maîtrisée par les calculs et dans le temps) 
+n'entraîne qu'une faible variation du débit, comme 
+l'indique la figure ci -contre.  
+La hauteur manométrique totale HMT  : C’est la différence de pression en mètres entre 
+les orifices d’aspiration et de refoulement de la pompe. Elle est fournie par la relation 
+suivante dans laquelle P A et P B sont respectivement les pressions à la surface libre des points 
+d’aspiration et de refoulement.  
+( )gP PJ J H mCE HMTA B
+ref asp géo−+ + + =
+ 
+ 
+II – 3.2.2 Courbe débit – puissance ou courbe de puissance  
+C’est également une courbe d’allure parabolique. Elle est 
+descendante ou montante selon le type de pompe. La 
+puissance à l’origine n’est pas nulle. Ce fait, justifie le 
+choix du mode de démarrage des pompes. La puissance 
+absorbée par une pompe est fournie pas la relation 
+suivante  : 
+
+
+--- PAGE 31 ---
+Page 31 
+ 
+ 
+
+ =10003m HMTsmQgkWP 
+ 
+II – 3.2.3 Courbe de rendement  
+Elle est aussi d’allure parabolique et passe par un maximum pour le débit nominal de la 
+pompe. Le meilleur rendement d'une pompe centrifuge se trouve en général au milieu de sa 
+courbe de performance. Le tableau ci -dessous donne une indication de l’ordre de  grandeur 
+du rendement optimal des pompes centrifuges.  
+ Basse pression  : H 
+< 5 m  Haute pression  : H > 20 
+[m] Grand débit  
+Q 
+[l/s]  3 25 2 25 100 150 1 000  2 500  
+  0.56  0.78  0.53  0.81  0.84  0.86  0.90  0.91  
+II – 3.2.4 Courbe de NPSH requis  
+La courbe de variation du NPSH requis est d’allure parabolique avec la concavité tournée 
+vers le haut. En effet, lorsque l'on aspire un liquide dans une conduite on crée une 
+dépression. Si cette baisse de pression fait descendre la pression du liquide en -dessous de sa 
+pression de vapeur saturante, le liquide se met en ébullit ion (production de vapeur). En 
+hydraulique, on appelle ce phénomène la cavitation. Afin d'éviter le phénomène de 
+cavitation à l'intérieur de la pompe, la pression P E à son entrée doit être supérieure à la 
+pression de vapeur saturante du fluide P V, soit  : P E > P V. La condition de non cavitation 
+donne en négligeant le terme V E :   
+0 0012.0 33.10  − − − −gPJ HZV
+asp a
+ 
+En réalité, les conditions de non cavitation  sont données par le constructeur de la pompe car 
+il existe des zones dans la pompe où la pression est inférieure à P E. Cette condition est 
+donnée sous la forme d'une charge hydraulique minimale à avoir à l'entrée de la pompe. On 
+l'appelle le NPSH requis . Il est déterminé expérimentalement par le constructeur de la 
+pompe et dépend de la vitesse de rotation de la roue.  
+Le NPSH désigne le Net Pressure Suction Head soit la hauteur de charge nette absolue  
+à l'aspiration. Elle correspond à la charge hydraulique absolue diminuée de la tension de 
+vapeur saturante du fluide. Il se mesure en mètre. On distingue le NPSH disponible , c'est 
+à dire celui qu'on a à l'entrée de la pompe du NPSH requis  donné par le constructeur de la 
+pompe.  
+gV
+gPJ HZ NPSHE V
+asp a dis20012.0 33.102
+− − − − − =
+ 
+Le NPSH disponible ne dépend que de l’installation, elle ne dépend pas de la pompe.  
+La condition de non cavitation de la pompe s'écrit :    
+5.0+ requis disponible NPSH NPSH  
+En fait, le NPSH requis de la pompe est déterminé comme le seuil au deçà duquel la 
+cavitation fait son apparition dans la pompe et détériore ses performances de 3 à 5 % .  
+Pour éviter la cavitation dans une pompe, il faudra veiller à limiter les pertes de charges 
+à l'aspiration , éviter que la pression du réservoir soit trop faible  et dans l e cas d'une 
+pompe en aspiration, éviter que la hauteur d'aspiration soit trop importante . 
+ 
+
+--- PAGE 32 ---
+Page 32 
+ Hauteur maximale d’aspiration  
+Théoriquement il est bien admis qu’en faisant le vide dans un tube il est impossible de faire 
+monter l’eau à une hauteur supérieure à la pression atmosphérique en [m] pour l’altitude 
+considérée. Pour l’altitude zéro, cette hauteur est de 10,33 [m] ; pour u ne altitude Z cette 
+hauteur devient 10.33 – 0.0012*Z. La hauteur théorique maximale d’aspiration  Ha 
+est fournie par  : 
+gV
+gPNPSH Max JZ HE V
+r asp a2; 0012.0 33.102
+max −
+
+
+− − − =
+ ; V E représente la vitesse à l’entrée de la 
+pompe.  
+NB : La hauteur pratique d'aspiration d'une motopompe est indépendante de la puissance du 
+moteur, elle dépend bien sûr de la conception de la pompe, mais c'est avant tout un phénomène 
+purement physique.  
+ 
+II – 3.2.5 Choix d’une pompe  
+Le choix d’une pompe en vue d’une application donnée, est un problème pratique très 
+important. La définition d’un problème de pompage implique de connaître un certain 
+nombre d’éléments d’importance variable suivant le projet envisagé :  
+ La nature du liquide pompé, sa masse volumique, sa viscosité et, en particulier, son 
+appartenance ou non à la catégorie des fluides dits newtoniens dont la viscosité ne 
+dépend pas de la vitesse d’écoulement. La présence de gaz dissous ou de particules en 
+suspension va engendrer des difficultés importantes pour le pompage  ; 
+ Le débit véhiculé au point nominal, ainsi que la zone de débit dans laquelle la pompe 
+devra opérer. Le débit fourni par la pompe doit être le plus proche possible de son débit 
+nominal  : Qp = Q N ± 3% ; 
+ La charge à fournir par la pompe au point nominal. La HMT de la pompe doit être 
+vaincre la hauteur géométrique et les pertes de charge du système  ; 
+ La caractéristique du circuit résistant : celle -ci permet d’étudier les conditions de 
+démarrage, les problèmes de stabilité statique et, éventuellement, dynamique ; il est 
+également nécessaire d’indiquer si plusieurs pompes doivent fonctionner en parallèle  et 
+de préciser le mode d’exploitation ;  
+ Les moyens utilisés pour assurer un réglage du débit lorsque la pompe doit assurer un 
+débit variable ;  
+ Des informations sur les moyens d’entraînement ou sur la vitesse de rotation, si celle -ci 
+est imposée ; des informations sur la fréquence du réseau, si la vitesse n’est pas imposée 
+et si l’entraînement est électrique ;  
+ Des informations qualitatives importantes : par ex  : si le fonctionnement est continu ou 
+intermittent, si l’on souhaite une valeur élevée du rendement de la pompe ; une telle 
+condition exclura d’emblée les pompes de Ns trop faible.  
+
+--- PAGE 33 ---
+Page 33 
+ Une fois les conditions de débit et de charge fixées, on peut s’intéresser aux produits proposés 
+par les constructeurs.  
+II – 3.3 Modification des caractéristiques d’une pompe  
+II – 3.3.1 Position du problème  
+Les courbes caractéristiques d’une pompe sont tracées à vitesse constante. Or, dans la 
+pratique, on peut vouloir faire fonctionner la pompe à une vitesse différente. On peut aussi 
+vouloir ajuster le fonctionnement d’une installation à un débit et une hauteur nette 
+d’élévation donnée en réduisant le di amètre de la roue. Enfin, en usine, les constructeurs 
+souhaitent souvent définir de nouveaux modèles à partir d’autres particulièrement bien 
+réussis. La théorie de la similitude permet de résoudre tous ces problèmes.  
+ 
+II – 3.3.2 Modification des performances par changement de 
+vitesse de rotation  
+Une pompe centrifuge est caractérisée par la vitesse de rotation de la roue. Si la vitesse de 
+rotation d’une pompe centrifuge passe de N 1 à N 2 tours par minute, le débit Q, la Hauteur 
+manométrique totale H et la puissance absorbée P varient dans les rapports suivants :  
+1
+12
+2 QNNQ 
+
+
+=
+                            
+12
+12
+2 HNNH 
+
+
+=                           
+13
+12
+2 PNNP 
+
+
+=  
+ 
+II – 3.3.3 Modification des performances par rognage de la roue  
+La recoupe de la roue  (ou rognage des aubes ) est une opération couramment utilisée 
+pour ajuster la courbe caractéristique d’une pompe aux besoins réels. Le rognage consiste à 
+diminuer le diamètre extérieur D , de la roue de la pompe. On admet généralement, 
+que les angles de sortie de la pompe ne sont pas modifiés tant que la diminution reste 
+inférieure à une valeur comprise entre 10 et 15 %.  Mais la largeur de la roue étant 
+constante et non proportionnelle au diamètre, les lois de similitudes sont différente s de 
+celles du paragraphe précédent. On montre en effet que, la vitesse de rotation étant supposée 
+constante, lorsqu’on réduit le diamètre, le débit et la HMT varie comme le carré du rapport 
+des diamètres :  
+12
+12
+2 QDDQ 
+
+
+=
+                          
+12
+12
+2 HDDH 
+
+
+=  
+La puissance absorbée varie comme la puissance quatrième du rapport des diamètres  : 
+14
+12
+2 PDDP 
+
+
+=
+ 
+II – 3.3.4 Similitude des pompes  
+Soit une pompe dont le diamètre et la largeur de la roue sont D et L et fournissant un débit 
+Q à une hauteur H avec une vitesse de rotation N. Construisons une deuxième pompe de 
+diamètre d et de largeur l semblable géométriquement à la précédente. Elle fournira un débit 
+q avec une hauteur h pour une vitesse n tels que :  
+2 2 2
+
+
+
+
+= 
+
+=nN
+dD
+hHetlL
+nN
+dD
+qQ
+ 
+Appelons  coefficient de similitude géométrique :  = D/d = L/l.  
+
+--- PAGE 34 ---
+Page 34 
+ On en tire  :
+2/32
+2/32 2/3 3
+3
+hnq
+HNQ
+hH
+Nn
+Nn
+qQ
+hH
+Nn
+Nn
+qQ = 
+
+
+
+=   =  =  
+Le rapport que nous noterons N s est donc constant : 
+4/32/1
+4/32/1
+hqn
+HQNNs==  
+Ce terme N s est appelé vitesse spécifique  de ces deux pompes. C'est un élément 
+caractéristique de la forme de la pompe  puisqu'il ne change pas lors d'une similitude 
+et qu'il est indépendant de la vitesse de rotation (si N croît, Q croît comme N et H comme N2 
+; donc N s = cte). N s s'exprime en général en tr/min avec Q en [m3/s], N en [t r/min] et H en 
+[m].  
+ 
+Exercice d’application  I – 1 : Soit à déterminer une pompe, dont la vitesse de rotation 
+n’est pas imposée , mais l’entraînement se fera par un moteur asynchrone utilisant un 
+réseau à 50 [Hz]. Le fluide véhiculé est de l’eau froide, la hauteur d’élévation H = 60 [m], le 
+débit Q = 0.36 [m3/s]. Pour les vitesses de rotation 2  900, 1  450, 970 et 730 [tr/min] 
+déterminer les caractéristiques de la pompe ainsi que la puissance absorbée. Commenter les 
+résultats obtenus.  
+ 
+Eléments de réponse  :  
+Pour chaque vitesse N de rotation 
+(tableau), on peut déterminer le 
+coefficient Ns, puis Ds , le diamètre de la 
+roue D, puis le rendement hydraulique H 
+et le rendement global approché g à 
+partir de la figure  = f(Ns) , et enfin la 
+puissance absorbée Pa.  
+On voit, à l’examen du tableau que les 
+solutions C et D, correspondant aux deux 
+vitesses les plus lentes, sont à éliminer par 
+suite de la puissance importante qu’elles demandent (les valeurs de Ns sont plutôt faibles). 
+On constate entre la pompe la plus rapide (A) et la plus lente (D) un écart de 56.2 [kW], 
+entraînant pour un fonctionnement de 20 [h/j], une surconsommation de 0.4 1 [MWh] par 
+an, ce qui est considérable.  
+ 
+Les solutions C et D conduisent non seulement à des surconsommations très importantes, 
+mais aussi à des pompes d’encombrement plus important. La solution D, par exemple, 
+conduit à une roue ayant un diamètre de 0.93 [m] contre 0.28 [m] pour la solution A. S i l’on 
+admet que la masse de la pompe varie comme la puissance 2.5 des dimensions, cela signifie 
+que la masse de la pompe D sera 20 fois celle de la pompe A.  
+ 
+Le choix est moins facile entre les solutions A et B. En effet, la différence de puissance au 
+niveau de l’accouplement n’est que de 6.9 [kW] et la différence de puissance électrique peut 
+être légèrement atténuée par la différence de rendement du moteur. Une étude économique 
+devient nécessaire.  
+ Choix d'une pompe dont la vitesse de rotation n'est 
+pas imposée  
+Caractéristiq
+ues Solution hors cavitation  
+A B C D 
+N [tr/min]  2 900  1 450  970  730 
+H [m]  60 60 60 60 
+Q [m3/s] 0.36  0.36  0.36  0.36  
+Ns 80.71  40.36  27 20.32  
+Ds 1.3 2.36  3.36  4.31  
+D [m]  0.28  0.51  0.73  0.93  
+g 0.89  0.865  0.81  0.72  
+Pt [kW]  238.1  245 261.6  294.3  
+
+
+--- PAGE 35 ---
+Page 35 
+ Exercice d’application  I – 2 : Soit à déterminer une pompe dont la vitesse de rotation 
+est imposée et égale à 1 450  [tr/min]. Le fluide véhiculé est de l’eau froide, la hauteur 
+d’élévation H = 40 [m] et le débit Q = 0.012 [m3/s]. Déterminer les caractéristiques de la 
+pompe idéale ainsi que la puissance absorbée. Commenter les résultats obtenus.  
+ 
+Eléments de réponse  :  
+On procède comme dans l’exercice 
+précédent. Comme la vitesse de rotation 
+est imposée, on fera varier le nombre 
+d’étage de la pompe.  
+ 
+La solution monocellulaire est 
+évidemment possible, mais peu 
+favorable : le rendement est médiocre et 
+la roue relativement grande. Une 
+solution multicellulaire est à envisager.  
+ 
+La seule condition qui soit modifiée en 
+variante trois étages est la hauteur qui 
+devient H/étage = 13.3 [m]. L’intérêt de cette solution est évident : la puissance est réduite 
+pratiquement de moitié,  
+avec un gain de 5.37 [kW] et une économie annuelle de 0.047 [MWh] en fonctionnement 
+continu. La pompe ne sera pas plus lourde, sera moins encombrante et son niveau de bruit 
+sera inférieur.  
+ 
+Une solution à quatre ou cinq étages serait également possible avec un nouveau gain de 
+rendement d’environ 4 points. Une étude économique est à faire entre les deux solutions en 
+consultant les données économiques.  
+ 
+II – 4 Equipements à l’aspiration et au refoulement des pompes 
+centrifuges  
+L’installation des pompes centrifuges de surface à axe horizontal et à aspiration axiale , 
+avec leurs équipements, tant à l’aspiration qu’au refoulement, doit répondre à des exigences 
+précises afin d’établir les caractéristiques hydrauliques nécessaires, HMT et NPSHr 
+notamment, d’assurer leur bon fonctionnement au débit et à la pression nécess aires, et de 
+garantir leur pérennité. La norme NF CR13932  de décembre 2000 donne toutes les 
+recommandations nécessaires pour le raccordement des tuyauteries d’aspiratio n et de 
+refoulement des pompes rotodynamiques.  
+ Choix d'une pompe dont la vitesse de rotation est 
+imposée  
+Caractéristique  Solution hors cavitation  
+A B C D 
+Nombre 
+d'étages  1 2 3 4 
+H / étage [m]  40.0  20.0  13.3 10.0  
+Q [m3/s] 0.012  0.012  0.012  0.012  
+Ns / étage  10.0  16.8  22.8  28.2  
+Ds / étage  8.04  5.10  3.90  3.23  
+D / étage [m]  0.35  0.26  0.22  0.20  
+g 0.41  0.63  0.77  0.81  
+Pa [kW]  11.48  7.47  6.12  5.81  
+
+
+--- PAGE 36 ---
+Page 36 
+ II – 4.1 Schéma d’installation  
+La figure ci -dessous et sa légende 
+inventorient l’ensemble des équipements 
+devant s’installer à l’aspiration et au 
+refoulement des pompes centrifuges. Il a 
+été retenu le cas d’une pompe fonctionnant 
+en aspiration, cas qui nécessite le plus 
+d’attention dans  le choix des équipements 
+et de leurs caractéristiques.  
+ 
+II – 4.2 Equipements à 
+l’aspiration  
+II – 4.2.1 Crépine clapet 
+de pied  
+Si la pompe fonctionne en aspiration, une 
+crépine clapet de pied est nécessaire afin 
+d’éviter son désamorçage lors des arrêts. Si elle est continuellement en charge, la seule 
+crépine suffit pour protéger la pompe contre toute intrusion de corps solides.  
+ 
+Le diamètre de raccordement des clapets de pied est choisi de telle façon que l’obturateur 
+soit complètement ouvert au débit nominal de la pompe afin d’éviter tout battement pouvant 
+causer une usure prématurée.  
+ 
+La figure «  a » montre les cotes minimales à respecter lors de la 
+mise en place d’une crépine d’aspiration. Il est nécessaire que la 
+bride de raccordement, entre la tuyauterie et la crépine, soit 
+située à 0.30 [m] au moins en dessous du niveau des basses 
+eaux.  
+ 
+La cote minimale de 0.50 [m] en dessous de la crépine a pour 
+objet d’éviter l’aspiration de sable. Cette distance correspond au 
+cas d’un bassin curé, où il n’y a ni végétation, ni accumulation 
+de débris. Si la cote de 0.50 [m] sous la crépine ne peut 
+absolument pas être respectée, il est recommandé d’utiliser 0.30 [m].  
+ 
+II – 4.2.2 Conduite d’aspiration  
+La vitesse d’écoulement dans la conduite d’aspiration doit être limitée afin d’obtenir un 
+NPSH disponible le plus élevé possible. Les coudes à ménager sur l’aspiration doivent avoir 
+un rayon de courbure minimum de 3D, soit R = 1,5 D. Le tableau suivant ind ique les 
+diamètres nominaux minimum à choisir en fonction du débit.  
+Q 
+[m3/h] 
+≤ 8 14 20 35 50 90 150 205 320 450 
+DN 
+[mm]  50 65 80 100 125 150 175 200 250 300 
+Source  : Memotec N°36 GLS  
+ 
+
+
+--- PAGE 37 ---
+Page 37 
+ On définit le paramètre S représentant la vitesse spécifique d’aspiration  et qui 
+correspond à la capacité d’aspiration d’une pompe de type quelconque. Il est d’usage facile 
+et peut s’ appliquer pratiquement partout  
+ 4/3
+%3r NPSHQ NS=
+avec  N en [tr/min], Q en [m3/s]. 
+- Pompe à une seule ouïe  : S = 180  
+- Pompe à deux ouïes ou pompe multicellulaire  : S = 160  
+- 120 < S < 160 (pompes de qualité ordinaire)  ; 160 < S < 210 (pompe ayant une bonne 
+qualité d’aspiration)  
+Le NPSHr 3% correspond, pour un débit donné, à une chute de 3 % de la hauteur fournie par 
+la pompe.  
+La tuyauterie d’aspiration ne devra présenter aucun point haut où puisse se trouver piégée 
+une poche d’air, de gaz ou de vapeur. À cet effet, on donnera à la conduite une pente 
+montante du bassin d’aspiration vers la pompe de 2% au minimum. La figure ci -dessous est 
+une représentation de ce qu’il faut faire ou ne pas faire. Seule la configuration à l’extrême 
+droite de la figure est convenable.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+II – 4.2.3 Vanne d’isolement  
+Son diamètre de raccordement doit correspondre à celui de la conduite  d’aspiration. La 
+vanne d’isolement peut être  du type :  
+➢ Robinet – vanne à obturateur élastomère (inconvénient majeur : son poids) ;  
+➢ Vanne à papillon (commande par levier jusqu’au DN200, au -delà par démultiplicateur 
+– au refoulement la commande par levier est possible jusqu’au DN200 si P = 3,5 [bar]  ; 
+DN150 si P = 10 [bar]  ; DN125 si P = 16 [bar]).  
+ 
+II – 4.2.4 Vacuomètre  
+Le vacuomètre permet de mesurer les caractéristiques hydrauliques au niveau de 
+l’écoulement à l’aspiration. Il peut être remplacé par un manomètre si la pompe fonctionne 
+en charge. Il peut être également remplacé par un mano -vacuomètre (échelle de pression s 
+négative et positive) pour un fonctionnement mixte, en aspiration et en charge.  
+ 
+II – 4.2.5 Convergent  
+
+
+--- PAGE 38 ---
+Page 38 
+ La tuyauterie d’aspiration sera presque toujours d’un diamètre supérieur au diamètre de la 
+bride d’entrée de la pompe. Il sera donc nécessaire de prévoir un convergent de 
+raccordement. La liaison doit donc s’effectuer par un cône de réduction répondant à 
+certaines exigences. Ce convergent devra être d’un dessin particulier, tel que la génératrice 
+supérieure soit horizontale, pour qu’il n’y ait pas de point haut. La figure ci -contre illustre 
+cet aspect  
+ 
+Pour permettre la bonne alimentation de la pompe 
+malgré la présence d’élémen ts perturbateurs (coude, 
+vanne)  il est nécessaire de prévoir une longueur droite 
+en amont  du cône convergent égale à 5 fois le 
+diamètre de la tuyauterie d’aspiration. Pour des orifices 
+d’aspiration supérieurs à 250 mm, la longueur L peut 
+être diminuée en suivant les recommandations du 
+fabricant de la pompe.  
+ 
+II – 4.3 Equipements au refoulement  
+II – 4.3.1 Manomètre  
+Les manomètres utilisés ont une classe d’exactitude de 1 % ou 1. 6 % d’erreur maximum par 
+rapport à l’étendue de l’é chelle . L’étendue de l’échelle doit être telle que la pression 
+maximum de la pompe à vanne fermée soit inférieure à l’indication maximum de l’échelle. 
+Le manomètre doit être placé le plus près possible de la bride de refoulement, son indication 
+et celle du mano -vacuomètre placé à l’aspiration permettent d’estimer la hauteur 
+manométrique engendrée par la pompe après correction des lectures par les hauteurs entre 
+le plan médian de la pompe et l’axe des appareils de mesure.  
+ 
+II – 4.3.2 Cône divergent  
+La liaison entre la bride de refoulement de la pompe et la tuyauterie doit s’effectuer par 
+l’intermédiaire d’un cône de réduction divergent concentrique de faible angle au sommet 
+afin d’éviter le décollement des filets d’eau, et donc de créer des déperditi ons énergétiques 
+importantes. Cet angle est compris entre 8° et 12°.  
+L = 5 (D – d) →  = 12° et L = 7 (D – d) →  = 8° où L est la longueur du divergent, D et d 
+les diamètres.  Comme au niveau de l’aspiration, une partie droite doit être prévue entre la 
+sortie du cône divergent et le premier élément perturbateur (coude, clapet, vanne). La 
+longueur de cette conduite est 3 fois le diamètre de refoulement . 
+ 
+II – 4.3.3 Conduite de refoulement  
+Bien que cela soit de moindre importance que pour 
+l’aspiration, il est préférable d’avoir une conduite de 
+refoulement continuellement ascendante. Si cette 
+disposition ne pouvait pas être respectée, il 
+conviendrait de prévoir des purges aux points hauts de la conduite. Pour obtenir un 
+fonctionnement non bruyant on vérifiera que la vitesse d’écoulement, obtenu après choix du 
+
+
+--- PAGE 39 ---
+Page 39 
+ diamètre de la conduite, est bien inférieure ou égale à la vitesse limite donnée par la relation 
+suivante :  
+ Condition selon GLS  : 
+()()25.0
+50
+
+mmsmVret
+m   
+En effet, quelques formules  donnant le diamètre économique ont aussi été proposées. Il 
+s’agit  :  
+ 
+ Formule de Bresse  
+Diamètre économique théorique  : 
+() ()1000 5.13  =  smQ mmth  ; il lui correspond alors 
+une vitesse moyenne Vm = 0.57  [m/s]. Dans les conditions économiques actuelles, cette 
+vitesse est trop faible  ; aussi est -il préférable de corriger la formule de Bresse et d’adopter 
+celle de Bonnin  ou Bedjaoui . 
+ 
+ 
+ Formule de Bonnin  
+Diamètre économique théorique  :
+() ()00013 =  smQ mmth . La vitesse moyenne économique 
+prend alors pour valeur Vm = 1.27  [m/s]. Cette valeur est assez satisfaisante pour les 
+tuyauteries dont le dia mètre est compris entre 0.1 et 0.6  [m].  
+ 
+ 
+ Formule de  Bedjaoui  
+Diamètre économique théorique  :
+() ()0001 27.13  =  smQ mmth . La vitesse moyenne 
+économique prend alors pour valeur Vm = 0.79  [m/s]. Cette valeur est assez satisfaisante 
+pour les tuyauteries dont l e diamètre est compris entre 0,5  et 1.6 [m].  
+L’inconvénient de ces trois  formules est qu’elles ne tiennent pas compte du temps de 
+pompage. Or le temps de pompage est un paramètre non négligeable dans la minimisation 
+des frais d’exploitation du réseau.  
+ 
+ 
+ Formule de Meunier  
+Diamètre économique théorique  : 
+()( ) ()1000 02.013   +=  smQ T mmP th  avec Tp [h] est le 
+temps de pompage.  
+ 
+Si la formule Meunier tient compte du temps de pompage, sa limite est qu’elle ne prend pas 
+en compte le prix du [kWh] et le prix du kg de la conduite. On utilise pour cela la formule de 
+Vuibert.  
+ 
+ 
+ Formule de Vui bert  
+Diamètre économique théorique  : 
+() ()   100024547.146.03154.0
+ 
+
+
+
+ =  smQfeTmmp
+th   
+Avec Tp est la durée de pompage exprimée en heure  ; e = prix du kWh  ; f = prix du kg de 
+fonte.  
+Quelle que soit la méthode d’évaluation adoptée, le diamètre de la canalisation devra être choisi, au plus près 
+du résultat trouvé, dans la série des diamètres normalisés dont la fabrication est assurée de façon courante. 
+En pratique, on prendra le diamètr e commercial immédiatement en -dessous, puis on vérifie la conduite de 
+vitesse.  
+ 
+
+--- PAGE 40 ---
+Page 40 
+ I – 4.3.4 Clapet de non -retour  
+Les clapets de non -retour pour eau claire sont classés en deux familles :  
+o Clapets à battant, simple ou double  ; 
+o Clapets à déplacement linéaire, à simple ou multi -obturateurs.  
+ 
+I – 4.3.5 Autres équipements  
+On retrouve sur la conduite de refoulement d’une pompe centr ifuge, les équipements ci -
+après  : 
+o Tube d’évacuation des fuites des presse -étoupes et joints de démontage  ; 
+o Robinets de vidang e des pompes et des tuyauteries  ; 
+o Robinets de purge d’air ou ventouses automatiques pour les points « haut ».  
+ 
+  
+
+--- PAGE 41 ---
+Page 41 
+  
+
+--- PAGE 42 ---
+EXHAURE  DES  EAUX  SOUTERRAINES   
+POMPAGE  A  MOTRICITE HUMAINE  
+
+--- PAGE 43 ---
+ Objectifs du module   
+L’apprenant devra à l’issue de ce module, être 
+capable de:  
+ 
+•justifier de l’intérêt des pompes à motricité humaine 
+dans l’alimentation en eau de consommation des 
+populations  ; 
+ 
+•présenter les avantages et inconvénients de 
+quelques pompes  ; 
+ 
+•Choisir et faire installer une pompe   à motricité 
+humaine ;  
+ 
+•donner les consignes d’exploitation et d’entretien 
+d’une pompe  ; 
+ 
+•Donner une idée du coût d’entretien d’une pompe à 
+motricité humaine.  
+
+--- PAGE 44 ---
+Pompe à motricité humaine.  
+Typologie des pompes  
+Utilisation usuelle : équipement de forages et de puits.  
+ 
+Technologie:  
+ 
+•Aspirante en surface  
+oà piston;  
+ 
+•Refoulante  avec partie hydraulique immergée:  
+oà piston  
+oà baudruche  
+oà vis  
+
+--- PAGE 45 ---
+Partie moteur  
+o main  
+o pied  
+ 
+Transmission  
+omécanique (levier + tringlerie) ;  
+ohydraulique (tuyau d'eau);  
+ 
+Partie hydraulique  
+o  pompe volumétrique (piston immergé ou 
+émergé, baudruche).  Principe de fonctionnement des pompes.  
+
+--- PAGE 46 ---
+Nomenclature des pompes  
+
+
+--- PAGE 47 ---
+Choix de principe et de mécanisme  
+Suivant la profondeur à laquelle on doit pomper 
+l’eau, certains principes et/ou mécanismes ne 
+peuvent être utilisés.  
+Profondeur 
+(m) Principe 
+utilisable  Mécanisme d’entrainement  
+direct  Roue  Levier  Pédale  
+0  -  7 Aspiration  
+0  -  15 Refoulement  
+0  -  30 Refoulement  
+0  -  60 Refoulement  
+0  -  100 Refoulement  
+
+--- PAGE 48 ---
+ 
+ 
+Dans cette gamme l’accent sera porté 
+sur les pompes de marque INDIA, 
+KARDIA, SAEH et VOLANTA   
+ 
+• PRINCIPE DE FONCTIONNEMENT   2 
+montée du piston  
+piston  
+valve fermée  
+valve ouverte  
+Réserve d’eau  
+Tube d’entrée  Sortie  
+cylindre  
+Tube d’entrée  valve fermée  piston  
+valve  
+ouverte  Sortie  1 
+descente du piston  
+Réserve d’eau  cylindre  LES POMPES A PISTON  
+Formation de techniciens d’ONG locales en charge de projets d’accès à l’eau et de gestion de l’eau dans les villages  
+ 7 
+
+--- PAGE 49 ---
+PRINCIPE DE FONCTIONNEMENT  
+
+--- PAGE 50 ---
+Pompe INDIA  
+ ( site Web  : http://www.pps -india.com  ) 
+•Description de la pompe  
+ 
+La pompe INDIA est une pompe manuelle à piston à commande par bras 
+de levier et tringles.  
+Elle comprend trois parties:  
+ 
+Le mécanisme de surface  
+les éléments de raccordement en acier galvanisé de 3 m de 33 x 42 mm;  
+ 
+La tuyauterie de refoulement de 33 x 42 mm en acier galvanisé ou en 
+PVC/INOX.  
+ 
+le mécanisme immergé comprend:  
+le cylindre du corps de pompe en laiton avec à chaque extrémité un 
+raccord fileté femelle;  
+à l’intérieur du cylindre le piston avec deux coupelles qui assurent 
+l’étanchéité;  
+le clapet du piston à la base du cylindre , le clapet de non retour.  
+ 
+
+--- PAGE 51 ---
+La pompe à tringle India Mark II prise en exemple dans 
+le schéma ci -dessous comprend trois parties:  
+
+
+--- PAGE 52 ---
+Détails des principales parties  
+Le mécanisme de surface comprend :  
+–la tête avec un couvercle ;  
+–le bras ;  
+–la fontaine ;  
+–le piédestal avec une embase à 3 pieds ; en enlevant le 
+couvercle on voit :  
+–l’extrémité du bras,  
+–l’axe du bras,  
+–la chaîne qui transmet le mouvement du bras à la tringle,  
+–l’extrémité de la tringle supérieure.  
+Les éléments de raccordement font chacun 3 m de longueur et 
+comprennent:  
+–le tube de refoulement en acier galvanisé 33 X 42 ou en pvc / 
+inox  ; 
+–une tringle filetée à chaque extrémité ;  
+–un manchon de tringle bloqué par un contre écrou.  
+
+--- PAGE 53 ---
+Schéma du corps de pompe India Mark II   
+Le mécanisme immergé comprend :  
+•le cylindre du corps de pompe en 
+laiton avec, à chaque extrémité, un 
+raccord fileté femelle ;  
+•à l’intérieur de ce cylindre, le piston 
+avec 2 joints en cuir qui assurent 
+l’étanchéité ;  
+•le clapet du piston ;  
+•à la base du cylindre le clapet de 
+non-retour ;  
+•un tuyau d’aspiration 33 X 42 de 1 m 
+en général ;  
+•la crépine en plastique.  
+
+
+--- PAGE 54 ---
+Gamme de corps de pompe (cylindres fermés)  
+
+--- PAGE 55 ---
+Corps de pompe 
+(cylindre ouvert) :  
+INDIA Mark III  
+
+
+--- PAGE 56 ---
+Performances hydrauliques  
+Diamètre du cylindre  :   63,5 mm  
+ 
+Profondeur optimal  : 30 à 60 m  
+ 
+Profondeur maximale actuelle  : 80 m  
+ 
+Course du piston  :  100 mm  
+ 
+Nombre de coups par minute  : 40 à 50  
+ 
+Débit par heure  : 800 à 1000 l  
+ 
+Poids avec le cylindre  :   58 kg  
+ Diversifications:  
+ 
+Cylindre Ф 60 mm  ; 800 à 1000 l/h pour 80 m  
+ 
+Cylindre Ф 80 mm  ; 1800 à 2000 l/h pour 50m  
+ 
+Cylindre Ф100mm  ; 2800 à 3000 l/h pour 25m  
+ 
+ 
+ 
+Des études sont en cours pour l’adaptation 
+d’un volant pouvant aussi fonctionner avec un 
+moteur   
+ 
+
+--- PAGE 57 ---
+TYPES DE POMPES «  INDIA  » 
+Action directe  
+Très grande profondeur  
+Afridev  
+Mark III  
+
+--- PAGE 58 ---
+Avantages du système d'exhaure "SBF -INKAR"  
+•pas de problèmes de corrosion grâce à l'utilisation 
+de matériaux non corrosifs (SBF -PVC et acier 
+inoxydable);  
+•poids réduit, donc installation facile à la main, 
+jusqu'à une profondeur de 45 m;  
+•adaptation superflue sur place d'une longueur de 
+tige; -simple adjonction du tube d'exhaure en cas de 
+rabattement de nappes;  
+•fonctionnement de longue durée avec un faible 
+entretien des joints de piston;  
+•rendement hydraulique élevé du système piston / 
+cylindre.  
+
+
+--- PAGE 59 ---
+Principe de fonctionnement.  
+•Refoulement.  
+ 
+Quand on appuie sur le bras, la 
+tringle monte et entraîne le 
+piston vers le haut. Le clapet 
+monté sur le piston se ferme – 
+l’eau est refoulée vers la 
+surface.  
+En même temps, dans sa course 
+montante, le piston aspire l’eau 
+du puits ou du forage dans la 
+partie inférieure du cylindre, le 
+clapet inférieur est ouvert.  •Descente.  
+ 
+Quand on remonte le bras, la 
+tringle descend, entraînée par 
+le piston vers le bas. Le clapet 
+inférieur se ferme puisque le 
+piston pousse l’eau vers le bas.  
+En même temps, le clapet du 
+piston s’ouvre et l’eau de la 
+partie inférieure du cylindre 
+vient remplir la partie 
+supérieure.  
+ 
+Le cycle est ainsi achevé et le 
+piston est prêt à aborder la 
+phase de refoulement.  
+ 
+
+--- PAGE 60 ---
+INSTALLATION DE LA POMPE  
+Quatre étapes:  
+ 
+1. Réalisation du massif d’ancrage et des 
+aménagements de surface;  
+ 
+2. Détermination de la profondeur d’immersion de la 
+pompe;  
+ 
+3. Montage et descente du corps de pompe;  
+ 
+4. Montage du mécanisme de surface.  
+
+--- PAGE 61 ---
+Détermination de la profondeur d’immersion.  
+. La crépine et le corps de pompe situés tout en bas 
+doivent toujours être dans l’eau quelle que soit 
+l’époque de l’année.  
+ 
+•Afin de ne pas aspirer de la boue, la crépine doit 
+être à au plus 0,50 m du fond du puits ou du forage.  
+ 
+•Par ailleurs, pour que la tringlerie et le piston 
+descendent normalement, il faut que le cylindre soit 
+à au moins 10 m de profondeur  (le piston est poussé 
+par le poids de l’eau et la tringlerie située au -
+dessus).  
+ 
+ 
+
+--- PAGE 62 ---
+Montage et descente du corps de pompe.  
+Cette opération ne peut être réalisée que 3 ou 4 jours 
+au moins après la réalisation du trottoir.  
+ 
+Nota : le montage doit être réalisé par au moins 3 
+hommes forts ayant les outils nécessaires.  
+ 
+Avant tout montage, il faut disposer sur une zone 
+propre (pas directement sur le sol) l’ensemble des 
+éléments (tuyaux, tringles, etc…) ; il faut s’assurer 
+que toutes les pièces sont présentes et que 
+l’ensemble est propre. Il faut, en particulier, bien 
+nettoyer les filetages. Enfin il est nécessaire de bien 
+vérifier le bon état des pièces.  
+ 
+ 
+ 
+
+--- PAGE 63 ---
+Mode d’utilisation de la pompe.  
+Il est nécessaire de sensibiliser les populations 
+locales sur les points suivants :  
+•le bras  
+doit être déplacé de haut en bas sur toute sa course ;  
+ne doit pas forcer ;  
+doit buter en haut et en bas ;  
+ne doit pas être actionné par petits coups.  
+ 
+•il ne faut pas accrocher de seau sur le bec verseur ;  
+ 
+•les enfants ne doivent pas jouer avec le bras ou se 
+suspendre à la pompe.  
+
+--- PAGE 64 ---
+Entretien courant du modèle INDIA MARK II.  
+Afin de conserver la pompe en bon état de 
+fonctionnement, il faut chaque semaine :  
+ 
+•vérifier que tous les boulons et écrous sont bien 
+serrés ;  
+ 
+•ouvrir le couvercle de la tête de pompe et vérifier 
+que l’intérieur est propre et mettre un peu de 
+graisse sur la chaîne ;  
+ 
+•s’assurer que la pompe marche normalement sans 
+bruit bizarre ;  
+ 
+•gratter, avec une brosse métallique, les points de 
+rouille et repeindre la pompe si besoin.  
+
+--- PAGE 65 ---
+Principales pièces d’usure.  
+Les principales pièces d’usures sont :  
+ 
+•au niveau du mécanisme de surface, les roulements 
+du bras. Il y a lieu de les changer tous les 2 ans 
+environ ;  
+ 
+•Au niveau du mécanisme immergé, les cuirs qui 
+assurent l’étanchéité du piston qui coulisse dans le 
+cylindre. Ils doivent être changés tous les 6 mois 
+mais si l’eau pompée contient du sable, la 
+périodicité de changement est de 2 à 3 mois.  
+
+--- PAGE 66 ---
+pompe INDIA :: DYSFONCTIONNEMENT ET REMEDES  
+Symptômes  Causes  Remèdes -Solutions  
+ 
+ 
+ 
+Le levier de 
+commande 
+offre peu de 
+résistance.  
+ 
+Aucun débit 
+d’eau  1.Colonne d'eau endommagée, 
+desserrée ou séparée.  
+2.Le niveau d'eau se trouve en 
+dessous du fond du corps de 
+pompe  
+3.Les coupelles en cuir du corps de 
+pompe sont usées ou 
+défectueuses  
+4.Tringles de commande 
+désaccouplées  
+5.Siège de clapet et / ou clapet de 
+retenue en mauvais état.  
+6.Cylindre du corps de pompe 
+fissuré ou déformé (modèle INDE).  Remplacer le tube défectueux ou 
+assembler les tubes séparés.  
+Allonger la colonne d'eau et les 
+tringles de commande  
+Sortir le cylindre et remplacer les 
+pièces défectueuses.  
+Assembler de nouveau les 
+tringles.  
+Remplacer les joints des sièges et 
+/ ou les clapets de retenue  
+Remplacer le cylindre de pompe.  
+Baisse du débit 
+de l'eau 
+refoulée  1.Fuite aux clapets de retenue 
+supérieur ou inférieur  
+2.Fuite sur la colonne de 
+refoulement  •Déposer l'installation et 
+remplacer les joints de clapet.  
+•Remettre en ordre la colonne 
+d'exhaure.  
+
+--- PAGE 67 ---
+La Chaîne se 
+détend au 
+moment de la 
+course 
+descendante.  1.Longueur de tringle incorrecte  
+2.Tringles déformées  
+3.Coincement du piston dans le 
+cylindre du corps de pompe  Ajuster la longueur de la dernière 
+tringle.  
+Redresser ou changer la ou les 
+tringles  
+Déposer le corps de pompe et en  
+•effectuer la révision  
+Bruit anormal 
+pendant le 
+pompage  1.Les coupelles en cuir à l'intérieur 
+du cylindre de pompe ont durci ou 
+sont usées.  
+2.La bride de fixation de la fontaine 
+n'est pas tout à fait horizontale  
+3.Tringle de commande pliée  
+4.Manchon d'accouplement soudé 
+de façon décentrée  Assouplir les coupelles ou les 
+remplacer  
+Modifier la position de la bride de 
+fixation.  
+Remplacer la tringle de 
+commande défectueuse.  
+Remplacer la tringle non -
+conforme.  
+Jeu exagéré sur 
+le levier de 
+commande  1.Ecrou de l'axe desserré.  
+2.Roulement défectueux.  
+3.Entretoise endommagée  Resserrer l'écrou  
+Remplacer le roulement.  
+Remplacer l'entretoise.  
+
+--- PAGE 68 ---
+ EXEMPLE DE PLANNING DE MAINTENANCE ( INDIA )  
+Une fois par semaine  
+1.Nettoyer la plate -forme de la pompe, elle doit toujours être propre  
+2.Contrôler les boulons de fixation  
+ 
+Une fois par trimestre  
+1.Contrôler et serrer si nécessaire l’axe du levier de commande  
+2.Inspecter les boulons de fixation, les bloquer au cas où ils seraient desserrés  
+3.Retirer le couvercle de visite de la tête de pompe, nettoyer l’intérieur  
+4.Contrôler la fixation de la chaîne sur la commande, corriger si nécessaire.  
+5.Nettoyer la chaîne, lubrifier avec de la graisse graphitée.  
+6.Eliminer les traces de rouille sur les parties métalliques  : nettoyer les endroits 
+attaqués avec du papier abrasif ou une brosse métallique. Appliquer une couche 
+de peinture anti-corrosive . 
+7.Examiner le scellement du bâti dans le socle. Réparer si le bâti bouge dans la 
+fondation ou le refaire si le jeu est trop important.  
+
+--- PAGE 69 ---
+Une fois par an  
+ 
+a) - Examiner très soigneusement la pompe et vérifier si :  
+ 
+1.le débit est satisfaisant ( voir Q suivant Ǿ cylindre et position de 
+la pompe)  
+ 
+2.le levier de commande est bien fixé, les roulements de pivot ne 
+présentent pas de jeu anormal.  
+ 
+3.le guide de la tringlerie dans la tête de pompe est en bon état.  
+ 
+4.tous les boulons et écrous sont en place et bien serrés.  
+ 
+5.la chaîne est en bon état  
+ 
+6.le guide de chaîne ne présente pas trop d’usure.  
+
+--- PAGE 70 ---
+Pompe KARDIA : Description  
+Pompes Kardia K65 et K50 (plus grande profondeur)  
+Fabricant: Preussag AG  
+Description:  
+Tête de pompe et levier en acier galvanisé.  
+Tringlerie et colonne en inox et tubes PVC à visser.  
+Corps de pompe, piston et cylindre en inox.  
+Diamètre K65, 70 mm ext.; K50, 50 mm ext..  
+Poids total (25m) :  110 kg  
+prix: 12 000 FF départ usine (30 m)  
+Performances(40 coups/mn.)  
+K65 1m3/h à 30 m   ;  K50 672 l/h à 45 m  
+avantages  
+Très bonne résistance à la corrosion  
+Facilité d'installation (PVC vissés)  
+Qualité de fabrication  
+inconvénients  
+Desserrages fréquents des vis de fixation des 
+roulements à bille du levier  
+Coût d’achat élevé  
+
+--- PAGE 72 ---
+Performances hydrauliques  
+Jeu de pièces de rechange pour un an  
+1 manchette  
+ 
+2 écrous à 6 pans longs  
+ 
+4 écrous à 6 pans courts  
+ 
+1 boulon à 6 pans femelle M 10 x 20  2 manchons doubles 1’’1/2  
+ 
+6 joints plats 1’’1/2  
+ 
+2 joints plats 2’’1/2  
+ 
+1 collier de serrage pour flexible 32-
+40 
+
+--- PAGE 73 ---
+Installation du corps de pompe   
+Après la détermination de la profondeur d’immersion, 
+la descente du corps de pompe la certification de 
+bon fonctionnement s’impose:  
+ 
+• s’assurer que tout fonctionne normalement : le 
+bras ne doit pas être dur, il ne doit pas y avoir de 
+bruit insolite et aucun écrou ne doit être resté 
+dans la tête ;  
+ 
+• actionner le bras sur toute sa course jusqu’à ce 
+que l’eau pompée soit claire.  
+
+--- PAGE 74 ---
+I.3 – LA POMPE  «  SAEH  » 
+ (site web  :http://www.saeh.biz )   
+La recherche par les sociétés SAEH(Société Africaine 
+d’Equipement Hydraulique) et SATH (Société 
+Africaine de Tubes Hydrauliques) d’une  pompe à 
+motricité humaine refoulante permettant à des 
+communautés  
+ de gérer et d’entretenir elles -mêmes leurs 
+installations hydrauliques a  abouti à l’application 
+de matériaux composites.  
+
+--- PAGE 75 ---
+Présentation de la pompe SAEH . 
+La pompe complète comprend  : 
+FONTAINE  
+1 - Tête de pompe  
+2 – Rotule  
+3 - Axe de rotule  
+4 - Ecrou d'axe de rotule  
+5 - Bague de frottement en métal 
+auto -lubrifié  
+6 - Bec verseur  
+7 - Bras de levier  
+8 - 1/2 palier de bras  
+9 - Corps de fontaine  
+COLONNE D’EXHAURE  
+10 - Tube avec centreur  
+11 - Tringle avec centreur*  
+MECANISME DE FOND  
+12 – Cylindre  
+13 – Piston  
+14 - Joint d'étanchéité  
+15 - Clapet de piston  
+16 - Clapet de pied  
+17 - Embout inférieur  
+
+
+--- PAGE 76 ---
+•Fonctionnement de la pompe  
+Cette pompe à bras et à piston ouvert fonctionne sur 
+le même principe que toutes les pompes à piston.  
+ 
+ 
+ 
+•Pièces d’usure  
+–Palier et rotule au niveau de la fontaine  
+–Joint d’étanchéité  
+–clapet au niveau du corps de la pompe.  
+ 
+
+--- PAGE 77 ---
+Entretien – Réparation  
+ Les pompes SAEH ne nécessitent que peu d’entretien.  
+ 
+ 
+ 
+ Constatations  Causes  Interventions  
+Débit nul. Le levier 
+fonctionne dans le vide  
+ 
+ 
+ 
+Faible débit  
+ 
+ 
+Chocs au niveau du 
+levier  
+ 
+La pompe se désamorce  
+ 
+  
+Tringle dévissée  
+ 
+ 
+ 
+Mauvais état du joint  
+ 
+ 
+Paliers en mauvais état  
+ 
+ 
+Le niveau de l’eau est trop 
+bas 
+ Revisser la tringle dans dans 
+le raccord adaptateur sur la 
+douille de rotule, vérifier les 
+autres raccords de tringles  
+ 
+Démonter les tringles  
+Remplacer le joint du piston  
+ 
+Changer les ½ paliers 
+défectueux  
+ 
+Attendre un niveau d’eau 
+suffisant.  
+Si possible rallonger la 
+tuyauterie  
+
+--- PAGE 78 ---
+La pompe SAEH en résumé   
+Elle tire ses forces de l’amélioration:  
+ 
+•Des pièces d’articulation de la fontaine de la marque «  ABI » ; 
+•Des composantes du corps de la pompe INDIA  AFRIDEV ou INDIA Mark III  
+•Du piston ouvert et du retrait du piston d’un seul tenant de VOLANTA  
+•Des matériaux en contact avec l’eau par un composite fibres de verre et 
+résine polyester.  
+ 
+Elle est 100% VLOM avec un piston ouvert:  
+ 
+•Facilement entretenue par les villageois eux -mêmes  : en particulier, cette 
+pompe n’exige plus de démontage de la colonne d’exhaure pour changer les 
+pièces d’usure du corps de pompe.  
+•Le joint du piston et clapet de pied sont remplacés sans démontage des 
+différents éléments constituant la tringlerie, simplement en retirant celle -ci du 
+tube d’exhaure, d’un seul tenant.  
+•Grâce à sa flexibilité naturelle et à sa légèreté, la tringle peut être soutenue 
+hors du forage par les villageois sans la poser par terre.  
+ 
+Elle présente donc un triple avantage  : 
+ 
+•Implication plus forte des villageois dans la gestion de leur point d’eau  ; 
+•Diminution considérable des temps d’immobilisation et coûts d’entretien  ; 
+•Installation définitive des tubes d’exhaure.  
+
+--- PAGE 79 ---
+Recommandations pour l’utilisation des 
+pompes à bras  
+Pour fonctionner correctement, le bras  de la 
+pompe doit être déplacé de haut en bas sur 
+toute sa course:  sans forcer, il ne doit buter 
+ni en haut, ni en bas  
+ 
+•Défauts de manipulation à éviter  
+–Actionner le bras par petits coups;  
+–Buter le bras en haut et en bas;  
+–Accrocher un seau sur le bec verseur;  
+–Laisser les enfants jouer avec le bras ou se 
+suspendre à la pompe.  
+
+--- PAGE 80 ---
+La pompe VOLANTA  
+Description de la pompe  
+Il s’agit d’une pompe à piston, à commande par volant 
+(d’où son nom) et à chaîne ou à tringles en acier inox:  
+•C’est une pompe à piston ouvert et refoulante  : le piston 
+est lesté et effectue son mouvement de descente par 
+son propre poids. Cela permet d’utiliser pour la 
+commande une chaîne.  
+ 
+•La tuyauterie  est fixe, installée une fois pour toute .  
+ 
+•La commande par volant permet un mouvement régulier 
+et uniforme qui respecte bien le matériel. L’effort à 
+fournir est réglable.  
+ 
+•Le corps de pompe est constitué d’un piston de bronze 
+coulissant dans un tube polyester armé ou PVC. Il n’y a 
+pas de segment de cuir. Le sable qui se dépose quand la 
+pompe est au repos, s’accumule en dehors du corps de 
+pompe.  
+•Poids de la pompe complète pour 30 m  : 180 kg   
+
+--- PAGE 81 ---
+LA POMPE «  VOLANTA  » 
+Schéma du corps de pompe  
+ Commande par 
+volant assure un 
+fonctionnement 
+doux et régulier.  
+Le volant sert de 
+poulie en cas de 
+mécanisation  Chaîne de commande 
+servant à la fois à la 
+commande du piston , 
+à la remontée du corps 
+de pompe.  
+Tube de 
+refoulement  en PVC  
+Clapet  
+Corps de piston  
+Parties coniques mâle et 
+femelle assurant 
+l’étanchéité par joint torique  Clapet de pied  Presse étoupe 
+permettant le 
+refoulement  Course et effort 
+réglable   
+Siège du piston  
+
+--- PAGE 82 ---
+La Volanta à énergie humaine  
+
+
+--- PAGE 83 ---
+La Volanta à énergie thermique  
+
+
+--- PAGE 84 ---
+La Volanta à énergie solaire  
+
+--- PAGE 85 ---
+PERFORMANCES ET DEMONTAGE  
+
+--- PAGE 86 ---
+A Pompe à membrane  : l’hydropompe VERGNET  
+Description de la pompe  
+ 
+La pompe VERGNET est une pompe 
+à pédale et à membrane. Elle 
+comprend trois parties:  
+•A - la fontaine et mécanisme de 
+surface;  
+•B - les tuyaux de raccordement 
+en polyéthylène;  
+•C - le corps de pompe.  
+B 
+C 
+
+--- PAGE 87 ---
+Hydropompes - principe et matériel.  
+ ( site Web  : http://www.vergnet.com  ) 
+Les Hydropompes, sont des pompes refoulantes qui fonctionnent 
+avec une transmission hydraulique entre le cylindre immergé 
+et la tête de pompe en éliminant ainsi toutes pièces 
+mécaniques.  
+ 
+Hydropompe Vergnet  : 3 modèles : HPV 30 - 60 - 100 
+Fabricant: Vergnet S.A.  
+ 
+Description HPV 60:  
+Tête de pompe en acier galvanisé  
+Cylindre de pédale en inox  
+Tube de commande et de refoulement en polyéthylène haute 
+densité.  
+Corps de pompe, cylindre en inox, et baudruche en caoutchouc.  
+Clapets: billes  
+poids total: 45 Kg pour 25 m  
+ 
+Performances : 1,15 m3/h à 30 m  
+ 
+
+--- PAGE 88 ---
+ 
+Avantages  
+Très bonne résistance à la corrosion  
+Facilité d'installation et de réparation  
+Peu de pièces d'usure et montage et démontage 
+aisé  
+Pompes très légères  
+Bon  rapport qualité/prix  
+ 
+Inconvénients  
+Désamorçages fréquents de la commande 
+hydraulique sur les anciens modèles.  
+Modèles récents auto -amorçage.  
+Baudruche chère mais garantie 5 ans.  
+Commande à pédale parfois mal perçue par 
+certaines  communautés  
+
+--- PAGE 89 ---
+La fontaine  
+comprenant :  
+ 
+•la poignée ;  
+ 
+•l’orifice de refoulement  
+(bec verseur) ;  
+ 
+•la plaque support ;  
+ 
+•le joint d’étanchéité ;  
+ 
+•Le cylindre de commande  
+La pédale  
+
+--- PAGE 90 ---
+• la pédale ;  
+• l’écrou de guidage ;  
+• les butées basses ;  
+• le cylindre de commande en laiton ou en 
+inox pour les nouveaux modèles ;  
+ 
+Les trois fonctions des clapets :  
+Aspiration , sur la partie supérieure de la 
+pompe, refoulement et réamorçage , 
+contenus dans la boîte à clapets, fixée 
+sur la partie supérieure du corps de 
+pompe.  Le mécanisme de surface  
+
+
+--- PAGE 91 ---
+Le corps de pompe  
+
+
+--- PAGE 92 ---
+Principe de fonctionnement  
+Une fois la pompe amorcée, il est possible de 
+distinguer deux circuits indépendants  : 
+ 
+A - Le circuit de commande avec  : 
+L’ensemble cylindre – piston  ; 
+La tuyauterie de commande  
+Le manchon élastique ou baudruche.  
+ 
+B - Le Circuit de refoulement avec  : 
+Le corps cylindrique rigide muni de ses clapets 
+d’aspiration et de refoulement  
+La tuyauterie de refoulement  
+La fontaine   
+
+--- PAGE 93 ---
+Aspiration  Refoulement  
+Le clapet de refoulement 
+s’ouvre.  
+La baudruche s’allonge  
+Le clapet d’aspiration 
+se ferme  Le clapet de refoulement se ferme . 
+La baudruche se rétracte.  
+Clapet d’aspiration s’ouvre  
+L’eau est aspirée dans le corps de pompe en acier inoxydable.  La pédale remonte  Sous le poids de l'usager 
+la pédale descend.  L’eau est refoulée  
+vers la surface  PRINCIPE DE FONCTIONNEMENT  
+
+--- PAGE 94 ---
+PRINCIPE DE FONCTIONNEMENT  
+53 
+Aspiration  Refoulement  
+Le clapet 
+d’aspiration se 
+ferme  Clapet d’aspiration s’ouvre  
+
+--- PAGE 95 ---
+L’installation en un clin d’œil  
+ 
+Montage du corps de pompe et de la tuyauterie  
+Profondeur de pose  
+Solidarisation des 2 conduites  
+Descente du corps de pompe et de la tuyauterie  
+Amorçage  
+Installation de la pédale  
+Installation  
+de la pédale  
+Test de fonctionnalité  
+ de la pompe  
+
+--- PAGE 96 ---
+Identification  des défauts de fonctionnement de la pompe.  
+DEFAUTS  CAUSES  REMEDES  
+L'eau sort en 
+grande quantité à 
+chaque remontée 
+de la pédale  Bague de guidage usée. La 
+bague est usée quand le jeu 
+entre la pédale et la bague 
+est de 2 mm environ : 
+épaisseur d’un brin 
+d’allumette  Changer la bague de 
+guidage  
+Vérifier si la pédale. n'a 
+pas de bavures sur la 
+partie qui coulisse dans 
+la bague de guidage.  
+La pédale vient 
+buter sur l’écrou 
+de guidage  Butée basses usées et 
+détruites  Remplacer les butées 
+basses  
+La pédale remonte 
+mal ou pas du tout  Segments usés  
+ Piston usé  Remplacer segments 
+ou piston  
+
+--- PAGE 97 ---
+LA POMPE  «  TOUT  TERRAIN  » 
+Verticalité du forage non 
+obligatoire  Refoulement dans un château  
+Plusieurs sur le même forage  
+HYDROPOMPE 60   
+· Profondeur maximale 
+d’utilisation : 
+70 mètres de niveau dynamique  
+· Diamètre minimal de forage :  
+Pour 1 pompe : 4’’  
+Pour 2 pompes : 5’’  
+Pour 3 pompes : 6’’  
+
+--- PAGE 98 ---
+Fontaines et mécanisme de 
+surface  
+57 
+Hydropompe 30  
+( action directe )  
+( 0 à 30 m)  HYDRO INDIA  
+( 0 à 60m )  HPV 60 -2000  
+( 0 à 60m )  HPV 100  
+( 40 à 130m )  
+
+--- PAGE 99 ---
+LES CRITERES DE  CHOIX DES POMPES  
+ Il existe sur le marché de nombreuses pompes à main avec 
+chacune des caractéristiques propres. Le choix d’une 
+pompe à main s’effectuera selon des critères techniques et 
+socio -économiques  : 
+  
+Critères d’encombrement  : 
+Ce critère assure la possibilité d’installer la pompe dans 
+l’ouvrage de captage d’eau souterraine. Sa vérification est 
+capitale dans l’équipement des forages.  
+ 
+  
+ Type de pompe  Diamètre du forage  
+pompe aspirante type VN6  3"- 75 mm  
+Vergnet  3C 2" - 50mm  
+autres pompes Vergnet  4" - 100 mm  
+Kardia  K65, Volanta, SAEH  4’’1/2 - 112 mm  
+58 
+
+--- PAGE 100 ---
+Critères techniques  
+profondeur de pompage et débit souhaité 
+diamètre de la pompe  
+facilité d’installation et de maintenance  
+résistance et fiabilité de la pompe  
+type de pompage particulier :  
+- refoulement dans un réservoir  
+- entraînement avec une courroie + moteur  
+  
+Critères technico -économiques  
+Coût d’exploitation annuelle de la pompe  
+Débit = fonction de la hauteur maximale 
+d’élévation et du diamètre de la pompe  
+Qualité des matériaux et des usinages  
+Complexité du mécanisme   
+59 
+
+--- PAGE 101 ---
+Critères socio -économiques  
+•existence d’un réseau de distribution de pièces de 
+maintenance  
+•pompe éprouvée et acceptée par la population,  
+•pompes déjà installées dans la zone  
+•directives de l’état  
+•coût  
+  
+Critères logistiques  
+•La représentation locale du fournisseur  
+•La volonté de standardisation  
+•La possibilité de fabrication locale  
+•Les conditions restrictives quant aux choix des pompes  
+  
+Critères sociologiques  
+•Coutumes des populations  
+•Commodité de maniement  
+•Sécurité de maniement.   
+60 
+
+--- PAGE 102 ---
+En conclusion  
+Les fabricants de PMH fournissent des guides de 
+dépannage de leur pompes sous forme de: «  Guide des 
+problèmes/causes probables/remèdes  ». 
+Ils offrent aussi une liste de pièces d’usure avec les 
+périodicités de remplacement (à adapter aux conditions 
+d’utilisation et de type de maintenance retenu).  
+L’organisation communautaire de cette maintenance 
+dépend souvent des us des bénéficiaires, de la dynamique 
+du réseau en place.  
+
+--- PAGE 104 ---
+VEILLER SUR LA POMPE ET SUR L’EAU POTABLE.  
+LE BENEFICE:  
+oON EVITE DE LA FATIGUE ;  
+oON GAGNE DE LA SANTE ;  
+oET MÊME DE L’ARGENT  
+
+--- PAGE 105 ---
+3
+
+Différentes parties d’une superstructure et leurs rôles
+
+Différents types de pompe à motricité humaine
+
+Différentes parties partie d’une PMH et leurs rôles
+
+Fonctionnement d’une PMH 
+
+Infrastructures et  maintenance d’un FPMH
+MODULE VI : 
+ I
+nfrastructures
+ et  Maintenance d’un FPMH
+ MODULE VI : 
+ I
+NFRASTRUCTURES ET  MAINTENANCE D’UN FPMH
+
+--- PAGE 106 ---
+4Lesdifférentes parties d’une superstructure etleurs rôle
+MODULE VI : 
+ I
+nfrastructures
+ et  Maintenance d’un FPMH
+ MODULE VI : 
+ I
+NFRASTRUCTURES ET  MAINTENANCE D’UN FPMH
+
+--- PAGE 107 ---
+5Lesdifférentes parties d’une superstructure etleurs rôles
+Lamargelle
+oElleestenbéton etsertdesupport defixation delapompe
+l’anti- bourbier
+oC’est une chape enbéton oumortier réalisée autour delamargelle pour
+éviter laformation desbourbiers autour dupoint d’eau
+Larigole
+oElledraine leseaux deruissellement dupoint d’eau ;
+Ledécanteur
+oIlsertdelieudedécantation deseaux deruissellement drainées parlarigole
+Lepuits perdu :
+oIlcollecte leseaux drainées parlarigole pour leurinfiltration dans lesol;
+Laclôture
+oRéalisée enmaçonnerie, elleassure unpérimètre deprotection aupoint
+d’eau
+MODULE VI : 
+ I
+NFRASTRUCTURES ET  MAINTENANCE D’UN FPMH
+ MODULE VI : 
+ I
+NFRASTRUCTURES ET  MAINTENANCE D’UN FPMH
+
+--- PAGE 108 ---
+6
+MODULE VI : 
+ I
+NFRASTRUCTURES ET  MAINTENANCE D’UN FPMH
+
+--- PAGE 109 ---
+8
+Pompes India2 PB
+MODULE
+ VI
+:
+PARTICULARITE
+ D’UN
+ POINT
+ D’EAU
+ EQUIPE
+ DE
+PMH
+ MODULE VI : 
+ I
+NFRASTRUCTURES ET  MAINTENANCE D’UN FPMH
+
+--- PAGE 110 ---
+9L’Hydro -pompe Vergnet HPV 
+MODULE
+ VI
+:
+PARTICULARITE
+ D’UN
+ POINT
+ D’EAU
+ EQUIPE
+ DE
+PMH
+ MODULE VI : 
+ I
+NFRASTRUCTURES ET  MAINTENANCE D’UN FPMH
+
+--- PAGE 111 ---
+10
+Pompes UPM Pompes KARDIA Pompes VOLTA
+MODULE
+ VI
+:
+PARTICULARITE
+ D’UN
+ POINT
+ D’EAU
+ EQUIPE
+ DE
+PMH
+ MODULE VI : 
+ I
+NFRASTRUCTURES ET  MAINTENANCE D’UN FPMH
+
+--- PAGE 112 ---
+11
+MODULE VI : 
+ infrastructure et  maintenance d’un FPMH
+DISPOSITION
+MODULE VI : 
+ I
+NFRASTRUCTURES ET  MAINTENANCE D’UN FPMH
+
+--- PAGE 113 ---
+12Différentes parties partie d’une PMH etleurs rôles
+Lemécanisme desurface
+oC’est lapartie visible delapompe surle
+forage ;
+Leséléments deraccordement
+oC’est latuyauterie etlestrigles installé
+dans leforage ;
+Lemécanisme immergé
+oC’est lecorps depompe immergé dans
+leforage
+MODULE
+ VI
+:
+PARTICULARITE
+ D’UN
+ POINT
+ D’EAU
+ EQUIPE
+ DE
+PMH
+
+--- PAGE 114 ---
+13Lemécanisme desurface
+MODULE
+ VI
+:
+PARTICULARITE
+ D’UN
+ POINT
+ D’EAU
+ EQUIPE
+ DE
+PMH
+ MODULE VI : 
+ I
+NFRASTRUCTURES ET  MAINTENANCE D’UN FPMH
+
+--- PAGE 115 ---
+14
+1 -Bras / Levier / Balancier
+2 -Axe3 -Couvercle
+4 -Tête
+8 -Réservoir
+9 –Bride du socle
+10 Corps de pompe
+5 -Roulement
+6 -Chaîne
+7 -Plaque
+11 –Tuyau de sortie / Verseur
+12 –Socle / Pied / Bâti
+13 –Plaque d’embase
+14 –Boulon d’ancrage / Goujon15 –Joint d’embase
+MODULE VI : 
+ infrastructure et  maintenance d’un FPMH
+LE MÉCANISME 
+EXTERNE
+MODULE VI : 
+ I
+NFRASTRUCTURES ET  MAINTENANCE D’UN FPMH
+
+--- PAGE 116 ---
+15Leséléments deraccordement
+MODULE
+ VI
+:
+PARTICULARITE
+ D’UN
+ POINT
+ D’EAU
+ EQUIPE
+ DE
+PMH
+ MODULE VI : 
+ I
+NFRASTRUCTURES ET  MAINTENANCE D’UN FPMH
+
+--- PAGE 117 ---
+16
+1-Tringle
+2-Manchon tringle 
+(Dépend de type)
+3-Ecrou (Dépend de type )
+4-Tuyau/ colonne  de pompageGalvanisé
+ou 
+PVC
+5-Manchon/ raccord de tuyau
+(Dépend de type)
+Raccord de 
+tuyau(acier inox)
+MODULE VI : 
+ I
+nfrastructures
+ et  Maintenance d’un FPMH
+LE RACCORD
+MODULE VI : 
+ I
+NFRASTRUCTURES ET  MAINTENANCE D’UN FPMH
+
+--- PAGE 118 ---
+17Lemécanisme immergé
+MODULE
+ VI
+:
+PARTICULARITE
+ D’UN
+ POINT
+ D’EAU
+ EQUIPE
+ DE
+PMH
+ MODULE VI : 
+ I
+NFRASTRUCTURES ET  MAINTENANCE D’UN FPMH
+
+--- PAGE 119 ---
+18
+MODULE VI : 
+ infrastructure et  maintenance d’un FPMH
+LE MÉCANISME IMMERGÉ
+Piston completCylindre
+MODULE VI : 
+ I
+NFRASTRUCTURES ET  MAINTENANCE D’UN FPMH
+
+--- PAGE 120 ---
+19
+1-Tige de piston 
+2-Chapelle 
+3-Joint clapet de piston
+4-Clapet de piston 
+7-Corps de piston 5-Coupelle 
+6-Entretoise 
+5-Coupelle 1-Cage/ Chapelle de 
+pied 
+1-Bouchon haut
+2-Joint
+Corps de cylindre
+2-Joint2-Joint clapet de pied
+3-Clapet de pied 
+4-Joint torique 
+5-Siège de clapetEléments constitutifs du cylindre
+Assemblage du 
+clapet de retenueEléments constitutifs du piston
+3-Bouchon bas
+
+--- PAGE 121 ---
+24Lesacteurs del’environnement technologique delapompe
+Leresponsable àl’entretien etàlamaintenance
+L’Artisan Réparateur
+LeMécanicien Pompe
+Lesvendeurs depièces desrechanges
+MODULE
+ VI
+:
+PARTICULARITE
+ D’UN
+ POINT
+ D’EAU
+ EQUIPE
+ DE
+PMH
+Maintenance d’une PMH
+MODULE VI : 
+ I
+NFRASTRUCTURES ET  MAINTENANCE D’UN FPMH
+
+--- PAGE 122 ---
+25Problèmes Causes Solutions
+La manivelle
+fonctionne bien 
+mais l’eau ne monte 
+pasLa coupelle et le cylindre ne 
+sont pas bien connectés (le 
+caoutchouc
+est usé)Remplacer la coupelle
+Le joint de clapet de piston 
+estuséRemplacer le joint de
+clapet
+Les bielles (tringle/tige) sont 
+déconnectéesDémonter et reconnecter
+les bielles (tringle/tige)
+proprement
+MODULE VI : 
+ I
+nfrastructures
+ et  Maintenance d’un FPMH
+ MODULE VI : 
+ I
+NFRASTRUCTURES ET  MAINTENANCE D’UN FPMH
+
+--- PAGE 123 ---
+26Problèmes Causes Solutions
+L’eau prend du
+temps à monter
+ou ne
+monte qu’en petite
+quantitéIl y a une fuite au niveau 
+du clapet
+de pied ou du clapet de 
+pistonDémonter le piston et
+vérifier toutes ses 
+pièces
+Le joint torique est usé Remplacer le joint
+torique
+La coupelle est usée Remplacer la coupelle
+MODULE VI : 
+ I
+NFRASTRUCTURES ET  MAINTENANCE D’UN FPMH
+
+--- PAGE 124 ---
+27Problèmes Causes Solutions
+La quantité d’eau
+pompée diminueIl y a une fuite sur le tuyau 
+de pompageRemplacer le tuyau
+défaillant
+L’épaisseur d’eau diminue à 
+cause du sableAppeler la Direction
+Régionale du Ministère
+de l’Eau
+La crépine est colmatée Appeler la Direction
+Régionale du Ministère
+de l’Eau
+MODULE VI : 
+ I
+NFRASTRUCTURES ET  MAINTENANCE D’UN FPMH
+
+--- PAGE 125 ---
+28Problèmes Causes Solutions
+La chaîne se
+courbe lorsque le
+bras de la pompe
+monte de nouveauLa coupelle à l’intérieur 
+du
+cylindre se coinceRemplacer la coupelle
+Bruit bizarre
+pendant l’utilisation
+de la pompeLa tringle/tige de piston 
+est
+courbéeRemplacer la 
+tringle/tige
+endommagée ou 
+courbée
+MODULE VI : 
+ I
+NFRASTRUCTURES ET  MAINTENANCE D’UN FPMH
+
+--- PAGE 126 ---
+29Problème Causes Solutions
+Le bras de la
+pompe bougeLe boulon de l’axe du bras 
+de la pompe est desserréResserrer le boulon del’axe ou le remplacer siendommagé
+Le roulement est usé Remplacer le roulement
+L’entretoise est usée ouendommagéeRemplacer l’entretoise
+L’axe est usé ou endommagé Remplacer l’axe
+MODULE VI : 
+ I
+NFRASTRUCTURES ET  MAINTENANCE D’UN FPMH
+
+--- PAGE 127 ---
+30DISPOSITIF POUR LES REPARATIONS, L'ENTRETIEN ET LA MAINTENANCE 
+DES POMPES INDIA
+N°Opérations à effectuer 
+ou problèmes à réglerType d'intervention Les intervenantsAffectation des 
+fonds
+Entretien RéparationGrosses 
+réparation
+s et 
+renouvelle
+mentResponsa
+ble à 
+Entretien 
+et à la 
+maintenan
+ceArtisan 
+Réparate
+ur de la 
+ZoneOpérateu
+r privéCaisse Banque
+1Boulons de la fontaine 
+desserrés X X
+2Fixation de la chaîne dévissée sur le tringleX X
+3Tuyau supérieur dévissé à la base de la fontaineX X X
+4Le bec cassé X XX
+
+--- PAGE 128 ---
+31N°Opérations à effectuer 
+ou problèmes à réglerType d'intervention Les intervenantsAffectation des 
+fonds
+Entretien RéparationGrosses 
+réparation
+s et 
+renouvelle
+mentResponsa
+ble à 
+Entretien 
+et à la 
+maintenan
+ceArtisan 
+Réparate
+ur de la 
+ZoneOpérateu
+r privéCaisse Banque
+5Manchon de tringle ou 
+de tuyau dévissé X X X
+6Corps de pompe fendu X X X
+7Tête de pompe usée X X X
+8Changement de toute la tuyauterieX X X
+9Clapet inférieur coincé X X
+
+--- PAGE 129 ---
+32N°Opérations à effectuer 
+ou problèmes à réglerType d'intervention Les intervenantsAffectation des 
+fonds
+Entretien RéparationGrosses 
+réparation
+s et 
+renouvelle
+mentResponsa
+ble à 
+Entretien 
+et à la 
+maintenan
+ceArtisan 
+Réparate
+ur de la 
+ZoneOpérateu
+r privéCaisse Banque
+10Changement du 
+roulement du bras X X X
+11Graissage de la chaîne et des roulementsX X
+12Changement de crépine X X X
+13Piston usé X X X
+14Tarissement du forage X X X
+15Fontaine bouchée X X X
+

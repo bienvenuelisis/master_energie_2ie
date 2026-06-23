@@ -14,11 +14,17 @@ const UES = {
     icon: '🏗️', color: '#c2642a', colorLight: '#fce8d7', colorDark: '#5c2d0e',
     modules: 'M18, M19',
     pages: ['resume','flashcards','qcm','technos','exercices']
+  },
+  ue08: {
+    id: 'ue08', name: 'UE08', title: 'Hydraulique & Cycle de l\'Eau',
+    icon: '💧', color: '#0d8fa9', colorLight: '#d0f0f7', colorDark: '#054454',
+    modules: 'M20, M21',
+    pages: ['resume','flashcards','qcm','formules','technos','exercices']
   }
 };
 
-const ALL_UE_IDS = ['ue07', 'ue06']; // newest first
-let currentUE = 'ue07';
+const ALL_UE_IDS = ['ue08', 'ue07', 'ue06']; // newest first
+let currentUE = 'ue08';
 
 const DIFFICULTIES = [
   { id:'all', name:'Tous', icon:'📋' },
