@@ -389,6 +389,50 @@ ${ac('🔄 6. Le cycle de l\'eau et l\'hydrologie',`
   <p><strong>Bilan hydrologique simplifié :</strong> <span class="formula-math" style="display:inline">P = ETR + R + I</span> — Précipitations = Évapotranspiration Réelle + Ruissellement + Infiltration.</p>
   <p><strong>Aquifère :</strong> formation géologique perméable capable de stocker et transmettre l'eau souterraine. Une <strong>nappe libre</strong> a sa surface à la pression atmosphérique. Une <strong>nappe captive</strong> est confinée entre deux couches imperméables et se trouve sous pression (puits artésiens).</p>
   <p><strong>Bassin versant :</strong> territoire drainé par un cours d'eau et ses affluents, où toutes les eaux convergent vers un même exutoire. Le <strong>ruissellement</strong> se produit quand l'intensité des précipitations dépasse la capacité d'infiltration du sol.</p>
+`)}
+${ac('📐 7. Théorème de Bernoulli — Applications pratiques',`
+  <p>Le <strong>théorème de Bernoulli généralisé</strong> pour un fluide réel incompressible en écoulement permanent s'écrit :</p>
+  <div class="formula-card"><div class="formula-math">(p₁/ρg + z₁ + V₁²/2g) + HP = HT + ΔH₁₋₂ + (p₂/ρg + z₂ + V₂²/2g)</div></div>
+  <p><strong>Hypothèses :</strong> écoulement permanent, fluide incompressible (ρ constante), gravité seule force extérieure, prise en compte des frottements (pertes de charge ΔH) et des échanges d'énergie (pompe HP ou turbine HT).</p>
+  <p><strong>Application typique — Conduite entre deux réservoirs :</strong> Si les surfaces libres sont à la pression atmosphérique (p₁=p₂=Patm) et les vitesses négligeables (V₁≈V₂≈0), alors <strong>HP = (z₂-z₁) + ΔH₁₋₂</strong>. La hauteur fournie par la pompe doit compenser la dénivellation ET les pertes de charge.</p>
+  <p><strong>Exercice type :</strong> Conduite D₁=500 mm → D₂=800 mm, Q=250 L/s, P₁=35 N/cm², Δz=2,5 m, ρ=1000 kg/m³. U₁=4Q/(πD₁²)=1,27 m/s, U₂=0,50 m/s. Par Bernoulli : P₂ = P₁ + ρg(z₁-z₂) + ρ(V₁²-V₂²)/2 - ΔH = <strong>3,26×10⁵ Pa</strong>.</p>
+  <p>Le <strong>coefficient de Coriolis α</strong> (≈1,05 à 1,15 en turbulent) corrige la non-uniformité de la vitesse dans la section : H = z + p/ρg + αU²/2g.</p>
+`)}
+${ac('⚙️ 8. Sélection et dimensionnement des pompes',`
+  <p>La sélection d'une pompe suit une méthodologie rigoureuse :</p>
+  <ol style="padding-left:1.2rem;margin:.4rem 0">
+    <li><strong>Calculer la HMT :</strong> HMT = Hgéo + Jasp + Jref + ΔP/ρg. Estimer les pertes de charge linéaires et singulières.</li>
+    <li><strong>Déterminer le diamètre économique :</strong> Bresse (Φ=1,5√Q×1000, V≈0,57 m/s) pour les longs refoulements ; Bonnin (Φ=√Q×1000, V≈1,27 m/s) pour D entre 0,1 et 0,6 m.</li>
+    <li><strong>Calculer Ns :</strong> Ns = N√Q/H^(3/4). Choisir le type : Ns≤20→multicellulaire, 20-60→monocellulaire, 60-100→double corps.</li>
+    <li><strong>Vérifier la cavitation :</strong> NPSHdis > NPSHreq + 0,5 m de sécurité.</li>
+    <li><strong>Calculer la puissance :</strong> P[kW] = ρg×Q[m³/s]×HMT[m] / (1000×η).</li>
+  </ol>
+  <p><strong>Diamètres nominaux minimum (GLS) :</strong></p>
+  <table><tr><th>Q [m³/h]</th><th>≤8</th><th>14</th><th>20</th><th>35</th><th>50</th><th>90</th><th>150</th><th>205</th><th>320</th><th>450</th></tr>
+  <tr><th>DN [mm]</th><td>50</td><td>65</td><td>80</td><td>100</td><td>125</td><td>150</td><td>175</td><td>200</td><td>250</td><td>300</td></tr></table>
+  <p><strong>Pompes à motricité humaine (contexte africain) :</strong> India Mark II (piston, levier, 30-60 m optimale, 800-1000 L/h à 40-50 coups/min), Kardia K65 (1 m³/h à 30 m), Vergnet HPV (pédale + membrane, transmission hydraulique, 0-130 m). Avantages : VLOM (Village Level Operation and Maintenance), coût réduit, autonomie.</p>
+`)}
+${ac('🧪 9. Traitement de l\'eau — Procédés et filières',`
+  <p>Une <strong>filière de traitement</strong> est l'enchaînement de procédés unitaires pour rendre l'eau potable. Elle dépend de la qualité de l'eau brute.</p>
+  <p><strong>Principaux procédés :</strong></p>
+  <ul style="padding-left:1.2rem;margin:.4rem 0">
+    <li><strong>Dégrillage / Tamisage :</strong> élimination des gros débris (branches, plastiques).</li>
+    <li><strong>Coagulation-Floculation :</strong> ajout de coagulant (sels d'aluminium ou de fer) → déstabilisation des colloïdes → formation de flocs qui piègent les impuretés.</li>
+    <li><strong>Décantation :</strong> séparation gravitaire des flocs. La vitesse de chute dépend de la taille et de la densité des particules (loi de Stokes).</li>
+    <li><strong>Filtration :</strong> passage à travers un milieu poreux (sable, charbon actif, membranes). Élimine les particules fines, certains micro-organismes.</li>
+    <li><strong>Désinfection :</strong> destruction des micro-organismes pathogènes. Moyens : <strong>chlore</strong> (le plus courant, effet rémanent), <strong>ozone</strong> (très oxydant, pas de rémanent), <strong>UV</strong> (pas de sous-produits, pas de rémanent).</li>
+  </ul>
+  <p><strong>Filière classique eau de surface :</strong> Dégrillage → Coagulation-Floculation → Décantation → Filtration sur sable → Désinfection au chlore.</p>
+  <p><strong>Filière eau souterraine :</strong> souvent plus simple : simple désinfection si l'eau est de bonne qualité, ou aération (éliminer Fe, Mn) + filtration + désinfection.</p>
+  <p><strong>Charbon actif :</strong> élimine les micropolluants organiques, pesticides, goûts et odeurs par adsorption. Le charbon en poudre s'ajoute en amont, le charbon en grains constitue un lit filtrant.</p>
+`)}
+${ac('📊 10. Exercices types et méthodes de calcul',`
+  <p><strong>Type 1 — Calcul de Re :</strong> Re = 4Q/(πDν). Si Re > 4000 → turbulent → utiliser Colebrook-White ou Swame-Jain pour λ. Si Re < 2000 → laminaire → λ = 64/Re. Exemple : D=200mm, Q=15 L/s → Re=94 600 → turbulent.</p>
+  <p><strong>Type 2 — Pertes de charge linéaires :</strong> ΔH = λ(L/D)(U²/2g) avec λ via Colebrook-White (itératif) ou Swame-Jain (direct, Re≥4000). Alternative : Manning-Strickler ΔH=10,294×Q²×L/(KS²×D^(16/3)). Exemple : D=1,2m, L=3200m, Q=1,5m³/s → ΔH≈3,94 m.</p>
+  <p><strong>Type 3 — Dimensionnement gravitaire :</strong> D = [10,294×Q²×L/(KS²×ΔH)]^(3/16). Itérer si nécessaire.</p>
+  <p><strong>Type 4 — Profondeur normale yn (Manning-Strickler) :</strong> Pour canal rectangulaire : résoudre Q = KS×b×yn×(b×yn/(b+2yn))^(2/3)×√I par itération. Formule d'Achour : qn = Q/(KS×b^(8/3)×√I), yn ≈ b×(qn^0,6 + 0,8×qn^1,2).</p>
+  <p><strong>Type 5 — Profondeur critique :</strong> Rectangulaire : yc = (Q²/(b²g))^(1/3). Comparer yn et yc → déterminer régime fluvial ou torrentiel.</p>
+  <p><strong>Type 6 — Choix de pompe :</strong> Ns = N√Q/H^(3/4) → type. Vérifier NPSHdis = 10,33-0,0012Z-Ha-Jasp-Pv/ρg-VE²/2g > NPSHreq+0,5. Calculer P = ρgQH/η.</p>
 `)}`;
 }
 
@@ -535,9 +579,9 @@ function spawnConfetti(){
 // FORMULES
 // ============================================
 function renderFormules(container){
-  const formulas=ALL_FORMULES.length?ALL_FORMULES:getUEData().formules||[];
-  const coeffs=ALL_COEFFS.length?ALL_COEFFS:getUEData().coeffs||[];
-  container.innerHTML=`<h2>🧮 Formules & Conversions</h2><input type="text" class="search-box" placeholder="🔍 Rechercher..." oninput="filterFormules(this.value)"><div id="formulesList">${formulas.map(f=>`<div class="formula-card" data-search="${f.name.toLowerCase()} ${f.desc.toLowerCase()}"><div class="formula-name">${f.name}</div><div class="formula-math">${f.math}</div><p style="font-size:.9rem;color:var(--text-secondary)">${f.desc}</p></div>`).join('')}</div>${coeffs.length?`<h3 style="margin-top:2rem">Coefficients AIE</h3><input type="text" class="search-box" placeholder="🔍 Rechercher..." oninput="filterCoeffs(this.value)"><table id="coeffsTable"><thead><tr><th>Produit</th><th>Unité</th><th>TEP</th></tr></thead><tbody>${coeffs.map(c=>`<tr data-search="${c.product.toLowerCase()}"><td><strong>${c.product}</strong></td><td>${c.unit}</td><td>${c.tep}</td></tr>`).join('')}</tbody></table>`:''}`;
+  const formulas=getUEData().formules||ALL_FORMULES;
+  const coeffs=getUEData().coeffs||ALL_COEFFS;
+  container.innerHTML=`<h2>🧮 Formules & Conversions — ${UES[currentUE].name}</h2><input type="text" class="search-box" placeholder="🔍 Rechercher..." oninput="filterFormules(this.value)"><div id="formulesList">${formulas.map(f=>`<div class="formula-card" data-search="${f.name.toLowerCase()} ${f.desc.toLowerCase()}"><div class="formula-name">${f.name}</div><div class="formula-math">${f.math}</div><p style="font-size:.9rem;color:var(--text-secondary)">${f.desc}</p></div>`).join('')}</div>${coeffs.length?`<h3 style="margin-top:2rem">Coefficients AIE</h3><input type="text" class="search-box" placeholder="🔍 Rechercher..." oninput="filterCoeffs(this.value)"><table id="coeffsTable"><thead><tr><th>Produit</th><th>Unité</th><th>TEP</th></tr></thead><tbody>${coeffs.map(c=>`<tr data-search="${c.product.toLowerCase()}"><td><strong>${c.product}</strong></td><td>${c.unit}</td><td>${c.tep}</td></tr>`).join('')}</tbody></table>`:''}`;
 }
 function filterFormules(q){document.querySelectorAll('#formulesList .formula-card').forEach(c=>c.style.display=c.dataset.search.includes(q.toLowerCase())?'':'none');}
 function filterCoeffs(q){document.querySelectorAll('#coeffsTable tbody tr').forEach(r=>r.style.display=r.dataset.search.includes(q.toLowerCase())?'':'none');}
@@ -556,9 +600,19 @@ function renderJuridique(container){container.innerHTML=`<h2>⚖️ Aspects Juri
 // EXERCICES
 // ============================================
 function renderExercices(container){
-  if(currentUE==='ue06')container.innerHTML=`<h2>📐 Exercices</h2>${a('Ex 1 — Carbone','<div class="formula-card"><div class="formula-math">CO₂=20L×3,5=<strong>70 kg</strong></div></div>')}${a('Ex 2 — Projection','<div class="formula-card"><div class="formula-math">P₀=1200 MW; P₁₀=1955 MW</div></div>')}${a('Ex 3 — Indicateurs','<div class="formula-card"><div class="formula-math">IE=0,36; C/hab=0,28</div></div>')}`;
-  else container.innerHTML=`<h2>📐 Exercices</h2>${a('Ex 1 — Déchets','<p>✅ <strong>Dangereux:</strong> amiante, plomb<br>✅ <strong>Non dangereux:</strong> gravats, bois</p>')}${a('Ex 2 — Technique','<p>✅ Manuelle/mécanique en zone dense</p>')}`;
+  if(currentUE==='ue06')container.innerHTML=`<h2>📐 Exercices — UE06</h2>${a('Ex 1 — Carbone','<div class="formula-card"><div class="formula-math">CO₂=20L×3,5=<strong>70 kg</strong></div></div>')}${a('Ex 2 — Projection','<div class="formula-card"><div class="formula-math">P₀=1200 MW; P₁₀=1955 MW</div></div>')}${a('Ex 3 — Indicateurs','<div class="formula-card"><div class="formula-math">IE=0,36; C/hab=0,28</div></div>')}`;
+  else if(currentUE==='ue07')container.innerHTML=`<h2>📐 Exercices — UE07</h2>${a('Ex 1 — Déchets','<p>✅ <strong>Dangereux:</strong> amiante, plomb<br>✅ <strong>Non dangereux:</strong> gravats, bois</p>')}${a('Ex 2 — Technique','<p>✅ Manuelle/mécanique en zone dense</p>')}`;
+  else container.innerHTML=exosUE08();
 }
+
+function exosUE08(){return `<h2>📐 Exercices corrigés — UE08</h2>
+${a('📝 Ex 1 — Nombre de Reynolds','<p><strong>Énoncé :</strong> Conduite D=200 mm, Q=15 L/s, eau à 20°C (ν=1,01×10⁻⁶ m²/s). Calculer Re et déterminer le régime.</p><div class="formula-card"><div class="formula-name">✅ Solution</div><div class="formula-math">S=πD²/4=0,0314 m²<br>U=Q/S=0,015/0,0314=<strong>0,478 m/s</strong><br>Re=UD/ν=0,478×0,2/1,01×10⁻⁶=<strong>94 600</strong><br>Re > 4000 → <strong>régime turbulent</strong></div></div>')}
+${a('📝 Ex 2 — Pertes de charge (Darcy-Weisbach)','<p><strong>Énoncé :</strong> D=1,2 m, L=3200 m, Q=1,5 m³/s, k=0,5 mm, ν=1,01×10⁻⁶ m²/s. Calculer U, Re, λ et ΔH.</p><div class="formula-card"><div class="formula-name">✅ Solution</div><div class="formula-math">U=4Q/(πD²)=<strong>1,33 m/s</strong><br>Re=UD/ν=<strong>1,58×10⁶</strong><br>λ≈0,25/[log(k/(3,71D)+5,74/Re^0,9)]²=<strong>0,0165</strong><br>ΔH=λ(L/D)(U²/2g)=0,0165×(3200/1,2)×(1,33²/19,62)=<strong>3,94 m</strong></div></div>')}
+${a('📝 Ex 3 — Dimensionnement gravitaire','<p><strong>Énoncé :</strong> ΔH=20 m, L=5000 m, Q=0,05 m³/s, KS=100 (béton). Calculer le diamètre théorique.</p><div class="formula-card"><div class="formula-name">✅ Solution</div><div class="formula-math">D=[10,294×Q²×L/(KS²×ΔH)]^(3/16)<br>D=[10,294×0,0025×5000/(10000×20)]^(3/16)<br>D=[0,000643]^(0,1875)=<strong>0,252 m → DN 250 mm</strong></div></div>')}
+${a('📝 Ex 4 — Canal rectangulaire (Manning-Strickler)','<p><strong>Énoncé :</strong> Canal b=15 m, Q=60 m³/s, n=0,02 (KS=50), pente I=0,05%. Calculer yn, vérifier Re et Fr.</p><div class="formula-card"><div class="formula-name">✅ Solution</div><div class="formula-math">Par itération : yn≈<strong>2,40 m</strong><br>S=b×yn=36 m², P=b+2yn=19,8 m, RH=S/P=1,82 m<br>U=Q/S=60/36=<strong>1,67 m/s</strong><br>Re=4URH/ν=<strong>1,21×10⁷</strong> (turbulent)<br>Fr=U/√(g×yn)=1,67/√(9,81×2,4)=<strong>0,344</strong> (fluvial)</div></div>')}
+${a('📝 Ex 5 — Choix de pompe (vitesse spécifique)','<p><strong>Énoncé :</strong> H=60 m, Q=0,36 m³/s, N=2900 tr/min (50 Hz). Déterminer le type de pompe.</p><div class="formula-card"><div class="formula-name">✅ Solution</div><div class="formula-math">Ns=N√Q/H^(3/4)=2900×√0,36/60^0,75<br>Ns=2900×0,6/21,56=<strong>80,7</strong><br>60 < Ns ≤ 100 → <strong>pompe centrifuge à double corps</strong><br>D≈0,28 m, ηg≈0,89, Pa=ρgQH/η≈238 kW</div></div>')}
+${a('📝 Ex 6 — Cavitation et NPSH','<p><strong>Énoncé :</strong> Pompe installée à 500 m d\'altitude, eau à 25°C (Pv=3,17 kPa), Ha=4 m, Jasp=1,2 m, NPSHreq=3 m, VE²/2g=0,3 m. Vérifier la cavitation.</p><div class="formula-card"><div class="formula-name">✅ Solution</div><div class="formula-math">NPSHdis=10,33-0,0012×500-4-1,2-0,32-0,3<br>NPSHdis=10,33-0,6-4-1,2-0,32-0,3=<strong>3,91 m</strong><br>3,91 > 3+0,5=3,5 → <strong>pas de cavitation</strong> ✓<br>Ha_max théorique=10,33-0,6-0,32-1,2-3=5,21 m > 4 m ✓</div></div>')}
+`;}
 
 // ============================================
 // UTILS
