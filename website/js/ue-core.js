@@ -20,11 +20,17 @@ const UES = {
     icon: '💧', color: '#0d8fa9', colorLight: '#d0f0f7', colorDark: '#054454',
     modules: 'M20, M21',
     pages: ['resume','flashcards','qcm','formules','technos','exercices']
+  },
+  ue09: {
+    id: 'ue09', name: 'UE09', title: 'Assainissement de l\'Eau',
+    icon: '🔄', color: '#7b1fa2', colorLight: '#f3e5f5', colorDark: '#3a0a4e',
+    modules: 'M24, M25',
+    pages: ['resume','flashcards','qcm','formules','technos','exercices']
   }
 };
 
-const ALL_UE_IDS = ['ue08', 'ue07', 'ue06']; // newest first
-let currentUE = 'ue08';
+const ALL_UE_IDS = ['ue09', 'ue08', 'ue07', 'ue06'];
+let currentUE = 'ue09';
 
 const DIFFICULTIES = [
   { id:'all', name:'Tous', icon:'📋' },

@@ -1,0 +1,1263 @@
+--- PAGE 1 ---
+ 
+ 1 
+ 
+Services d’approvisionnement en eau  
+ 
+Objectif s pédagogique s généraux  du cours  
+Savoir choisir la meilleure option technique et de gestion d’un service d’approvisionnement 
+en eau potable d’une localité donnée (zone urbaine, zone rurale, zone défavorisée)  : 
+• Savoir les différents types de systèmes d’approvisionnement en eau.  
+• Savoir les différents modes de gestion des services d’approvisionnement en eau.  
+• Savoir les critères généraux de sélection des services d’approvisionnement en eau 
+adapté à une localité.  
+ 
+ 
+Pré requis  :  
+Pour faciliter la compréhension, il est préférable que l’apprenant qui rejoint ce module ait des 
+connaissances en  :  
+• Hydraulique générale   
+• Dimensionnement des réseaux et ouvrages d’adduction d’eau potable  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Auteur (s) Dr. Harinaivo A. Andrianisa    Date de création  Novembre 2013  
+        Date de révision  : Avril 2024  
+ 
+ Consignes :  
+L’apprenant est invité à lire les documents annexés au cours  
+
+--- PAGE 2 ---
+ 
+ 2 Table des matières  
+ 
+Mots clés  
+ 
+Services d’eau potable, Gestion des services d’eau potable,   
+ 
+Introduction  générale  
+ 
+Chapitre 1  : OUVRAGES ET SYSTEMES D’ALIMENTATION EN EAU 
+POTABLE  
+ 
+1.1. Les ressources en eau  
+1.1.1 . Eaux souterraines  
+I.1.2. Eaux de surface  
+I.1.3. Eau de mer  
+I.1.4. Eaux usées  
+ 
+I.2. Les services d’approvisionnement en eau  
+I.2.1. Niveau 0  : Marigot et eau de surface  
+I.2.2. Niveau 1  : Puits  
+I.2.3. Niveau 2  : Pompes à motricité humaine  
+I.2.4. Niveau 3  : Mini -réseaux et bornes fontaines  
+I.2.5. Niveau 4  : Systèmes d’alimentation d’eau potable complets  
+ 
+ 
+Chapitre 2  : LES MODALITES DE GESTION DES SERVICES 
+D’APPROVISSIONNEMENT EN EAU  
+ 
+1.1. La gestion communautaire  
+ 
+I.2. La gestion déléguée à un privé  
+I.2.1. La concession  
+I.2.2. L’affermage  
+I.2.3. La gérance  
+ 
+I.3. La gestion en régie  
+ 
+Chapitre 3 : CHOIX DES SERVICES D’APPROVISIONNEMENT EN 
+EAU   
+ 
+ 
+Activités d’apprentissage  liées au cours  
+ 
+• Lecture de cours  
+• Lecture des documents de supports de cours  (Analyse multicritères pour 
+le choix des services d’approvisionnement en eau)  
+
+--- PAGE 3 ---
+ 
+ 3 • Activités d’apprentissage  
+ 
+Bibliographie  
+Wagner, E. G., Lanoix J.N., Approvisionnement eau des zones rurales et des 
+petites agglomérations, OMS, 1961  
+ 
+Webographie  
+ 
+ 
+
+--- PAGE 4 ---
+ 
+ 4 INTRODUCTION  GENERALE  
+ 
+Lors de la conquête de civilisations extra -terrestres, les scientifiques s’attardent souvent sur la 
+recherche de la présence éventuelle d’eau ou de la «  goutte d’eau  » qui constitue l’élément 
+fondamental de la vie. En effet, sans eau, pas de vie. 80% de notre corps est formé d’eau. Cet 
+élément est aussi bien essentiel pour la production de nourriture que pour la production 
+d’énergie contribuant au développement économique et industriel. L’approvisionnement en 
+eau de qualité et de quantité suffisante est donc important pour le bien -être de l’individu mais  
+aussi pour le développement de toute la communauté.     
+ 
+Les hommes ont construit la plupart de leurs collectivités primitives aux abords des cours 
+d’eau, qui répondaient à leurs besoins économiques, sociaux et physiologiques. Mais grâce 
+aux progrès techniques le transport de l’eau est devenu possible pour répondre aux besoins 
+physiologiques, pour améliorer l’exploitation des ressources et des particularités naturelles et 
+pour choisir de meilleurs emplacements communautaires. Dès l’antiquité la plus reculée, un 
+millénaire avant Jésus -Christ, les premières civilisations hindoues et assyriennes ont réalisé 
+des travaux considérables pour capter l’eau et l’amener à la ville. Plus tard, les Grecs et les 
+Romains en Europe et Afrique, les Incas en Amérique, réalisèrent des aqueducs, ouvrages 
+d’art hardis et remarquables  ; bien qu’il s’agissait de conduites gravitaires et alimentant 
+essentiellement des fontaines et des points d’eau.  
+ 
+Malgré ces avancées «  précoces  », beaucoup de populations à travers le monde souffrent 
+encore de nos jours  de problèmes liés à l’accès à une eau de bonne qualité et de quantité 
+suffisante. Selon les estimations des Nations Unies, près de 768 millions de personnes sur la 
+planète, soit 11% de la population mondiale, n’ont pas accès à l’eau potable dans le monde. 
+Sur les 768 millions de personnes, 327 millions habitent en Afrique sub -saharienne.  
+ 
+Or, l’état de santé des populations et les problèmes spécifiques à la pauvreté sont 
+inextricablement liés aux problèmes des ressources en eau (disponibilité, proximité, quantité 
+et qualité). Dans les pays en développement, 80% des maladies sont d’origine hydrique, et 
+plusieurs millions de personnes meurent chaque année des suites de maladies diarrhéiques 
+causées par des bactéries, parasites ou virus. Les recherches ont démontré que les bénéfices 
+liés à une consommation d’eau saine peuvent être atteints pour un service de 30 -40 litres par 
+personne et par jour.  
+ 
+Il apparaît donc urgent d’améliorer l’accès des populations démunies à l’eau potable.  Dans 
+leur Déclaration du Millénaire (2000), les Nations Unies ont défini des objectifs de  
+développement qui visent à améliorer les conditions de vie d’ici à 2015. Au nombre de ces  
+objectifs, celui de « réduire de moitié, d’ici 2015, le pourcentage de la population qui n’a pas  
+accès à l’eau potable ».  
+ 
+Les technologies disponibles qui permettent de traiter les eaux d’alimentation pour qu’ils 
+soient potables existent  et sont nombreuses aujourd’hui , de même que les techniques qui 
+permettent de capter et refouler les eaux vers les zones habitées  pour assurer une alimentation 
+continue . Le problème d’accès à l’eau potable réside en fait surtout sur l’investissement 
+nécessaire pour appliquer les technologies, le recouvrement des coûts et aussi l’insuffisance 
+
+--- PAGE 5 ---
+ 
+ 5 de compétences locales pour assurer l’exploitation et la maintenance des ouvrages en vue de 
+leur pérennisation. Ainsi beaucoup de projets ont échoué car les technologies appliquées ne 
+répondaient pas aux contextes socio -économiques des localités cibles.  
+ 
+Dans les zones urbaines, les populations moyennes et aisées sont habituées à ouvrir le robinet 
+et obtenir l’eau potable dont ils ont besoin sans effort. Par contre, dans  les zones  rurales, où 
+habitent  la majorité de la population africaine, les populations obtiennent leurs eaux de 
+consommation à partir de bassins, citernes, puits, ruisseaux ou rivières non protégées.  Chaque 
+jour, de l’eau est collectée pour la boisson, la cuisson, la lessive, la douche ou l’alimentation 
+du bétail. Dans beaucoup de cas, ces eaux sont contaminées soit par des matières fécales (les 
+sources sont aussi utilisées pour le breuvage et par les animaux), soit par une utilisation 
+intensive (dans les zones arides par exemple, l’eau de vaisselle est utilisée plusieurs fois dans 
+la journée avant d’être rejetée). Ce sont souvent ces types de contaminations qui transmettent 
+les maladies aux populations.  
+ 
+Mais alimenter toutes ces populations en eau potable, suffisante en quantité et répondant aux 
+normes internationales de qualité n’est pas faisable. Les contraintes technologiques et 
+financières ne seront pas supportables pour ces populations. Considérant la situation en milieu 
+rural, où les populations ont à parcourir de longues distances pour collecter de l’eau polluée et 
+l’utiliser directement, apporter des améliorations simples pourraient avoir des impacts 
+bénéfiques à grande échelle. Des techniques alternatives aux systèmes de réseaux complexes 
+doivent être mises en place. Ces techniques alternatives à bas coût peuvent consister à  :  
+• Choisir la ressource en eau adaptée  
+• Choisir la méthode d’extraction adaptée par rapport à la ressource en eau  
+• Choisir la méthode de distribution adaptée.  
+ 
+Ainsi, l’objectif de ce cours est  de présenter les meilleures options d’alimentations en eau des 
+populations en fonction des zones géographiques (milieu rural ou urbain) et des contextes 
+socioéconomiques locales (milieu aisée ou défavorisé).  
+ 
+La première partie se focalisera sur les différentes ouvrages et systèmes d’alimentation en eau 
+potable, tandis que la deuxième partie sur le s différentes modalités de gestion des services 
+d’eau et enfin la troisième sur le  choix du système le plus adapté à un contexte donné.   
+ 
+
+--- PAGE 6 ---
+ 
+ 6  
+CHAPITRE I  : OUVRAGES ET SYSTEMES D’ALIMENTATION EN 
+EAU POTABLE  
+ 
+ 
+I.1. LES RESSOURCES EN EAU  
+ 
+La Terre est recouverte à 72% d’eau. L’eau existe en quantité immuable depuis des 
+millénaires, dans le monde nous pouvons en compter 1400 millions de km3. C’est une 
+quantité phénoménale. Même si la consommation en eau connaissait un accroissement 
+formidable, il serait impossible de consommer cette eau entièrement.  Et pourtant, cette eau 
+n’est pas à 100% propre à la consommation. La plus grande partie, 97,5% est de l’eau de mer 
+et le reste de l’eau douce. Cette eau douce est répartie de la manière suivante  : 68% de 
+glaciers et neiges éternelles, 0,3% de lacs et rivières, 29,9% d’eaux souterraines et le reste de 
+mares, d’humidité du sol, ou permafrost. Il n’y a donc plus qu’un tiers d’eau douce utilisable 
+directement. Mais sur les 110  000 milliards de m3 que représente ce tiers, 70  000 s’évaporent 
+en permanence, sur les 40  000 restants, 20% sont peu accessibles (montagne, calotte glacière, 
+etc.) et la répartition des 80% sur le globe est très inégale. Du fait de la désertification des 
+régions arides, ce phénomène de disparité tend à s’accentuer.  
+ 
+Il faut distinguer deux types de ressources d’eau potable, celles qui sont renouvelables et 
+celles qui ne le sont pas. Les eaux considérées comme renouvelables sont celles 
+correspondant au cycle naturel de l’eau, ce sont donc les eaux disponibles dans les cours 
+d’eau, les rivières, les fleuves, les lacs, les nappes phréatiques, ou provenant de la pluie. 
+Celles qui ne sont pas renouvelables, c’est -à-dire ayant un temps de régénération négligeable 
+devant la durée d’une vie humaine, sont celles contenues dans les aquifères de profondeur. 
+Tout comme les ressources en eau douce, les ressources en eau renouvelables sont 
+inégalement réparties sur le globe.  
+ 
+Finalement, l’eau douce accessible ne représente plus que 12  500 milliards de m3 dont 9000 
+immédiatement accessibles et 3500 stockés dans des réservoirs.  
+ 
+ 
+I.1.1. Eaux souterraines  
+ 
+L’eau souterraine alimente la grande majorité des populations qui vivent dans les régions 
+rurales et disposent d’un réseau d’adduction d’eau. La raison en est que, de diverses sources 
+d’approvisionnement, l’eau souterraine est de loin la plus pratique et la plus sûre. Même dans 
+un pays fortement industrialisé comme les Etats -Unis, les installations municipales de captage 
+d’eau souterraine l’emportent de loin en nombre sur les approvisionnements par eaux de 
+surface. Il est très probable que, pendant longtemps encore, l’eau souterraine restera la plus 
+importante des sources d’approvisionnement pour la plupart des agglomérations rurales.  
+ 
+L’eau souterraine offre des avantages multiples  :  
+• Elle est souvent exempte de bactéries pathogènes  
+
+--- PAGE 7 ---
+ 
+ 7 • Elle est généralement utilisable sans traitement  
+• Elle se trouve, la plupart du temps à proximité immédiate des agglomérations rurales  ; 
+• Son captage et sa distribution sont dans bien des cas pratiques et économiques  ; 
+• Les formations aquifères fournissent en général un emmagasinement naturel au point 
+de captage  
+ 
+Elle n’est cependant pas sans inconvénients  : 
+• Sa salinité est souvent élevée  
+• Son extraction exige généralement un pompage  
+• Elle peut être naturellement contaminée par des éléments chimiques dont les 
+concentrations dépassent les normes appliquées (arsenic en Asie, Amérique et 
+Afrique, Fluor en Afrique de l’Ouest, Mercure au Japon, etc.)     
+ 
+L’eau souterraine est constituée par la fraction des précipitations atmosphériques, 
+principalement de l’eau de pluie, qui s’est infiltrée dans le sol pour former des nappes 
+souterraines dites formations aquifères. Elle peut être captée de diverses façons.  
+ 
+ 
+Figure 1. Eaux souterraines ( Source  : http://www.grobec.org/hydrogeo/eaux_souterraines.php ) 
+ 
+La plupart des puits servant aux approvisionnements en eau prennent l’eau située dans la zone 
+dite «  eaux libres  ». Ce sont en général des puits  forés, creusés à la main ou foncés. Les 
+galeries d’infiltration  prennent aussi l’eau de cette zone. Les puits forés pénètrent souvent 
+dans les nappes captives. C’est dans ces couches que sont pratiqués les puits jaillissant.  
+ 
+
+--- PAGE 8 ---
+ 
+ 8 
+ 
+Figure 2. Puits et aquifères  
+ 
+ 
+Pour être utile, la formation aquifère doit être alimentée par une eau abondante. Ce n’est 
+qu’un simple bassin qui peut être épuisé tout comme un bassin superficiel si son 
+approvisionnement est inférieur à la demande. En général, le problème ne se pose pas en 
+milieu rural car la formation s’alimente généralement assez vite pour satisfaire aux 
+consommations relativement faibles des collectivités rurales. Par contre, les caractéristiques 
+du sol sous -jacent, c’est -à-dire son aptitude à retenir l’eau en quantités suffisantes  pour 
+l’approvisionnement, intéressent  au plus haut point l’ingénieur.  
+ 
+ 
+I.1.2. Eaux de surface  
+ 
+Les eaux de surface proviennent surtout des pluies, et sont constituées d’un mélange d’eaux 
+de ruissellement et d’eaux souterraines. Elles comprennent les eaux des grands cours d’eau, 
+des étangs et des lacs, ainsi que des petits ruisseaux des hauts pays alimentés par des sources 
+et qui recueillent les eaux de ruissellement des bassins versants. La proportion d’eau de 
+ruissellement dépend de plusieurs facteurs, dont les plus importants sont la durée et l’intensité 
+des pluies, le climat et la végétation, les conditions géologiques, géographiques et 
+topographiques de la région considérée. Elle varie largement, de 20%, dans les régions arides 
+et sableuses où les pluies sont rares, à plus de 50% dans les régions rocheuses où la pluviosité 
+est forte.   
+ 
+La qualité d’une eau de surface est déterminée  par sa teneur en organismes  vivants et par les 
+quantités de substances organiques et minérales qu’elle a entrainées. En traversant 
+l’atmosphère, la pluie se charge de poussières et absorbe l’oxygène et l’anhydride carbonique 
+contenus dans l’air. En s’écoulant sur le sol, elle entraîne la boue et des particules de matière 
+organique, dont une partie sera finalement dissoute. Elle absorbe également un surcroît 
+d’anhydride carbonique provenant des végétaux, des microorganismes, des bactéries du sol et 
+des matières en décomposition. Dans les régions habitées, parmi les produits polluants 
+peuvent se trouver des matières fécales et des germes pathogènes, ainsi que d’autres déchets 
+humains ou industriels, incomplètement épurés. Dans les régions rurales, l’eau des petites 
+rivières drainant des bassins isolés ou inhabités peut présenter des qualités chimiques et 
+
+--- PAGE 9 ---
+ 
+ 9 bactériologiques autorisant sa consommation directe par l’homme. Toutefois, dans la plupart 
+des cas, l’eau de surface est sujette à la pollution et à la contamination par des germes 
+pathogènes, et ne peut être considérée saine qu’après avoir été convenablement traitée. Il faut 
+se rappeler qu’une eau limpide ne convient pas nécessairement à la consommation humaine, 
+et qu’on ne peut pas compter exclusivement sur l’autoépuration pour obtenir de l’eau potable.   
+   
+ 
+I.2.3. Eau de mer  
+ 
+A cause du taux trop élevé de sel dans l’eau de mer, celle -ci est à priori non potable à la 
+consommation. Et pourtant, à cause de la raréfaction de la ressource en eau douce dans 
+certaines zones arides du globe (Moyen -Orient), la « potabilisation  » de l’eau de mer est de 
+plus en plus étudiée et appliquée. Ce processus, appelé couramment «  dessalement d’eau de 
+mer », consiste non pas à retirer les sels de l’eau mais plutôt à extraire l’eau douce présente.  
+Cette technique permet actuellement de produire 1 % de l’eau potable utilisée dans le monde 
+mais elle est amenée à se développer de plus en plus. En effet, l’accroissement de la 
+population, la multiplication des sécheresses et l’épuisement des ressources en eau douce 
+poussent de plus en plus d’états à se tourner vers cette solution.  
+ 
+Les deux procédés les plus couramment utilisés sont la distillation et l’osmose inverse. Leur 
+principe est simple. La distillation consiste à évaporer l’eau de mer, soit en utilisant la chaleur 
+des rayons solaires, soit en la chauffant dans une chaudière. Seules les molécules d’eau 
+s’échappent, laissant en dépôt les sels dissous et toutes les autres substances contenues dans 
+l’eau de mer. Il suffit alors de condenser la vapeur d’eau ainsi obtenue pour obtenir une eau 
+douce consommable. L'osmose inverse nécessite quant à elle de traiter au préalable l’eau de 
+mer en la filtrant et en la désinfectant afin de la débarrasser des éléments en suspension et des 
+micro -organismes qu’elle contient. Le procédé consiste ensuite à appliquer à cette eau salée 
+une pression suffisante pour la faire passer à travers une membrane semi -perméable : seules 
+les molécules d’eau traversent la membrane, fournissant ainsi une eau douce potable.  
+ 
+L’inconvénient majeur de ces systèmes est qu’ils sont très couteux et ne sont pas encore 
+rentables pour les pays en développement. Malgré cela, les résultats obtenus avec des 
+technologies améliorées sont de plus en plus prometteur. Parmi celles -ci, des chercheurs 
+américains et allemands ont récemment développé un système de dessalement à l’aide de puce 
+électronique dont les principaux avantages sont la simplicité du processus et la faible 
+consommation d’énergie.  
+ 
+I.1.4. Eaux usées  
+ 
+La réutilisation des eaux usées traitées pour l’eau potable est possible. Toutefois, comme le 
+dessalement de l’eau de mer, elle nécessite des traitements additionnels pour rendre l’eau 
+potable, et par conséquent engendre des couts très élevés, non encore supportés par les pays 
+en voie de développement.    
+ 
+ 
+ 
+
+--- PAGE 10 ---
+ 
+ 10 I.2. LES SERVICES D’ ALIMENT ATION EN EAU POT ABLE  
+ 
+Dans le chapitre précédent, nous avons parcouru les différents types de ressources en eau qui 
+sont ou peuvent être exploités. Dans le présent chapitre, nous allons voir maintenant quels 
+sont les différents types de services qu’on peut avoir pour l’alimentation en eau des 
+populations.  
+On peut généralement classer ces services en quatre  niveaux  : 
+• Niveau 0  : Marigot, eau de surface  
+• Niveau 1  : Puits  
+• Niveau 2  : Pompe à motricité humaine  
+• Niveau 3  : Mini -réseau et bornes fontaines  
+• Niveau 4  : Systèmes d’adduction d’eau complets et complexes avec branchements 
+particuliers  
+ 
+ 
+I.2.1. NIVEAU 0  : MARIGOT ET EAU DE SURFACE  
+ 
+C’est la situation rencontrée dans encore beaucoup de localités défavorisées à travers le 
+monde, que ce soit en milieu rural  ou en milieu urbain . En milieu rural, le problème est 
+essentiellement dû à la qualité du sol qui ne permet pas la construction de puits. Cette 
+situation est aussi très présente dans les bidonvilles et autres sites d’urgence (camps de 
+réfugiés) . Dans ce contexte, le point d’eau sert en même temps à l’alimentation en eau de la 
+population, au breuvage du bétail mais aussi pour la lessive et la vaisselle. A cause de ces 
+activités, l’eau est généralement impropre à la consommation car contaminée par des matières 
+fécales d’origines humaines et animales ou bien d’autres polluants issus des déchets de la 
+population. Elle ne subit aucun traitement préalable avant la consommation. C’est là l’une des 
+principales causes de la prolifération des maladies d’origines hydriques telles que la diarrhée  e 
+le choléra .   
+ 
+ 
+ 
+Figure 3. Approvisionnement en eau à la «  plage du peuple  » Goma, Nord -Kivu, RDC  
+(Source  : http://www.rnw.nl/afrique/article/rdc -goma -expos ) 
+ 
+
+--- PAGE 11 ---
+ 
+ 11 
+ 
+Figure 4. Jeune réfugiée malienne buvant de l’eau insalubre, Site de Ferreirio, Burkina Faso  
+(Source  : UNHCR)  
+ 
+ 
+Figure 5. Puisage d’eau de surface au Sahel  
+(Source  : Eau vive)  
+ 
+I.2.2. Niveau 1  : puits  
+ 
+Les puits constituent sûrement le service d’alimentation en eau le plus répandu dans les pays 
+en voie de développement, notamment en Afrique. Les puits peuvent être privés lorsqu’ils 
+sont réalisés à l’intérieur d’un domaine privé, ou bien publics lorsqu’ils servent à desservir 
+l’ensemble de la population d’un hameau ou d’un village.  
+ 
+I.2.2.1. Puits ordinaires (creuses manuellement)  
+ 
+Le type de puits le plus en usage dans le monde est le puits creusé manuellement. Par des 
+méthodes traditionnelles souvent immuables, depuis des siècles, les aborigènes de toutes les 
+parties du monde s’alimentent d’eau principalement à des puits ouverts, creusés 
+manuellement. Grâce aux matériaux, aux outils et matériels modernes, le puits creusé 
+manuellement,  simple trou dans le sol, aux résultats incertains, dangereux pour ses 
+constructeurs comme pour ses utilisateurs et foyer de maladies bactériennes et parasitaires a 
+cédé la place à une construction salubre établie conformément à de solides principes de génie 
+civil,  et fournissant en permanence une eau saine.  
+ 
+Les puits présentent les désavantages suivants:  
+• Pollution de l'eau (par d'autres puits pollués, par un mauvais assainissement)  
+
+--- PAGE 12 ---
+ 
+ 12 • Pollution de l'eau lors du puisage ou lors du transport (cordes trainant sur le sol, mains 
+sales,...)  
+• Nécessité de transporter l'eau  
+• Risque de tarissement en saison sèche  
+• Risque de pollution de la nappe une fois abandonnés (nécessité de les fermer)  
+ 
+Lorsqu’il faut réaliser un important programme de construction de puits dans une zone rurale 
+étendue, il importe au plus haut point d’uniformiser autant que possible les méthodes et 
+l’équipement de telle façon que la formation initiale des équipes leur permette des construire 
+dans différentes zones, sans surveillance constante, des puits analogues.  
+ 
+a. Diamètre du puits  :  
+ 
+La dimension d’un puits terminé correspond à un compromis entre des considérations d’ordre 
+économique et d’ordre pratique. Le diamètre minimum est déterminé par l’espace nécessaire à 
+un ou deux hommes po ur travailler, soit 1 m pour un homme et 1,3m pour deux hommes. 
+Dans la pratique, on choisit 1,3 m qui est plus commode.  
+D’autres considérations appuient ce choix  :  
+• la meilleure ventilation naturelle du trou le plus large,  
+• la plus grande taille des récipients d’extraction et autres appareils utilisables,  
+• le plus grand espace disponible pour les opérations de bétonnage et pour l’insertion 
+des éléments de caissonnage.  
+Il apparait sans intérêt de porter le diamètre à plus de 1,3 m.  
+ 
+b. Revêtement  :  
+ 
+Sauf s’ils sont creusés dans des roches compactes, les puits exigent toujours un revêtement de 
+matériaux permanents qui remplit plusieurs fonctions  :  
+• Assure au cours de la construction, une protection contre les éboulements et 
+l’effondrement  ; 
+• Maintient ensuite les parois  ;  
+• Empêche la pénétration des eaux de surface polluées  ;  
+• Permet d’isoler et de protéger de la pollution la nappe aquifère à exploiter  ;  
+• Sert de fondation et de support à la structure extérieure et à la pompe ou à tout autre 
+dispositif éventuellement installé lorsque le puits est achevé  ; 
+• Sert enfin de paroi imperméable au bassin de stockage que constitue le puits  
+  
+Les matériaux convenables sont  : la maçonnerie de pierre ou de briques, l’acier et le bois de 
+charpente, tous sont utilisés dans diverses parties du monde et selon les circonstances  ; mais à 
+l’usage général, le béton simple ou armé présente de très grands avantages .  
+
+--- PAGE 13 ---
+ 
+ 13 
+ 
+Figure 6. Puits ordinaire avec revêtement et plateforme de protection  
+(Source  : Approvisionnement en eau des zones rurales, OMS)  
+ 
+Au fonds du puits, on voit deux types possibles de construction  : une maçonnerie de pierres 
+rondes formant filtre et un massif en béton. Les pierres ne doivent être mises en place qu’une 
+fois le puits entièrement creusé. Elles sont d’utilisation pratique seulement dans les zones de 
+gravier et de sable grossier. Le massif bétonné est employé lorsqu’on fonce le cuvelage au fur 
+et à mesure des travaux d’excavation  ; il est généralement indiqué pour les puits creusés dans 
+du sable fin. Il faut construire au fond du puits un filtre protecteur en sable calibré.  
+ 
+ 
+I.2.3. Niveau 2  : Pompes à motricité humaine  
+ 
+Dans les régions rurales, il arrive que certains villages soient situés de telle façon que leur 
+approvisionnement en eau se fasse entièrement par gravité, à partir de sources ou de galeries 
+d’infiltration creusés dans les collines voisines. Mais dans certains villages et certaines fermes 
+isolées, il est indispensable d’utiliser des pompes pour extraire l’eau des puits.  
+ 
+D’un autre côté, l 'installation d'une pompe à main sur un puits (ou sur une source ou un 
+forage) permet d'éviter la pollution de la nappe phréatique depuis la surface du puits (chute 
+d'objets ou pollution par les cordes et seaux). En revanche, il est alors nécessaire de disposer 
+d'un modèle de pompe pour lequel les pièces détachées sont aisément disponibles (magasin 
+disposant d'un petit stock) et d'un artisan local sachant les réparer. Il faut également s'assurer 
+que la collectivité peut mobiliser une somme d'argent pour payer les réparations.  
+ 
+ 
+
+--- PAGE 14 ---
+ 
+ 14 a. Principe de fonctionnement  
+ 
+L’eau est m ue par la poussée directe d’un piston, d’un plongeur ou d’une cuvette se déplaçant 
+dans un cylindre vertical ou horizontal fermé. Par un jeu de soupapes, le mouvement alternatif 
+du piston produit un courant d’eau plus ou moins régulier, à sens unique. Dans le type le plus 
+simple, le piston, dans un sens, pousse l’eau du cylindre vers une conduite de refoulement, 
+pendant que derrière lui le cylindre se remplit d’eau arrivant par le tuyau d’aspiration  ; le 
+retour du piston en sens contraire fait passer vers le côté de refoulement l’eau qui se trouvait 
+du côté de l’aspiration par rapport au piston.  
+ 
+ 
+A : Abaissement du piston  : le cylindre se remplit au -dessus du plongeur et le clapet situé à la base du cylindre se ferme  ; la soupape du 
+plongeur s’ouvre  
+B : Remontée  : l’eau qui remplit le cylindre est expulsée et le clapet situé à la base de la pompe s’ouvre  ; le cylindre se remplit au -dessous du 
+plongeur. Lorsque le plongeur monte, il crée un vide et l’eau monte dans le cylindre.  
+ 
+Lorsque le corps de la pompe se situe au -dessus du sol, il faut le munir d’un clapet de pied pour éviter la nécessité d’un amorçage.  
+ 
+Figure 7. Fonctionnement d’une pompe volumétrique  
+(Source  : Approvisionnement en eau des zones rurales, OMS)  
+ 
+b. Avantages  
+ 
+Les principaux avantages de ce type de pompe sont  : 
+ 
+Souplesse  :  
+Le débit d’une pompe à piston est égal au produit du volume d’eau déplacé dans le cylindre 
+par le nombre de coups de piston donné pendant l’unité de temps. La limite de débit n’est 
+atteinte que si le mouvement du piston devient trop rapide et donne lieu à un passage nuisible 
+
+--- PAGE 15 ---
+ 
+ 15 de l’eau entre le piston et les parois du cylindre. Au surplus, dans la plupart des types, on peut 
+régler le débit en faisant varier la longueur de la course.  
+ 
+Le débit est limité par la puissance que peuvent développer un à deux hommes. En 
+conséquence, plus bas est le niveau auquel on doit puiser l’eau, moins le débit est élevé. A 
+titre d’exemple  : 
+ 
+Tableau 1. Débit d’une pompe manuelle  
+ 
+Profondeur de pompe  Puissance développée  Hauteur de refoulement  Débit  
+Peu profonde  Un homme  6 m 35L/min  
+Profonde  Un homme  30 m  6 L/min  
+Profonde avec tête 
+rotative  Deux hommes  30 m  15 L/min  
+ 
+ 
+Vitesse d’entrainement  :  
+ 
+Ce type de pompe nécessite normalement un moteur d’entrainement plus lent que la pompe 
+centrifuge  ; par conséquent, la fatigue est réduite d’où la prolongation de la vie de la pompe 
+aussi bien que celle du moteur. En outre, de petites variations de vitesse ne causant que des 
+petites variations de débit, le réglage n’a pas à être très précis.  
+ 
+Facilité d’entretien  : 
+ 
+Les pompes à piston lente demandent peu d’entretien sauf le remplacement du piston ou des 
+joints de cuir qui sont relativement facile à poser. L’usure de ces joints dépend de la pureté de 
+l’eau pompée  : si celle -ci est exempte de boues et de matières abrasives, les joints peuvent 
+durer des années. Bien utilisées, ces pompes n’exigent que rarement des remplacements 
+coûteux et le travail de réparation peut être effectué par un personnel relativement peu 
+compétent.  
+ 
+Robustesse  : 
+ 
+La pompe alternative ne compte que peu ou pas de parties délicates et supporte les mauvais 
+traitements mieux que les pompes centrifuges où les dimensions peuvent jouer un rôle 
+critique. Le pompage à vide n’induit que peu de dommages à la pompe.  
+ 
+Frais de premier établissement  :  
+ 
+Grâce à leur simplicité, les pompes alternatives coûtent en général moins cher, à débit égal, 
+que les pompes centrifuges de même puissance.  
+ 
+La pompe à main est utilisable sur des puits de toutes profondeurs. Si le niveau statique de 
+l’eau souterraine est à moins de 5m au -dessous de la surface du sol, le corps de pompe est, en 
+général, placé à la surface  ; s’il est à plus de 5m le corps de la pompe est fixé à un tuyau de 
+descente et placé dans le puits.  
+
+--- PAGE 16 ---
+ 
+ 16  
+Ce type de pompe est d’un prix très abordable, surtout si le corps de pompe est installé en 
+surface. Il peut durer longtemps pourvu que les cuirs du piston et le soupape soient bien 
+entretenus.  
+ 
+On peut parfois incorporer une cloche à air pour régulariser l’écoulement et augmenter le 
+rendement lorsqu’on refoule l’eau dans une colonne ascendante.  
+ 
+ 
+A : Robinet -vanne à manœuvre manuelle  
+B : Clapet de retenue  
+C : Chambre à air  
+D : Presse -étoupe  
+Ce dispositif permet de prendre de l’eau à la pompe ou d’envoyer de l’eau à un niveau supérieur en fermant le 
+robinet -vanne.  
+ 
+Figure 8. Pompe à main avec chambre à air  
+ 
+Pour augmenter le rendement des pompes à simple effet (l’eau est véhiculée seulement 
+pendant la course ascendante) on dispose en général de contrepoids qui régularisent la rotation 
+du moteur. Mais on peut aussi installer des pompes à double effet qui évitent l’usage de 
+contrepoids, ont un meilleur débit mais sont d’entretien plus délicat et, lorsque l’eau 
+transporte du sable, se dérèglent plus facilement. Elles sont aussi plus coûteuses et plus 
+difficiles à réparer.  
+ 
+
+--- PAGE 17 ---
+ 
+ 17 
+ 
+Lorsque le piston est dans la position A, l’entrée se fait en bas à gauche et la décharge en haut à droite. Lorsqu’il 
+est dans la position B, l’entrée se fait en bas à droite et la décharge en haut à gauche.  
+ 
+Figure 9. Pompe volumétrique à double effet  
+ 
+Les modèles de pompes à main de fabrication locale sont très nombreux. Toutefois, dans le 
+cadre de projets d’alimentation en eau, les modèles les plus acceptés et vulgarisés dans le 
+monde sont référencés dans le tableau suivant  : 
+ 
+Tableau 2. Modèles de pompe à main largement utilisés dans el monde  
+ 
+ 
+ 
+ 
+I.2.4. Niveau 3  : mini -réseaux et bornes fontaines  
+ 
+Ce type de système est essentiellement composé  de : 
+• Captage avec ou sans station de pompage  
+• Une mini -station de traitement  
+• Un réservoir  
+• Une ligne de distribution  
+
+
+--- PAGE 18 ---
+ 
+ 18 • Un ou plusieurs bornes fontaines le long de la ligne de distribution  
+• Pas ou quelques branchements privés  
+ 
+a. Captage sans station de pompage  : 
+ 
+Ce dispositif est appliqué dans le cas d’une adduction gravitaire, c. -à-d. que le point de 
+captage de la ressource est située en hauteur  par rapport au village à desservir. La ressource 
+en eau provient d’une source naturelle.  
+ 
+Il est fréquent que l’on puisse considérablement augmenter la quantité d’eau fournie par une 
+source en creusant autour du point d’émergence jusqu’à une couche imperméable de manière 
+à enlever la boue, la roche décomposée, les fragments de roche et les matières minérales que 
+dépose parfois l’eau qui sort de la surface. On veillera particulièrement, surtout dans les zones 
+de calcaire fissuré, à ne pas perturber les couches souterraines au point de détourner la source 
+vers une autre direction ou vers d’autres fissures.  
+ 
+Pour protéger la source, les dispositifs de captage seront prévus et construits de façon à forcer 
+l’eau de surface à traverser 3 m de sol au moins avant d’atteindre l’eau souterraine. Il est 
+également habituel d’exclure tout animal ou toute habitation d’une zone étendue (30 -90 m) 
+autour de l’ouvrage de captage et de creuser une rigole d’évacuation au -dessus et autour de 
+celui -ci pour détourner les eaux de ruissellement.  
+ 
+ 
+A : Fossé de drainage protecteur assurant entre les eaux de drainage et la source une séparation suffisante  
+B : Surface primitive du sol  
+C : Tube de sortie protégé. La décharge peut être libre ou se faire dans les tubes alimentant le village . 
+ 
+Figure 10. Source convenablement protégée  (OMS)  
+ 
+b. Captage avec station de pompage  :  
+ 
+Dans ce dispositif, l’eau est captée par pompage d’eau à partir d’un forage.  Il s’agit 
+généralement du captage d’une nappe hydrogéologique profonde. La pompe à main est alors 
+remplacée par une pompe centrifuge dont le rendement, le débit et la hauteur d’aspiration sont 
+beaucoup plus importants.  
+
+--- PAGE 19 ---
+ 
+ 19  
+Mode de pompage  : 
+ 
+Les pompes peuvent être à  : 
+• Aspiration seulement  : cas très rare  
+• Aspiration puis refoulement  
+• Refoulement uniquement  
+ 
+Pour le cas de forage, la pompe est immergée dans l’eau et sont à refoulement uniquement.  
+ 
+Si on considère  : 
+• Ha : hauteur d’aspiration  
+• Hr : hauteur de refoulement  
+• Hja/Hjr  : pertes de charges linéaires à l’aspiration (a) et au refoulement (r)  
+• Hsa/Hsr  : pertes de charge singulières à l’aspiration (a) et au refoulement (r)  
+• Z1 : altitude de la surface libre à l’aspiration  
+• Z0 : altitude de l’axe de la pompe  
+• Z2 : altitude de la surface libre au refoulement  
+ 
+Alors le pompage sera caractérisé par  :  
+• Le débit de pompage Q en m3/s  
+• La hauteur  manométrique totale HMT en m, où HMT = Hg +ΣHj avec Hg = Z 2-Z1 
+• La charge nette d’aspiration disponible, NPSHd en m, où NPSHd = 10,33 – Hma avec 
+Hma la hauteur manométrique à l’aspiration.  
+ 
+ 
+ 
+Figure 11. Illustration de pompage en aspiration et en refoulement  
+ 
+
+
+--- PAGE 20 ---
+ 
+ 20 La pompe choisie doit permettre d’obtenir le débit Q, à la hauteur HMT et avoir un NPSHr 
+inférieur ou égal à la valeur calculée, c. -à-d. pouvant aspirer à une hauteur égale ou supérieure 
+à la hauteur d’aspiration. Les caractéristiques de la pompe sont données par les fournisseurs 
+pour permettre de sélectionner la bonne pompe.  
+ 
+Energie d’entrainement d’une pompe centrifuge  : 
+ 
+Le coût du pompage se ramène en gros au coût de l’énergie nécessaire pour entrainer la 
+pompe, de telle sorte que dans les régions à moyens économiques limités, le choix de la 
+source d’énergie prend une importance considérable.  
+ 
+La puissance nécessaire pour entraîner la pompe se calcule en fonction du débit (Q), de la 
+charge (HMT ) et du rendement de la pompe (η)  :  
+ 
+P = ρ.g.HMT.Q/η  
+ 
+Avec  : P : Watts  ; HMT  : m ; Q : m3/s  
+ 
+Cette énergie peut être fournie par  : 
+ 
+• L’électricité  : C’est la source d’énergie à choisir lorsqu’elle est disponible. 
+Malheureusement, ce n’est pas toujours le c as en milieu rural pour les pays en voie de 
+développement.  
+ 
+• Les moteurs à combustion interne (groupe à essence ou diesel)  : En dépit de coût et 
+parfois de la difficulté de leur entretien, ces moteurs sont souvent demandés pour les 
+petits approvisionnements en milieu rural.  
+ 
+• Le vent  : Le vent est une source d’énergie peu coûteuse. On l’envisagera sérieusement, 
+aussi bien pour des approvisionnements individuels que collectifs. L’investissement pour 
+la mise en place d’éoliennes reste toutefois très onéreux.  
+ 
+• Le soleil  : Le pompage solaire est une alternative de plus en plus intéressante du fait de la 
+diminution du coût d’investissement, avec des panneaux dont les rendements sont plus 
+élevés, mais aussi de la disponibilité du soleil surtout dans les régions désertiques ou 
+arides comme dans beaucoup de régions en Afrique de l’ouest. Le soleil demeure une 
+source inépuisable.  
+ 
+
+--- PAGE 21 ---
+ 
+ 21 
+ 
+Figure 12. Les sources d’énergie pour alimenter une pompe électrique au Mali (EDM  : Energie du Mali)  
+(Source  : Guide méthodologique des projets d’alimentation en eau potable au Mali)  
+ 
+ 
+c. Mini -station de traitement  : 
+ 
+Comme mentionné dans les paragraphes précédents, la qualité des eaux d’origines 
+souterraines, qu’elles soient captées par forage ou au niveau des sources naturelles sont 
+généralement bonnes, de manière à ce que dans certains cas, aucun traitement préalable n’est 
+nécessaire pour que l’eau soit potable.  
+ 
+Toutefois, il peut être utile, en fonction de la nature des eaux de procéder à une sédimentation 
+pour éliminer la turbidité, à une aération pour précipiter  le fer et le manganèse présent 
+naturellement ou bien à une désinfection pour éliminer les bactéries potentiellement présentes .  
+ 
+ 
+
+--- PAGE 22 ---
+ 
+ 22 
+ 
+ 
+Figure 13. Château d’eau + déferiseur + Réservoir d’eau potable (Source  : ps-Eau)  
+ 
+ 
+d. Réservoir  :  
+ 
+Dans les petits réseaux, que l’eau soit distribuée par gravité ou par pompage, il est toujours 
+souhaitable de prévoir un réservoir de distribution.  
+ 
+Les principales raisons en sont les suivantes  : 
+• La nécessité de faire face aux variations horaires de la consommation. Dans les petits 
+réseaux, ces variations peuvent atteindre trois fois la consommation horaire moyenne, 
+et même plus.  
+• L’opportunité de maintenir une pression suffisante dans tout le réseau  
+• L’opportunité de pouvoir réparer les tuyauteries d’amenée entre la source et le 
+réservoir sans interrompre la distribution.  
+• La nécessité de prévoir des dispositions pour lutter contre l’incendie.   
+ 
+Le réservoir de distribution présente en outre d’autres avantages qui, dans certaines 
+circonstances, peuvent être d’une importance économique considérable  : 
+• Lorsque l’eau est amenée au réservoir par pompage, on peut faire fonctionner les 
+pompes à un régime uniforme pendant toute la journée, ce qui permet d’utiliser des 
+dispositifs beaucoup moins importants que pour une marche intermittente.  
+• La conduite d’amenée, entre la source et le réservoir, peut être beaucoup plus petite 
+que si le village était alimenté directement par la source.  
+ 
+Dans la plupart des petits réseaux ruraux, aucun dispositif spécial n’est prévu pour lutter 
+contre l’incendie.  
+ 
+Capacité du réservoir  :  
+ 
+Selon les objectifs fixés, les capacités des réservoirs varient de 50% à 100% de la 
+consommation journalière de l’agglomération, majorée de la réserve d’incendie. En général, 
+
+--- PAGE 23 ---
+ 
+ 23 la capacité minimale souhaitée est de 100 m3. Mais des réservoirs de plus petites dimensions 
+ont été implantées dans de nombreuses localités rurales.  
+ 
+ 
+Emplacement du réservoir  :  
+ 
+L’emplacement du réservoir doit concilier deux conditions principales  :  
+• Etre aussi proche que possible du centre du réseau pour minimiser la longueur et le 
+diamètre des conduites  
+• Etre au point le plus haut possible pour minimiser sa hauteur par rapport au terrain naturel.  
+ 
+Le réservoir peut être enterré, semi -enterré ou surélevé selon l’altitude et la nature du terrain 
+où il est implanté d’une part et, la côte piézométrique exigée d’autre part.  
+• Les réservoirs enterrés et semi -enterrés sont de formes rectangulaires ou circulaires. Ils 
+peuvent être réalisés en deux ou plusieurs compartiments. Ils sont moins chers que les 
+réservoirs surélevés.    
+• Les réservoirs surélevés sont de formes cylindriques, cylindro -coniques ou tronconiques. 
+Mais peuvent aussi avoir la forme rectangulaire pour de petites capacités. A cause de leur 
+coût, on ne les réalise que si les conditions tech nologiques l’exigent.   
+ 
+ 
+Figure 14. Réservoir surélevé  
+ 
+Matériaux et étanchéité  : 
+ 
+Les réservoirs enterrés et semi -enterrés peuvent être construits en maçonnerie de moellons ou 
+de briques pleines avec de bons enduits d’étanchéité et de stabilité des parois. Mais ils sont 
+surtout construits en béton armé ou béton précontraint.  
+ 
+Les réservoirs aériens sont en béton armé ou en béton précontraint. Ils peuvent aussi être 
+métalliques lorsque la capacité ne dépasse pas 200 m3. L’entourage du réservoir doit être bien 
+drainé. Les parois doivent être étanches pour éviter des pertes d’eau et les infiltrations des 
+eaux extérieures qui apporteront des pollutions. L’étanchéité peut être assurée par application 
+
+--- PAGE 24 ---
+ 
+ 24 d’enduits au mortier de ciment, d’enduits plastiques, etc. Le béton peut aussi être mélangé à 
+un matériau spécial d’étanchéité comme le «  latex  ».  
+  
+Aération  : 
+Des prises d’air sont à prévoir avec protection grillagé e et obstacle à l’entrée des poussières  
+ 
+Ligne de distribution  – bornes fontaines et branchements privés  : 
+ 
+La caractéristique principale de ce niveau de service est que les populations n’ont pas l’eau 
+potable chez eux, mais doivent aller chercher l’eau au niveau des bornes fontaines (BF) qui 
+sont équitablement répartis au niveau du village. Rarement on procède à des branchements 
+privés.  
+ 
+La ligne de distribution partant du réservoir est généralement unique.  
+ 
+En règle générale  : 
+- Les BF sont installées dans des places  publiques sans encombrer la circulation ou 
+toute autre activité  
+- Les  BF ne doivent pas entrainer de nuisances (bon drainage)  
+- Le nombre de BF est évalué soit par nombre d’usagers pour éviter des attroupements 
+exagérés, soit par la distance maximale que l’usager doit parcourir  : une BF pour 300 -
+600 habitants ou une BF à moins de 300 m de chaque usager. Ces deux critères 
+peuvent aboutir à un nombre de BF très différent selon la densité de la population. 
+Celle -ci étant très faible dans les localités de certaines régions d’Afrique au Sud du 
+Sahara, le critère de la distance risque d’y revenir trop onéreux.  
+ 
+Afin de minimiser les coûts d’investissement et le prix de l’eau, des alternatives à l’utilisation 
+des bornes  fontaines ont été développées. Parmi ces alternatives, notons les Postes de 
+Distribution Collective, développées au 2iE, qui sont des espaces aménagés en lieu et place de 
+la BF classique, et doté de robinets de puisage pour chaque ménage concerné.  
+ 
+ 
+
+--- PAGE 25 ---
+ 
+ 25 
+ 
+Figure 15. Borne fontaine classique – Madagascar (Source  : ps-Eau)  
+ 
+ 
+ 
+ 
+Figure 16. Postes de Distribution Collective – Mali (Source  : Fondation 2iE)  
+ 
+I.2.5. Niveau 4  : systèmes  d’adduction d’eau potable complet s  
+ 
+La différence de ce niveau avec le précédent réside dans sa complexité, donc sur le coût 
+d’investissement nécessaire à sa mise en œuvre mais aussi du coût d’exploitation et de 
+maintenance.  
+ 
+Ce système est composé de  :  
+• Système de captage  
+• Station de traitement de l’eau potable  
+• Un ou plusieurs réservoirs  
+• Un réseau de distribution complexe  
+• Des branchements particuliers  
+ 
+a. Captage d’eau  : 
+
+--- PAGE 26 ---
+ 
+ 26  
+S’il s’agit d’eaux souterraines ou d’une eau de source naturelle, les systèmes de captage sont 
+similaires aux systèmes développés dans les paragraphes précédents.  
+ 
+S’il s’agit d’ eau de surface, on parle plutôt de prise d’eau au lieu de captage. Il existe 
+différents types de prises d’eau en fonction de la vitesse d’écoulement d’eau ou bien du degré 
+de pollution de l’eau (présence de matières solides grossières ou bien de matières solides en 
+suspension) . Quelques exemples sont donnés  par les figures suivantes.  
+ 
+ 
+Figure 17.  Prise d’eau avec puisard d’aspiration et station de pompage  
+ 
+ 
+ 
+Figure 18. Prise d’eau en rivière avec barrage et vanne de chasse  
+ 
+ 
+b. Station de traitement d’eau potable  :  
+ 
+Il existe normalement quatre grandes catégories de traitement de l’eau potable selon l’origine 
+le degré de po llution de la ressource en eau  : 
+ 
+ 
+ 
+ 
+Figure 19. Qualité de l’eau et traitement adapté  
+
+--- PAGE 27 ---
+ 
+ 27  
+Catégorie  Description  Origine  
+A Pas de traitement  Certaines eaux souterraines  
+(Eau de source, forage, puits)  
+B Désinfection  Eaux souterraines et occasionnellement eau de surface  
+C Traitement 
+conventionnel  Eaux de surfaces  
+(rivières, réservoirs)  
+D Traitement spécial  Eaux avec taux élevés de minéraux spécifiques (Fer, 
+manganèse, Arsenic, Fluor)  
+ 
+Pour ce niveau de service, l’a ressource en eau peut être de la catégorie C ou D. Ainsi, toute 
+la chaine de traitement est nécessaire. Le schéma suivant décrit la chaine complète de 
+traitement des eaux de catégorie C et D.  
+ 
+Type de 
+traitement    Catégorie C   Catégorie D  
+      
+   Prise   Prise  
+      
+ 
+ 
+ 
+Prétraitement    Dégrillage  
+Pompage  
+Stockage  
+Neutralisation  
+Aération  
+Prétraitement chimique   Dégrillage  
+Pompage  
+Stockage  
+Neutralisation  
+Aération  
+Adoucissement  
+Elimination des algues  
+      
+Traitement 
+primaire    Coagulation et mixage  
+Floculation  
+Sédimentation   Coagulation et mixage  
+Floculation  
+Sédimentation  
+      
+Traitement 
+secondaire    Filtration   Filtration  
+      
+Désinfection    Désinfection   Désinfection  
+      
+Traitement 
+avancé      Adsorption  
+Charbons actifs  
+Techniques membranaires  
+Elimination Fe et Mn  
+Elimination composantes halogénées  
+      
+Traitement du 
+fluor    Fluoration   Fluoration  
+      
+Distribution    AEP   Industries  
+ 
+Figure 20. Différents types de processus de traitement de l’eau en fonction de la catégorie de la ressource  
+ 
+La sélection du système de traitement à mettre en place est précédée d’une étude approfondie 
+de la qualité de la ressource en eau à exploiter. Normalement, cette étude devrait être réalisée 
+sur une période de 1 an au moins, plus si possible.   
+ 
+ 
+ 
+
+--- PAGE 28 ---
+ 
+ 28 c. Réservoir  :  
+ 
+La forme et la conception du réservoir sont les mêmes que pour le niveau de service 3. Ici, le 
+réseau peut comprendre 2 à plusieurs réservoirs.  
+ 
+d. Réseau de distribution complexe  : 
+ 
+Réseau ramifié  :  
+ 
+Il est fait sous forme d’arbre avec des conduites primaires, des conduites secondaires, puis 
+tertiaires, etc…encore appelées conduites de 1ère, 2ème, 3ème génération, etc.  
+Ce réseau présente une longueur totale de conduites plus faible qu’un réseau maillé de même 
+densité de desserte. L’écoulement ne se faisant que dans un seul sens, le contrôle des flux est 
+plus facile. Cependant, le réseau ramifié n’offre pas de garantie dans la distribution car la 
+panne sur un tronçon de conduite engendre un arrêt de la distribution dans sa partie aval.  
+ 
+ 
+Figure 21. Schéma d’un r éseau ramifié  
+ 
+Réseau maillé  :  
+ 
+Il présente plus de sécurité dans la distribution car la panne sur un tronçon de maille ne 
+nécessite que l’isolement de celui -ci. Cependant le réseau maillé est plus cher. Les débits sont 
+tout aussi plus difficiles à contrôler. Les conduites ne sont pas classées en générations 
+puisqu’elles ont la même chance de recevoir l’eau. L’écoulement peut se faire dans un sens 
+comme dans l’autre.  
+Le maillage d’un réseau est surtout nécessaire dans les zones à forte densité de 
+consommation ( centre -ville, zone industrielle ) et des zones où sont présents des édifices 
+délicats (hôpital, commerce)  
+
+--- PAGE 29 ---
+ 
+ 29  
+ 
+Figure 22. Schéma d’un réseau  maillé  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+--- PAGE 30 ---
+ 
+ 30 CHAPITRE II  : LES MODALITES DE GESTION DES SERVICES 
+D’ APPROVISIONNEMENT EN EAU  
+ 
+Il existe en général trois modalités de gestion possibles des services d’approvisionnement en 
+eau : 
+- La gestion communautaire  : basée sur la mise en place du comité d’eau et des 
+réparateurs villageois  
+- La gestion déléguée à un privé  : elle peut prendre trois formes, affermage, 
+concession et gérance. Selon le type de contrat, les activités déléguées peuvent 
+concerner l’exploitation, la maintenance, les recouvrements, les risques sur les 
+investissements pour les constructions, le renouvellement et l’extension des ouvrages.   
+- La gestion en régie  : L’ensemble de la gestion technique et commerciale est assurée 
+par la commune par l’intermédiaire d’un service municipal.  
+ 
+ 
+II.1. LA GESTION COMMUNAUTAIRE  
+ 
+C’est le mode de gestion mis en place pour les puits et forages munis de pompes à motricité 
+humaine et les adductions d’eau gravitaires. La gestion est assurée par la communauté de base 
+selon une organisation communautaire. Il nécessite la responsabilisation et la mobilisation des 
+communautés de base qui acceptent de mettre en place les Comités de Point d’Eau ou bien les 
+Associations d’Usagers, et les Réparateurs Villageois.  
+ 
+Les fonctions des membres du comité ne sont pas rémunérées. Tandis que les Réparateurs 
+Villageois ne peuvent pas vivre uniquement de leurs activités de réparateurs. En résumé, ce 
+système de gestion fonctionne avec du bénévolat. D’après les expériences, la gestion 
+communautaire, du fait du bénévolat, ne permet pas une durabilité effective des actions.  
+ 
+ 
+II.2. LA GESTION DELEGUEE A UN PRIVE   
+ 
+II.2.1. La concession   
+ 
+L’investisseur prend en charge une grande partie de l’investissement et la commune lui cède 
+l’exploitation du système d’approvisionnement en eau potable pour une durée déterminée.  
+ 
+II.2.2. L’affermage  
+  
+La commune loue à un privé la gestion du système contre une redevance à fixer dans le 
+contrat. La gestion du système est confiée au fermier sous la supervision de la commune. Le 
+fermier s’engage à adopter le plan de développement du service, la «  politique du 
+branchement  » mise en place et la politique de prix établie lors de la sélection.  
+ 
+
+--- PAGE 31 ---
+ 
+ 31 La participation de la commune et de l’état dans l’investissement permet d’abaisser le prix de 
+vente de l’eau.  
+ 
+Le type de s contrats de gestion déléguée jugé le plus adapté est l’affermage car il permet 
+grâce à une intervention du ministère chargé de l’eau potable au niveau des investissements 
+d’abaisser le tarif de vente d’eau. L’affermage est appliqué dans les AEP urbains ou la gestion 
+des infrastructures d’approvisionnement en eau des grands centres ruraux.  
+ 
+Il serait souhaitable d’étendre le mode de gestion par l’affermage dans tous les systèmes 
+d’AEP car  :  
+• Il permet d’assurer l’efficacité, la durabilité et l’universalité de l’accès à l’eau potable  
+• Il se base sur la répartition claire des rôles de l’administration, de la commune, des 
+opérateurs privés et des usagers. Les relations entre toutes ces parties sont 
+contractuelles et simples.  
+• Il permet d’appliquer de façon transparente le principe du paiement de l’accès à l’eau 
+potable  
+• Il peut être appliqué pour les petits systèmes ruraux, en se basant sur une possibilité 
+pour l’opérateur de prendre en charge les installations de plusieurs villages voisins.   
+ 
+II.2.3. La gérance  
+ 
+La commune engage une personne morale ou physique pour gérer le système contre une 
+rémunération financière.  
+ 
+ 
+II.3. LA GESTION EN REGIE  
+ 
+La commune met en place en son sein un service pour la gestion du système et engage le 
+personnel nécessaire.  
+ 
+Ce service doit avoir le personnel et les compétences nécessaires pour  :  
+- L’exploitation du système  
+- Le recouvrement  
+- La maintenance  
+- La programmation de l’extension du réseau  
+ 
+Les expériences ont aussi montré que la gestion en régie ne permettait pas d’assurer la 
+durabilité des ouvrages.  
+ 
+ 
+
+--- PAGE 32 ---
+ 
+ 32  
+CHAPITRE 3  : CHOIX DU SERVICE D’APPROVISIONNEMENT  
+ 
+Avant de sélectionner le meilleur service d’approvisionnement en eau adapté à une localité 
+donnée, plusieurs éléments doivent être pris en compte  :  
+- Responsabilité de la commune en matière d’eau potable  
+- Pourquoi mettre en place un système d’alimentation en eau potable  
+- Intégration des composantes «  hygiène et assainissement  »aux programmes 
+d’alimentation en eau  
+- Type d’approvisionnement en eau  
+- Choix technique d’approvisionnement en eau  
+- Gestion des systèmes d’eau potable  
+ 
+Responsabilité de la commune en matière d’eau potable  :  
+La commune est le maître d’ouvrage des systèmes d’approvisionnements en eau potable et 
+d’assainissement, situés dans son territoire.  
+ 
+Pourquoi mettre en place un système d’AEP  :  
+- L’insuffisance d’infrastructures d’eau potable est à l’origine de nombreux problèmes 
+de santé  : diarrhée, choléra, paludisme…  
+- Les femmes disposent de beaucoup plus de temps pour s’engager dans les activités 
+génératrices de revenus si les points d’accès à l’eau potable sont situés près de leurs 
+habitations.  
+- Les enfants pourront aller à l’école s’ils n’ont pas de maladies, de diarrhées  
+- Les familles pourront dépenser plus d’argent pour la nourriture et l’éducation des 
+enfants si les membres de chaque famille sont en bonne santé.  
+ 
+Intégration des composantes «  hygiène et assainissement  » aux programmes 
+d’approvisionnement en eau potable  : 
+L’impact des actions dans le domaine de l’approvisionnement en eau potable serait 
+sensiblement augmenté si elles sont accompagnées par promotion de quelques messages clés 
+comme  :  
+- La nécessité de se laver les mains avec du savon  
+- L’utilisation effective des latrines hygiéniques  
+- Protection de l’eau potable en s’assurant qu’elle ne soit pas contaminée entre le 
+moment où elle est prélevée à la source et celui de son utilisation  
+ 
+Type d’approvisionnement en eau potable  et choix technique  :  
+ 
+Sur la base d’une étude technique sommaire et d’une étude socio -économique détaillée, le 
+choix du système à mettre en œuvre doit tenir compte  :  
+• Du nombre de population à desservir, projeté dans le futur (10 -25 ans), afin de garantir 
+une capacité fiable et pérenne du système  
+• Le degré de traitement de l’eau nécessaire pour assurer la potabilité de l’eau selon les 
+normes établies  
+• Adéquation du système proposé par rapport aux conditions du milieu  
+
+--- PAGE 33 ---
+ 
+ 33 • Les contraintes techniques et les couts des investissements nécessaires  
+• Le système à adopter afin de couvrir les coûts récurrents à l’entretien et à 
+l’amortissement des investissements. En prenant en compte la capacité ou volonté à 
+payer l’eau par la population concernée.  
+ 
+Gestion des systèmes d’eau potable  : principe de non -gratuité de l’eau  : 
+• L’accè s à l’eau doit être payant  
+• L’accès aux branchements particuliers sera encouragé notamment par des facilités au 
+niveau du paiement des coûts de raccordement   
+ 
+Le tableau 3 en page suivante résume les critères globaux qui permettent le choix de l’option 
+technique à adopter pour une localité donnée.  
+ 
+ 
+Tenant compte de ces paramètres, des outils plus performants d’aide à la décision, à partir des 
+techniques appelés «  Analyse s multicritère s » ont été par la suite appliqués au domaine de 
+l’alimentation en eau potable pour s’assurer que l’option adoptée est la meilleure pour une 
+localité donnée. Elles ne sont pas développées dans le présent document. Par contre 
+l’apprenant est invité à consulter les documents annexés se rapportant à cette méthode de 
+prise de décision.  
+ 
+
+--- PAGE 34 ---
+ 
+ Tableau 3. Critères globaux permettant le choix de l’option technique de service d’alimentation en eau  
+(Source  : Guide d’intervention communale en matière d’eau potable, Programme ACCORDS, Madagascar , modifié ) 
+ 
+ 
+OPTION TECHNIQUE  OUVRAGES/EQUIPEMENTS  TYPE DE POINT D’EAU  CRITERES  NOMBRE DE POPULATION  
+Adduction d’eau potable par 
+captage d’eau de surface  • Captage de sources ;  
+• Conduites d’amenée ;  
+• Station de traitement ;  
+• Réservoir de stockage ;  
+• Réseau de distribution ;  
+• Bornes fontaines ;  
+• Branchements privés.   
+ 
+Bornes Fontaines  
+Branchements Privés  • Absence d’eau souterraine ;  
+• Point d’eau en amont de la 
+zone à desservir  Plus de 500 habitants  
+Adduction d’eau potable 
+gravitaire  • Forage;  
+• Pompe électrique  
+• Conduite d’amenée ;  
+• Réservoir de stockage ;  
+• Réseau de distribution ;  
+• Bornes fontaines ;  
+• Branchements particuliers.   
+ 
+Bornes Fontaines  
+Branchements privés  • Source située en amont de la 
+zone à desservir  
+• Débit d’étiage suffisant pour  
+couvrir les besoins en eau.  500 à 10 000 habitants ;  
+Une borne fontaine pour 50 à 100 
+habitants  
+Adduction d’eau potable par 
+forage muni d’une pompe 
+électrique immergée  • Forage;  
+• Pompe électrique  
+• Conduite d’amenée ;  
+• Réservoir de stockage ;  
+• Réseau de distribution ;  
+• Bornes fontaines ;  
+• Branchements particuliers.   
+Bornes Fontaines  
+Branchements Privés  • Qualité de l’eau  
+• Profondeur > 50 m  Population > 1000 habitants  
+Forage équipé d’une pompe à 
+motricité humaine  • Forage  
+• Pompe   
+Puits  • Profondeur de la nappe < 50 m  200-300 personnes par forage  
+Puits fermé équipé d’une pompe 
+à motricité humaine  • Puits  
+• Pompe   
+Puits  • Profondeur de la nappe < 20 m  100-200 habitants par puits  
+ 
+ 
+  
+

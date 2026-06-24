@@ -1,0 +1,1874 @@
+--- PAGE 1 ---
+i 
+  
+Les s ervices  d’assainissement  
+A l’issue de ce cours, l’étudiant doit être capable de  :  
+• Mettre en place un service d’assainissement  
+• Gérer un service d’assainissement  
+• Identifier les acteurs et leurs responsabilités  
+ 
+Objectifs pédagogiques généraux du cours  
+ 
+A l’issue de ce cours, l’étudiant doit être capable de  :  
+• Être en mesure de choisir et d’organiser la gestion d’un service d’assainis sement en utilisant les 
+outils disponibles et adaptés au contexte.  
+• Maîtriser les outils de gestion technique, administrative et financière pour gérer ce service au 
+quotidien.  
+• Savoir organiser et mettre en œuvre les mécanismes de suivi -contrôle de ce service.  
+Déclinaison des objectifs pédagogiques généraux du cours en «  savoir  », « savoir -faire  » 
+et / ou  «  savoir être  » 
+ 
+1. Savoir  :  
+2. Savoir faire  : Gérer un service d’assainissement, Mettre en place un service 
+d’assainissement  
+3. Savoir faire   et Savoir être  : Identifier les acteurs et leurs responsabilités  
+ 
+Pré requis  : connaissance de base nécessaire pour bien suivre le cours  
+  
+• Notions de base en assainissement et en pollution des eaux et des sols  
+• Les systèmes d’assainissement  
+ 
+ 
+ 
+ 
+ 
+Auteur (s)       Date de création  : Novembre 2022  
+       Révision  : Avril 2024  
+ 
+Kouassi DONGO  
+Harinaivo Anderson ANDRIANISA  
+ 
+Consignes : indications des ressources matériels ou logiciels nécessaire pour le suivi du 
+cours  
+• pS-Eau (2010) Guide Méthodologique no 04  : Choisir des solutions techniques 
+adaptées pour l’assainissement liquide  
+• EAWAG  (2008) Compendium des systèmes et technologies d’assainissement  
+• Memento de l’assainissement, GRET  
+ 
+
+--- PAGE 2 ---
+ii 
+  
+Table des matières  
+Introduction générale du cours/module  ................................ ................................ ................................ ...................  1 
+Chapitre 1  : Enjeux et défis de la gestion des services d’assainissement  ................................ ..........................  2 
+Objectifs spécifiques liés au chapitre  1 ................................ ................................ ................................ ...................  2 
+Introduction au chapitre 1  ................................ ................................ ................................ ................................ ....... 2 
+Contenu du chapitre 1 ................................ ................................ ................................ ................................ .........  2 
+Titre I. Enjeux et défis de la gestion de la filière de l’assainissement non collectif  ................................ ...........  2 
+Titre II. Enjeux et défis de la gestion de la filière de l’assainissement collectif  ................................ .................  3 
+Titre 3. Enjeux et défis de la gestion de la filière de l’assainissement semi -collectif  ................................ .........  5 
+Chapitre 2  : Organiser la gestion d’un service d’assainissement  ................................ ................................ ...... 6 
+Objectifs spécifiques liés au chapitre  2 ................................ ................................ ................................ ...................  6 
+Introduction au chapitre 2  ................................ ................................ ................................ ................................ ....... 6 
+Titre I. Principes généraux  ................................ ................................ ................................ ................................ . 7 
+Titre II. Choisir le mode de gestion : un cheminement en quatre étapes  ................................ ............................  9 
+Chapitre 3  : La gestion quotidienne d’un service d’assainissement  ................................ ...............................  13 
+Objectifs spécifiques liés au chapitre  3 ................................ ................................ ................................ .................  13 
+Contenu du chapitre 3  ................................ ................................ ................................ ................................ ...........  13 
+Introduction  ................................ ................................ ................................ ................................ ...........................  13 
+Titre I. Assurer la gestion administrative  ................................ ................................ ................................ .........  14 
+Titre II. Assurer la gestion financière  ................................ ................................ ................................ ...............  14 
+Titre III.  Assurer la gestion technique  ................................ ................................ ................................ .............  15 
+Titre IV. Maintenir une bonne relation avec les usagers  ................................ ................................ ..................  15 
+Titre V. Assurer le suivi interne  ................................ ................................ ................................ .......................  16 
+Chapitre 4  : Organiser et mettre en œuvre le suivi -contrôle d’un service d’assainissement  ........................  17 
+Objectifs spécifiques liés au chapitre  4 ................................ ................................ ................................ .................  17 
+Contenu du chapitre 4  ................................ ................................ ................................ ................................ ...........  17 
+Titre I. Principes généraux  ................................ ................................ ................................ ...............................  17 
+Titre II. Définir des indicateurs de suivi -contrôle  ................................ ................................ ............................  18 
+Titre III. Mettre en œuvre le suivi -contrôle du service  ................................ ................................ .....................  19 
+Chapitre 5 : Facteurs de succès et d'échec d'un projet d'assainissement urbain  ................................ ..........  19 
+et innovation dans le secteur  ................................ ................................ ................................ ................................ . 19 
+Objectifs spécifiques liés au chapitre  5 ................................ ................................ ................................ .................  19 
+Contenu du chapitre 5  ................................ ................................ ................................ ................................ ...........  20 
+Introduction  ................................ ................................ ................................ ................................ ...........................  20 
+Titre 1. Facteurs clés de la réussite de la mise en œuvre des projets d'assainissement urbain  .........................  20 
+Titre II. Examen critique des lacunes des services d'assainissement  ................................ ................................  20 
+Titre III. Innovations de pointe dans la prestation de services urbains  ................................ .............................  21 
+Chapitre 6 : Planification et programmation de l'assainissement urbain intégré  ................................ .........  21 
+Objectifs spécifiques liés au chapitre  6 ................................ ................................ ................................ .................  21 
+Contenu du chapitre 6  ................................ ................................ ................................ ................................ ...........  21 
+Introduction  ................................ ................................ ................................ ................................ ...........................  21 
+
+--- PAGE 3 ---
+iii 
+ Titre 1. Importance de la planification et de la programmation dans la mise en place de services 
+d'assainissement durables  ................................ ................................ ................................ ................................ . 22 
+Titre II.  Planification communautaire de l'assainissement environnemental urbain : CLUES  .........................  23 
+Titre III. Test de connaissances  : Quiz  ................................ ................................ ................................ .............  24 
+Chapitre 7 : Outils de Planification d’un service d’assainissement  ................................ ................................  24 
+Objectifs spécifiques liés au chapitre  7 ................................ ................................ ................................ .................  24 
+Contenu du chapitre 7  ................................ ................................ ................................ ................................ ...........  25 
+Introduction  ................................ ................................ ................................ ................................ ...........................  25 
+Titre 1. Évaluation de la situation sanitaire initiale  ................................ ................................ ..........................  25 
+Titre II. Évaluation de la situation sanitaire initiale  ................................ ................................ ..............................  26 
+Chapitre 8: Analyse des parties prenantes  et  leur engagement dans la fourniture de services 
+d’assainissement  ................................ ................................ ................................ ................................ ..................  27 
+Objectifs spécifiques liés au chapitre  8 ................................ ................................ ................................ .................  27 
+Contenu du chapitre 8  ................................ ................................ ................................ ................................ ...........  27 
+Introduction  ................................ ................................ ................................ ................................ ...........................  27 
+Titre I. Principales activités d'analyse et de participation des parties prenantes ................................ ...............  27 
+Titre II. Eléments de l’analyse des parties prenantes  ................................ ................................ .......................  27 
+Titre III. Eléments de l’implication (participation) des parties prenantes  ................................ ........................  28 
+Titre IV. Quelques recommandations  ................................ ................................ ................................ ...............  28 
+Chapitre 9 : Environnements favorables pour un service d’assainissement  ................................ ..................  29 
+Objectifs spécifiques liés au chapitre  9 ................................ ................................ ................................ .................  29 
+Contenu du chapitre 9  ................................ ................................ ................................ ................................ ...........  29 
+Introduction  ................................ ................................ ................................ ................................ ...........................  29 
+Titre I. Présentation de la situation dans les zones à faibles revenus  ................................ ...............................  29 
+Titre II. Conditions d'un bon «  environnement favorable  » ................................ ................................ ..............  30 
+Titre III. Principales conditions favorables  ................................ ................................ ................................ ...... 30 
+Chapitre 10 : La Recherche Formative  ................................ ................................ ................................ .................  31 
+Objectifs spécifiques liés au chapitre  10 ................................ ................................ ................................ ...............  31 
+Contenu du chapitre 10  ................................ ................................ ................................ ................................ .........  32 
+Introduction  ................................ ................................ ................................ ................................ ...........................  32 
+Titre I. Formulation de questions de recherche «  SMART  »................................ ................................ ............  32 
+Activités d’apprentissage liées au cours  ................................ ................................ ................................ ................  32 
+Bibliographie  ................................ ................................ ................................ ................................ .........................  32 
+
+--- PAGE 4 ---
+1 
+  
+ 
+Mots clés  
+ 
+Service d’assainissement, CLUES,  environnement  favorable, recherche for mative, outils de 
+planification   
+ 
+Introduction générale du cours/module  
+ 
+Ce cours  traite de la gestion d’un service d’assainissement à l’échelle d’une localité, pour 
+l’ensemble de la filière.  La gestion doit garantir le bon fonctionnement et la pérennité du service 
+d’assainissement. Elle concerne aussi bien la gestion technique (assurer le fonctionnement des 
+infrastructures d’assainissement, réaliser les réparations nécessaires, etc.) que la ge stion 
+administrative et financière (suivre les demandes des usagers, recouvrer le paie - ment des 
+factures, etc.).  Les modalités de gestion doiven t être définies dès la phase d’étude des 
+infrastructures et des équipements afin de s’assurer que ces derniers seront correctement utilisés 
+et entretenus une fois les travaux achevés.  De multiples acteurs locaux sont impliqués dans cette 
+gestion : le maître d’ouvrage, les opérateurs de service et les usagers. Les rôles et responsabilités 
+de chacun, ainsi que les mesures de renforcement de leurs capacités, sont décrits dans les 
+chapitres  ci-dessous  développés. Ainsi, on peut citer  :  
+i) offrir aux usagers un service de qualité, respectueux des normes techniques et 
+sanitaires adaptées au contexte local ;   
+ii) définir les rôles et responsabilités des différents acteurs du service  ; 
+iii) garantir  le fonctionnement en continu du service à des tarifs abordables  ; 
+iv) s’assurer  qu’un maximum d’usagers ait recours au service selon des pratiques 
+favor isant le maintien en bon état des infrastructures et équipements réaliser  un suivi 
+ainsi qu’un contrôle du service afin de garantir son fonctionnement et de pouvoir en 
+rendre compte aux usagers.  
+ 
+La mise en place d’un système de gestion permettant d’atteindre ces objectifs peut se diviser 
+en trois composantes.  
+ 
+v) Organisation de  la gestion du service : cette étape, préalable à la mise en place du 
+dit service, concerne le maître d’ouvrage.  
+vi) Mise en œuvre la gestion  au quotidien : cette responsabilité incombe à l’opérateur 
+de service  
+vii) Organisation et mise e n œuvre d’un suivi -contrôle du service : cet aspect est de la 
+responsabilité du maître d’ouvrage . 
+ 
+Cependant, la mise en œuvre de tel service d’assainissement devra faire face à des enjeux 
+et défis importants qu’il convient de souligner d’entrée de jeu.  Mais avant il est important 
+de lever tout équivoque et de considérer que  : 
+ 
+- L'assainissement urbain ne se résume pas aux toilettes. Les environnements urbains denses 
+nécessitent de prendre en compte l'ensemble de la chaîne de services d'assainissement pour 
+garantir un assainissement géré en toute sécurité :  confinement des déchets fécaux,  
+collecte, transport, traitement et élimination finale ou réutilisation.  
+ 
+- Un assainissement urbain efficace s'applique à l'ensemble de la ville et est inclusif  
+
+--- PAGE 5 ---
+2 
+ Il n'y a pas de solution simple - les villes à croissance rapide nécessitent une gamme de 
+solutions techniques à travers la chaîne de services d'assainissement. Faire en sorte que 
+chacun  puisse bénéficier d'un assainissement géré en toute sécurité nécessite des approches 
+spécifiques pour cibler les personnes mal desservies.  
+ 
+- Appliquer les principes commerciaux à la fourniture de services. La gestion des services 
+d'assainissement est aussi importante que les technologies utilisées, et la viabilité financière 
+est un élément essentiel des services durables.  Les gouvernements locaux et les fournisseurs 
+doivent comprendre quels sont les coûts d'un assainissement géré en toute sécurité et 
+comment les coûts seront couverts.  
+ 
+- Viser des améliorations stratégiques et progressives. Le défi de l'assainissement dans les 
+zones urbaines n’est pas le fait 'un seul acteur mais celui de l’ensemble des parties prenantes.  
+De gros investissements dans la planification générale et les infrastructures sont nécessaires, 
+mais la migration urbaine, la dynamique politique et la complexité logistique exigent une 
+approche incrémentale, locale et dynamique.  
+ 
+ 
+ 
+Chapitre 1  : Enjeux et défis de la gestion des  service s d’assainissement  
+ 
+Objectifs spécifiques liés au chapitre  1 
+A la fin de ce cours, les étudiants seront en mesure de  
+1- Comprendre les d ifférents enjeux et défis majeurs dans la fourniture de services 
+d’assainissement  
+2- Développer sur la base de la compréhension des enjeux et défis, une pensée critique 
+dans la conduite de mise en œuvre d’un service d’assainissement applicable à un 
+contexte  donnée  
+Introduction  au chapitre 1  
+L’assainissement est un service essentiel d’intérêt général qui présente des enjeux sociaux, 
+sanitaires et environnementaux majeurs. En cela, il relève de la responsabi lité de l’autorité 
+publique compétente en matière d’assainissement, qui assure le rôle de maître d’ouvrage. 
+Selon le contexte, la compétence « assainissement » est centrali sée au niveau de l’État ou 
+transférée aux collectivités locales (communes et régions).  
+Ce chapitre présente  les enjeux et defis spécifiques  à chaque type de système 
+d’assainissement  
+ 
+Contenu du chapitre 1  
+ 
+Titre I . Enjeux  et défis de la gestion de la filière de l’assainissement non collectif  
+ 
+1.1. Organisation des  nombreux acteurs  de la filière  
+ 
+Le secteur de l’assainissement non collectif peut parfois « effrayer » les personnes en charge 
+de l’organiser et de le structurer à cause du grand nombre d’acteurs qui y travaillent, de 
+manière formelle ou informelle, en particulier dans les grandes villes  : maçons ou entreprises 
+constructrices de toilettes, vidangeurs privés équipés de camions, vidangeurs manuels 
+
+--- PAGE 6 ---
+3 
+ informels, service de vidange municipal, gestionnaires de stations de traitement, etc.   Ces 
+acteurs ont des profils, activités et responsabilités très diverses , et il est important de parvenir 
+à les faire collaborer pour répondre à la demande des ménages tout en respectant la 
+réglementation environnementale et sanitaire . 
+ 
+ 
+1.2. Place des vidangeurs dans la fourniture de services d’assainissement non collectif  
+ 
+      Mettre en place un service de vidange hygiénique et amélioré dans une localité peut s’appuyer 
+sur le secteur de vidange informel déjà existant . En travaillant avec les vidangeurs informels 
+déjà actifs, les chances d’assurer la continuité du service sont plus grandes.  
+ 
+1.3. Les stations de traitement des boues  
+ 
+De nombreuses contraintes s’associent aux co ûts de construction et de fonctionnement d’une 
+station de traitement élevé . Ceci explique  pourquoi on ne trouve  peu, voire pas, de stations de 
+traitement opérationnelles dans certains pays ou villes. Tout d’abord, identifier un espace pour 
+la construction d’une station de traitement des eaux usées ou des boues s’avère souvent être 
+un défi de premier ordre, et ce po ur deux raisons  
+ 
+1.3.1.  Grand espace à pourvoir pour abriter la station  
+ 
+1.3.1.  Réticence des riverains de la zone identifiée pour abriter la station  
+ 
+1.4. Incitation des  acteurs de la vidange aux pratiques de dépotage  
+Très majoritairement, les vidangeurs vont préférer la solution « facile » qui  consiste à déposer 
+les boues dans la première rivière venue, sur le  premier terrain vague rencontré ou dans les 
+réseaux d’égouts ou de drainage existant pour éviter des dépenses liées à la distance  
+(carburant). Ce dépotage sauvage ne fait donc que déplacer le problème d’un point à un autre, 
+tout en le concentrant.  
+On peut retenir que la filière d’assainissement non collectif est appelée à se développer dans 
+les années à venir, aussi bien en milieu rural qu’en milieu urbain. L’assainissement non 
+collectif ne se limite pas aux toilettes : il est important de travailler sur les maillons de vidange 
+et de traitement des boues. Les enjeux de cette f ilière portent sur la nécessité d’organiser de 
+manière claire et réfléchie tous les acteurs intervenant dans la vidange et le traitement des 
+boues afin que celles -ci soient correctement évacuées et traitées avant leur rejet dans la nature  
+ 
+Titre II . Enjeux et défis de la gestion de la filière de l’assainissement collectif   
+ 
+La filière d’assainissement collectif peut répondre à d’ambitieux objectifs d’assainisse - ment 
+de zones urbaines denses. Elle est relativement coûteuse et associée à des pré - requis assez 
+exigeants. Pour assurer le succès de sa mise en œuvre, elle doit rép ondre à de nombreux 
+enjeux, qu’ils soient d’ordre technique, environnemental, socio - économique ou 
+organisationnel.  
+ 
+2.1. Enjeux techniques et environnementaux  
+Les réseaux d’égouts sont, dans les pays en  développement, majoritairement séparatifs .  Cette 
+situation nécessite de veiller à la  conformité des raccordements, l’enjeu étant d’amener les 
+eaux usées et les eaux pluviales dans les bonnes canalisations.  
+ 
+
+--- PAGE 7 ---
+4 
+ 2.1.1. Des raccordements au réseau dans les règles de l’art  
+ 
+a).  Eaux usées dans les réseaux d’eaux pluviales  
+b). Eaux pluviales dans les réseaux d’eaux usées  
+ 
+2.1.2. Qualité et le contrôle des travaux de pose des canalisations  
+ 
+Les réseaux d’égouts peuvent intégrer des défaillances techniques qui perturbent leur bon 
+fonctionnement et mettent en péril leur durabilité.  
+Les risques pesant sur ces réseaux peuvent être géotechniques (tassement), hydrogéologiques 
+(entrainement de fines), structurels (qualité de construction, maintenance ) ou liés à l’impact 
+du milieu (influence de la végét ation comme les racines, vibrations et charges roulantes, etc. ).  
+Ils entraînent différentes défaillances  : cassures du  réseau, déformations, défauts d’étanchéité, 
+etc. 
+ 
+2.1.3. Stations de pompage : des points sensibles  
+ 
+Dans certaines configurations de réseau, des stations de pompage peuvent être installées pour 
+relever les eaux usées à la profondeur souhaitée . Ces stations hébergent des pompes et leurs 
+accessoires associés, qui  sont des équipements électromécaniques sensibles (aux particules 
+solides, à l’humidité, aux sur - tensions, à la poussière, à la chaleur, etc. ).   
+ 
+2.1.4. Maîtrise de la technicité des solutions de traitement  
+ 
+La gestion de certains ouvrages requiert des  compétences spécifiques ainsi qu’une  expérience 
+significative en matière de traitement des eaux usées, y compris pour les dispositifs relativement 
+simples .  Ces compétences s’entretiennent par des formations  régulières.  
+ 
+2.1.5. Enjeu des sous -produits du service  
+Un service d’assainissement collectif génère d’importants sous -produits. Un traitement 
+minimal doit être réalisé pour rendre ces sous -produits inertes et plus faciles à évacuer.  
+ 
+2.2. Enjeux socio -économiques et organisationnels  
+ 
+2.2. 1. Faible volonté à payer pour l’assainissement  
+Le financement du service d’assainissement collectif est au cœur des enjeux  concernant sa 
+durabilité .  L’équilibre économique est souvent difficile à atteindre, en  particulier parce que la 
+volonté à payer pour l’assainissement est faible et que les coûts sont élevés.  
+ 
+2.2. 2. G estion des risques pour l’environnement, les biens et les personnes  
+Compte tenu de son activité et des ouvrages qui le composent, un service d’assainissement 
+collectif comporte des risques pour l’environnement, les infrastructures, les  usagers, les 
+riverains et les agents du service.   
+ 
+2.2. 3.  Renforcement de capacités pour de meilleures performances  
+ 
+Le renforcement de capacités est au cœur de l’amélioration de l’accès à l’assainisse ment dans 
+les pays en développement. C’est d’autant plus vrai pour la filière d’assainissement collectif est 
+complexe sur le plan technique et requiert des compétences élevées en matière de planification 
+et de gestion.  
+
+--- PAGE 8 ---
+5 
+ L’offre de formation est aujourd’hui insuffisante dans les pays en développement. Elle doit être 
+améliorée pour répondre aux enjeux de demain en matière d’assainissement collectif.  
+ 
+Etude de cas  :  
+ 
+Analyse comparative de la volonté à payer pour l’eau potable et l’assainissement au Pakistan  
+ 
+Titre 3. Enjeux et défis de la gestion de la filière de l’assainissement semi -collectif  
+ 
+Les enjeux et défis  de l’assainissement semi -collectif sont dans un degré moindre similaires à 
+ceux de l’assainissement collectif avec des spécificités qui caractérise sa particularité.    
+ 
+3.1. Implication des autorités communales et des services techniquesDans le cas de 
+l’assainissement semi -collectif, les services techniques sur le terrain sont les seuls conscients 
+des conséquences de la mauvaise gestion, et ne peuvent prendre aucune décision s ans l’accord 
+des élus. Aussi, ces services techniques des communes ont aussi un problème de moyens de 
+déplacement qui les empêche de d’accomplir régulièrement leur mission de ronde dans la 
+commune et de constater les infractions.  
+ 
+3.1.1.Des raccordements au réseau dans les règles de l’art  
+ 
+Les REFAID construits ont souvent  des regards de branchement soit à l’interieur soit à 
+extérieur selon le modèle et certains de ces regards sont raccordés à 2, 3 ou plusieurs familles 
+à la fois. Le système comporte aussi  des regards de contrôle et une unité de traitement.  
+ L’entretien des regards doit se faire régulièrement, mais souvent il ne se fait que quand il y a 
+blocage  ! Et pourtant les écumes doivent être régulièrement enlevées des regards pour assurer 
+une bonne canalisation des eaux vers l’unité de traitement, ce q ui permettra aussi de réduire 
+les matières en suspension. Plus le temps passe, plus le filtre est colmaté par les matières 
+solides et plus il s’épaissit à cause de la croissance de la masse bactérienne, ce qui 
+endommage et obstrue les pores  
+ 
+ 
+3.2. Enjeux  en termes de gestion  
+Les REFAID a besoin d’une bonne gestion continue dans la durée pour être performante et 
+efficace, ce qui n’est malheureusement pas souvent le cas  
+ 
+3.3 Enjeux en termes  de finance  
+Les REFAID souffrent beaucoup du manque de volonté à payer par les bénéficiaires afin de 
+contribuer à la conception oû à l’entretien et réparations divers   
+ 
+ 
+Conclusion  
+ 
+Ce cours permet de s’apercevoir que de grands enjeux et défis  existent en matière de fourniture 
+de service d’assainissement. Ces enjeux et défis  diffèrent selon les contextes. Il est donc 
+judicieux de considérer le contexte dans une planification de fourniture de services 
+d’assainissement pour des actions plus efficaces et durables.  
+ 
+ 
+
+--- PAGE 9 ---
+6 
+  
+Chapitre 2 : Organiser la gestion d’un service d’assainissement   
+ 
+Objectifs spécifiques liés au chapitre  2 
+A la fin de ce cours, les étudiants seront en mesure de  
+1-Connaître les différents modes de gestion possibles pour un service d’assainissement.  
+2-Choisir le mode de gestion le plus adapté au contexte local.  
+3- Formaliser dans un document écrit les objectifs du service et les rela tions entre maître 
+d’ouvrage et opérateur de service.  
+Introduction  au chapitre 2   
+L’assainissement est un service essentiel d’intérêt général qui présente des enjeux sociaux, 
+sanitaires et environnementaux majeurs. En cela, il relève de la responsabi lité de l’autorité 
+publique compétente en matière d’assainissement, qui assure le rôle de maître d’ouvrage. Selon 
+le contexte, la compétence « assainissement » est centrali sée au niveau de l’État ou transférée 
+aux collectivités locales (communes et régions).  
+Ce chapitre traite de la gestion d’un service d’assainissement à l’échelle d’une localité, pour 
+l’ensemble de la filière. La gestion doit garantir le bon fonctionnement et la pérennité du service 
+d’assainissement. Elle concerne aussi bien la gestion techni que (assurer le fonctionnement des 
+infrastructures d’assainissement, réaliser les réparations nécessaires, etc.) que la gestion 
+administrative et financière (suivre les demandes des usagers, recouvrer le paiement des 
+factures, etc.). Les modalités de gesti on doivent être définies dès la phase d’étude des 
+infrastructures et des équipements afin de s’assurer que ces derniers seront correctement utilisés 
+et entretenus une fois les travaux achevés. De multiples acteurs locaux sont impliqués dans cette 
+gestion :  le maître d’ouvrage, les opérateurs de service et les usagers.  
+Le chapitre s’adresse aux acteurs assurant la maîtrise d’ouvrage d’un service d’assainis sement, 
+à qui incombe la tâche de mener la réflexion sur le mode de gestion à mettre en œuvre pour ce 
+service : services techniques d’une mairie, services déconcentrés d e l’État, etc.  
+     L’organisation de la gestion d’un service d’assainissement comme l’indique la figure ci -dessous 
+est un préalable à son démar rage.  
+ 
+ 
+ 
+
+--- PAGE 10 ---
+7 
+  
+ 
+ 
+ 
+Titre I . Principes  généraux  
+1.1. Les deux niveaux de gestion  
+ 
+Il existe deux niveaux de gestion d’un service d’assainissement comme l’indique la figure ci -
+dessous  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1.1.1.  Le niveau décisionnel  
+Ce niveau relève de l’acteur qui décide de la définition et de la gestion d’un service 
+d’assainissement et qui fait respecter la réglementation locale en la matière. Il est généralement 
+sous la responsabilité des autorités publiques, qui sont maître d’ouvr age. 
+ 
+1.1.2.  Le niveau opérationnel  
+Ce niveau relève de l’acteur qui exploite le service. Il renvoie aux opérateurs publics ou privés 
+qui assurent le fonctionnement du service de vidange, l’exploitation d’un réseau d’égouts ou 
+d’un site de traitement.  
+Organiser la gestion du service d’assainissement
+(maitre d’ouvrage)
+▪Choisir le mode de gestion du service d’assainissement
+▪Formaliser les relations entre maitre d’ouvrage et opérateur de service
+Mettre en œuvre la gestion du service 
+d’assainissement au quotidien
+(opérateur de service)
+Assurer la gestion technique, administrative et financière du 
+serviceOrganiser et mettre en œuvre le suivi -contrôle du 
+service d’assainissement
+(maitre d’ouvrage ou organe chargé du contrôle du service)
+Suivre les indicateurs de performance du service
+Assurer le contrôle de la gestion technique, administrative et 
+financière du service Livrables:
+Outils de gestion technique: plan de maintenance des équipements 
+et des infrastructures
+Outils de gestion financière: compte d’exploitation, fichier des 
+abonnés
+Outils de gestion administrative: journal de suivi des activitésLivrables:
+Indicateurs de suivi -contrôle du service
+Livrables
+▪Grille multicritère pour le choix du mode de gestion du service
+▪Document de formalisation: contrat, licence, etc.
+ 
+Niveau décisionnel
+Niveau opérationnelOpérateur :
+•Exploite leservice .
+•Rend descomptes aumaître d’ouvrage .
+•Atteint lesobjectifs fixés dans lecontratMaitre d’ouvrage:
+•Fixe lesobjectifs duservice .
+•Organise leservice .
+•Assure unsuivi -contrôle duservice .
+•Assure lerespect delaréglementation
+Différents niveaux de gestion d ’un service d ’assainissement  Cheminement à suivre pour la réalisation des études préalables  
+
+--- PAGE 11 ---
+8 
+  
+ 
+1.2.  Les deux modes de gestion  
+ 
+Egalement il existe 2 mode de gestion dans la fourniture d’un service d’assainissement  
+ 
+1.2.1 . La gestion directe  
+Dans la gestion directe, le maître d’ouvrage (État ou collectivité locale) assure exclusivement 
+la gestion du service.  
+ 
+ 
+1.2.2.  La gestion déléguée  
+A ce niveau, le maître d’ouvrage décide de confier une partie ou la totalité de la gestion du 
+service à un opérateur privé ou à une association d’usagers. On parle de délégation de service 
+public (DSP) ou, dans certains cas, d’autorisation d’exploitation.  
+ 
+L’organisation de la gestion d’un service d’assainissement est un travail de réflexion 
+permanent. En effet, le mode de gestion doit s’adapter au service, qui évolue. Son choix n’est 
+jamais définitif mais fait l’objet d’une réflexion continue pour s’adapter  aux évolutions du 
+contexte.  
+- Les choix politiques fixés par les autorités publiques. Par exemple, le nouveau maire 
+d’une ville peut décider, après son élection, de passer la gestion du service 
+d’assainissement municipal d’un mode de gestion directe à un mode de gestion 
+déléguée. Il do it cependant le faire dans le respect des éventuels engagements 
+contractuels pris antérieurement avec des opérateurs du service.  
+-  L’évolution de la demande en assainissement. Par exemple, une localité gérant 
+directement un réseau d’égouts peut décider de faire appel à un opérateur privé pour la 
+construction et la gestion d’une station de traitement dont la complexité technique 
+dépas se les compétences des services techniques municipaux.  
+-  Les évolutions réglementaires. Elles peuvent imposer de nouveaux standards 
+concernant l’obligation de traitement ou le respect de nouvelles normes 
+environnementales.  
+ 
+ 
+En termes d’enjeux, la réflexion sur le mode de gestion doit permettre de répondre aux 
+interrogations suivantes.  
+-  Qui est propriétaire des infrastructures ? Le maître d’ouvrage peut certes faire appel à 
+un opérateur privé pour construire les infrastructures (voir à ce sujet le chapitre 9B), 
+mais ce dernier n’en sera pas nécessairement propriétaire.  
+- Qui se charge de l’exploitation du service au quotidien (fonctionnement et entretien des 
+infrastructures et équipements) ?  
+-  Qui porte le risque technique et financier ? Il s’agit ici de déterminer qui est responsable 
+en cas de dysfonctionnement technique (qui paiera pour les petites et grosses 
+réparations, qui est responsable si le réseau déborde chez un usager ?) ou en cas de  
+difficultés financières (non -paiement des factures par les usagers dans le cas d’un réseau 
+d’égouts, faible rentabilité du service, etc.).  
+ 
+ 
+ 
+
+--- PAGE 12 ---
+9 
+ Titre II . Choisir  le mode de gestion : un cheminement en quatre étapes  
+Introduction  
+Il n’existe pas de modèle de gestion « clé en main » d’un service d’assainissement tant les 
+contextes d’intervention diffèrent sur les plans techniques, économiques, politiques et sociaux. 
+Ce chapitre propose un cheminement en quatre étapes pour choisir le mode de gestion adapté à 
+une situation  donnée, en s’appuyant sur l’analyse objective de celle -ci comme l’indique la 
+figure ci -dessous . Chacune des étapes est illustrée par des exemples qui permettent d’évaluer 
+les avan tages et inconvénients de chaque mode de gestion . 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2.1. Étape1 : Analyser les éléments de contexte  
+Cette étape revient sur les éléments du contexte que l’on doit avoir à l’esprit avant de choisir le 
+mode de gestion du service. Ainsi, les éléments  du contexte doivent comprendre: le jeu ou les 
+relations entre les acteurs locaux impliqués dans l’assainissement, le périmètre du service 
+d’assainissement concerné et les objectifs de service fixés par le maître d’ouvrage.  
+ 
+2.2. Étape 2 : Choisir le mode de gestion  – la grille multicritère  
+Une grille multicritère doit être établie pour déterminer le mode de gestion adapté au service 
+d’assainissement du contexte considéré et aider à la prise de décision. Elle doit permettre 
+d’évaluer, avec objectivité, l’opportunité de recourir à une gestion directe du service (régie) ou 
+de faire appel à un opérateur privé (délégation de service).  
+Pour l’exécution de l’étape 2 il convient de considérer l es avantages et inconvénients des deux 
+modes de gestion . Le tableau ci -dessous fait la synthèse de ces  avantages et inconvénients - 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+Etape 1
+Etape 2
+Etape 3
+Etape 4Analyser les éléments de contexte nécessaires à la réflexion 
+sur le mode de gestion du service.
+Déterminer le mode de gestion du service d’assainissement à 
+l’aide d’une grille multicritère.
+Formaliser dans un document écrit les objectifs du service et 
+les relations entre maître d’ouvrage et opérateur de service.Sélectionner l’opérateur de service dans le cas d’une 
+délégation de service public.
+Cheminement pour le choix d’un mode de gestion d’un service 
+d’assainissement  
+
+--- PAGE 13 ---
+10 
+  
+ 
+ 
+ 
+Critères  Mode  Avantages  Inconvénients  
+  
+Les tarifs sont fixés directement par 
+le maître d’ouvrage, sans 
+négociations avec l’opérateur.  Pour des raisons politiques, un maître 
+d’ouvrage assurant la gestion en direct aura 
+parfois des réticences à faire appliquer des 
+tarifs suffisamment élevés pour couvrir 
+toutes les dépenses du service (risque de 
+perdre des votes d’une partie de ses 
+électeur s). 
+ 
+- Selon le type de contrat, 
+l’investissement initial peut être 
+engagé par l’opérateur.  
+- Les coûts d’entretien sont portés 
+par ce dernier.  
+- Le recouvrement des factures est 
+souvent plus efficace car les 
+opérateurs ont moins de 
+contraintes politiques.  
+- Meilleure maîtrise des charges 
+par l’opérateur, qui cherchera à 
+optimiser le coût du service.  Le processus de négociation entre maître 
+d’ouvrage et opérateur peut être long, 
+notamment en ce qui concerne les tarifs à 
+appliquer pour l’accès au service.  
+  
+Maîtrise partielle des tarifs par le maître 
+d’ouvrage.  
+ 
+  
+- Maîtrise du service par le maître 
+d’ouvrage.  
+- Plus de souplesse de mise en 
+œuvre dans le cas d’une évolution 
+de la stratégie d’assainissement.  Nécessité de disposer des ressources 
+humaines, matérielles et financières 
+suffisantes pour assurer l’exploitation du 
+service.  
+Pour des compétences techniques pointues 
+et occasionnelles, nécessité de faire appel à 
+un prestataire.   
+ 
+Les compétences techniques à 
+mobiliser pour atteindre les 
+objectifs du service sont fixées 
+dans le contrat. Un opérateur ayant 
+plusieurs contrats de gestion de 
+services d’assainissement peut 
+mutualiser certaines ressources 
+humaines et matérielles. Un 
+opéra teur gérant plusieurs services 
+d’assainissement a souvent une 
+meilleure expérience technique et 
+une meilleure maîtrise du service.  Moindre maîtrise du service par le maître 
+d’ouvrage. Si le maître d’ouvrage n’est pas 
+satisfait de la façon dont l’opérateur gère le 
+service, le processus de recadrage ou de 
+rupture de contrat est souvent complexe  
+ 
+Performance économique et coût du service  
+Gestion I ndirecte  
+ 
+Gestion D irecte 
+ 
+Performance technique  
+ 
+Gestion I ndirecte  
+ 
+Gestion D irecte 
+ Tableau IV: Avantages et inconv énients de la gestion directe et de la gestion d éléguée  
+
+--- PAGE 14 ---
+11 
+  
+ 
+ 
+ 
+ 
+Critères  Mode  Avantages  Inconvénients  
+  
+Contrôle direct de l’opérateur  
+Meilleure maîtrise de la 
+transparence de gestion du service 
+(accès aisé à l’information) et de la 
+relation directe à la clientèle.   - Possibilité de risques de suivi et de gestion 
+transparente  
+(absence de rapports réguliers)   
+ 
+compétences techniques à 
+mobiliser fixées dans le contrat.  
+Mobilisation de ressources 
+humaines et matérielles  
+- Meilleure expérience technique 
+et une meilleure maîtrise du 
+service.   - Risque que l’opérateur privilégie sa 
+marge bénéficiaire au détriment de la 
+bonne maintenance du patrimoine.  
+- Nécessité de mettre en place un 
+dispositif efficace de suivi -contrôle des 
+activités de l’opérateur.   
+ 
+ 
+ 
+2.3. Étape 3 : Sélectionner un opérateur délégué  
+2.3.1 . Processus de sélection d’un opérateur privé  
+- Lancer un appel d’offres  
+- Attribuer le marché en direct selon des critères objectifs  
+2.3.2 . Mise en place d’une gestion communautaire  
+-  organiser une concertation avec les usagers  
+-  s’accorder sur la répartition des tâches  
+-  clarifier le mode d’organisation de l’association d’usagers  
+-  former les habitants mobilisés au sein de l’association d’usagers  
+-  sensibiliser les usagers aux bonnes pratiques  
+  
+Etude de cas   : Gestion communautaire d’un mini -égout à Salvador (Brésil)  
+À Salvador, les réseaux d’égouts conventionnels sont gérés par l’opérateur public Embasa. Les 
+quartiers ne pouvant être desservis par des réseaux conventionnels (comme les favelas) ont été 
+équipés de mini -égouts, appelés « réseaux condo miniaux ». Les usagers d’un mini -égout 
+pouvaient opter pour une gestion com munautaire et bénéficier d’une réduction de 50 % sur la 
+taxe d’ assainissement (à Salvador, cette dernière représente 80 % de la facture d’eau). Dans ce 
+cas, l’association communautaire prenait en charge la gestion du mini -égout et s’ap puyait sur 
+des personnes rémunérées pour effectuer les tâches de gestion tech nique  (curage régulier du 
+mini-égout, etc.), administrative et financière. Echec  ! les raisons à expliquer dans ce passage  
+Transparence de gestion et  
+ contrôle de l’opérateur  
+ 
+Gestion I ndirecte  
+ 
+Gestion D irecte 
+ 
+
+--- PAGE 15 ---
+12 
+  
+ 
+2.4. Étape 4 : Formaliser la relation entre maître d’ouvrage et opérateur de service  
+ 
+Objectifs  
+Suite à cette étape, les étudiant seront  en mesure de :  
+i-mener à bien le processus de négociation avec le futur opérateur du service dans le cas 
+d’une délégation de service public ;  
+      ii- rédiger un document formalisant les objectifs fixés par le maître d’ouvrage ainsi que la 
+relation entre celui -ci et l’opérateur de service, dans le cadre du mode de gestion choisi  
+En fonction des objectifs à atteindre, ce document doit répondre clairement aux trois 
+questions majeures soulevées dans les principes généraux :  
+1. Qui est propriétaire des infrastructures ?  
+2. Qui se charge du fonctionnement et de l’entretien des infrastructures ?  
+3. Qui porte les risques techniques et financiers ?  
+ 
+2.4.1.  Les différents types de documents de formalisation  
+ 
+2.4.2.  Le contenu du document de formalisation  
+- les objectifs fixés pour le service et les résultats à atteindre  
+-  le périmètre du service  
+- la durée d’exploitation du service  
+- l’entité qui porte les risques techniques et financiers  
+-  les tarifs d’accès au service  
+-  les modalités de suivi -contrôle de la gestion par le maître d’ouvrage  
+- les obligations et devoirs du maître d’ouvrage et de l’opérateur  
+- les modalités de modifications, de rupture et de prolongement du contrat  
+ 
+2.4.3.  Exemples de documents de formalisation  
+ Les infrastructures et équipements existent et ont été financés par le maître d’ouvrage  
+ 
+ Dans le cas d’une gestion directe  
+ 
+Etude de cas   : Gestion directe par un opérateur public  
+Le service de vidange et de traitement des eaux usées de Haï Phong (Vietnam)  
+À Haï Phong, le service de vidange de la ville est assuré par l’entreprise publique SADCO 
+(Sewerage and Drainage One -Member State Company Limited) et par qua torze opérateurs 
+privés.  Ce cas sera examiné dans ce passage  
+ 
+ 
+b) Les infrastructures et équipements restent à construire  
+ -La concession  
+ 
+Etude de cas   :  Gestion déléguée à un opérateur privé via un contrat de type concession  
+Les toilettes publiques de Mombasa (Kenya)  
+ 
+Dans la ville de Mombasa, 11 % des ménages bénéficient d’une connexion au réseau d’égouts. 
+Le réseau d’égouts et les stations de traitement de la ville sont exploités par l’entreprise 
+publique MOWASCO (Mombasa Water Supply & Sanitation Company Limited), en tièrement 
+détenue par la ville de Mombasa. Afin de fournir un accès à l’assainissement aux ménages non 
+
+--- PAGE 16 ---
+13 
+ équipés en toilettes, la ville a développé un service de toilettes publiques dont la gestion est 
+déléguée à un opérateur privé via un contrat de concession d’une durée de dix ans. L’opérateur 
+a construit et exploite ces blocs sanitaires. La durée du contrat lui permet de récupérer la somme 
+investie pour leur construction et de réaliser une marge bénéficiaire. À la fin du contrat, les 
+toilettes publiques seront rétrocédées à la ville de Mombasa.  
+ 
+c) Infrastructures et équipements existent et ont été financés par un opérateur privé  
+ 
+Etude de cas 6: Une licence pour encadrer les activités des opérateurs de vidange mécanique 
+L’exemple de la ville d’Abuja (Nigéria)  
+À Abuja, seuls 30 % des ménages sont raccordés au réseau d’égouts. Les habi tants sont en 
+majorité équipés de toilettes à fosse nécessitant d’avoir recours à une vidange mécanique ou 
+manuelle. En l’absence de politiques municipales claires sur la gestion d es boues de vidange, 
+le service d’évacuation est assuré par de petits opérateurs privés, dont les plus importants 
+utilisent plusieurs camions. Ce cas sera examiné  
+ 
+Conclusion  
+ 
+• Le choix du mode de gestion d’un service d’assainissement suit un processus par étapes 
+aboutissant à la sélection du système le plus adapté au contexte local.  
+• Les objectifs du service d’assainissement et les relations entre maître d’ou vrage et 
+opérateurs de service, dans le cadre du mode de gestion choisi, sont formalisés dans un 
+document (contrat) susceptible d’évoluer afin de s’adapter au développement du service 
+d’assainissement.  
+• Sur un territoire donné, les trois maillons d’un service d’assainissement peuvent 
+présenter des modes de gestion différents pour atteindre les objectifs fixés par le maître 
+d’ouvrage.  
+• Quel que soit le mode de gestion choisi (directe ou déléguée), le maître d’ou vrage reste 
+garant de la qualité du service. La gestion du service est indisso ciable de la mise en 
+place d’un mécanisme de suivi -contrôle.  
+ 
+ 
+Chapitre 3 : La gestion quotidienne d’un service d’assainissement    
+Objectifs spécifiques liés au chapitre  3 
+A la fin de ce cours, les étudiants seront en mesure de  
+1- Connaître les tâches liées à la gestion administrative, technique et finan cière d’un 
+service d’assainissement.  
+2- Savoir élaborer et utiliser les outils de gestion administrative, technique et financière.  
+ 
+Contenu du chapitre 3 
+ 
+Introduction  
+Ce chapitre s’adresse  aux opérateurs de service. En effet, la gestion d’un service 
+d’assainissement implique d’effectuer au quotidien les tâches administratives, techniques et 
+financières permettant d’assurer le suivi interne du ser vice et de garantir une bonne relation 
+
+--- PAGE 17 ---
+14 
+ avec les usagers. Des outils de gestion  peuvent être mobilisés pour que chaque tâche soit 
+réalisée dans le respect des bonnes pratiques prédéfinies, et dans la durée.  
+Afin d’être réellement utilisés et mis à jour par le personnel de terrain, les outils de ges tion 
+doivent rester simples. Un outil efficace est un outil facilement appropriable et qui fait gagner 
+du temps.  
+Ce chapitre clarifie les tâches liées à l’exploitation quotidienne d’un service d’assainis -
+sement. Il doit permettre d’élaborer et d’utiliser des outils garantissant le bon fonction nement 
+des infrastructures, leur entretien ainsi que la bonne gestion admi nistrative et financière du 
+service.  
+ 
+Titre I . Assurer  la gestion administrative  
+ 
+1.1. Les tâches à remplir pour satisfaire aux obligations administratives et réglementaires  : 
+Tenir  à jour le classeur administratif ,  Organiser les moyens humains du service  et  Organiser 
+le suivi contractuel  comme indiqué dans le tableau ci -après  
+ 
+ 
+ 
+Tâches à 
+effectuer  Qui effectue  
+ces tâches ?  Outils à mobiliser  
+1. Tenir à jour 
+le classeur  
+administratif.  Comptable  
+Secrétaire  Règlement d’assainissement de la localité.  
+Documents de reconnaissance légale de l’opérateur de service.  
+Documents administratifs issus des réunions (procès -verbaux 
+ou délibérations dans le cas d’une régie).  
+Bail éventuel ou tout autre document de propriété (location 
+ou achat d’un terrain ou d’un bâtiment).  
+Délibération sur le choix de l’opérateur (gestion déléguée).  
+Organiser les 
+moyens  
+humains.  - Chef de 
+service  
+- Secrétaire  Organigramme de fonctionnement du service  
+Fiche de poste qui décrit les conditions d’embauche et précise 
+pour chaque employé l’intitulé du poste, les tâches à effectuer, 
+les responsabilités et la durée de la mission  
+Fiche d’entretien annuel de chaque employé  
+Grille des salaires pour chaque type de poste  
+Organiser  
+le suivi 
+contractuel  Chef de service  
+Comptable  Contrats de travail du personnel  
+Tableau de suivi du paiement des salaires  
+Contrat de délégation de service public (y compris annexes et 
+avenants) et apports successifs de suivi.  
+Contrats passés avec des fournisseurs pour l’achat de 
+consommables, de pièces détachées ou d’équipements  
+Contrats passés avec d’éventuels prestataires  
+Tableau de suivi des contrats  
+ 
+ 
+Titre II . Assurer  la gestion financière  
+ Tableau : Détail des taches et outils de la gestion administrative d ’un service d ’assainissement  
+
+--- PAGE 18 ---
+15 
+ Quels que soient le maillon et la technologie d’assainissement, la gestion financière d’un  service 
+d’assainissement s’appuie avant tout sur le budget prévisionnel qui fournit une vision à court 
+terme des dépenses et recette.  
+ 
+2.1. Les tâches liées à la gestion financière  
+2.1.1.  Encaisser les recettes  
+2.1.2.  Réaliser les dépenses  
+2.1.3.  Suivre le résultat d’exploitation  
+2.1.3.  Anticiper le renouvellement des infrastructures  
+ 
+Etude de cas  : Outils de gestion de la station de traitement des boues de Tanjombato 
+(Madagascar)  
+Dans la commune de Tanjombato, un service de vidange de fosses a été mis en place et une 
+station de traitement des boues construite dans le quartier d’Anda fiatsimo. Celle -ci est 
+constituée de biodigesteurs qui traitent les boues déposées par les vidangeurs du quartier. La 
+gestion du service a été déléguée à un opéra teur économique local. Le contrat de délégation de 
+service, signé par la commune et cet opérateur, décrit les outils de gestion que ce dernier doit 
+mettre en place et remplir régulièrement. Cas à examiner  
+ 
+Titre III .  Assurer  la gestion technique   
+ 
+Même les technologies d’assainissement les plus simples doivent faire l’objet d’une uti lisation 
+et d’un entretien attentif afin d’en garantir le fonctionnement continu et prolon ger leur durée de 
+vie. 
+3.1. Les taches liées à l’entretien des technologies d’assainissement  
+Maîtriser les procédures de fonctionnement et d’entretien de l’infrastructure ou de l’équipement  
+Maîtriser les procédures garantissant la sécurité des employés du service et des usagers  
+Vérifier la disponibilité du matériel de fonctionnement et de maintenance  
+Effectuer des inspections régulières et consigner les éventuels dysfonctionnements  
+Réaliser les tâches d’entretien de façon régulière  
+Consigner dans un journal le détail des activités réalisées  
+Planifier et budgétiser les activités d’entretien  
+Maillon « accès » (blocs sanitaires publics)  
+3.2.1.  La gestion technique de blocs sanitaires publics  
+3.3. Maillon « évacuation »  
+3.3.1. Service d’assainissement non collectif  
+a) La gestion technique d’un service de vidange  
+3.3.2. Service d’assainissement collectif  
+3.4. Maillon « traitement »  
+3.4.1.  La gestion technique d’une station de traitement  
+ 
+Titre IV . Maintenir une bonne relation avec les usagers  
+Introduction  
+Les tâches de gestion administrative, technique et financière ne doivent pas faire perdre de vue 
+que le service cherche à satisfaire la demande des usagers. Les équipes en charge de 
+l’exploitation du service doivent apporter un soin particulier à la relati on avec ceux -ci.  
+Une bonne relation facilitera l’exploitation du service. Il faut sensibiliser les usagers à une 
+utilisation correcte des infrastructures et au fait de payer régulièrement pour pou voir bénéficier 
+
+--- PAGE 19 ---
+16 
+ du service. Il faut également assurer un service de qualité satisfaisante pour que les usagers 
+fassent confiance à l’opérateur.  
+Soigner la relation avec les usagers est une activité à part entière qu’il faut prendre en compte 
+dans la planification des activités du service et dans le budget prévisionnel.  
+ 
+4.1. L’opérateur de service  
+4.2. Les usagers  
+4.2.1.  La gestion de la relation avec les usagers  
+a) Instaurer une relation de proximité avec les usagers  
+b) Assurer la transparence de la gestion technique et financière et informer les usagers  
+c) Sensibiliser les usagers à la bonne utilisation des infrastructures  
+d) Mettre en œuvre une campagne marketing  
+ 
+Etude de cas  : Le kiosque dédié à la relation clientèle de Kumasi (Ghana)  
+ 
+Dans le quartier d’Asafo à Kumasi, qui dispose d’un service d’assainissement par mini -
+égout, l’opérateur privé Environnemental Engineering Limited possède un kiosque dédié à 
+la relation clientèle, ouvert tous les jours de 7 h à 17 h. Un tech nicien polyvalent y reçoit 
+les clients, encaisse les redevances et aide le s usagers à régler les problèmes rencontrés. 
+En cas de dysfonctionnement du réseau, le technicien se déplace pour établir un diagnostic. 
+Il décide ensuite d’intervenir lui -même ou bien sollicite le renfort d’un technicien qualifié 
+et de moyens mécanisés (c amion hydrocureur en cas de gros bouchon ou équipe de 
+maintenance). Une ligne téléphonique est à la disposition des usagers. D’après l’opérateur, 
+toutes les demandes sont traitées dans un délai de 24 heures.  
+ 
+ Titre V . Assurer  le suivi interne  
+ 5.1. Qu’est -ce que le suivi interne ?  
+Afin de connaître les performances du service d’assainissement et leur évolution, l’opé rateur 
+doit assurer un suivi interne régulier qui a pour but de « mesurer, sur la base d’in dicateurs 
+objectifs, la qualité du service  ». 
+ 5.1.1.  Les enjeux du suivi du service par l’opérateur  
+ a).Optimiser le service  
+ b).Améliorer la relation clientèle  
+ 5.2. Comment mettre en place un système de suivi ?  
+ 5.2.1. Les actions à entreprendre pour mettre en place un système de suivi  
+ a).Sélectionner les indicateurs de suivi et élaborer une grille  
+ b).Réaliser régulièrement le suivi du service  
+ 
+Etude de cas  : Le suivi interne réalisé par l’Office national d’assainissement du Sénégal (Onas)  
+L’Onas assure un suivi technique de ses réseaux d’égouts à travers un système ISO (normes 
+concernant la qualité des travaux) reposant sur des indicateurs chif frés. Ainsi, pour l’entretien 
+des réseaux d’assainissement, deux des indicateurs de suivi des interventions des agents sur le 
+terrain sont le nombre de casses (tuyaux cassés) par kilomètre de réseau et le nombre de 
+bouchons par kilomètre. Ces indicateurs sont analysés annuellement pour voir si les objectifs 
+de performance c iblés en interne sont atteints. Ainsi, en 2010, les objectifs de 0,25 casses par 
+kilomètre et de 18 bouchons par kilomètres ont été atteints.  
+ 
+5.3. Définir des indicateurs de suivi  
+5.3.1.  Sélectionner les indicateurs pertinents  
+
+--- PAGE 20 ---
+17 
+ a).Les indicateurs d’évolution quantitative de la demande  
+b).Les indicateurs de suivi de la qualité du service  
+c). Les indicateurs de suivi techniques du service  
+d). Les indicateurs de suivi économiques et financiers  
+5.3.2.  La grille des indicateurs de suivi ou tableau  de bord  
+ 
+Les indicateurs sont regroupés dans une grille devant être régulièrement mise à jour à l’aide des 
+données collectées.  
+Quatre grilles d’indicateurs sont présentées dans les pages qui suivent, en fonction du service 
+d’assainissement concerné. Pour chaque indicateur, ces grilles précisent le moment où il faut 
+tirer la sonnette d’alarme et mettre en œuvre des actions correcti ves. 
+a).Grille d’indicateurs de suivi pour la gestion d’un bloc sanitaire public  
+b).Grille d’indicateurs de suivi pour la gestion d’un service de vidange de fosses  
+c). Grille  d’indicateurs de suivi pour la gestion d’un service par réseau d’égouts  
+d). Grille  d’indicateurs de suivi pour la gestion d’une station de traitement des eaux usées et 
+des boues de vidange  
+ 
+ 
+ 
+ 
+Conclusion  
+ 
+• Afin de faire fonctionner correctement un service d’assainissement, il convient évidemment 
+de réaliser un suivi technique mais également d’assurer une gestion administrative et 
+financière rigoureuse.  
+• Pour cela, différents outils proposés dans ce chapitre doivent être renseignés et mis à jour 
+régulièrement.  
+ 
+Chapitre 4 : Organiser et mettre en œuvre le suivi -contrôle d’un service d’assainissement  
+Objectifs spécifiques liés au chapitre  4 
+A la fin de ce cours, les étudiants seront en mesure de  
+1- Maîtriser les enjeux du suivi -contrôle pour s’assurer du bon fonctionne ment du service 
+d’assainissement dans la durée.  
+2- Savoir sélectionner, définir et mettre en place les indicateurs de suivi adaptés et 
+cohérents avec les objectifs fixés pour le service par le maître d’ouvrage.  
+3- Organiser le contrôle du service.  
+Contenu du chapitre 4 
+Titre I . Principes  généraux   
+Introduction  
+Ce chapitre souligne l’importance du suivi -contrôle, trop souvent négligé dans la mise en 
+place des services d’assainissement, alors qu’il joue un rôle central dans leur pérennisation.  
+Il s’adresse au maître  d’ouvrage  souhaitant mettre en place un suivi -contrôle d’un service 
+d’assainissement. Dans le cas où il est également l’opérateur de service (gestion directe), il est 
+préférable que, dans un souci d’objectivité, le suivi -contrôle soit assuré par un organe de 
+contrôle externe.  
+
+--- PAGE 21 ---
+18 
+ Le maître d’ouvrage d’un service d’assainissement est responsable devant les usagers de la 
+qualité du service et de son fonctionnement continu. Or, s’assurer du bon fonc tionnement sur 
+le long terme implique de pouvoir suivre l’évolution du service sur le terrain.  
+ 
+1.1. Qu’est -ce que le suivi -contrôle ?   
+1.2. Qui est responsable du suivi -contrôle ?  
+1.2.1. Dans  le cas où le service est délégué  
+1.2.2 . Dans le cas d’une gestion directe  
+1.3. Comment mettre en place un mécanisme de suivi -contrôle ?  
+1.3.1.  Les principales actions à entreprendre  
+a) Sélectionner et définir précisément les indicateurs de suivi  
+b) Réaliser régulièrement le suivi -contrôle du service  
+ 
+Titre II . Définir des indicateurs de suivi -contrôle  
+Introduction  
+Le suivi -contrôle est bien souvent négligé par les maîtres d’ouvrage alors qu’il contribue à 
+maintenir et à améliorer la performance du service, et est essentiel pour l’opérateur, le maître 
+d’ouvrage et l’usager.  
+2.1. Sélectionner les indicateurs pertinents  
+2.1.1.  En fonction du degré de maturité du service  
+a).Normes techniques et de la qualité du service  
+b).Tarifs fixés par le maître d’ouvrage  
+c). Normes  environnementales  
+2.2. Les différents types d’indicateurs    
+2.2.1.  Les indicateurs d’évolution quantitative de la demande  
+2.2.2.  Les indicateurs de suivi de la qualité du service  
+2.2.3.  Les indicateurs de suivi techniques du service  
+2.2.4.  Les indicateurs de suivi économiques et financiers  
+ 
+Etude de cas  : Suivi -contrôle des blocs sanitaires publics de la ville de Rosso (Mauritanie)  
+En 2011, la mairie de Rosso a choisi de déléguer la gestion de trois blocs sanitaires publics 
+situés dans des marchés ou des zones à forte affluence. Un contrat a été signé entre la 
+mairie et les gestionnaires des blocs sanitaires. Un agent de la mai rie s’assure de la bonne 
+gestion des blocs et de leur entretien grâce à des visi tes de suivi mensuelles. À cette 
+occasion, il remplit une fiche de suivi avec des indica teurs qualitatifs simples à vérifier.  
+ 
+2.3. La grille de suivi des indicateurs  
+Introduction  
+Quatre grilles contenant de possibles indicateurs sont présentées en fonction du ser vice 
+d’assainissement concerné. Pour chaque indicateur, ces grilles précisent le moment où il faut 
+tirer la sonnette d’alarme et mettre en œuvre des actions correctives.  
+Les indicateurs proposés ci -dessous ne sont pas exhaustifs et peuvent être complétés pour 
+s’adapter au service d’assainissement concerné.  
+2.3.1.  Grille d’indicateurs du suivi -contrôle de la gestion d’un bloc sanitaire public  
+2.3.2.  Grille d’indicateurs du suivi -contrôle du service de vidange de fosses  
+2.3.3.  Grille d’indicateurs du suivi -contrôle d’un service par réseau d’égouts  
+2.3.4.  Grille d’indicateurs du suivi -contrôle de la gestion d’une station de traitement  
+ 
+
+--- PAGE 22 ---
+19 
+ Titre III.  Mettre en œuvre le suivi -contrôle du service  
+ 
+Le suivi -contrôle est bien souvent négligé par les maîtres d’ouvrage alors qu’il contribue à 
+maintenir et à améliorer la performance du service, et est essentiel pour l’opérateur, le maître 
+d’ouvrage et l’usager.  
+ 
+3.1. Mesures à respecter  
+3.1.1.  Affecter du personnel formé et compétent au suivi -contrôle  
+3.1.2.  Prévoir des moyens logistiques  
+3.1.3.  Prévoir les fonds nécessaires pour mener les activités de suivi -contrôle  
+3.1.4.  Établir une planification annuelle des actions de suivi -contrôle  
+3.1.5.  Faciliter la mise en œuvre effective des recommandations émises par l’organe chargé du 
+contrôle  
+ 
+Etude de cas  : Le cahier des charges environnemental de Madagascar  
+ 
+À Madagascar, tout projet ayant des répercussions sur les milieux naturels et sociaux est 
+soumis au préalable à une étude d’impact environnemental (EIE), réa lisée par un bureau 
+d’études spécialisé. À l’issue de cette étude, l’Office natio nal pour l’environnement (ONE) 
+délivre un permis environnemental associé à un cahier des charges définissant le système de 
+suivi -contrôle à respecter.  
+Dans le cas du service de vidange et de traitement de la commune de Tanjombato, le cahier des 
+charges prévoit que la mairie désigne « un responsable environne mental pour assurer le suivi 
+et la mise à jour du rapport », envoyé tous les ans à l’ONE. De plus , la mairie « a l’obligation 
+d’envoyer à l’ONE, avant tout commence ment d’activité, la planification des activités pour 
+l’exécution des prescriptions contenues dans [le cahier des charges environnemental] ». Enfin, 
+le cahier des charges indique les différ ents indicateurs à suivre (analyses des eaux traitées par 
+exemple) ainsi que les outils à mettre en place (cahier de suivi des plaintes du voisinage).  
+ 
+Conclusion  
+ 
+Au terme de ce chapitre, l’apprenant devrait retenir les points suivants  : 
+ 
+• La réflexion sur la gestion du service d’assainissement est indissociable de la mise en place 
+d’un mécanisme de suivi -contrôle.  
+• Les outils de suivi -contrôle doivent être facilement utilisables par les acteurs locaux : nombre 
+d’indicateurs limité, données de contrôle faciles à collecter, synthèse dans une grille 
+d’indicateurs, etc.  
+• Les acteurs en charge du contrôle doivent être formés à cette activité, assurer un suivi de 
+terrain régulier et être habilités à sanctionner les contrevenants . 
+ 
+ 
+Chapitre 5  : Facteurs de succès et d'échec d'un projet d'assainissement urbain   
+et innovation dans le secteur  
+ 
+Objectifs spécifiques liés au chapitre  5 
+A la fin de ce cours, les étudiants seront en mesure de  :  
+
+--- PAGE 23 ---
+20 
+ 1- Comprendre  les facteurs clés de la réussite de la mise en œuvre des projets 
+d'assainissement urbain ;   
+2- Faire  un examen critique des lacunes des services d'assainissement.  
+3- Évaluer  de manière critique les innovations de pointe dans la prestation de services 
+urbains  
+Contenu du chapitre 5  
+Introduction  
+Dans ce cours, les étudiants seront initiés aux expériences et aux résultats de trois différents 
+projets d'assainissement urbain mis en œuvre à Erdos (Chine), Lusaka (Zambie) et Mumbai 
+(Inde).  Après une présentation des facteurs clés contribuant au succès  ainsi qu'à l'échec de la 
+mise en œuvre des mesures, des réalisations et des résultats, un débat ouvert sur les facteurs de 
+succès aura lieu.  
+La première étude de cas documente les expériences et les résultats d'un projet réussi, planifié 
+et mis en œuvre dans un établissement informel à Lusaka (Zambie). Par contraste, les 
+expériences et les résultats d'un projet d'éco -ville sino -suédois bien doc umenté et qui  a échoué 
+dans les zones urbaines et périurbaines d'Erdos (Chine), lancé en 2003. Enfin, une initiative 
+locale réussie de Slum Dwellers International à Mumbai est présentée.  
+Dans un second temps, les étudiants réfléchiront de manière critique sur les défis et les goulots 
+d'étranglement ainsi que sur les facteurs de réussite des projets et des systèmes d'assainissement 
+dans leur contexte.  
+Dans un troisième temps, les étudiants seront initiés à deux nouvelles innovations sectorielles 
+basées sur l'assainissement par conteneurs, particulièrement adaptées aux milieux souffrant de 
+la pénurie d'eau.  
+ 
+Titre 1. Facteurs clés de la réussite de la mise en œuvre des projets d'assainissement 
+urbain  
+ 
+Au total quatre études de cas seront présentés. De ces cas , les étudiants seront alors confrontés  
+aux facteurs contextuels qui doivent être pris en compte lors de la planification des projets. De 
+plus ils seront  initiés aux principaux facteurs clés de réussite et d'échec des projets 
+d'assainissement urbain, tels que les aspects techniques, institutionnels, financiers et 
+socioculturels.  
+Quatre (04)  questions  d'orientation  pour réussir cet exercice  :  
+1-Quels sont les principaux éléments de l'environnement favorable ?  
+2-La viabilité financière ?  
+3-Leadership et coordination ?  
+4-Pertinence technique ?  
+ 
+Enfin, un débat ouvert aura lieu pour discuter des facteurs clés favorisant la mise en œuvre 
+réussie des projets d'assainissement urbain.  
+ 
+Titre II. Examen critique des lacunes des services d'assainissement  
+ 
+A ce niveau, des travaux de groupe seront organisés. Les étudiants discuteront et réfléchiront 
+sur les principaux goulets d'étranglement, défis et lacunes des services d'assainissement en se 
+basant sur les cours et autres contenus présentés jusqu'à présent .   
+
+--- PAGE 24 ---
+21 
+ Un débat ouvert et animé entre les étudiants leur fera découvrir les choses à faire et à ne pas 
+faire en matière de services d'assainissement et résumera et complétera les conférences 
+précédentes.   
+En guise d'introduction à ce bloc, un court jeu de rôle fera apparaître que des facteurs autres 
+que l'échec des technologies peuvent souvent conduire à l'échec des services et systèmes 
+d'assainissement.  
+ 
+ Titre III. Innovations de pointe dans la prestation de services urbains  
+ 
+Deux nouveaux proje ts d'assainissement innovants à  "économie circulaire" du Kenya sont 
+présentés aux participants. Il s’agit d’abord des projets mise en œuvre par Sanivation qui est 
+une entreprise soc iale basée à Naivasha, au Kenya  et qui produit des briquettes pour barbecue 
+à partir de boues séchées et assainies. Ensuite les projets exécutés par Sanergy  qui est une 
+ONG/entreprise sociale basée à Nairobi  et qui dessert plus de 40 000 clients dans les quartiers 
+informels de Nairobi  seront  présentés. Cette initiative  produit du compost organique à partir de 
+déchets humains, qu'elle vend à l'industrie floricole kenyane.  
+ 
+Les deux études de cas présentent des exemples de pointe de modèles commerciaux "à la base 
+du milieu de la pyramide" pour les zones urbaines pauvres et montrent comment combiner la 
+gestion des déchets, la création d'emplois et la production à faible techni cité d' un produit 
+commercialisable.  Le cours  s'achèvera par une question sur la facilité avec laquelle ces 
+entreprises de pointe sont prêtes à se développer . 
+ 
+Conclusion  
+Le cours met en relief les facteurs d’échec et de succès d’un service d’assainissement. Avec les 
+exemples, études de cas, jeux de rôle, les étudiants sont mis devant des faits concrets et des 
+expériences vécues qui leur permettent de bien d’appréhender la situation des facteurs qui 
+gouvernent la fourniture d’un service d’assainissement   
+ 
+Chapitre 6 : Planification et programmation de l'assainissement urbain intégré  
+Objectifs spécifiques liés au chapitre  6 
+A la fin de ce cours, les étudiants seront en mesure de  
+1- Comprendre  pourquoi la planification et la programmation sont importantes pour la 
+mise en place de services d'assainissement durables  ; 
+2- De faire la différence entre les approches existantes en matière de planification de 
+l'assainissement urbain  ; 
+3- Tester  leurs connaissances sur la planification de l'assainissement urbain   
+ 
+Contenu du chapitre 6  
+Introduction  
+Dans ce cours, les étudiants seront introduits au changement de paradigme qui a eu lieu au cours 
+des dernières décennies concernant les cadres de planification de l'assainissement, c'est -à-dire 
+du haut vers le bas aux approches de planification inclusive. Cette section se concentre sur 
+l'importance de la planification dans un contexte prenant en considération des aspects tels que 
+la gouvernance urbaine, l'économie politique au sens large et les aspects d'équité.  
+Ensuite , ils seront initiés à trois approches de planification différentes qui ont été développées 
+au cours de la dernière décennie. Sanitation21 : cadre de planification pour l'amélioration des 
+
+--- PAGE 25 ---
+22 
+ services d'assainissement à l'échelle de la ville, planification de l'assainissement 
+environnemental urbain piloté  par la communauté (CLUES) et plans d'assainissement de la ville 
+du gouvernement indien . 
+Enfin, les  étudiants seront testés sur leurs connaissances en matière de planification de 
+l'assainissement urbain. Le quizz proposé à cet effet, permet de dresser un bilan intermédiaire 
+des connaissances acquises jusqu'à présent et de mettre en évidence les domaines dans lesquels 
+des améliorations sont nécessaires . 
+ 
+Titre 1. Importance  de la planification  et de la programmation dans la mise en place de 
+services d'assainissement durables   
+Les plans d'assainissement des villes (ou la plupart des plans directeurs) sont souvent préparés 
+avec des objectifs ambitieux, sans considération réaliste de ce qui est réalisable compte tenu de 
+la disponibilité de ressources limitées et de capacités de mi se en œuvre restreintes.  En outre, la 
+planification dans son contexte devrait également reconnaître la diversité de l'environnement 
+urbain, qui influencera les approches pour la modernisation des systèmes d'assainissement dans 
+les différentes parties de l a ville.  Le pilotage, la recherche et le développement devraient donc 
+faire partie du cycle de prestation de services afin d'introduire des innovations efficaces au 
+niveau local dans le cadre d'une approche progressive vers l'amélioration. Le niveau de dé tails 
+du plan dépendra de la disponibilité des données et des informations, qui peut varier 
+considérablement d'une ville à l'autre. Par conséquent, le processus de planification joue un rôle 
+crucial dans l'amélioration de la base d'informations qui est bén éfique pour la mise en œuvre et 
+le suivi futurs des prestataires de services.  Les considérations relatives au caractère abordable 
+et aux dépenses d'investissement et de fonctionnement (Investissement/main d’œuvre)  sont 
+également couvertes en tant que paramètre clé des programmes de prestation de services dans 
+les zones urbaines à faibles revenus.  
+ 
+1.1. Grand défi  de l'assainissement  
+1.2. Importance  de la planification  
+1.3. Définition  de la planification  
+1.4. Principaux  domaines urbains  
+1.5. Fossé  grandissant des services en Afrique  
+1.6. Système  européen d'assainissement  
+1.7. Situation dans les pays à faible revenu  
+1.7.1 . La plupart des villes n'ont pas d'égouts  
+1.7.2 . Absence de stations d'épuration des eaux usées  
+1.8. Raisons de la mauvaise gestion des eaux usées dans les pays à faible revenu  
+1.8.1. Aspects  physiques  
+1.8.2.  Aspects socioculturels  
+1.8.3 . Aspects politiques, juridiques et institutionnels  
+1.8.4 . Aspects financiers et économiques  
+1.8.5.  Capacité technique et information  
+1.9. Raisons  du faible investissement dans l'assainissement dans les pays à faible revenu   
+1.9.1  Manque de volonté politique  
+1.9.2  Faible prestige et faible reconnaissance  
+1.9.3 . Une promotion inefficace et une faible sensibilisation du public  
+1.9.4 . Des cadres institutionnels médiocres  
+1.9.5 . Des ressources insuffisantes et mal utilisées  
+1.9.6. Négligence  de la volonté/aptitude des consommateurs à payer en fonction de leurs 
+préférences  
+
+--- PAGE 26 ---
+23 
+ 1.9.7.  Absence de titularisation  
+1.9.8 . Politiques médiocres et approches inappropriées  
+1.10. Environnement favorable  
+1.10.1.  Le soutien du gouvernement, en termes de volonté politique et de politiques et s tratégies 
+nationales favorables  
+1.10. 2. Cadre  juridique, avec des normes et des codes appropriés au x niveaux national et 
+municipal  
+1.10.3 . Des dispositions institutionnelles favorables, comme les partenariats avec le secteur 
+privé  
+1.10.4.  Renforcement des capacités, y compris la gestion de l'information et des connaissances 
+ainsi que les stratégies de communication  
+1.10.5.  Crédit et autres arrangements financiers qui facilitent le partage des coûts des ménages 
+et la participation de la communauté  
+1.10.6. Acceptation socioculturelle des solutions et mesures proposées  
+1.11. Exemple d'un environnement institutionnel handicapant  
+1.11.1. Pas de responsabilité claire en matière d'assainissement et manque de vision  
+1.11.2. Pas de collaboration constructive entre l'entreprise de service public et les autres 
+institutions  
+1.11.3. Manque de foi dans les systèmes alternatifs à l'Utilité  
+1.11.4. Manque d'expérience dans le secteur des services publics et dans le secteur privé local  
+1.11.5. La tradition de gestion du sureffectif avec des personnes sous -qualifiées  
+1.11.6. Les redevances sur les eaux usées ne permettent pas le recouvrement des coûts  
+1.11.7 . Aucune réglementation protégeant les communautés et le secteur privé pour  la gestion 
+de tout ou partie du système d'assainissement  
+1.11.8. Les normes de planification et de conception sont actuellement les facteurs qui entravent  
+1.11. 9. Pas de code de pratique avec des systèmes alternatifs  
+1.12. Principaux cadres de planification et leurs caractéristiques  
+1.12.1.  Modèle de planification  
+1.12.2. Modèle de marché  
+1.12.3.  Modèle  d'action collective  
+1.13. Potentiel d’intégration des modèles de planification   
+ 
+ Titre II. Planification  communautaire de l'assainissement environnemental urbain : 
+CLUES  
+Les étudiants sont initiés à trois approches de planification pour l'amélioration des services 
+d'assainissement dans les pays à faibles et moyens revenus qui sont apparues comme une 
+réponse aux insuffisances des approches de planification sectorielle conve ntionnelles.  En 
+général, les participants seront confrontés à des approches qui leur permettent de  : 
+(i) comprendre comment répondre aux attentes des utilisateurs en matière d'amélioration des 
+services d'assainissement (en fonction de leurs capacités et de leur volonté de payer), (ii) de 
+prévoir des services d'assainissement inclusifs et équitables, adapt és aux établissements 
+informels et à faible revenu,   
+(iii) savoir comment faire en sorte que les services soient abordables et financièrement viables 
+pour assurer un fonctionnement et une maintenance durables,  
+(iv) savoir comment opérationnaliser les liens entre les communautés et les autorités locales.  
+ 
+2.1. CLUES : une approche par zone  
+ 
+2.2. Principes de CLUES  
+
+--- PAGE 27 ---
+24 
+ 2.2.1. Centré sur les gens  
+2.2.2. Solutions locales  
+2.2.3. Multi - parties prenantes  
+2.2.4. Environnement durable  
+ 
+2.1. CLUES  : étapes de planification  
+ 
+2.2. CLUES : Boîte à outils en ligne avec 30 outils  
+ 
+2.3. CLUES : temps et coûts  
+ 
+2.4. CLUES : études de cas de CLUES  
+2.4.1 . Tanzanie [Dodoma]  
+2.4.2.  Nakuru [Kenya]  
+2.4.3.  Nala [Népal].  
+ 
+Titre III. Test de connaissances  : Quiz  
+ 
+La composition du quiz résume le contenu des cours passés  sur les approches et les solutions 
+en matière d'assainissement non collectif . Il comprend des questions sur des sujets généraux 
+visant à évaluer la compréhension de base des défis et approches communs ainsi qu'à tester des 
+connaissances techniques et un vocabulaire spécifique . Le quiz couvre le contenu  des 
+parties  Titre 1 et Titre 2  et prend la forme d'un examen noté.  
+ 
+ 
+Conclusion  
+Cette conférence permet aux participants de comprendre l'importance de la planification dans 
+son contexte, c'est-à-dire pourquoi et comment les intérêts principaux des diverses parties 
+prenantes dans différents domaines et à différents niveaux doivent être pris en compte lors de 
+la planification de mesures d'intervention durables . 
+De plus, ces étudiants comprennent désormais  pourquoi un environnement favorable est un 
+facteur déterminant et pourquoi il est essentiel de procéder à des améliorations progressives 
+réalistes pour que les projets d'intervention dans les environnements urbains soient couronnés 
+de succès.  Ils sont donc équipés d'outils qui permettent de planifier des partenariats, de 
+comprendre le contexte existant et de définir les priorités, de mettre au point des systèmes 
+d'amélioration de l'assainissement ainsi que de dé velopper des modèles de prestation de services 
+et de préparer l eur mise en œuvre.    
+ 
+ 
+Chapitre 7 : Outils de Planification d’un service d’assainissement   
+Objectifs spécifiques liés au chapitre  7 
+A la fin de ce cours, les ét udiants seront en mesure de  : 
+ 
+1- Comprendre  ce qu'il est nécessaire de savoir au début d'un processus de planification de 
+l'assainissement urbain inclusif et quelles sont les informations à recueilli r ; 
+2- Connaître  les différentes méthodes et outils de collecte des données pertinentes et 
+apprendre à les utiliser  ; 
+
+--- PAGE 28 ---
+25 
+ 3- Apprendre  à identifier les lacunes et les défis de la situation actuelle en matière 
+d'assainissement et à décrire l'environnement favorable    
+Contenu du chapitre 7  
+Introduction  
+Dans ce cours, les étudiants seront initiés à l'évaluation de la situation initiale.  Cette évaluation 
+constitue la première étape du processus de planification et est de la plus haute importance, car 
+elle fournit les informations de base nécessaires à la prise de décision.  
+Ils seront également  initiés aux outils de diagnostic urbain qui servent d'outils d'évaluation de 
+la situation initiale pour informer les processus de planification à venir.  Certains d'entre eux 
+concernent l'évaluation de facteurs contextuels tels que des éléments politiques  et économiques, 
+tandis que d'autres sont directement liés à l'assainissement.  
+ 
+Titre 1. Évaluation  de la situation sanitaire initiale  
+Les principaux objectifs de l'évaluation de la situation initiale sont de planter le décor, de 
+comprendre le contexte, d'apprendre à connaître les parties prenantes et de fournir suffisamment 
+d'informations pour commencer  à élaborer les scénarii de gestion de l’assainissement , y compris 
+les paramètres de conception spécifiques au contexte. En tant que telle, cette étape se caractérise 
+principalement par la collecte de données, par différents moyens.  Ces données sont collectées 
+étape par étape au cours de l'enquête exploratoir e, des études préliminaires et de l'étude de 
+faisabilité d'un projet .  
+Collecter des données de bonne qualité, c'est -à-dire utiles, n'est pas un processus facile.  Cela 
+est particulièrement vrai dans les contextes où les données sont rares, ne sont pas collectées ou 
+analysées correctement, ou - parfois - sont cachées ou manipu lées pour des raisons politiques 
+ou personnelles.  Les agences gouvernementales disposent de rapports, de statistiques et de 
+cartes qui peuvent servir d'introduction préliminaire.  Cependant, ils doivent toujours être 
+considérés avec soin, c'est pourquoi la collecte de données primaires est recommandée, voire 
+essentielle.  La meilleure façon d'obtenir une estimation raisonnablement précise est de 
+s'appuyer sur plusieurs sources d'information, qui peuvent être recoupées, triangulées et, si 
+nécessaire, compl étées par des recherches supplémentaires.  Le but visé est de comprendre 
+l'environnement favorable et les conditions favorables/défavorables au projet . 
+ 
+1.1. Défis de la collecte de données (en Afrique)  
+1.1.1. Rareté de d onnées existantes rares    
+1.1.2. Données cachées , manipulées (politiques,  personnelles ) 
+1.1.3. Données biaisées par le sexe  
+1.1.4. Refus d’accès aux  données  
+1.1.5.  Rapports , cartes partielles  ou dépassés  
+1.2. Données clés à collecter  
+1.2.1.  Population et démographie  
+1.2.2.   Cartes récentes  
+1.2. 3.  Approvisionnement en eau et hygiène  
+1.2.4.  Acteurs de l'assainissement  
+1.2.5 .  "points chauds" de l'assainissement  
+1.2. 6.  Installations de collecte/traitement/élimination  
+ 
+1.3. Autres données environnementales clés à collecter  
+ 
+1.3.1.  Caractéristiques physiques  
+
+--- PAGE 29 ---
+26 
+ 1.3.2.  Données climatiques  
+1.3.3.  Gestion des eaux pluviales  
+1.3.4.  Principaux éléments de la structure de la ville  
+1.3.4.  Analyse du cadre institutionnel, juridique et réglementaire  
+ 
+ 
+1.4. Collecte de données secondaires (données existantes ) 
+Une méthode principale - l'analyse documentaire :  
+- Littérature grise : rapports, cartes  
+- Littérature blanche : publication  
+ 
+1.5. Collecte de données primaires  
+ 
+1.5.1. Entretiens individuels  
+1.5.2. Discussions de groupe  
+1.5.3. Observations qualitatives sur le terrain  
+1.5.4. Cartographie  
+1.5.5. Analyses de laboratoire  
+Titre II. Évaluation de la situation sanitaire initiale  
+ 
+Dans ce cours, les étudiants sont initiés aux outils suivants :   
+- Diagrammes de flux da matières (SFD), qui fournissent un processus de collecte 
+structuré et une visualisation des résultats qui peuvent être utilisés comme outils de 
+plaidoyer auprès des décideurs ;  
+- Plans de sécurité sanitaire (SSP) : cet outil de l'Organisation mondiale de la santé (OMS) 
+se concentre sur l'identification des voies de contamination potentielles et sur les 
+mesures de prévention ciblées ;  
+- Outils de la Banque mondiale pour les FSM, qui se concentrent sur la prestation de 
+services et l'analyse de l'économie politique.  
+ 
+Les étudiants découvriront la portée de chaque outil, leurs objectifs respectifs et la manière de 
+les combiner.  Le contenu du cours sera en rapport avec le cours précédent concernant les outils 
+de collecte de données et complétera le panorama sur l'évalua tion de la situation initiale.  
+ 
+Le cours se terminera par un travail de groupe basé sur une étude de cas. Chaque groupe 
+devra expérimenter un outil parmi ceux présenté durant le cours.  Les résultats de leurs 
+travaux  seront présentés  en plénière.  
+ 
+ 
+ 
+Conclusion  
+ 
+Ce cours permet aux étudiants de rendre compte des outils de planification d’un service 
+d’assainissement. Les méthodes de collecte des données, le type de données nécessaires et les 
+analyses faites sur ces données etc. sont passés en revue dans cette parti e.  
+ 
+ 
+ 
+
+--- PAGE 30 ---
+27 
+ Chapitre 8: Analyse des parties prenantes  et  leur engagement dans la fourniture de 
+services d’assainissement   
+Objectifs spécifiques liés au chapitre  8 
+A la fin de ce cours, les ét udiants seront en mesure de  : 
+ 
+1- Comprendre  comment caractériser les principales parties prenantes et leurs principaux 
+intérêts et contraintes   
+2- Comprendre  les différents niveaux de participation  des parties prenantes  ;  
+3- Se familiariser avec les différents outils de participation . 
+ 
+Contenu du chapitre 8  
+   
+Introduction  
+ 
+Dans ce cours, les étudiants seront initiés à l'analyse et à l'engagement des parties prenantes, 
+ainsi qu'aux outils respectifs. Le fait de négliger les besoins, les priorités et les intérêts des 
+personnes ainsi que leur réalité culturelle et économique es t l'une des principales causes d'échec 
+des programmes d'eau et d'assainissement dans les pays à faible et moyen revenu.  Afin de 
+pouvoir comprendre et engager les parties prenantes, il convient de procéder à des analyses des 
+parties prenantes.  Celle -ci décrit le processus d'identification et de caractérisation des parties 
+prenantes, l'étude des relations entre elles et la planification de leur participation. Il s'agit d'un 
+outil essentiel pour comprendre le contexte social et institutionnel d'un projet ou d'une politique. 
+Ses résultats peuvent fournir des informations précoces et essentielles sur les personnes qui 
+seront affectées par le projet et celles qui pourraient l'influencer (positivement ou négativement) 
+; sur les individus, groupes ou agences qui d oivent être impliqués dans le projet et comment ; 
+et sur les capacités qui doivent être renforcées pour leur permettre de participer. En général, 
+l'analyse et à l'engagement des parties prenantes comprend les quatre étapes suivantes :   
+- Identification des principales parties prenantes  
+- Évaluation de l'influence et de l'intérêt des parties prenantes  
+- Identification des risques et des hypothèses concernant les parties prenantes  
+- Identification de la participation appropriée des parties prenantes  
+ 
+Titre I. Principales activités d'analyse et de participation des parties prenantes  
+ 
+1.1. Identifier et caractériser les parties prenantes   
+1.2. Comprendre le contexte social et institutionnel   
+1.3. Plan pour leur participation    
+1.4. Rencontrer des gens et établir la confiance  
+ 
+ 
+Titre II. Eléments de l’analyse des parties  prenantes  
+ 
+2.1. Importance d'intégrer toutes les parties prenantes des FSM  
+2.2. Identification des acteurs de l'assainissement  
+2.3. Problèmes typiques rencontrés par les acteurs des FSM  
+2.4. Identification des parties prenantes clés : un processus itératif  
+2.5. Caractérisation : Quelles informations ?  
+2.6. Tableau des parties prenantes  
+2.7. Diagramme des relations  
+
+--- PAGE 31 ---
+28 
+ 2.8. Évaluation de la situation initiale  
+2.9. Analyse de l'économie politique (AEP) des BV 
+2.10.  Comment déterminer les parties prenantes clés ?  
+2.11.  L'influence des parties prenantes  
+ 
+Titre III. Eléments de l’implication (participation) des parties  prenantes  
+ 
+3.1. De l'analyse à l'implication  
+3.2. Outils de participation des parties prenantes  
+3.3. Outils d'implication et niveaux de participation  
+3.4. Dans  le livre des BV :  une approche simplifiée  
+3.5. Formalisation des rôles et des responsabilités  
+3.6. Organisation de la chaîne d'approvisionnement  
+3.7. Diagramme des relations  
+2.8. Études de cas  
+ 
+Titre IV. Quelques recommandations  
+ 
+L'expérience fondée sur les faits met en évidence l'importance les recommandations suites  : 
+- Une autorité locale habilitante et proactive qui favorise les partenariats multipartites 
+dans la planification et la prise de décision ;  
+- Consultation des parties prenantes au cours de la phase de planification des 
+interventions. Il s'agit notamment de solliciter des avis sur les priorités, les normes de 
+service et l'accessibilité financière  ; 
+- La consultation des parties prenantes doit être menée comme un exercice continu avec 
+des réunions et des discussions régulières, et non comme un événement ponctuel , 
+- Les activités de gestion des données telles que la validation, le stockage, la 
+documentation, l'accessibilité et le partage des données doivent être publiques  ; 
+- Inclusion de tous les acteurs clés dans le processus de planification  ; 
+- L’intégration du secteur privé dans les régimes  de gestion  des BV ; 
+- Promouvoir l’a pproche de planification intégrée - appliquée dans les termes de 
+référence des consultants  ;   
+- Prise en compte des économies d'échelle, par exemple centre d'appel, service régulier  ; 
+- Améliorer l'accès au crédit pour les prestataires de service  ; 
+- Etc. 
+ 
+ 
+ 
+Conclusion  
+ 
+L'Analyse des parties prenantes et leur engagement est perçue comme un processus dynamique 
+dans lequel les principales parties prenantes sont réévaluées tout au long de la période de projet. 
+C'est un élément essentiel de l'engagement des parties prenantes, qui est l'art d'inclure les parties 
+prenantes dans le processus de planification afin de prendre en compte leurs besoins, leurs 
+priorités et leurs intérêts, de parvenir à un consensu s et d'éliminer l'opposition ; en d'autres 
+termes, de permettre la participation.  L'engagement des parties prenantes consiste en grande 
+partie à définir le niveau de participation des personnes et des institutions tout au long du 
+processus, de l'informati on, de la consultation, de la collaboration à la délégation.  
+ 
+ 
+
+--- PAGE 32 ---
+29 
+  
+Chapitre 9 : Environnements favorables pour un service d’assainissement   
+Objectifs spécifiques liés au chapitre  9 
+A la fin de ce cours, les ét udiants seront en mesure de  : 
+ 
+1- Approfondir leurs  connaissances sur l'environnement favorable un service 
+d’assainissement   
+2- Apprendre  à connaître quelques "facteurs de handicap" typiques et comment s'y prendre.  
+Contenu du chapitre 9  
+Introduction  
+Ce cours se présente sous forme d’exercice. Dans cet exercice, les étudiants seront initiés et 
+invités à réfléchir à l'environnement favorable, qui est jugé nécessaire pour évaluer les 
+conditions favorables à la planification de l'assainissement dans des environnements urbains 
+difficiles.   
+Pour une mise en œuvre réussie d'un projet, il est considéré comme crucial que les éléments 
+critiques favorisant un résultat réussi soient identifiés ou deviennent évidents au cours du 
+processus de planification.  Ces éléments sont compris et résumés sous le terme 
+d'environnement favorable.  Idéalement, ces éléments devraient être définis, au moins en termes 
+généraux, avant de commencer le processus de planification et de consultation. Cela permet de 
+garantir que l'ensemble du processus ne démarre pas avec des attentes irréalistes ou des idées 
+fausses et de renforcer la mise en œuvre. Souvent, cela crée un environnement favorable, six 
+éléments sont généralement considérés comme décisifs :  
+1.  Soutien du gouvernement  
+2.  Cadre juridique et réglementaire  
+3.  Dispositions institutionnelles  
+4.  Compétences et capacités  
+5.  Dispositions financières  
+6.  Acceptation socioculturelle  
+ 
+Les étudiants sont invités à identifier trois conditions favorables ou défavorables de 
+l'"environnement favorable" de leur propre pays.   
+ 
+ 
+Titre I. Présentation de la situation dans les zones à faibles revenus  
+ 
+La plupart des villes n'ont pas d'égouts, surtout d ans les zones à faibles revenus. La situation 
+est marquée par plusieurs éléments.  
+ 
+1.1. Absence de stations d'épuration des eaux usées  
+1.2. La situation dans les zones à faibles revenus  
+1.3. Aspects physiques  
+1.4. Aspects socioculturels  
+1.5. Aspects politiques, juridiques et institutionnels  
+1.6. Aspects financiers et économiques  
+1.7. Capacité technique et information  
+1.8. Définition d'un "environnement favorable"   
+
+--- PAGE 33 ---
+30 
+  
+Titre II . Conditions d'un bon «  environnement favorable  »  
+Plusieurs conditions concourent à créer un environnement favorable à la planification d’un 
+service d’assainissement dans un contexte donné.  
+ 
+2.1.  Soutien du gouvernement  
+2.2.  Cadre juridique,  
+2.3.  Dispositions institutionnelles  
+2.4.  Renforcement des capacités  
+2.5.  Dispositions financières  
+2.6.  Acceptation socioculturelle  
+2.7. Exemple d'un environnement institutionnel handicapant  celui-ci se traduit par un 
+manquement à plusieurs niveaux  
+2.7.1.   Pas de responsabilité claire  
+2.7.2.   Pas de collaboration constructive  
+2.7.3.   Manque de foi  
+2.7.4.   Manque d'expérience  
+2.7.5.   Sureffectif avec des personnes sous -qualifiées  
+2.7.6 .  Pas de recouvrement des coûts  
+2.7.7.   Pas de réglementation protégeant les communautés et le secteur privé  
+2.7.8.   Pas de code de pratique avec des systèmes alternatifs  
+ 
+Titre III . Principales conditions favorables    
+3.1. Planification  
+3.2. Normes  
+3.3. Synergies entre les institutions  
+3.4. Implication des communautés  
+3.5. Programmes de gestion  
+3.6. Participation du secteur privé  
+ 
+ 
+ 
+Conclusion  
+Lee étudiants  sont initiés à l’importance d’avoir un environnement favorable pour la 
+fourniture des services d’assainissement . Les éléments qui peuvent entraver ces initiatives 
+sont éléments mis en exergue.  
+ 
+Chapitre 10 : Analyse économique d’un service d’assainissement  
+ 
+Enjeux du financement d’un service d’assainissement  
+Le financement d’un service d’assainissement est un défi majeur. En effet, il n’est pas rare de 
+rencontrer des services d’assainissement non durables en raison de ressources financières 
+insuffisantes pour couvrir les dépenses nécessaires à leur fonctionnem ent. 
+Ce financement doit être pensé pour l’ensemble de la filière, avec une approche adaptée pour 
+chacun de ses trois maillons : accès, évacuation et traitement. La plupart du temps, ceux -ci sont 
+financièrement interdépendants.  
+ 
+Etapes du financement d’un service d’assainissement  
+ 
+
+--- PAGE 34 ---
+31 
+ Le financement d’un service d’assainissement est un cheminement progressif en quatre étapes 
+: 
+ 
+• Étape 1 : connaître les postes de dépenses.  
+• Étape 2 : identifier les sources de financement et les mécanismes financiers à utiliser.  
+• Étape 3 : optimiser le service d’assainissement pour le rendre financièrement viable.  
+• Étape 4 : mettre en place des circuits financiers efficaces sur le long terme  
+ 
+Comment financer le service d’assainissement ?  
+ 
+Il existe différentes sources de financement, que l’on peut regrouper en quatre grandes 
+catégories  
+1 -Les tarifs et redevances : les usagers paient directement en contrepartie d’un service rendu 
+ou de l’acquisition d’un bien.  
+2-La fiscalité : impôts et taxes.  
+3-Les subventions : ce sont les transferts de fonds, comme les aides financières en provenance 
+des bailleurs de fonds ou de l’État.  
+4-Les recettes de valorisation : revenus issus de la valorisation des eaux usées et excreta 
+(vente de compost ou de biogaz par exemple).  
+ 
+Il faut ajouter à ces quatre grandes catégories, les mécanismes de financement « remboursable 
+» comme les prêts, le micro -crédit ou l’investissement d’un opérateur privé de service sur fonds 
+propres. Les fonds investis sont progressivement remboursés à plu s ou moins longue échéance 
+par les autres financements (tarifs, impôts, etc.).  
+ 
+Qui finance le service d’assainissement  ? 
+Les principaux acteurs du financement de l’assainissement sont :  
+1.Les usagers du service  
+2.Les contribuables  
+3, Les opérateurs de service  
+4,Les banques  
+5. Les collectivités locales  
+6. L’État  
+7. Les bailleurs de fonds  
+ 
+ 
+Chapitre 10 : La Recherche Formative  
+Objectifs spécifiques liés au chapitre  10 
+A la fin de ce cours, les ét udiants seront en mesure de  : 
+ 
+1- Apprendre à planifier et à entreprendre des recherches formatives dans un contexte 
+donné  
+2- Apprendre  à analyser les données collectée s, 
+3-  Apprendre  la plateforme KoBo Toolbox et aux possibilités qu'elle offre pour la collecte 
+et l'analyse des données  
+ 
+
+--- PAGE 35 ---
+32 
+ Contenu du chapitre 10  
+Introduction  
+Dans ce cours, les étudiants s ont initiés au contenu de la recherche formative et à la manière 
+d'aborder les questions de recherche de manière « SMART  ». Ils sont  
+Initiés  à la manière de mener des recherches sur le terrain dans des contextes  à faibles  revenus 
+et aux différentes étapes à prendre en compte pour une mise en œuvre réussie des projets de 
+recherche formative.  Ils sont également initiés à la manière d'analyser les données et aux 
+différentes étapes à prendre en compte.  Enfin, les participants sont initiés à la plateforme 
+d’accès libre de l’outil Kobo Toolbox et aux possibilités qu' offre cet outil pour mener des 
+recherches de terrain de qualité. A la fin, dans le cadre d'un exercice pratique, les étudiants 
+créeront eux -mêmes un questionnaire a vec des questions prédéfinies, afin de se familiariser 
+avec la boîte à outils KoBo et ses différentes fonctionnalités.  
+ 
+Titre I. Formulation de questions de recherche «  SMART  »  
+ 
+On distingue c inq caractéristiques que les questions de recherche S.M.A.R.T. doivent couvrir 
+afin de fournir des réponses significatives et instructives concernant les questions de recherche 
+formulées. Les étudiants sont donc invités ici à formuler une question de recherche de leur 
+propre chef afin d'exercer et d'appliquer concrètement le contenu appris. Les questions de 
+recherche S.M.A.R.T. sont généralement considérées co mme couvran t cinq principaux aspects  
+: Elles doivent être spécifiquement  formu lées afin d'établir clairement le contexte, ce qui 
+permet ensuite de concevoir/définir des outils de recherche sur mesure qui - d'une part - 
+fournissent des données mesurables  correspondant aux questions de recherche et permettant 
+d'y répondre  donc atteignable / approprié   et - d'autre part - sont conçus de manière réaliste 
+afin que les données nécessaires puissent être collectées, analysées e t synthétisées dans un 
+temps bien imparti .   
+ 
+1.1. Méthodes scientifiques  
+1.1.1. "Bottom -up" (de bas en haut)  
+1.1.2. "Top -down" (de haut en bas)  
+1.2. Recherche qualitative et quantitative  
+1.2.1.  Recherche quantitative  
+1.2.2 . Recherche qualitative  
+1.3. Développement  de questions de recherche   
+1.3.1 . Comment rédiger des objectifs de recherche  
+1.3.2 . Énoncé d'une question de recherche qualitative  
+1.4. Cibler le comportement dans la recherche   
+1.5. Concept de "recherche formative"  
+ 
+ 
+Activités d’apprentissage liées au cours  
+Lecture du cours, traitement des exercices d’application, traitement d’une 
+situation à problème ou étude de cas  
+Bibliographie  
+ 
+http://memento -assainissement.gret.org/IMG/pdf/memento -assainissement.pdf   
+https://www.pseau.org/outils/ouvrages/pdm_ps_eau_smc_guide_4_choisir_des_solutions  
+
+--- PAGE 36 ---
+33 
+ UN Habitat: The World’s Cities in 2016 (URL):  
+http://www.un.org/en/development/desa/population/publications/pdf/urbanization/the_worlds
+_cities_in_2016_data_booklet.pdf  
+http://eydisrupters -dev.films.economist.com/ey -disrupters  
+Reymond P. (2014). Planning Integrated Faecal Sludge Management Systems. In: Strande L, 
+Ronteltap M, Brdjanovic D, eds. Faecal Sludge Management. URL: 
+www.sandec.ch/fsm_book  
+Reymond, P., Renggli, S., Lüthi, C. (2016). Towards Sustainable Sanitation in an Urbanising 
+World. In: Ergen, M. (ed.) Sustainable Urbanization, InTech Publishing. URL: 
+http://www.intechopen.com/articles/show/title/towards -sustainable -sanitation -in-an-
+urbanising -world  
+Tilley E. et al. (2008): Compendium of Sanitation Systems and Technologies  
+Download a softcopy from www.sandec.ch/compendium   
+(EN version also on the course webpage)  
+Online version: http://ecompendium.sswm.info/  
+WHO (1987): Technology for water supply and sanitation in developing countries: report of a 
+WHO Study Group. Geneva, World Health Organization (WHO Technical Report Series, No. 
+742).  
+Tilley, E. et al. (2008): Compendium of Sanitation Systems and Technologies.  
+COHRE, WaterAid, SDC and UN -HABITAT (2008): Sanitation: A human rights imperative  
+Simpson -Hébert, M. and Wood, S. (1998): Sanitation Promotion. WSSCC Working Group on 
+Promotion of Sanitation. http://whqlibdoc.who.int/hq/1998/WHO_EOS_98.5_pp1 -140.pdf  
+Lüthi, C. et al. (2011): Community -Led Urban Environmental Sanitation Planning (CLUES). 
+Swiss Federal Institute of Aquatic  Science and Technology (Eawag), Dübendorf, 
+Switzerland. http://www.sandec.ch/clues   
+SuSanA (2008): Towards more sustainable sanitation solutions.  
+http://www.susana.org/lang -en/library/rm -susana  
+publications?view=ccbktypeitem&type=2&id=267 Well (n.y.): Using Human Waste. 
+http://www.sswm.info/sites/default/files/reference_attachments/WELL%20Using%20Human
+%20Waste%20Technical%20Brief  s.pdf  
+Tchobanoglous, G. (1995): Decentralized Systems for Wastewater Management. Presented at 
+the Water Environment Association of Ontario Annual Conference, Toronto, CA.  
+Download of the Compendium document (pdf, URL): www.sandec.ch/compendium  
+Access to the on -line “eCompendium” version (URL): http://ecompendium.sswm.info  
+Download of the Compendium document (pdf, URL): www.sandec.ch/compendium  
+Sanitation planning roleplay (pdf) http://pubs.acs.org/doi/pdf/10.1021/es3048416  
+Download of the Compendium document (pdf, URL): www.sandec.ch/compendium  
+Access to the on -line “eCompendium” version (URL): http://ecompendium.sswm.info  
+Sanitation drawing tool (on memory stick)  
+Background information and map of Sahu Para informal settlement, Raipur  
+ 
+Acronyme ou Glossaire  
+ 
+ANC  : Assainissement Non Collectif  
+ 
+ 
+ 
+ 
+

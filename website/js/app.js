@@ -116,7 +116,8 @@ function renderResume(container){
   const ue=UES[currentUE];
   if(currentUE==='ue06') container.innerHTML = resumeUE06(ue);
   else if(currentUE==='ue07') container.innerHTML = resumeUE07(ue);
-  else container.innerHTML = resumeUE08(ue);
+  else if(currentUE==='ue08') container.innerHTML = resumeUE08(ue);
+  else container.innerHTML = resumeUE09(ue);
 }
 
 function resumeUE06(ue){ return `<h2>📋 Résumé détaillé — ${ue.name}</h2>
@@ -436,6 +437,86 @@ ${ac('📊 10. Exercices types et méthodes de calcul',`
 `)}`;
 }
 
+function resumeUE09(ue){ return `<h2>📋 Résumé détaillé — ${ue.name}</h2>
+${ac('💧 1. Ressources en eau — État des lieux mondial',`
+  <p>La Terre est recouverte à <strong>72% d'eau</strong>, mais seulement <strong>2,5% est de l'eau douce</strong>. Sur cette eau douce : <strong>68% = glaciers</strong>, <strong>29,9% = eaux souterraines</strong>, <strong>0,3% = lacs et rivières</strong>. L'eau douce accessible au final ne représente que <strong>12 500 milliards de m³</strong>.</p>
+  <p><strong>Ressources renouvelables</strong> : cycle naturel (cours d'eau, nappes phréatiques, pluie). <strong>Non renouvelables</strong> : aquifères profonds (régénération > durée de vie humaine).</p>
+  <p><strong>Eaux souterraines</strong> : souvent exemptes de bactéries pathogènes, utilisables sans traitement. Inconvénients : salinité parfois élevée, pompage nécessaire, contaminations naturelles (arsenic en Asie/Afrique, fluor en Afrique de l'Ouest). <strong>Eaux de surface</strong> : sujettes à la pollution → doivent être traitées.</p>
+  <p><strong>Chiffres clés :</strong> <strong>768 millions</strong> de personnes sans accès à l'eau potable (dont 327 M en Afrique sub-saharienne). <strong>80% des maladies</strong> dans les PED sont d'origine hydrique. Le corps humain est composé à <strong>80% d'eau</strong>.</p>
+`)}
+${ac('🚰 2. Les 5 niveaux de service d\'alimentation en eau potable',`
+  <p><strong>Niveau 0 — Marigot et eau de surface :</strong> situation des localités défavorisées, bidonvilles, camps de réfugiés. Point d'eau utilisé simultanément pour tout (boisson, lessive, bétail). Eau impropre → maladies hydriques (diarrhée, choléra).</p>
+  <p><strong>Niveau 1 — Puits :</strong> service le plus répandu en Afrique. Diamètre standard = <strong>1,3 m</strong>. <strong>Revêtement béton armé</strong> recommandé (protection éboulements, étanchéité, support pompe). Fond du puits : filtre en pierres rondes + sable calibré.</p>
+  <p><strong>Niveau 2 — Pompes à motricité humaine :</strong> pompe volumétrique à piston. Débits : <strong>35 L/min à 6 m</strong>, <strong>6 L/min à 30 m</strong> (1 homme). Pompe à double effet = meilleur débit mais entretien plus délicat. Si niveau statique > 5 m → corps de pompe fixé dans le puits.</p>
+  <p><strong>Niveau 3 — Mini-réseaux et bornes fontaines :</strong> captage → mini-station → réservoir → distribution → BF. <strong>1 BF pour 300-600 habitants</strong> ou <strong>1 BF à moins de 300 m</strong>. Réservoir : capacité = 50-100% conso journalière + réserve incendie. Captage gravitaire : zone de protection 3 m de sol minimum.</p>
+  <p><strong>Niveau 4 — Système AEP complet :</strong> captage → station traitement complète → réseau de distribution → branchements particuliers. Catégories de traitement : A (pas de traitement), B (désinfection seule), C (traitement conventionnel eaux de surface), D (traitement spécial minéraux).</p>
+`)}
+${ac('📏 3. Types de réseaux et dimensionnement',`
+  <p><strong>Réseau RAMIFIÉ :</strong> forme d'arbre, écoulement unidirectionnel, longueur plus faible, moins coûteux. Inconvénient : panne = arrêt de tout l'aval.</p>
+  <p><strong>Réseau MAILLÉ :</strong> plus de sécurité (isolement du tronçon en panne), écoulement bidirectionnel, plus cher, nécessaire en zones denses (centre-ville, hôpitaux, zones industrielles).</p>
+  <p><strong>Critères de choix technique :</strong></p>
+  <table><tr><th>Option</th><th>Population</th><th>Desserte</th></tr>
+  <tr><td>AEP captage eau de surface</td><td>> 500 hab</td><td>BF + branchements privés</td></tr>
+  <tr><td>AEP gravitaire</td><td>500-10 000 hab</td><td>1 BF/50-100 hab</td></tr>
+  <tr><td>Forage + pompe immergée</td><td>> 1 000 hab</td><td>BF + branchements privés</td></tr>
+  <tr><td>Forage + PMH</td><td>200-300 pers/forage</td><td>Puits</td></tr>
+  <tr><td>Puits fermé + PMH</td><td>100-200 hab/puits</td><td>Puits</td></tr></table>
+  <p>Projection de population : horizon <strong>10-25 ans</strong>. Étude de qualité préalable : <strong>1 an minimum</strong>.</p>
+`)}
+${ac('📋 4. Modes de gestion des services AEP',`
+  <p><strong>Gestion communautaire :</strong> Comités de Point d'Eau (CPE), Associations d'Usagers, Réparateurs Villageois. Fonctionne avec du <strong>bénévolat</strong> → ne permet pas une durabilité effective.</p>
+  <p><strong>Affermage (le plus adapté) :</strong> la commune <strong>loue</strong> la gestion à un opérateur privé contre redevance. Avantages : tarif maîtrisé, efficacité, durabilité, universalité, transparence, applicable aux petits systèmes ruraux.</p>
+  <p><strong>Concession :</strong> l'investisseur prend en charge l'investissement, exploitation cédée pour durée déterminée.</p>
+  <p><strong>Régie municipale :</strong> service interne à la commune. Les expériences montrent qu'elle <strong>ne permet pas d'assurer la durabilité</strong>.</p>
+  <p><strong>Principes clés :</strong> <strong>Non-gratuité de l'eau</strong> (l'accès doit être payant), commune = maître d'ouvrage, intégration « hygiène et assainissement » (lavage des mains, latrines, protection de l'eau).</p>
+`)}
+${ac('🔄 5. Assainissement — Concepts fondamentaux',`
+  <p>L'<strong>assainissement</strong> concerne la collecte, l'évacuation et le traitement des <strong>eaux usées</strong> (domestiques, industrielles) et des <strong>eaux pluviales</strong>.</p>
+  <p><strong>Types de réseaux :</strong></p>
+  <ul style="padding-left:1.2rem;margin:.4rem 0">
+    <li><strong>Unitaire :</strong> eaux usées + pluviales dans la même conduite. Simple mais surcharge en cas de pluie.</li>
+    <li><strong>Séparatif :</strong> 2 réseaux distincts (EU et EP). Meilleur pour le traitement, plus coûteux.</li>
+    <li><strong>Pseudo-séparatif :</strong> eaux pluviales de toiture → EU, le reste → EP.</li>
+  </ul>
+  <p><strong>Assainissement Non Collectif (ANC) :</strong> pour les zones non raccordées. Fosses septiques, latrines améliorées, mini-stations. <strong>ODD6</strong> : accès universel à l'eau et l'assainissement d'ici 2030.</p>
+  <p><strong>Indicateurs de pollution :</strong> <strong>DBO5</strong> (Demande Biologique en Oxygène, 5j/20°C) — pollution biodégradable. <strong>DCO</strong> (Demande Chimique en Oxygène) — oxydable chimiquement, DCO > DBO5. <strong>MES</strong> — Matières En Suspension. <strong>Équivalent-Habitant (EH)</strong> ≈ 60 g DBO5/jour/habitant.</p>
+`)}
+${ac('🔬 6. Traitement des eaux usées — La STEP',`
+  <p>Une <strong>Station d'Épuration (STEP)</strong> traite les eaux usées avant rejet au milieu naturel. Les étapes :</p>
+  <ol style="padding-left:1.2rem;margin:.4rem 0">
+    <li><strong>Prétraitement :</strong> dégrillage (retenir gros déchets > quelques cm), dessablage (sables, vitesse ~0,3 m/s), déshuilage (graisses par flottation).</li>
+    <li><strong>Traitement primaire :</strong> décantation physique. Élimine 50-60% des MES, 30-40% de la DBO5.</li>
+    <li><strong>Traitement secondaire :</strong> biologique. <em>Boues activées</em> (bassin aéré + décanteur + recirculation — le plus répandu), <em>lits bactériens</em>, <em>lagunage</em> (bassins peu profonds, 20-60 jours, extensif).</li>
+    <li><strong>Traitement tertiaire :</strong> désinfection (chlore, UV, ozone), élimination azote (N) et phosphore (P).</li>
+  </ol>
+  <p><strong>Traitement des boues :</strong> épaississement → digestion (anaérobie → biogaz) → déshydratation → valorisation agricole ou incinération.</p>
+  <p><strong>Ratio DCO/DBO5 :</strong> < 2 → facilement biodégradable (traitement biologique). > 3 → peu biodégradable (traitement physico-chimique nécessaire).</p>
+`)}
+${ac('📊 7. Gestion du service d\'assainissement',`
+  <p>La gestion couvre 3 volets : <strong>technique</strong> (infrastructures, réparations), <strong>administratif</strong> (suivi des demandes), <strong>financier</strong> (recouvrement, facturation).</p>
+  <p><strong>Acteurs :</strong> maître d'ouvrage (commune), opérateur de service, usagers. La <strong>redevance d'assainissement</strong> est proportionnelle à la consommation d'eau potable (principe pollueur-payeur).</p>
+  <p><strong>Indicateurs de performance :</strong> taux de couverture, rendement du réseau (volume facturé / volume produit), continuité du service (h/jour), qualité de l'eau (conformité bactériologique).</p>
+  <p><strong>CLUES</strong> (Community-Led Urban Environmental Sanitation) : approche de planification participative de l'assainissement urbain. <strong>pS-Eau</strong> : programme Solidarité Eau, ONG française d'appui aux PED.</p>
+`)}
+${ac('📐 8. Exercices types — AEP et Assainissement',`
+  <p><strong>Type 1 — Dimensionnement réservoir :</strong> V = k × Cj où k = 0,5 à 1 (selon mode de pompage), Cj = consommation journalière (L/j/hab × nb habitants).</p>
+  <p><strong>Type 2 — Population projetée :</strong> Pn = P₀(1+α)ⁿ. Exemple : P₀=5000 hab, α=3%/an, n=15 ans → P₁₅ ≈ 5000×1,56 = 7800 hab.</p>
+  <p><strong>Type 3 — Charge polluante :</strong> Charge (kg/j) = Concentration (mg/L) × Débit (m³/j) × 10⁻³. Exemple : DBO5=300 mg/L, Q=500 m³/j → Charge = 150 kg DBO5/j → 150/0,06 = 2500 EH.</p>
+  <p><strong>Type 4 — Rendement épuratoire :</strong> η = (Cₑ - Cₛ)/Cₑ × 100. Si DBO5 entrée=300 mg/L, sortie=30 mg/L → η = 90%.</p>
+  <p><strong>Type 5 — Temps de séjour :</strong> Ts = V/Q. Bassin V=1000 m³, Q=500 m³/j → Ts=2 jours. Important pour le dimensionnement du lagunage (20-60 jours).</p>
+  <p><strong>Type 6 — Taux de couverture :</strong> T = Pop desservie / Pop totale × 100. Si 6000 hab desservis sur 10000 → T=60%.</p>
+`)}`;
+}
+
+function exosUE09(){return `<h2>📐 Exercices corrigés — UE09</h2>
+${a('📝 Ex 1 — Population projetée','<p><strong>Énoncé :</strong> Ville de 5000 hab, taux de croissance 3%/an. Calculer la population à 15 ans pour dimensionner le réseau.</p><div class="formula-card"><div class="formula-name">✅ Solution</div><div class="formula-math">P₁₅ = P₀(1+α)ⁿ = 5000×(1,03)¹⁵<br>P₁₅ = 5000×1,558 = <strong>7 790 habitants</strong></div></div>')}
+${a('📝 Ex 2 — Capacité du réservoir','<p><strong>Énoncé :</strong> Population 8000 hab, conso 40 L/hab/j. Calculer la capacité du réservoir (k=0,8).</p><div class="formula-card"><div class="formula-name">✅ Solution</div><div class="formula-math">Cj = 8000×40 = 320 000 L = 320 m³/j<br>V = 0,8×320 = <strong>256 m³</strong> (arrondi à 250 ou 300 m³)</div></div>')}
+${a('📝 Ex 3 — Charge polluante et EH','<p><strong>Énoncé :</strong> Station traite 1000 m³/j, DBO5 entrée = 350 mg/L. Calculer la charge en kg/j et le nombre d\'EH.</p><div class="formula-card"><div class="formula-name">✅ Solution</div><div class="formula-math">Charge = 350×1000×10⁻³ = <strong>350 kg DBO5/j</strong><br>EH = 350/0,060 = <strong>5 833 EH</strong></div></div>')}
+${a('📝 Ex 4 — Rendement épuratoire','<p><strong>Énoncé :</strong> DBO5 entrée=400 mg/L, sortie=25 mg/L. Calculer le rendement et vérifier la norme de rejet (30 mg/L).</p><div class="formula-card"><div class="formula-name">✅ Solution</div><div class="formula-math">η = (400-25)/400×100 = <strong>93,75%</strong><br>25 < 30 mg/L → <strong>conforme ✓</strong></div></div>')}
+${a('📝 Ex 5 — Temps de séjour lagune','<p><strong>Énoncé :</strong> Lagune de 5000 m³, débit entrant 200 m³/j. Calculer le temps de séjour. Est-il suffisant (norme 20-60 jours) ?</p><div class="formula-card"><div class="formula-name">✅ Solution</div><div class="formula-math">Ts = 5000/200 = <strong>25 jours</strong><br>20 < 25 < 60 → <strong>temps de séjour acceptable ✓</strong></div></div>')}
+${a('📝 Ex 6 — Taux de couverture','<p><strong>Énoncé :</strong> Commune de 15000 hab, 9000 raccordés au réseau. Calculer le taux de couverture AEP.</p><div class="formula-card"><div class="formula-name">✅ Solution</div><div class="formula-math">T = 9000/15000×100 = <strong>60%</strong><br>Objectif ODD6 : atteindre 100% d\'ici 2030.</div></div>')}
+`;}
+
 function ac(title,body){return`<div class="accordion open"><div class="accordion-header" onclick="toggleAccordion(this)">${title}</div><div class="accordion-body">${body}</div></div>`;}
 const a = ac; // backward compat
 
@@ -602,6 +683,7 @@ function renderJuridique(container){container.innerHTML=`<h2>⚖️ Aspects Juri
 function renderExercices(container){
   if(currentUE==='ue06')container.innerHTML=`<h2>📐 Exercices — UE06</h2>${a('Ex 1 — Carbone','<div class="formula-card"><div class="formula-math">CO₂=20L×3,5=<strong>70 kg</strong></div></div>')}${a('Ex 2 — Projection','<div class="formula-card"><div class="formula-math">P₀=1200 MW; P₁₀=1955 MW</div></div>')}${a('Ex 3 — Indicateurs','<div class="formula-card"><div class="formula-math">IE=0,36; C/hab=0,28</div></div>')}`;
   else if(currentUE==='ue07')container.innerHTML=`<h2>📐 Exercices — UE07</h2>${a('Ex 1 — Déchets','<p>✅ <strong>Dangereux:</strong> amiante, plomb<br>✅ <strong>Non dangereux:</strong> gravats, bois</p>')}${a('Ex 2 — Technique','<p>✅ Manuelle/mécanique en zone dense</p>')}`;
+  else if(currentUE==='ue09') container.innerHTML=exosUE09();
   else container.innerHTML=exosUE08();
 }
 
